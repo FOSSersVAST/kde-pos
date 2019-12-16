@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-16 02:30+0100\n"
-"PO-Revision-Date: 2019-11-30 12:23+0000\n"
-"Last-Translator: Abraham Raji <abrahamraji99@gmail.com>\n"
+"PO-Revision-Date: 2019-12-18 11:49+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -113,10 +113,10 @@ msgid "Go back"
 msgstr "പുറകോട്ട്"
 
 #: dolphinmainwindow.cpp:341
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:whatsthis go back"
 msgid "Return to the previously viewed folder."
-msgstr "മുമ്പ് കണ്ട ഫോൾഡറിലേക്ക് മടങ്ങുക."
+msgstr "മുമ്പ് കണ്ട അറയിലേക്ക് മടങ്ങുക."
 
 #: dolphinmainwindow.cpp:347
 #, kde-format
@@ -146,12 +146,12 @@ msgstr "ഉറപ്പ്"
 #, kde-format
 msgctxt "@action:button 'Quit Dolphin' button"
 msgid "&Quit %1"
-msgstr "%1 &നിര്‍ത്തൂ"
+msgstr "%1 നിര്‍ത്തൂ (&Q)"
 
 #: dolphinmainwindow.cpp:493
 #, kde-format
 msgid "C&lose Current Tab"
-msgstr "ഈ കിളിവാതില്‍ &അടയ്ക്കുക"
+msgstr "ഈ കിളിവാതില്‍ അടയ്ക്കുക (&L)"
 
 #: dolphinmainwindow.cpp:502
 #, kde-format
@@ -167,7 +167,7 @@ msgstr "ഇനി ചോദിക്കരുത്"
 #: dolphinmainwindow.cpp:544
 #, kde-format
 msgid "Show &Terminal Panel"
-msgstr "&ടെര്‍മിനല്‍ പാനല്‍ കാണികുക"
+msgstr "ടെര്‍മിനല്‍ പാനല്‍ കാണികുക (&T)"
 
 #: dolphinmainwindow.cpp:554
 #, kde-format
@@ -195,7 +195,7 @@ msgstr "കൂടുതൽ തെരച്ചില്‍ ഉപകരണങ്�
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "New &Window"
-msgstr "പുതിയ &ജാലകം"
+msgstr "പുതിയ ജാലകം (&W)"
 
 #: dolphinmainwindow.cpp:1302
 #, fuzzy, kde-format
@@ -210,6 +210,8 @@ msgid ""
 "This opens a new window just like this one with the current location and "
 "view.<nl/>You can drag and drop items between windows."
 msgstr ""
+"നിലവിലെ സ്ഥാനവും കാഴ്‌ചയും ഉള്ളതുപോലെയുള്ള ഒരു പുതിയ ജാലകം ഇത് തുറക്കുന്നു. <"
+"nl/> ജാലകങ്ങൾക്കിടയിൽ ഇനങ്ങൾ‌ വലിച്ചിടാൻ‌ നിങ്ങൾ‌ക്ക് കഴിയും."
 
 #: dolphinmainwindow.cpp:1310
 #, kde-format
@@ -225,6 +227,9 @@ msgid ""
 "<nl/>A tab is an additional view within this window. You can drag and drop "
 "items between tabs."
 msgstr ""
+"ഇത് നിലവിലെ സ്ഥാനവും കാഴ്ചയും ഉള്ള ഒരു പുതിയ <emphasis> ടാബ്</emphasis>  "
+"തുറക്കുന്നു. <nl/> ഈ ജാലകത്തിലെ ഒരു അധിക കാഴ്‌ചയാണ് ടാബ്. ടാബുകൾക്കിടയിൽ "
+"നിങ്ങൾക്ക് ഇനങ്ങൾ വലിച്ചിടാൻ കഴിയും."
 
 #: dolphinmainwindow.cpp:1320
 #, kde-kuit-format
@@ -264,6 +269,12 @@ msgid ""
 "next to each other on the keyboard: <shortcut>Ctrl+X</shortcut>, "
 "<shortcut>Ctrl+C</shortcut> and <shortcut>Ctrl+V</shortcut>.</para>"
 msgstr ""
+"<para><emphasis>മുറിക്കുക, പകർത്തുക</emphasis> പിന്നെ "
+"<emphasis>പതിയ്ക്കുക</emphasis> നിരവധി പ്രയോഗങ്ങൾക്കിടയിൽ പ്രവർത്തിക്കുകയും "
+"ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്ന ആജ്ഞകളിൽ ഒന്നാണ്. അതുകൊണ്ടാണ് അവരുടെ "
+"<emphasis>കീബോർഡ് കുറുക്കുവഴികൾ</emphasis> പ്രധാനമായും കീബോർഡിൽ പരസ്പരം "
+"സ്ഥാപിച്ചിരിക്കുന്നത്: <shortcut>Ctrl+X</shortcut>, "
+"<shortcut>Ctrl+C</shortcut> and <shortcut>Ctrl+V</shortcut>.</para>"
 
 #: dolphinmainwindow.cpp:1347
 #, kde-kuit-format
@@ -274,6 +285,10 @@ msgid ""
 "them from the clipboard to a new location. The items will be removed from "
 "their initial location."
 msgstr ""
+"ഇത് നിങ്ങളുടെ നിലവില്‍ തിരഞ്ഞെടുത്ത ഇനങ്ങൾ <emphasis> ഓര്‍മ്മചെപ്പിലേക്ക്  "
+"പകർത്തുന്നു</emphasis>. <emphasis>പകർത്തുക</emphasis> എന്ന നടപടി ഉപയോഗിച്ച് "
+"ഇത് പുതിയ സ്ഥാനത്തേക്ക് ഉൾപ്പെടുത്താവുന്നതാണ്. ശേഷം ഇനങ്ങളെ പ്രാരംഭ സ്ഥാനത്ത്"
+" നിന്ന് നീക്കംചെയ്യും."
 
 #: dolphinmainwindow.cpp:1353
 #, kde-kuit-format
@@ -283,6 +298,10 @@ msgid ""
 "emphasis>.<nl/>Use the <emphasis>Paste</emphasis> action afterwards to copy "
 "them from the clipboard to a new location."
 msgstr ""
+"ഇത് നിങ്ങള്‍ നിലവില്‍ തിരഞ്ഞെടുത്ത ഇനങ്ങൾ "
+"<emphasis>ഓര്‍മ്മചെപ്പിലേക്ക്</emphasis> പകർത്തുന്നു. "
+"<emphasis>പകർത്തുക</emphasis> എന്ന നടപടി ഉപയോഗിച്ച് ഇത് പുതിയ സ്ഥാനത്തേക്ക് "
+"പകര്‍ത്താവുന്നതാണ്."
 
 #: dolphinmainwindow.cpp:1361
 #, kde-format
@@ -487,7 +506,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open Terminal"
-msgstr "&ടെര്‍മിനല്‍ തുറക്കുക"
+msgstr "ടെര്‍മിനല്‍ തുറക്കുക"
 
 #: dolphinmainwindow.cpp:1552
 #, kde-kuit-format
@@ -499,11 +518,10 @@ msgid ""
 msgstr ""
 
 #: dolphinmainwindow.cpp:1559 dolphinmainwindow.cpp:2319
-#, fuzzy, kde-format
-#| msgid "Show &Terminal Panel"
+#, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Focus Terminal Panel"
-msgstr "&ടെര്‍മിനല്‍ പാനല്‍ കാണികുക"
+msgstr "ടെര്‍മിനല്‍ പാനല്‍ കാണികുക"
 
 #: dolphinmainwindow.cpp:1567
 #, kde-format
@@ -1015,7 +1033,7 @@ msgstr ""
 #| msgid "Show &Terminal Panel"
 msgctxt "@action:inmenu Tools"
 msgid "Defocus Terminal Panel"
-msgstr "&ടെര്‍മിനല്‍ പാനല്‍ കാണികുക"
+msgstr "ടെര്‍മിനല്‍ പാനല്‍ കാണികുക"
 
 #: dolphinpart.cpp:172
 #, kde-format
@@ -1045,19 +1063,19 @@ msgstr "തെരഞ്ഞെടുത്തതെല്ലാം മാറ്�
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "App&lications"
-msgstr "പ്രയോ&ഗങ്ങള്‍"
+msgstr "പ്രയോഗങ്ങള്‍ (&L)"
 
 #: dolphinpart.cpp:207
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "&Network Folders"
-msgstr "ശൃംഖലയിലെ അറകള്‍"
+msgstr "ശൃംഖലയിലെ അറകള്‍ (&N)"
 
 #: dolphinpart.cpp:210
 #, kde-format
 msgctxt "@action:inmenu Go"
 msgid "Sett&ings"
-msgstr "സജ്ജീ&കരണങ്ങള്‍"
+msgstr "സജ്ജീകരണങ്ങള്‍ (&I)"
 
 #: dolphinpart.cpp:213
 #, kde-format
@@ -1081,7 +1099,7 @@ msgstr "ഫയല്‍ തെരയുക..."
 #, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open &Terminal"
-msgstr "&ടെര്‍മിനല്‍ തുറക്കുക"
+msgstr "ടെര്‍മിനല്‍ തുറക്കുക (&T)"
 
 #: dolphinpart.cpp:297
 #, kde-format
