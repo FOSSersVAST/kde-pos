@@ -1,26 +1,28 @@
+# VIVEK K J <vivekkj2004@gmail.com>, 2019.
+# Subin Siby <mail@subinsb.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.kfind.appdata\n"
 "POT-Creation-Date: 2018-11-08 03:42+0100\n"
-"PO-Revision-Date: 2018-11-08 03:42+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-12-19 19:34+0530\n"
+"Last-Translator: Subin Siby <mail@subinsb.com>\n"
+"Language-Team: Malayalam <kde-i18n-doc@kde.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.0\n"
 
 #. (itstool) path: component/name
 #: org.kde.kfind.appdata.xml:6
 msgid "KFind"
-msgstr ""
+msgstr "കെഫൈൻഡ്"
 
 #. (itstool) path: component/summary
 #: org.kde.kfind.appdata.xml:7
 msgid "Find Files/Folders"
-msgstr ""
+msgstr "ഫയലുകൾ/അറകൾ തിരയുക"
 
 #. (itstool) path: description/p
 #: org.kde.kfind.appdata.xml:9
@@ -29,8 +31,12 @@ msgid ""
 "your menu. It is also integrated into Konqueror as \"Find File\" in the "
 "\"Tools\" menu. It allows you to find files by name, type or content."
 msgstr ""
+"കെഫൈൻഡ് സ്വയം പ്രവർത്തിക്കുന്ന ഒരു തിരച്ചിൽ ഉപകരണമായി ഉപയോഗിക്കാം. ഇത് KRunner മുഖേനയും "
+"അല്ലെങ്കിൽ മെനുവിൽ നിന്നോ തുറക്കാവുന്നതാണ്. ഇത് Konqueror സോഫ്റ്റ്‍വെയറിലെ ഉപകരണ മെനുവിലെ "
+"ഫയൽ തിരയുക എന്നതിലും ലഭ്യമാക്കിയിട്ടുണ്ട്. ഇത് ഫയലിന്റെ പേര് ഉപയോഗിച്ചോ അല്ലെങ്കിൽ ഉള്ളടക്കം "
+"ഉപയോഗിച്ചോ ഫയൽ കണ്ടുപിടിക്കാൻ സഹായിക്കുന്നു."
 
 #. (itstool) path: screenshot/caption
 #: org.kde.kfind.appdata.xml:19
 msgid "KFind main window"
-msgstr ""
+msgstr "കെഫൈൻഡ് പ്രധാന ജാലകം"
