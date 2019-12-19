@@ -1,26 +1,28 @@
+# VIVEK K J <vivekkj2004@gmail.com>, 2019.
+# Subin Siby <mail@subinsb.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.konsole.appdata\n"
 "POT-Creation-Date: 2019-05-25 02:39+0200\n"
-"PO-Revision-Date: 2018-11-08 03:43+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-12-19 19:39+0530\n"
+"Last-Translator: Subin Siby <mail@subinsb.com>\n"
+"Language-Team: English <kde-i18n-doc@kde.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.0\n"
 
 #. (itstool) path: component/name
 #: org.kde.konsole.appdata.xml:6
 msgid "Konsole"
-msgstr ""
+msgstr "കൺസോൾ"
 
 #. (itstool) path: component/summary
 #: org.kde.konsole.appdata.xml:7
 msgid "Terminal"
-msgstr ""
+msgstr "ടെർമിനൽ"
 
 #. (itstool) path: description/p
 #: org.kde.konsole.appdata.xml:9
@@ -28,43 +30,45 @@ msgid ""
 "Konsole is a terminal to run a command shell. It provides a command line "
 "interface for directly controlling your computer."
 msgstr ""
+"കൺസോൾ എന്നത് ആജ്ഞ ഷെൽ റൺ ചെയ്യുന്നതിനുള്ള ഒരു ടെർമിനലാണ്. ഇത് കമ്പ്യൂട്ടറിനെ നേരിട്ട് "
+"നിയന്ത്രിക്കുന്നതിനുള്ള ഒരു ആജ്ഞാസ്ഥാനം നല്‍കുന്നു."
 
 #. (itstool) path: description/p
 #: org.kde.konsole.appdata.xml:10
 msgid "Features:"
-msgstr ""
+msgstr "വിശേഷതകൾ:"
 
 #. (itstool) path: ul/li
 #: org.kde.konsole.appdata.xml:12
 msgid "Tabs"
-msgstr ""
+msgstr "ടാബുകൾ"
 
 #. (itstool) path: ul/li
 #: org.kde.konsole.appdata.xml:13
 msgid "Multiple profiles"
-msgstr ""
+msgstr "അനേക രൂപങ്ങൾ"
 
 #. (itstool) path: ul/li
 #: org.kde.konsole.appdata.xml:14
 msgid "Silence and Activity monitoring"
-msgstr ""
+msgstr "നിശ്ശബ്ദതയും പ്രവൃത്തി നിരീക്ഷണവും"
 
 #. (itstool) path: ul/li
 #: org.kde.konsole.appdata.xml:15
 msgid "Bookmark support"
-msgstr ""
+msgstr "ഓര്‍മ്മക്കുറിപ്പു് സംവിദാനം"
 
 #. (itstool) path: ul/li
 #: org.kde.konsole.appdata.xml:16
 msgid "Searching"
-msgstr ""
+msgstr "തിരയൽ"
 
 #. (itstool) path: ul/li
 #: org.kde.konsole.appdata.xml:17
 msgid "Saving output"
-msgstr ""
+msgstr "ഫലം സൂക്ഷിക്കുക"
 
 #. (itstool) path: screenshot/caption
 #: org.kde.konsole.appdata.xml:27
 msgid "Konsole being used as a terminal emulator"
-msgstr ""
+msgstr "കൺസോൾ നിലവിൽ ടെർമിനൽ അനുകരിക്കുന്നതിനായി ഉപയോഗിക്കുന്നു"
