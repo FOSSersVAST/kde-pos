@@ -4,22 +4,22 @@ msgstr ""
 "Project-Id-Version: org.kde.kwrite.appdata\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-17 03:40+0100\n"
-"PO-Revision-Date: 2019-12-20 00:58+0530\n"
-"Last-Translator: Subin Siby <mail@subinsb.com>\n"
+"PO-Revision-Date: 2019-12-20 11:16+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <kde-i18n-doc@kde.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 "X-Loco-Source-Locale: en_IN\n"
 "X-Loco-Parser: loco_parse_po\n"
-"X-Generator: Lokalize 19.12.0\n"
 
 #. (itstool) path: component/name
 #: org.kde.kwrite.appdata.xml:6
 msgid "KWrite"
-msgstr "KWrite"
+msgstr "കെഎഴുത്ത്"
 
 #. (itstool) path: component/summary
 #: org.kde.kwrite.appdata.xml:7
@@ -34,12 +34,12 @@ msgstr "KWrite എന്നത് KDE യുടെ  Kate നെ അടിസ്�
 #. (itstool) path: description/p
 #: org.kde.kwrite.appdata.xml:12
 msgid "Features:"
-msgstr "സവിശേഷതകൾ:"
+msgstr "വിശേഷതകൾ:"
 
 #. (itstool) path: ul/li
 #: org.kde.kwrite.appdata.xml:14
 msgid "Syntax highlighting according to the file type"
-msgstr "ഫയൽ രീതി അനുസരിച്ച് പദവിന്യാസം പ്രമുഖമാണ്. "
+msgstr "ഫയൽ രീതി അനുസരിച്ച് പദവിന്യാസം പ്രമുഖമാണ്"
 
 #. (itstool) path: ul/li
 #: org.kde.kwrite.appdata.xml:15
