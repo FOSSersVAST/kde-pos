@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-16 02:30+0100\n"
-"PO-Revision-Date: 2019-12-18 11:49+0000\n"
+"PO-Revision-Date: 2019-12-21 14:29+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -177,16 +177,16 @@ msgid ""
 msgstr "'%1' ടെര്‍മിനല്‍ പാനലില്‍ പ്രവർത്തിക്കുന്നു. ജാലകം അടക്കണമെന്നുറപ്പാണോ?"
 
 #: dolphinmainwindow.cpp:1000
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open %1"
-msgstr "പാത തുറക്കൂ"
+msgstr "തുറക്കൂ %1"
 
 #: dolphinmainwindow.cpp:1005 dolphinmainwindow.cpp:1539
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:inmenu Tools"
 msgid "Open Preferred Search Tool"
-msgstr "കൂടുതൽ തെരച്ചില്‍ ഉപകരണങ്ങള്‍"
+msgstr "മുൻഗണന തിരച്ചില്‍ ഉപകരണം തുറക്കുക"
 
 #: dolphinmainwindow.cpp:1301
 #, kde-format
@@ -195,10 +195,10 @@ msgid "New &Window"
 msgstr "പുതിയ ജാലകം (&W)"
 
 #: dolphinmainwindow.cpp:1302
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info"
 msgid "Open a new Dolphin window"
-msgstr "പുതിയ ജാലകത്തില്‍ തുറക്കുക"
+msgstr "പുതിയ ‍ഡോൾഫിൻ ജാലകം തുറക്കുക"
 
 #: dolphinmainwindow.cpp:1303
 #, kde-kuit-format
@@ -313,15 +313,15 @@ msgid ""
 msgstr ""
 
 #: dolphinmainwindow.cpp:1368 search/dolphinsearchbox.cpp:352
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search..."
-msgstr "തെരയുക..."
+msgstr "തിരയുക..."
 
 #: dolphinmainwindow.cpp:1369
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@info:tooltip"
 msgid "Search for files and folders"
-msgstr "അറകളുടേയും ഫയലുകളുടേയും തിരനോട്ടങ്ങള്‍ കാണിക്കുക"
+msgstr "അറകളും ഫയലുകളും തിരയുക"
 
 #: dolphinmainwindow.cpp:1370
 #, kde-kuit-format
@@ -337,10 +337,10 @@ msgstr ""
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Toggle Search Bar"
-msgstr "തെരച്ചില്‍പട്ട കാണിയ്ക്കുക"
+msgstr "തിരച്ചില്‍പട്ട കാണിയ്ക്കുക"
 
 #: dolphinmainwindow.cpp:1382
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:intoolbar"
 msgid "Search"
 msgstr "തിരയുക"
@@ -349,7 +349,7 @@ msgstr "തിരയുക"
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid "This selects all files and folders in the current location."
-msgstr ""
+msgstr "ഇത് ഇപ്പോഴത്തെ സ്ഥലത്തുള്ള എല്ലാ ഫയലുകളും അറകളും തെരഞ്ഞെടുക്കുന്നു."
 
 #: dolphinmainwindow.cpp:1393 dolphinpart.cpp:191
 #, kde-format
@@ -402,7 +402,7 @@ msgstr "ലോഡിങ്ങ് നിര്‍ത്തുക"
 #, kde-format
 msgctxt "@info"
 msgid "This stops the loading of the contents of the current folder."
-msgstr ""
+msgstr "ഇത് ഇപ്പോഴത്തെ അറയിലെ ഉള്ളടക്കം ലോഡ് ആകുന്നത് തടയുന്നു."
 
 #: dolphinmainwindow.cpp:1430
 #, kde-format
