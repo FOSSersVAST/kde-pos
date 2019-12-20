@@ -178,15 +178,12 @@ msgstr "'%1' ടെര്‍മിനല്‍ പാനലില്‍ പ്�
 
 #: dolphinmainwindow.cpp:1000
 #, fuzzy, kde-format
-#| msgctxt "@action:inmenu"
-#| msgid "Open Path"
 msgctxt "@action:inmenu Tools"
 msgid "Open %1"
 msgstr "പാത തുറക്കൂ"
 
 #: dolphinmainwindow.cpp:1005 dolphinmainwindow.cpp:1539
 #, fuzzy, kde-format
-#| msgid "More Search Tools"
 msgctxt "@action:inmenu Tools"
 msgid "Open Preferred Search Tool"
 msgstr "കൂടുതൽ തെരച്ചില്‍ ഉപകരണങ്ങള്‍"
@@ -210,8 +207,8 @@ msgid ""
 "This opens a new window just like this one with the current location and "
 "view.<nl/>You can drag and drop items between windows."
 msgstr ""
-"നിലവിലെ സ്ഥാനവും കാഴ്‌ചയും ഉള്ളതുപോലെയുള്ള ഒരു പുതിയ ജാലകം ഇത് തുറക്കുന്നു. <"
-"nl/> ജാലകങ്ങൾക്കിടയിൽ ഇനങ്ങൾ‌ വലിച്ചിടാൻ‌ നിങ്ങൾ‌ക്ക് കഴിയും."
+"നിലവിലെ സ്ഥാനവും കാഴ്‌ചയും ഉള്ളതുപോലെയുള്ള ഒരു പുതിയ ജാലകം ഇത് തുറക്കുന്നു. <nl/> "
+"ജാലകങ്ങൾക്കിടയിൽ ഇനങ്ങൾ‌ വലിച്ചിടാൻ‌ നിങ്ങൾ‌ക്ക് കഴിയും."
 
 #: dolphinmainwindow.cpp:1310
 #, kde-format
@@ -227,9 +224,9 @@ msgid ""
 "<nl/>A tab is an additional view within this window. You can drag and drop "
 "items between tabs."
 msgstr ""
-"ഇത് നിലവിലെ സ്ഥാനവും കാഴ്ചയും ഉള്ള ഒരു പുതിയ <emphasis> ടാബ്</emphasis>  "
-"തുറക്കുന്നു. <nl/> ഈ ജാലകത്തിലെ ഒരു അധിക കാഴ്‌ചയാണ് ടാബ്. ടാബുകൾക്കിടയിൽ "
-"നിങ്ങൾക്ക് ഇനങ്ങൾ വലിച്ചിടാൻ കഴിയും."
+"ഇത് നിലവിലെ സ്ഥാനവും കാഴ്ചയും ഉള്ള ഒരു പുതിയ <emphasis> ടാബ്</emphasis>  തുറക്കുന്നു. <nl/"
+"> ഈ ജാലകത്തിലെ ഒരു അധിക കാഴ്‌ചയാണ് ടാബ്. ടാബുകൾക്കിടയിൽ നിങ്ങൾക്ക് ഇനങ്ങൾ വലിച്ചിടാൻ "
+"കഴിയും."
 
 #: dolphinmainwindow.cpp:1320
 #, kde-kuit-format
@@ -269,12 +266,11 @@ msgid ""
 "next to each other on the keyboard: <shortcut>Ctrl+X</shortcut>, "
 "<shortcut>Ctrl+C</shortcut> and <shortcut>Ctrl+V</shortcut>.</para>"
 msgstr ""
-"<para><emphasis>മുറിക്കുക, പകർത്തുക</emphasis> പിന്നെ "
-"<emphasis>പതിയ്ക്കുക</emphasis> നിരവധി പ്രയോഗങ്ങൾക്കിടയിൽ പ്രവർത്തിക്കുകയും "
-"ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്ന ആജ്ഞകളിൽ ഒന്നാണ്. അതുകൊണ്ടാണ് അവരുടെ "
-"<emphasis>കീബോർഡ് കുറുക്കുവഴികൾ</emphasis> പ്രധാനമായും കീബോർഡിൽ പരസ്പരം "
-"സ്ഥാപിച്ചിരിക്കുന്നത്: <shortcut>Ctrl+X</shortcut>, "
-"<shortcut>Ctrl+C</shortcut> and <shortcut>Ctrl+V</shortcut>.</para>"
+"<para><emphasis>മുറിക്കുക, പകർത്തുക</emphasis> പിന്നെ <emphasis>പതിയ്ക്കുക</emphasis> "
+"നിരവധി പ്രയോഗങ്ങൾക്കിടയിൽ പ്രവർത്തിക്കുകയും ഏറ്റവും കൂടുതൽ ഉപയോഗിക്കുന്ന ആജ്ഞകളിൽ ഒന്നാണ്. "
+"അതുകൊണ്ടാണ് അവരുടെ <emphasis>കീബോർഡ് കുറുക്കുവഴികൾ</emphasis> പ്രധാനമായും കീബോർഡിൽ "
+"പരസ്പരം സ്ഥാപിച്ചിരിക്കുന്നത്: <shortcut>Ctrl+X</shortcut>, <shortcut>Ctrl+C</"
+"shortcut> and <shortcut>Ctrl+V</shortcut>.</para>"
 
 #: dolphinmainwindow.cpp:1347
 #, kde-kuit-format
@@ -285,10 +281,9 @@ msgid ""
 "them from the clipboard to a new location. The items will be removed from "
 "their initial location."
 msgstr ""
-"ഇത് നിങ്ങളുടെ നിലവില്‍ തിരഞ്ഞെടുത്ത ഇനങ്ങൾ <emphasis> ഓര്‍മ്മചെപ്പിലേക്ക്  "
-"പകർത്തുന്നു</emphasis>. <emphasis>പകർത്തുക</emphasis> എന്ന നടപടി ഉപയോഗിച്ച് "
-"ഇത് പുതിയ സ്ഥാനത്തേക്ക് ഉൾപ്പെടുത്താവുന്നതാണ്. ശേഷം ഇനങ്ങളെ പ്രാരംഭ സ്ഥാനത്ത്"
-" നിന്ന് നീക്കംചെയ്യും."
+"ഇത് നിങ്ങളുടെ നിലവില്‍ തിരഞ്ഞെടുത്ത ഇനങ്ങൾ <emphasis> ഓര്‍മ്മചെപ്പിലേക്ക്  പകർത്തുന്നു</"
+"emphasis>. <emphasis>പകർത്തുക</emphasis> എന്ന നടപടി ഉപയോഗിച്ച് ഇത് പുതിയ സ്ഥാനത്തേക്ക് "
+"ഉൾപ്പെടുത്താവുന്നതാണ്. ശേഷം ഇനങ്ങളെ പ്രാരംഭ സ്ഥാനത്ത് നിന്ന് നീക്കംചെയ്യും."
 
 #: dolphinmainwindow.cpp:1353
 #, kde-kuit-format
@@ -298,10 +293,9 @@ msgid ""
 "emphasis>.<nl/>Use the <emphasis>Paste</emphasis> action afterwards to copy "
 "them from the clipboard to a new location."
 msgstr ""
-"ഇത് നിങ്ങള്‍ നിലവില്‍ തിരഞ്ഞെടുത്ത ഇനങ്ങൾ "
-"<emphasis>ഓര്‍മ്മചെപ്പിലേക്ക്</emphasis> പകർത്തുന്നു. "
-"<emphasis>പകർത്തുക</emphasis> എന്ന നടപടി ഉപയോഗിച്ച് ഇത് പുതിയ സ്ഥാനത്തേക്ക് "
-"പകര്‍ത്താവുന്നതാണ്."
+"ഇത് നിങ്ങള്‍ നിലവില്‍ തിരഞ്ഞെടുത്ത ഇനങ്ങൾ <emphasis>ഓര്‍മ്മചെപ്പിലേക്ക്</emphasis> പകർത്തുന്നു. "
+"<emphasis>പകർത്തുക</emphasis> എന്ന നടപടി ഉപയോഗിച്ച് ഇത് പുതിയ സ്ഥാനത്തേക്ക് പകര്‍"
+"ത്താവുന്നതാണ്."
 
 #: dolphinmainwindow.cpp:1361
 #, kde-format
@@ -789,8 +783,6 @@ msgstr ""
 
 #: dolphinmainwindow.cpp:1968
 #, fuzzy, kde-format
-#| msgctxt "@action"
-#| msgid "Control"
 msgctxt "@action:intoolbar"
 msgid "Control"
 msgstr "നിയന്ത്രണം"
@@ -1030,7 +1022,6 @@ msgstr ""
 
 #: dolphinmainwindow.cpp:2322 dolphinmainwindow.cpp:2326
 #, fuzzy, kde-format
-#| msgid "Show &Terminal Panel"
 msgctxt "@action:inmenu Tools"
 msgid "Defocus Terminal Panel"
 msgstr "ടെര്‍മിനല്‍ പാനല്‍ കാണികുക"
@@ -2287,96 +2278,72 @@ msgstr "എന്ത്"
 
 #: search/dolphinfacetswidget.cpp:41
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Sort"
-#| msgid "By Type"
 msgctxt "@item:inlistbox"
 msgid "Any Type"
 msgstr "തരം"
 
 #: search/dolphinfacetswidget.cpp:42
 #, fuzzy, kde-format
-#| msgctxt "@title:window"
-#| msgid "Folders"
 msgctxt "@item:inlistbox"
 msgid "Folders"
 msgstr "അറകള്‍"
 
 #: search/dolphinfacetswidget.cpp:43
 #, fuzzy, kde-format
-#| msgctxt "@option:check"
-#| msgid "Documents"
 msgctxt "@item:inlistbox"
 msgid "Documents"
 msgstr "വിവരണം"
 
 #: search/dolphinfacetswidget.cpp:44
 #, fuzzy, kde-format
-#| msgctxt "@option:check"
-#| msgid "Images"
 msgctxt "@item:inlistbox"
 msgid "Images"
 msgstr "ചിത്രങ്ങള്‍"
 
 #: search/dolphinfacetswidget.cpp:45
 #, fuzzy, kde-format
-#| msgctxt "@option:check"
-#| msgid "Audio Files"
 msgctxt "@item:inlistbox"
 msgid "Audio Files"
 msgstr "ശബ്ദ ഫയലുകള്‍"
 
 #: search/dolphinfacetswidget.cpp:46
 #, fuzzy, kde-format
-#| msgctxt "@option:check"
-#| msgid "Videos"
 msgctxt "@item:inlistbox"
 msgid "Videos"
 msgstr "വീഡിയോകള്‍"
 
 #: search/dolphinfacetswidget.cpp:52
 #, fuzzy, kde-format
-#| msgctxt "@item:inlistbox Sort"
-#| msgid "By Date"
 msgctxt "@item:inlistbox"
 msgid "Any Date"
 msgstr "തിയ്യതി"
 
 #: search/dolphinfacetswidget.cpp:53
 #, fuzzy, kde-format
-#| msgctxt "@title:group Date"
-#| msgid "Today"
 msgctxt "@item:inlistbox"
 msgid "Today"
 msgstr "ഇന്നു്"
 
 #: search/dolphinfacetswidget.cpp:54
 #, fuzzy, kde-format
-#| msgctxt "@title:group Date"
-#| msgid "Yesterday"
 msgctxt "@item:inlistbox"
 msgid "Yesterday"
 msgstr "ഇന്നലെ"
 
 #: search/dolphinfacetswidget.cpp:55
 #, fuzzy, kde-format
-#| msgctxt "@option:option"
-#| msgid "This Week"
 msgctxt "@item:inlistbox"
 msgid "This Week"
 msgstr "ഈ ആഴ്ച്ച"
 
 #: search/dolphinfacetswidget.cpp:56
 #, fuzzy, kde-format
-#| msgctxt "@option:option"
-#| msgid "This Month"
 msgctxt "@item:inlistbox"
 msgid "This Month"
 msgstr "ഈ മാസം"
 
 #: search/dolphinfacetswidget.cpp:57
 #, fuzzy, kde-format
-#| msgctxt "@option:option"
-#| msgid "This Year"
 msgctxt "@item:inlistbox"
 msgid "This Year"
 msgstr "ഈ വര്‍ഷം"
@@ -2389,40 +2356,30 @@ msgstr "നിലവാരം"
 
 #: search/dolphinfacetswidget.cpp:62
 #, fuzzy, kde-format
-#| msgctxt "@option:option"
-#| msgid "1 or more"
 msgctxt "@item:inlistbox"
 msgid "1 or more"
 msgstr "ഒന്നോ അതില്‍ കൂടുതലോ"
 
 #: search/dolphinfacetswidget.cpp:63
 #, fuzzy, kde-format
-#| msgctxt "@option:option"
-#| msgid "2 or more"
 msgctxt "@item:inlistbox"
 msgid "2 or more"
 msgstr "രണ്ടോ അതില്‍ കൂടുതലോ"
 
 #: search/dolphinfacetswidget.cpp:64
 #, fuzzy, kde-format
-#| msgctxt "@option:option"
-#| msgid "3 or more"
 msgctxt "@item:inlistbox"
 msgid "3 or more"
 msgstr "മൂന്നോ അതില്‍ കൂടുതലോ"
 
 #: search/dolphinfacetswidget.cpp:65
 #, fuzzy, kde-format
-#| msgctxt "@option:option"
-#| msgid "4 or more"
 msgctxt "@item:inlistbox"
 msgid "4 or more"
 msgstr "നാലോ അതില്‍ കൂടുതലോ"
 
 #: search/dolphinfacetswidget.cpp:66
 #, fuzzy, kde-format
-#| msgctxt "@option:option"
-#| msgid "Highest Rating"
 msgctxt "@item:inlistbox"
 msgid "Highest Rating"
 msgstr "ഉയർന്ന റേറ്റിംഗ്"
@@ -2435,8 +2392,6 @@ msgstr ""
 
 #: search/dolphinfacetswidget.cpp:260
 #, fuzzy, kde-format
-#| msgctxt "@label"
-#| msgid "Tag:"
 msgctxt "@action:button %2 is a list of tags"
 msgid "Tag: %2"
 msgid_plural "Tags: %2"
@@ -2445,8 +2400,6 @@ msgstr[1] "മുദ്ര:"
 
 #: search/dolphinfacetswidget.cpp:262
 #, fuzzy, kde-format
-#| msgctxt "@title:window"
-#| msgid "Add Tags"
 msgctxt "@action:button"
 msgid "Add Tags"
 msgstr "മുദ്രകള്‍ ചേര്‍ക്കുക"
@@ -4065,8 +4018,6 @@ msgstr ""
 
 #: views/dolphinviewactionhandler.cpp:283
 #, fuzzy, kde-format
-#| msgctxt "@action:inmenu View"
-#| msgid "Adjust View Properties..."
 msgctxt "@action:inmenu View"
 msgid "Adjust View Display Style..."
 msgstr "അവതരണരീതി സജ്ജീകരിക്കുക..."
@@ -4233,15 +4184,11 @@ msgstr "പതിപ്പിനെക്കുറിച്ചുള്ള വ�
 #~ msgstr "അറകള്‍ ആദ്യം കാണിക്കുക"
 
 #, fuzzy
-#~| msgctxt "action:button"
-#~| msgid "Fewer Options"
 #~ msgctxt "@action:button"
 #~ msgid "Fewer Options"
 #~ msgstr "കുറച്ച് ഐച്ഛികങ്ങൾ"
 
 #, fuzzy
-#~| msgctxt "action:button"
-#~| msgid "More Options"
 #~ msgctxt "@action:button"
 #~ msgid "More Options"
 #~ msgstr "കൂടുതല്‍ ഐച്ഛികങ്ങള്‍"

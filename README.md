@@ -46,8 +46,23 @@ weblate loadpo kde
       ```
   - stable-kf5
 
-## Pushing to KDE Upstream
+## Syncing with KDE Upstream
 
 NOTE: Don't make any change directly in KDE upstream branch. If doing so, make sure to update the PO file in this repo's `l10n-kf5` folder too.
 
-* Run `copy-to-upstream.sh`
+* In `upstream/l10n-kf5/ml`, do `svn update`
+* Copy files from upstream to this repo's `l10n-kf5`
+  ```bash
+  copy-from-upstream.sh
+  ```
+* Commit & push
+* Go to weblate, pull changes, commit & push
+* `git pull` here
+* Run
+  ```bash
+  copy-to-upstream.sh
+  ```
+* In upstream,
+  ```bash
+  svn commit -m 'Update malayalam'
+  ```
