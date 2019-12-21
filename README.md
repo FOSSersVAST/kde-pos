@@ -66,3 +66,11 @@ NOTE: Don't make any change directly in KDE upstream branch. If doing so, make s
   ```bash
   svn commit -m 'Update malayalam'
   ```
+
+## Searching for strings
+
+To search for a particular string, do this in upstream :
+
+```
+grep -rnw '.' --include="*.po" -e '"Open Path"'
+```
