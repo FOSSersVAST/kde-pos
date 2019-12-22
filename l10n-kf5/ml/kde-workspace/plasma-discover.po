@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-12 03:29+0100\n"
-"PO-Revision-Date: 2019-12-21 14:29+0000\n"
+"PO-Revision-Date: 2019-12-23 07:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -94,7 +94,7 @@ msgstr ""
 #: discover/main.cpp:100 discover/qml/DiscoverWindow.qml:57
 #, kde-format
 msgid "Discover"
-msgstr ""
+msgstr "ഡിസ്കവർ "
 
 #: discover/main.cpp:100
 #, kde-format
