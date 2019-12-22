@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-18 02:37+0100\n"
-"PO-Revision-Date: 2019-12-12 21:16+0000\n"
-"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"PO-Revision-Date: 2019-12-23 07:50+0000\n"
+"Last-Translator: Akshay T G <akshaytg007@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -69,7 +69,7 @@ msgstr "സഹായം"
 #: ../desktop/partui.rc:13
 #, kde-format
 msgid "S&crollback"
-msgstr "പുറകിലോട്ടു് &നീക്കുക"
+msgstr "പുറകിലോട്ടു് നീക്കുക (&C)"
 
 #: Application.cpp:62
 #, fuzzy, kde-format
