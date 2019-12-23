@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-12 03:29+0100\n"
-"PO-Revision-Date: 2019-12-23 17:46+0000\n"
+"PO-Revision-Date: 2019-12-23 17:52+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -134,11 +134,7 @@ msgstr "നിസരി കെ കെ"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
-"syamcr@gmail.com,mail@subinsb.com,aroutoftune2000@gmail.com,ncm2wr@gmail.com,"
-"thatonephysicsnerd@gmail.com,anoopms@disroot.org,kiranjohns369@gmail.com,abra"
-"hamraji99@gmail.com,mujeebcpy@gmail.com,arpapps843@gmail.com,lakshmisunil12@g"
-"mail.com,aathira1042k@gmail.com"
+msgstr "nisarikoolath@gmail.com"
 
 #: discover/main.cpp:121
 #, kde-format
