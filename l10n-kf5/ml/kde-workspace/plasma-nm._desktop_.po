@@ -3,45 +3,46 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-20 02:45+0000\n"
-"PO-Revision-Date: 2019-04-13 01:41+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2019-12-23 17:46+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: applet/metadata.desktop:2
 msgctxt "Name"
 msgid "Networks"
-msgstr ""
+msgstr "ശൃംഖലകൾ"
 
 #: applet/metadata.desktop:50
 msgctxt "Comment"
 msgid "Network status and control"
-msgstr ""
+msgstr "ശൃംഖല നിലയും നിയന്ത്രണവും"
 
 #: kcm/kcm_networkmanagement.desktop:11
 msgctxt "Name"
 msgid "Connections"
-msgstr ""
+msgstr "ബന്ധങ്ങള്‍"
 
 #: kcm/kcm_networkmanagement.desktop:54
 msgctxt "Comment"
 msgid "Edit your Network Connections"
-msgstr ""
+msgstr "നിങ്ങളുടെ നെറ്റ്‌വർക്ക് ബന്ധങ്ങള്‍ എഡിറ്റുചെയ്യുക"
 
 #: kcm/kcm_networkmanagement.desktop:96
 msgctxt "X-KDE-Keywords"
 msgid "network,wifi,ethernet,mobile,broadband,vpn,internet,traffic"
-msgstr ""
+msgstr "ശൃംഖല,വൈഫൈ,ഈതര്‍നെറ്റ്,മൊബൈൽ,ബ്രോഡ്‌ബാൻഡ്,വിപിഎൻ,ഇന്റർനെറ്റ്,ട്രാഫിക്"
 
 #: kded/networkmanagement.desktop:2
 msgctxt "Name"
 msgid "Plasma Network Management module"
-msgstr ""
+msgstr "പ്ലാസ്മ ശൃംഖല നടത്തിപ്പ്‌ മൊഡ്യൂൾ"
 
 #: kded/networkmanagement.desktop:27
 msgctxt "Comment"
@@ -51,37 +52,37 @@ msgstr ""
 #: kded/networkmanagement.notifyrc:3
 msgctxt "Name"
 msgid "Network management"
-msgstr ""
+msgstr "ശൃംഖല നടത്തിപ്പ്‌"
 
 #: kded/networkmanagement.notifyrc:50
 msgctxt "Comment"
 msgid "Network management"
-msgstr ""
+msgstr "ശൃംഖല നടത്തിപ്പ്‌"
 
 #: kded/networkmanagement.notifyrc:99
 msgctxt "Name"
 msgid "Connection activated"
-msgstr ""
+msgstr "ബന്ധം സജീവമാക്കി"
 
 #: kded/networkmanagement.notifyrc:150
 msgctxt "Name"
 msgid "Connection deactivated"
-msgstr ""
+msgstr "ബന്ധം നിർജ്ജീവമാക്കി"
 
 #: kded/networkmanagement.notifyrc:201
 msgctxt "Name"
 msgid "Connection added"
-msgstr ""
+msgstr "ബന്ധം ചേർത്തു"
 
 #: kded/networkmanagement.notifyrc:251
 msgctxt "Name"
 msgid "Connection removed"
-msgstr ""
+msgstr "ബന്ധം നീക്കംചെയ്‌തു"
 
 #: kded/networkmanagement.notifyrc:301
 msgctxt "Name"
 msgid "Connection updated"
-msgstr ""
+msgstr "ബന്ധം പുതുക്കി"
 
 #: kded/networkmanagement.notifyrc:351
 msgctxt "Name"
