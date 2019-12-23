@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-12 03:29+0100\n"
-"PO-Revision-Date: 2019-12-23 07:50+0000\n"
+"PO-Revision-Date: 2019-12-23 17:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -23,11 +23,13 @@ msgstr ""
 #, kde-format
 msgid "No application back-ends found, please report to your distribution."
 msgstr ""
+"ആപ്ലിക്കേഷൻ ബാക്ക്-എന്റുകളൊന്നും കണ്ടെത്തിയില്ല, ദയവായി നിങ്ങളുടെ "
+"വിതരണത്തിലേക്ക് റിപ്പോർട്ട് ചെയ്യുക."
 
 #: discover/DiscoverObject.cpp:246
 #, kde-format
 msgid "Could not find category '%1'"
-msgstr ""
+msgstr "'%1' വിഭാഗം കണ്ടെത്താൻ കഴിഞ്ഞില്ല"
 
 #: discover/DiscoverObject.cpp:281
 #, kde-format
@@ -35,61 +37,67 @@ msgid ""
 "Cannot interact with flatpak resources without the flatpak backend %1. "
 "Please install it first."
 msgstr ""
+"ഫ്ലാറ്റ്പാക്ക് ബാക്കെൻഡ് %1 ഇല്ലാതെ ഫ്ലാറ്റ്പ്പാക്ക് ഉറവിടങ്ങളുമായി സംവദിക്കാ"
+"ൻ കഴിയില്ല. ആദ്യം അത് ഇൻസ്റ്റാൾ ചെയ്യുക."
 
 #: discover/DiscoverObject.cpp:284 discover/DiscoverObject.cpp:312
 #, kde-format
 msgid "Couldn't open %1"
-msgstr ""
+msgstr "%1 തുറക്കാൻ കഴിഞ്ഞില്ല"
 
 #: discover/main.cpp:46
 #, kde-format
 msgid "Directly open the specified application by its package name."
-msgstr ""
+msgstr "നിർദ്ദിഷ്ട ആപ്ലിക്കേഷന്റെ പാക്കേജ് നാമം ഉപയോഗിച്ച് നേരിട്ട് തുറക്കുക."
 
 #: discover/main.cpp:47
 #, kde-format
 msgid "Open with a program that can deal with the given mimetype."
 msgstr ""
+"തന്നിരിക്കുന്ന മൈംറ്റൈപ്പ് കൈകാര്യം ചെയ്യാൻ കഴിയുന്ന ഒരു ആപ്പ് ഉപയോഗിച്ച് "
+"തുറക്കുക."
 
 #: discover/main.cpp:48
 #, kde-format
 msgid "Display a list of entries with a category."
-msgstr ""
+msgstr "ഒരു തരം വിഭാഗമുള്ള ഇനങ്ങളുടെ പട്ടിക പ്രദർശിപ്പിക്കുക."
 
 #: discover/main.cpp:49
 #, kde-format
 msgid "Open Discover in a said mode. Modes correspond to the toolbar buttons."
 msgstr ""
+"പറഞ്ഞ രീതിയിൽ ഡിസ്കവർ തുറക്കുക. ഉപകരണപ്പട്ടയിലെ ബട്ടണുകളുമായി മോഡുകൾ "
+"യോജിക്കുന്നു."
 
 #: discover/main.cpp:50
 #, kde-format
 msgid "List all the available modes."
-msgstr ""
+msgstr "ലഭ്യമായ എല്ലാ രീതികളും പട്ടികപ്പെടുത്തുക."
 
 #: discover/main.cpp:51
 #, kde-format
 msgid "Compact Mode (auto/compact/full)."
-msgstr ""
+msgstr "കോം‌പാക്റ്റ് രീതി (യാന്ത്രികം / കോം‌പാക്റ്റ് / പൂർണ്ണം)."
 
 #: discover/main.cpp:52
 #, kde-format
 msgid "Local package file to install"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്യാനുള്ള തദ്ദേശ പാക്കേജ് ഫയൽ"
 
 #: discover/main.cpp:53
 #, kde-format
 msgid "List all the available backends."
-msgstr ""
+msgstr "ലഭ്യമായ എല്ലാ ബാക്കെൻഡുകളും പ്രദര്‍ഷിപ്പിക്കുക."
 
 #: discover/main.cpp:54
 #, kde-format
 msgid "Search string."
-msgstr ""
+msgstr "സ്ട്രിംഗ് തിരയുക."
 
 #: discover/main.cpp:56
 #, kde-format
 msgid "Supports appstream: url scheme"
-msgstr ""
+msgstr "ആപ്സ്ട്രീം പിന്തുണയ്ക്കുന്നു: url പദ്ധതി"
 
 #: discover/main.cpp:100 discover/qml/DiscoverWindow.qml:57
 #, kde-format
@@ -99,12 +107,12 @@ msgstr "ഡിസ്കവർ "
 #: discover/main.cpp:100
 #, kde-format
 msgid "An application explorer"
-msgstr ""
+msgstr "ഒരു ആപ്ലിക്കേഷൻ പരിവേക്ഷക"
 
 #: discover/main.cpp:101
 #, kde-format
 msgid "© 2010-2019 Plasma Development Team"
-msgstr ""
+msgstr "© 2010-2019 പ്ലാസ്മ വികസന ടീം"
 
 #: discover/main.cpp:102
 #, kde-format
@@ -120,66 +128,70 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "നിസരി കെ കെ"
 
 #: discover/main.cpp:109
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
+"syamcr@gmail.com,mail@subinsb.com,aroutoftune2000@gmail.com,ncm2wr@gmail.com,"
+"thatonephysicsnerd@gmail.com,anoopms@disroot.org,kiranjohns369@gmail.com,abra"
+"hamraji99@gmail.com,mujeebcpy@gmail.com,arpapps843@gmail.com,lakshmisunil12@g"
+"mail.com,aathira1042k@gmail.com"
 
 #: discover/main.cpp:121
 #, kde-format
 msgid "Available backends:\n"
-msgstr ""
+msgstr "ലഭ്യമായ ബാക്കെൻഡുകൾ:\n"
 
 #: discover/main.cpp:157
 #, kde-format
 msgid "Available modes:\n"
-msgstr ""
+msgstr "ലഭ്യമായ രീതികൾ:\n"
 
 #: discover/qml/AddonsView.qml:24 discover/qml/ApplicationPage.qml:214
 #, kde-format
 msgid "Addons"
-msgstr ""
+msgstr "ആഡോണുകൾ"
 
 #: discover/qml/AddonsView.qml:73
 #, kde-format
 msgid "Apply Changes"
-msgstr ""
+msgstr "മാറ്റങ്ങൾ വരുത്തു"
 
 #: discover/qml/AddonsView.qml:80
 #, kde-format
 msgid "Discard"
-msgstr ""
+msgstr "ഉപേക്ഷിക്കുക"
 
 #: discover/qml/AddonsView.qml:91
 #, kde-format
 msgid "More..."
-msgstr ""
+msgstr "കൂടുതൽ..."
 
 #: discover/qml/AddSourceDialog.qml:49
 #, kde-format
 msgid "Add a new %1 repository"
-msgstr ""
+msgstr "ഒരു പുതിയ %1 സംഭരണി കൂട്ടിച്ചേര്‍ക്കുക"
 
 #: discover/qml/AddSourceDialog.qml:74
 #, kde-format
 msgid "Add"
-msgstr ""
+msgstr "കൂട്ടിച്ചേര്‍ക്കുക"
 
 #: discover/qml/AddSourceDialog.qml:86 discover/qml/DiscoverWindow.qml:243
 #: discover/qml/InstallApplicationButton.qml:33
 #: discover/qml/SourcesPage.qml:140 discover/qml/UpdatesPage.qml:104
 #, kde-format
 msgid "Cancel"
-msgstr ""
+msgstr "റദ്ദാക്കുക"
 
 #: discover/qml/ApplicationDelegate.qml:89
 #, kde-format
 msgctxt "Part of a string like this: '<app name> - <category>'"
 msgid "- %1"
-msgstr ""
+msgstr "- %1"
 
 #: discover/qml/ApplicationDelegate.qml:113
 #: discover/qml/ApplicationPage.qml:146
@@ -454,7 +466,7 @@ msgstr ""
 #: discover/qml/Feedback.qml:14
 #, kde-format
 msgid "Configure"
-msgstr ""
+msgstr "ക്രമീകരിക്കുക"
 
 #: discover/qml/Feedback.qml:18
 #, kde-format
