@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-12 02:33+0100\n"
-"PO-Revision-Date: 2019-12-20 11:16+0000\n"
+"PO-Revision-Date: 2019-12-23 17:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,7 +53,7 @@ msgstr "കാഴ്ച (&V)"
 #: data/kateui.rc:62
 #, kde-format
 msgid "Split View"
-msgstr ""
+msgstr "വിഭജിച്ച കാഴ്ച"
 
 #. i18n: ectx: Menu (tools)
 #: data/kateui.rc:89
@@ -83,13 +83,13 @@ msgstr "സഹായം (&H)"
 #: data/kateui.rc:117
 #, kde-format
 msgid "Main Toolbar"
-msgstr ""
+msgstr "പ്രധാന ഉപകരണപ്പട്ട"
 
 #. i18n: ectx: Menu (viewspace_popup_statusbar)
 #: data/kateui.rc:147
 #, kde-format
 msgid "&Status Bar Items"
-msgstr ""
+msgstr "സ്ഥിതിവിവര ബാറിലെ ഇനങ്ങൾ (&S)"
 
 #: kateapp.cpp:209 kateapp.cpp:330
 #, kde-format
@@ -100,42 +100,43 @@ msgstr ""
 #: katecolorschemechooser.cpp:60
 #, kde-format
 msgid "&Color Theme"
-msgstr ""
+msgstr "നിറങ്ങളുടെ  പ്രമേയം (&C)"
 
 #: kateconfigdialog.cpp:59
 #, kde-format
 msgid "Configure"
-msgstr ""
+msgstr "ക്രമീകരിക്കുക"
 
 #: kateconfigdialog.cpp:68
 #, kde-format
 msgid "Application"
-msgstr ""
+msgstr "ആപ്ലിക്കേഷൻ"
 
 #: kateconfigdialog.cpp:70
 #, kde-format
 msgid "Application Options"
-msgstr ""
+msgstr "ആപ്ലിക്കേഷൻ സാധ്യതകൾ"
 
 #: kateconfigdialog.cpp:77
 #, kde-format
 msgid "General"
-msgstr ""
+msgstr "പൊതുവായത്"
 
 #: kateconfigdialog.cpp:78
 #, kde-format
 msgid "General Options"
-msgstr ""
+msgstr "പൊതുവായ സാധ്യതകൾ"
 
 #: kateconfigdialog.cpp:86
 #, kde-format
 msgid "&Behavior"
-msgstr ""
+msgstr "പെരുമാറ്റം (&B)"
 
 #: kateconfigdialog.cpp:91
 #, kde-format
 msgid "Wa&rn about files modified by foreign processes"
 msgstr ""
+"വിദേശ പ്രക്രിയകൾ പരിഷ്‌ക്കരിച്ച ഫയലുകളെക്കുറിച്ച് മുന്നറിയിപ്പ് നൽകുക (&R)"
 
 #: kateconfigdialog.cpp:94
 #, kde-format
@@ -145,11 +146,15 @@ msgid ""
 "what to do with a file that has been modified on the hard disk only when "
 "that file is tried to be saved."
 msgstr ""
+"പ്രവർത്തനക്ഷമമാക്കിയിട്ടുണ്ടെങ്കിൽ, കേറ്റിന് ഫോക്കസ് ലഭിക്കുമ്പോൾ ഹാർഡ് "
+"ഡിസ്കിൽ പരിഷ്‌ക്കരിച്ച ഫയലുകൾ എന്തുചെയ്യണമെന്ന് നിങ്ങളോട് ചോദിക്കും. "
+"പ്രവർത്തനക്ഷമമാക്കിയിട്ടില്ലെങ്കിൽ, ഹാർഡ് ഡിസ്കിൽ പരിഷ്‌ക്കരിച്ച ഒരു ഫയൽ "
+"സംരക്ഷിക്കാൻ ശ്രമിക്കുമ്പോൾ മാത്രം എന്തുചെയ്യണമെന്ന് നിങ്ങളോട് ചോദിക്കും."
 
 #: kateconfigdialog.cpp:103
 #, kde-format
 msgid "Close Kate entirely when the last file is closed"
-msgstr ""
+msgstr "അവസാന ഫയൽ അടയ്‌ക്കുമ്പോൾ കേറ്റ് പൂർണ്ണമായും അടയ്‌ക്കുക"
 
 #: kateconfigdialog.cpp:106
 #, kde-format
@@ -157,16 +162,19 @@ msgid ""
 "If enabled, Kate will shutdown when the last file being edited is closed, "
 "otherwise a blank page will open so that you can start a new file."
 msgstr ""
+"പ്രവർത്തനക്ഷമമാക്കിയിട്ടുണ്ടെങ്കിൽ, അവസാനമായി ചിട്ടപെടുത്തിയ ഫയൽ "
+"അടയ്‌ക്കുമ്പോൾ കേറ്റ് പ്രവര്‍ത്തനരഹിതമാക്കും, അല്ലാത്തപക്ഷം ഒരു ശൂന്യ താള്‍ "
+"തുറക്കുന്നതിനാൽ നിങ്ങൾക്ക് ഒരു പുതിയ ഫയൽ ആരംഭിക്കാൻ കഴിയും."
 
 #: kateconfigdialog.cpp:114
 #, kde-format
 msgid "Meta-Information"
-msgstr ""
+msgstr "മെറ്റാ-വിവരങ്ങൾ"
 
 #: kateconfigdialog.cpp:120
 #, kde-format
 msgid "Keep &meta-information past sessions"
-msgstr ""
+msgstr "കഴിഞ്ഞ സെഷനുകളിൽ മെറ്റാ-വിവരങ്ങൾ സൂക്ഷിക്കുക (&M)"
 
 #: kateconfigdialog.cpp:123
 #, kde-format
@@ -175,6 +183,9 @@ msgid ""
 "be saved past editor sessions. The configuration will be restored if the "
 "document has not changed when reopened."
 msgstr ""
+"കഴിഞ്ഞ എഡിറ്റർ സെഷനുകളിൽ ഓര്‍മ്മക്കുറിപ്പു് സംരക്ഷിക്കാൻ നിങ്ങൾ "
+"ആഗ്രഹിക്കുന്നുവെങ്കിൽ ഇത് പരിശോധിക്കുക. വീണ്ടും തുറക്കുമ്പോൾ "
+"കുറിപ്പ്/ഡോക്യുമെന്റ് മാറ്റിയിട്ടില്ലെങ്കിൽ ക്രമീകരണം പുനഃസ്ഥാപിക്കപ്പെടും."
 
 #: kateconfigdialog.cpp:135
 #, kde-format
