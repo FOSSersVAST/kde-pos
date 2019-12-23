@@ -294,8 +294,8 @@ msgid ""
 "them from the clipboard to a new location."
 msgstr ""
 "ഇത് നിങ്ങള്‍ നിലവില്‍ തിരഞ്ഞെടുത്ത ഇനങ്ങൾ <emphasis>ഓര്‍മ്മചെപ്പിലേക്ക്</emphasis> പകർത്തുന്നു. "
-"<emphasis>പകർത്തുക</emphasis> എന്ന നടപടി ഉപയോഗിച്ച് ഇത് പുതിയ സ്ഥാനത്തേക്ക് പകര്‍"
-"ത്താവുന്നതാണ്."
+"<emphasis>പകർത്തുക</emphasis> എന്ന നടപടി ഉപയോഗിച്ച് ഇത് പുതിയ സ്ഥാനത്തേക്ക് "
+"പകര്‍ത്താവുന്നതാണ്."
 
 #: dolphinmainwindow.cpp:1361
 #, kde-format
