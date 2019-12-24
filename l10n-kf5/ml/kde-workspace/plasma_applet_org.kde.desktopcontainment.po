@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-30 03:38+0100\n"
-"PO-Revision-Date: 2019-12-23 17:46+0000\n"
+"PO-Revision-Date: 2019-12-25 08:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -31,36 +31,28 @@ msgid "Icons"
 msgstr "ചിഹ്നങ്ങള്‍"
 
 #: package/contents/config/config.qml:43
-#, fuzzy
 msgid "Filter"
-msgstr "ഫില്‍റ്റര്‍"
+msgstr "അരിപ്പ"
 
 #: package/contents/ui/BackButtonItem.qml:116
 msgid "Back"
-msgstr ""
+msgstr "പുറകോട്ട്"
 
 #: package/contents/ui/ConfigFilter.qml:76
-#, fuzzy
-#| msgid "File types:"
 msgid "Files:"
-msgstr "ഫയലിന്റെ തരങ്ങള്‍:"
+msgstr "ഫയലുകള്‍:"
 
 #: package/contents/ui/ConfigFilter.qml:77
-#, fuzzy
 msgid "Show all"
-msgstr "ഒരു സ്ഥാനം കാണിയ്ക്കുക:"
+msgstr "എല്ലാം കാണിക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:77
-#, fuzzy
-#| msgid "Show Files Matching"
 msgid "Show matching"
-msgstr "പൊരുത്തമുള്ള ഫയലുകള്‍ മാത്രം കാണിയ്ക്കുക"
+msgstr "പൊരുത്തമുള്ളത് മാത്രം കാണിക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:77
-#, fuzzy
-#| msgid "Hide Files Matching"
 msgid "Hide matching"
-msgstr "പൊരുത്തമുള്ള ഫയലുകള്‍ ഒളിപ്പിയ്ക്കുക"
+msgstr "പൊരുത്തമുള്ളവ മറയ്ക്കുക "
 
 #: package/contents/ui/ConfigFilter.qml:82
 msgid "File name pattern:"
@@ -75,13 +67,12 @@ msgid "Search..."
 msgstr "തിരയുക..."
 
 #: package/contents/ui/ConfigFilter.qml:188
-#, fuzzy
 msgid "File type"
-msgstr "ഫയലിന്റെ തരങ്ങള്‍:"
+msgstr "ഫയലിന്റെ തരം"
 
 #: package/contents/ui/ConfigFilter.qml:197
 msgid "Description"
-msgstr ""
+msgstr "വിവരണം"
 
 #: package/contents/ui/ConfigFilter.qml:211
 msgid "Select All"
@@ -93,7 +84,7 @@ msgstr "എല്ലാം തെരഞ്ഞെടുക്കാത്തത�
 
 #: package/contents/ui/ConfigIcons.qml:75
 msgid "Panel button:"
-msgstr ""
+msgstr "പാനൽ ബട്ടൺ:"
 
 #: package/contents/ui/ConfigIcons.qml:81
 msgid "Use a custom icon"
@@ -106,10 +97,9 @@ msgid "Choose..."
 msgstr "പരതുക..."
 
 #: package/contents/ui/ConfigIcons.qml:121
-#, fuzzy
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
-msgstr "ചിഹ്നങ്ങള്‍ അടുക്കി വയ്ക്കുക"
+msgstr "ചിഹ്നം മായ്ക്കുക"
 
 #: package/contents/ui/ConfigIcons.qml:140
 #, fuzzy
@@ -144,9 +134,8 @@ msgid "Lock in place"
 msgstr "സ്ഥാനത്തു് പൂട്ടുക"
 
 #: package/contents/ui/ConfigIcons.qml:177
-#, fuzzy
 msgid "Sorting:"
-msgstr "ചിഹ്നങ്ങള്‍ തരം തിരിയ്ക്കുക:"
+msgstr "വിന്യാസക്രമം:"
 
 #: package/contents/ui/ConfigIcons.qml:185
 msgid "Manual"
@@ -154,9 +143,9 @@ msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:62
-#, fuzzy, kde-format
+#, kde-format
 msgid "Name"
-msgstr "പേരനുസരിച്ചു്"
+msgstr "പേര്"
 
 #: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:66
