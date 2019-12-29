@@ -39,6 +39,7 @@ msgid "Back"
 msgstr "പുറകോട്ട്"
 
 #: package/contents/ui/ConfigFilter.qml:76
+#, fuzzy
 msgid "Files:"
 msgstr "ഫയലുകള്‍:"
 
@@ -47,10 +48,12 @@ msgid "Show all"
 msgstr "എല്ലാം കാണിക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy
 msgid "Show matching"
 msgstr "പൊരുത്തമുള്ളത് മാത്രം കാണിക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:77
+#, fuzzy
 msgid "Hide matching"
 msgstr "പൊരുത്തമുള്ളവ മറയ്ക്കുക "
 
@@ -277,7 +280,6 @@ msgstr "സ്ഥാനം"
 
 #: package/contents/ui/ConfigLocation.qml:150
 #, fuzzy
-#| msgid "Type a path or a URL here"
 msgid "Type path or URL..."
 msgstr "ഒരു വഴിയോ യുആര്‍എല്ലോ ഇവിടെ ടൈപ്പ് ചെയ്യുക"
 

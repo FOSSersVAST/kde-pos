@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-06 02:47+0000\n"
+"POT-Creation-Date: 2019-12-27 02:42+0000\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -25,13 +25,13 @@ msgctxt "GenericName"
 msgid "Software Center"
 msgstr "സോഫ്റ്റ്വെയർ സെന്റർ"
 
-#: discover/org.kde.discover.desktop.cmake:99
+#: discover/org.kde.discover.desktop.cmake:100
 msgctxt "Keywords"
 msgid ""
 "program;software;repository;package;install;remove;update;apps;applications;"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:143
+#: discover/org.kde.discover.desktop.cmake:145
 msgctxt "Name"
 msgid "Updates"
 msgstr "അപ്ഡേറ്റുകൾ"
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "Snap login action"
 msgstr ""
 
-#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:40
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:41
 msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr ""
