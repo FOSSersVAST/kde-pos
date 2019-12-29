@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-12 02:33+0100\n"
-"PO-Revision-Date: 2019-12-23 17:46+0000\n"
+"PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -95,7 +95,7 @@ msgstr "സ്ഥിതിവിവര ബാറിലെ ഇനങ്ങൾ (&S
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
-msgstr ""
+msgstr "ഫയൽ '%1' തുറക്കാൻ കഴിഞ്ഞില്ല: ഇത് ഒരു സാധാരണ ഫയലല്ല, ഇത് ഒരു ഫോൾഡറാണ്."
 
 #: katecolorschemechooser.cpp:60
 #, kde-format
@@ -194,20 +194,20 @@ msgstr ""
 #, kde-format
 msgctxt "The special case of 'Delete unused meta-information after'"
 msgid "(never)"
-msgstr ""
+msgstr "(ഒരിക്കലും വേണ്ട )"
 
 #: kateconfigdialog.cpp:140
 #, kde-format
 msgctxt "The suffix of 'Delete unused meta-information after'"
 msgid " day"
 msgid_plural " days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] " ദിവസം"
+msgstr[1] " ദിവസങ്ങൾ"
 
 #: kateconfigdialog.cpp:151 katemainwindow.cpp:261
 #, kde-format
 msgid "&Quick Open"
-msgstr ""
+msgstr "പെട്ടന്ന് തുറക്കുക (&Q)"
 
 #: kateconfigdialog.cpp:156
 #, kde-format
@@ -227,42 +227,42 @@ msgstr "ഫയല്‍സ്ഥലം"
 #: kateconfigdialog.cpp:169
 #, kde-format
 msgid "&List Mode:"
-msgstr ""
+msgstr "പട്ടിക രീതി (&L):"
 
 #: kateconfigdialog.cpp:174
 #, kde-format
 msgid "Current Project Files"
-msgstr ""
+msgstr "നിലവിലുള്ള പദ്ധതിയുടെ ഫയലുകള്‍"
 
 #: kateconfigdialog.cpp:175
 #, kde-format
 msgid "All Projects Files"
-msgstr ""
+msgstr "എല്ലാ പദ്ധതി ഫയലുകളും"
 
 #: kateconfigdialog.cpp:187
 #, kde-format
 msgid "Sessions"
-msgstr ""
+msgstr "സെഷനുകൾ"
 
 #: kateconfigdialog.cpp:188
 #, kde-format
 msgid "Session Management"
-msgstr ""
+msgstr "സെഷന് നടത്തിപ്പ്‌"
 
 #: kateconfigdialog.cpp:224
 #, kde-format
 msgid "Plugins"
-msgstr ""
+msgstr "സംയോജകങ്ങള്‍"
 
 #: kateconfigdialog.cpp:225
 #, kde-format
 msgid "Plugin Manager"
-msgstr ""
+msgstr "സംയോജക കാര്യസ്ഥന്‍"
 
 #: kateconfigdialog.cpp:237
 #, kde-format
 msgid "Editor Component"
-msgstr ""
+msgstr "എഡിറ്റർ ഘടകം"
 
 #: kateconfigdialog.cpp:239
 #, kde-format
@@ -307,7 +307,7 @@ msgstr ""
 #: katedocmanager.cpp:239
 #, kde-format
 msgid "Delete File?"
-msgstr ""
+msgstr "ഫയല്‍ കളയട്ടെ?"
 
 #: katedocmanager.cpp:344
 #, kde-format
@@ -319,7 +319,7 @@ msgstr ""
 #: katedocmanager.cpp:347 katetabbutton.cpp:46
 #, kde-format
 msgid "Close Document"
-msgstr ""
+msgstr "പ്രമാണം അടയ്ക്കുക"
 
 #: katedocmanager.cpp:356
 #, kde-format
@@ -339,42 +339,42 @@ msgstr ""
 #: katedocmanager.cpp:449
 #, kde-format
 msgid "Starting Up"
-msgstr ""
+msgstr "തുടങ്ങുന്നു"
 
 #: katedocmanager.cpp:450
 #, kde-format
 msgid "Reopening files from the last session..."
-msgstr ""
+msgstr "തൊട്ട് മുൻപത്തെ സെഷനിൽ നിന്നും ഫയലുകള്‍ തുറക്കുന്നു..."
 
 #: katefileactions.cpp:78
 #, kde-format
 msgid "Rename file"
-msgstr ""
+msgstr "ഫയല്‍ പുനഃനാമകരണം ചെയ്യുക"
 
 #: katefileactions.cpp:79
 #, kde-format
 msgid "New file name"
-msgstr ""
+msgstr "ഫയലിന്റെ പുതിയ പേര്"
 
 #: katefileactions.cpp:110
 #, kde-format
 msgid "File \"%1\" could not be moved to \"%2\""
-msgstr ""
+msgstr "ഫയല്‍ \"%1\", \"%2\"വിലേക്ക് മാറ്റുവാൻ സാധിച്ചില്ല"
 
 #: katefileactions.cpp:131
 #, kde-format
 msgid "Do you really want to delete file \"%1\"?"
-msgstr ""
+msgstr "താങ്കൾ \"%1\" പ്രമാണം കളയുന്നത് തീര്‍ച്ചപ്പെടുത്തിയോ?"
 
 #: katefileactions.cpp:131
 #, kde-format
 msgid "Delete file"
-msgstr ""
+msgstr "പ്രമാണം കളയുക"
 
 #: katefileactions.cpp:144
 #, kde-format
 msgid "File \"%1\" could not be deleted."
-msgstr ""
+msgstr "ഫയല്‍ \"%1\" കളയാന്‍ സാധിച്ചില്ല."
 
 #: katemainwindow.cpp:230
 #, kde-format
@@ -384,7 +384,7 @@ msgstr ""
 #: katemainwindow.cpp:233
 #, kde-format
 msgid "Show &Tabs"
-msgstr ""
+msgstr "ടാബുകള്‍ കാണിക്കുക (&T)"
 
 #: katemainwindow.cpp:236
 #, kde-format
@@ -719,17 +719,17 @@ msgstr ""
 #: katemdi.cpp:163
 #, kde-format
 msgid "Show %1"
-msgstr ""
+msgstr "%1 കാണിക്കുക"
 
 #: katemdi.cpp:542
 #, kde-format
 msgid "Configure ..."
-msgstr ""
+msgstr "ക്രമീകരിക്കുക ..."
 
 #: katemdi.cpp:546
 #, kde-format
 msgid "Behavior"
-msgstr ""
+msgstr "സ്വഭാവം"
 
 #: katemdi.cpp:548
 #, kde-format
