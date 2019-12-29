@@ -1037,8 +1037,6 @@ msgstr "മള്‍ട്ടീമീഡിയ"
 
 #: menu/desktop/kf5-network.directory:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Networking"
 msgctxt "Name"
 msgid "Network"
 msgstr "ശൃംഖല"

@@ -41,7 +41,6 @@ msgstr ""
 
 #: package/contents/ui/ConfigFilter.qml:76
 #, fuzzy
-#| msgid "File types:"
 msgid "Files:"
 msgstr "ഫയലിന്റെ തരങ്ങള്‍:"
 
@@ -52,13 +51,11 @@ msgstr "ഒരു സ്ഥാനം കാണിയ്ക്കുക:"
 
 #: package/contents/ui/ConfigFilter.qml:77
 #, fuzzy
-#| msgid "Show Files Matching"
 msgid "Show matching"
 msgstr "പൊരുത്തമുള്ള ഫയലുകള്‍ മാത്രം കാണിയ്ക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:77
 #, fuzzy
-#| msgid "Hide Files Matching"
 msgid "Hide matching"
 msgstr "പൊരുത്തമുള്ള ഫയലുകള്‍ ഒളിപ്പിയ്ക്കുക"
 
@@ -288,7 +285,6 @@ msgstr "സ്ഥാനം"
 
 #: package/contents/ui/ConfigLocation.qml:150
 #, fuzzy
-#| msgid "Type a path or a URL here"
 msgid "Type path or URL..."
 msgstr "ഒരു വഴിയോ യുആര്‍എല്ലോ ഇവിടെ ടൈപ്പ് ചെയ്യുക"
 

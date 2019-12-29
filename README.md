@@ -57,6 +57,9 @@ NOTE: Don't make any change directly in KDE upstream branch. If doing so, make s
   copy-from-upstream.sh
   ```
 * Commit & push
+  ```
+  git commit -a -m "Sync with KDE Upstream"
+  ```
 * Go to weblate, pull changes, commit & push
 * `git pull` here
 * Run

@@ -12,5 +12,6 @@ for po_path in $pos; do
         echo "File doesn't exist : $target_path"
     else
         cp $target_path $po_path
+        echo $po_path
     fi
 done;

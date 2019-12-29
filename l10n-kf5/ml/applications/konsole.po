@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-18 02:37+0100\n"
+"POT-Creation-Date: 2019-12-24 02:30+0100\n"
 "PO-Revision-Date: 2019-12-23 17:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -1152,7 +1152,6 @@ msgstr "തുടക്കത്തിലെ തട്ടിനു് വേണ�
 #. i18n: ectx: property (text), widget (QCheckBox, startInSameDirButton)
 #: EditProfileGeneralPage.ui:155
 #, fuzzy, kde-format
-#| msgid "Start in same directory as current tab"
 msgid "Start in same directory as current session"
 msgstr "നിലവിലുള്ള കിളിവാതിലിലെ അതേ തട്ടില്‍ തന്നെ തുടങ്ങുക"
 
@@ -3358,101 +3357,100 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr "വിദൂരത്തുള്ള കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്:"
 
-#: TerminalDisplay.cpp:1268 TerminalDisplay.cpp:1269
+#: TerminalDisplay.cpp:1260 TerminalDisplay.cpp:1261
 #, kde-format
 msgid "Size: XXX x XXX"
 msgstr "വലിപ്പം: XXX x XXX"
 
-#: TerminalDisplay.cpp:1280
+#: TerminalDisplay.cpp:1272
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr "വലിപ്പം: %1 x %2"
 
-#: TerminalDisplay.cpp:3158
+#: TerminalDisplay.cpp:3150
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3161
+#: TerminalDisplay.cpp:3153
 #, fuzzy, kde-format
 msgid "Confirm Paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3193
+#: TerminalDisplay.cpp:3185
 #, kde-format
 msgid "End Of Text/Interrupt: may exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3194
+#: TerminalDisplay.cpp:3186
 #, kde-format
 msgid "End Of Transmission: may exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3195
+#: TerminalDisplay.cpp:3187
 #, kde-format
 msgid "Bell: will try to emit an audible warning"
 msgstr ""
 
-#: TerminalDisplay.cpp:3196
+#: TerminalDisplay.cpp:3188
 #, kde-format
 msgid "Backspace"
 msgstr ""
 
-#: TerminalDisplay.cpp:3197
+#: TerminalDisplay.cpp:3189
 #, kde-format
 msgid "Device Control Three/XOFF: suspends output"
 msgstr ""
 
-#: TerminalDisplay.cpp:3198
+#: TerminalDisplay.cpp:3190
 #, kde-format
 msgid "Substitute/Suspend: may suspend current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3199
+#: TerminalDisplay.cpp:3191
 #, kde-format
 msgid "Escape: used for manipulating terminal state"
 msgstr ""
 
-#: TerminalDisplay.cpp:3200
+#: TerminalDisplay.cpp:3192
 #, kde-format
 msgid "File Separator/Quit: may abort the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3222
+#: TerminalDisplay.cpp:3214
 #, kde-format
 msgid ""
 "The text you're trying to paste contains hidden control characters, do you "
 "want to filter them out?"
 msgstr ""
 
-#: TerminalDisplay.cpp:3225
+#: TerminalDisplay.cpp:3217
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Confirm Paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3227
+#: TerminalDisplay.cpp:3219
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Paste &without control characters"
 msgstr "ഇപ്പോഴുള്ള അക്ഷരവുമായി പൊരുത്തമുള്ള നിറമായി കര്‍സര്‍ സജ്ജീകരിയ്ക്കുക"
 
-#: TerminalDisplay.cpp:3230
+#: TerminalDisplay.cpp:3222
 #, fuzzy, kde-format
-#| msgid "Paste Selection"
 msgctxt "@action:button"
 msgid "&Paste everything"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
 
-#: TerminalDisplay.cpp:3233
+#: TerminalDisplay.cpp:3225
 #, kde-format
 msgctxt "@action:button"
 msgid "&Cancel"
 msgstr ""
 
-#: TerminalDisplay.cpp:3480
+#: TerminalDisplay.cpp:3472
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
@@ -3463,17 +3461,17 @@ msgstr ""
 "Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> "
 "അമര്‍ത്തുക.</qt>"
 
-#: TerminalDisplay.cpp:3518
+#: TerminalDisplay.cpp:3510
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3813
+#: TerminalDisplay.cpp:3805
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: TerminalDisplay.cpp:3845
+#: TerminalDisplay.cpp:3837
 #, fuzzy, kde-format
 msgid "&Paste Location"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
