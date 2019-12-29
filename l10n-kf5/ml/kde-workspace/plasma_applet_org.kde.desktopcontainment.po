@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-30 03:38+0100\n"
-"PO-Revision-Date: 2019-12-25 08:50+0000\n"
+"PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -20,7 +20,6 @@ msgstr ""
 "X-Generator: Weblate 3.9.1\n"
 
 #: package/contents/config/config.qml:29
-#, fuzzy
 msgid "Location"
 msgstr "സ്ഥാനം"
 
@@ -105,7 +104,6 @@ msgid "Clear Icon"
 msgstr "ചിഹ്നം മായ്ക്കുക"
 
 #: package/contents/ui/ConfigIcons.qml:140
-#, fuzzy
 msgid "Arrangement:"
 msgstr "ചിഹ്നങ്ങളുടെ അടുക്കിവയ്ക്കല്‍"
 
@@ -124,15 +122,13 @@ msgstr ""
 #: package/contents/ui/ConfigIcons.qml:149
 #, fuzzy
 msgid "Align left"
-msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
+msgstr "ഇടത്തേക്ക് ചേര്‍ത്ത്"
 
 #: package/contents/ui/ConfigIcons.qml:149
-#, fuzzy
 msgid "Align right"
-msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
+msgstr "വലത്തേക്ക് ചേര്‍ത്ത്"
 
 #: package/contents/ui/ConfigIcons.qml:164
-#, fuzzy
 msgid "Lock in place"
 msgstr "സ്ഥാനത്തു് പൂട്ടുക"
 
@@ -152,19 +148,19 @@ msgstr "പേര്"
 
 #: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:66
-#, fuzzy, kde-format
+#, kde-format
 msgid "Size"
 msgstr "വലിപ്പമനുസരിച്ചു്"
 
 #: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:70
-#, fuzzy, kde-format
+#, kde-format
 msgid "Type"
 msgstr "തരമനുസരിച്ചു്"
 
 #: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:74
-#, fuzzy, kde-format
+#, kde-format
 msgid "Date"
 msgstr "തിയ്യതിയ്ക്കനുസരിച്ചു്"
 
@@ -172,10 +168,9 @@ msgstr "തിയ്യതിയ്ക്കനുസരിച്ചു്"
 #: plugins/folder/viewpropertiesmenu.cpp:79
 #, kde-format
 msgid "Descending"
-msgstr ""
+msgstr "അവരോഹണക്രമത്തിൽ"
 
 #: package/contents/ui/ConfigIcons.qml:204
-#, fuzzy
 msgid "Folders first"
 msgstr "അറകളാദ്യം"
 
@@ -186,10 +181,9 @@ msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:220
 msgid "List"
-msgstr ""
+msgstr "പട്ടിക"
 
 #: package/contents/ui/ConfigIcons.qml:231
-#, fuzzy
 msgid "Icon size:"
 msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം:"
 
@@ -206,36 +200,34 @@ msgid "Large"
 msgstr "വലുതു്"
 
 #: package/contents/ui/ConfigIcons.qml:264
-#, fuzzy
 msgid "Label width:"
-msgstr "പേരു്:"
+msgstr "പേരിന്റെ വീതി:"
 
 #: package/contents/ui/ConfigIcons.qml:267
 msgid "Narrow"
-msgstr ""
+msgstr "ഇടുങ്ങിയത്"
 
 #: package/contents/ui/ConfigIcons.qml:268
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Medium"
-msgstr ""
+msgstr "ഇടത്തരം"
 
 #: package/contents/ui/ConfigIcons.qml:269
 msgid "Wide"
-msgstr ""
+msgstr "വീതിയില്‍"
 
 #: package/contents/ui/ConfigIcons.qml:277
-#, fuzzy
 msgid "Text lines:"
-msgstr "1 ഫയല്‍"
+msgstr "പദാവലി വരികള്‍"
 
 #: package/contents/ui/ConfigIcons.qml:293
 msgid "Features:"
-msgstr ""
+msgstr "വിശേഷതകൾ:"
 
 #: package/contents/ui/ConfigIcons.qml:295
 msgid "Tooltips"
-msgstr ""
+msgstr "സൂചനകള്‍"
 
 #: package/contents/ui/ConfigIcons.qml:302
 #, fuzzy
@@ -258,7 +250,7 @@ msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര�
 
 #: package/contents/ui/ConfigLocation.qml:93
 msgid "Show:"
-msgstr ""
+msgstr "കാണിക്കുക:"
 
 #: package/contents/ui/ConfigLocation.qml:95
 #, fuzzy
@@ -267,7 +259,7 @@ msgstr "പണിയിട അറ കാണിയ്ക്കുക"
 
 #: package/contents/ui/ConfigLocation.qml:102
 msgid "Files linked to the current activity"
-msgstr ""
+msgstr "നിലവിലത്തെ പരിപാടിയുമായി ബന്ധപ്പെട്ട ഫയലുകള്‍"
 
 #: package/contents/ui/ConfigLocation.qml:109
 msgid "Places panel item:"
@@ -289,7 +281,7 @@ msgstr ""
 
 #: package/contents/ui/ConfigLocation.qml:193
 msgid "None"
-msgstr ""
+msgstr "ഒന്നുമല്ല"
 
 #: package/contents/ui/ConfigLocation.qml:193
 msgid "Default"
@@ -301,15 +293,15 @@ msgstr ""
 
 #: package/contents/ui/ConfigLocation.qml:193
 msgid "Custom title"
-msgstr ""
+msgstr "ഇച്ഛാനുസൃത തലക്കെട്ട്"
 
 #: package/contents/ui/ConfigLocation.qml:208
 msgid "Enter custom title..."
-msgstr ""
+msgstr "ഇച്ഛാനുസൃത തലക്കെട്ട് നൽകുക..."
 
 #: package/contents/ui/ConfigOverlay.qml:101
 msgid "Rotate"
-msgstr ""
+msgstr "തിരിക്കുക"
 
 #: package/contents/ui/ConfigOverlay.qml:192
 msgid "Open Externally"
@@ -317,11 +309,11 @@ msgstr ""
 
 #: package/contents/ui/ConfigOverlay.qml:204
 msgid "Hide Background"
-msgstr ""
+msgstr "പശ്ചാത്തലം മറയ്ക്കുക"
 
 #: package/contents/ui/ConfigOverlay.qml:204
 msgid "Show Background"
-msgstr ""
+msgstr "പശ്ചാത്തലം കാണിക്കുക"
 
 #: package/contents/ui/ConfigOverlay.qml:252
 msgid "Remove"
@@ -399,12 +391,12 @@ msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
 #: plugins/folder/viewpropertiesmenu.cpp:46
 #, kde-format
 msgid "Left"
-msgstr ""
+msgstr "ഇടത്"
 
 #: plugins/folder/viewpropertiesmenu.cpp:50
 #, kde-format
 msgid "Right"
-msgstr ""
+msgstr "വലത്"
 
 #: plugins/folder/viewpropertiesmenu.cpp:55
 #, fuzzy, kde-format
@@ -429,7 +421,7 @@ msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം:"
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Tiny"
-msgstr ""
+msgstr "ചെറുത്"
 
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
@@ -439,7 +431,7 @@ msgstr ""
 #: plugins/folder/viewpropertiesmenu.cpp:88
 #, kde-format
 msgid "Huge"
-msgstr ""
+msgstr "വളരെ വലുത്"
 
 #: plugins/folder/viewpropertiesmenu.cpp:97
 #, fuzzy, kde-format
@@ -449,7 +441,7 @@ msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര�
 #: plugins/folder/viewpropertiesmenu.cpp:100
 #, kde-format
 msgid "Locked"
-msgstr ""
+msgstr "പൂട്ടി"
 
 #, fuzzy
 #~ msgid "Show the desktop toolbox"
