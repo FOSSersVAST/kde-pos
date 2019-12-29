@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-06 03:32+0100\n"
-"PO-Revision-Date: 2019-12-23 17:46+0000\n"
+"PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -65,6 +65,9 @@ msgid ""
 "the crash and your system. (You may also need to install some debug "
 "packages.)"
 msgstr ""
+"ഉപയോഗപ്രദമായ ഒരു ബഗ് റിപ്പോർട്ട് സൃഷ്ടിക്കുന്നതിന്, ക്രാഷിനെക്കുറിച്ചും "
+"നിങ്ങളുടെ സിസ്റ്റത്തെക്കുറിച്ചും ഞങ്ങൾക്ക് ചില വിവരങ്ങൾ ആവശ്യമാണ്. (നിങ്ങൾ ചി"
+"ല ഡീബഗ് പാക്കേജുകളും ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതായി വന്നേക്കാം.)"
 
 #: aboutbugreportingdialog.cpp:61
 #, kde-format
@@ -87,7 +90,7 @@ msgstr ""
 #, kde-format
 msgctxt "@title"
 msgid "What do you know about the crash?"
-msgstr ""
+msgstr "ക്രാഷിനെക്കുറിച്ച് നിങ്ങൾക്കെന്തറിയാം?"
 
 #: aboutbugreportingdialog.cpp:73
 #, kde-kuit-format
@@ -110,7 +113,7 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich crash situation example"
 msgid "actions you were taking inside or outside the application"
-msgstr ""
+msgstr "ആപ്ലിക്കേഷന് പുറത്തും അകത്തും താങ്കൾ എടുത്ത നടപടികൾ"
 
 #: aboutbugreportingdialog.cpp:80
 #, kde-kuit-format
