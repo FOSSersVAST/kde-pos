@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-16 02:30+0100\n"
-"PO-Revision-Date: 2019-12-21 14:29+0000\n"
+"PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -2981,7 +2981,7 @@ msgstr "വസ്തുക്കളുടെ സാമാന്യമായ വ�
 #, kde-format
 msgctxt "option:radio"
 msgid "Alphabetical, case insensitive"
-msgstr "അക്ഷരമാല ക്രമത്തില്‍,വലിയക്ഷര-ചെറിയക്ഷര ക്രമത്തിൽ "
+msgstr "അക്ഷരമാല ക്രമത്തില്‍, വലിയക്ഷര-ചെറിയക്ഷര ക്രമത്തിൽ"
 
 #: settings/general/behaviorsettingspage.cpp:68
 #, kde-format
