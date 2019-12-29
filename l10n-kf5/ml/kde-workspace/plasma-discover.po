@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-12 03:29+0100\n"
-"PO-Revision-Date: 2019-12-23 17:52+0000\n"
+"PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -118,19 +118,19 @@ msgstr ""
 #: discover/main.cpp:103
 #, kde-format
 msgid "Jonathan Thomas"
-msgstr ""
+msgstr "ജോനാഥൻ  തോമസ് "
 
 #: discover/main.cpp:108
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "നിസരി കെ കെ"
+msgstr "നിസരി കെ കെ,പ്രേയസ് പ്രതാപ് "
 
 #: discover/main.cpp:109
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "nisarikoolath@gmail.com"
+msgstr "nisarikoolath@gmail.com,preyasprathap@yahoo.com"
 
 #: discover/main.cpp:121
 #, kde-format
@@ -190,177 +190,179 @@ msgstr "- %1"
 #, kde-format
 msgid "%1 rating"
 msgid_plural "%1 ratings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 റേറ്റിംഗ്"
+msgstr[1] "%1 റേറ്റിംഗുകൾ"
 
 #: discover/qml/ApplicationDelegate.qml:113
 #: discover/qml/ApplicationPage.qml:146
 #, kde-format
 msgid "No ratings yet"
-msgstr ""
+msgstr "ഇതുവരെ റേറ്റിംഗുകളൊന്നുമില്ല"
 
 #: discover/qml/ApplicationPage.qml:71
 #, kde-format
 msgid "Sources"
-msgstr ""
+msgstr "ഉറവിടങ്ങൾ"
 
 #: discover/qml/ApplicationPage.qml:82
 #, kde-format
 msgid "%1 - %2"
-msgstr ""
+msgstr "%1 - %2"
 
 #: discover/qml/ApplicationPage.qml:185
 #, kde-format
 msgid "What's New"
-msgstr ""
+msgstr "പുതിയത്"
 
 #: discover/qml/ApplicationPage.qml:226
 #, kde-format
 msgid "Reviews"
-msgstr ""
+msgstr "അവലോകനങ്ങൾ"
 
 #: discover/qml/ApplicationPage.qml:234
 #, kde-format
 msgid "Show %1 review..."
 msgid_plural "Show all %1 reviews..."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 വിശകലനം കാണിക്കുക..."
+msgstr[1] "%1 വിശകലനങ്ങള്‍ കാണിക്കുക..."
 
 #: discover/qml/ApplicationPage.qml:267
 #, kde-format
 msgid "Write a review!"
-msgstr ""
+msgstr "ഒരു അവലോകനം എഴുതുക!"
 
 #: discover/qml/ApplicationPage.qml:269
 #, kde-format
 msgid "Be the first to write a review!"
-msgstr ""
+msgstr "ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
 #: discover/qml/ApplicationPage.qml:274
 #, kde-format
 msgid "Install this app to write a review!"
-msgstr ""
+msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
 
 #: discover/qml/ApplicationPage.qml:276
 #, kde-format
 msgid "Install this app and be the first to write a review!"
-msgstr ""
+msgstr "ഈ ആപ്പ് ഇൻസ്റ്റാളുചെയ്‌ത് ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
 #: discover/qml/ApplicationPage.qml:317
 #, kde-format
 msgid "Category:"
-msgstr ""
+msgstr "വിഭാഗം:"
 
 #: discover/qml/ApplicationPage.qml:331
 #, kde-format
 msgid "Version:"
-msgstr ""
+msgstr "പതിപ്പ്:"
 
 #: discover/qml/ApplicationPage.qml:342
 #, kde-format
 msgid "%1, released on %2"
-msgstr ""
+msgstr "%2 ന് പുറത്തിറങ്ങിയ %1"
 
 #: discover/qml/ApplicationPage.qml:359
 #, kde-format
 msgid "Author:"
-msgstr ""
+msgstr "രചയിതാവ്:"
 
 #: discover/qml/ApplicationPage.qml:373
 #, kde-format
 msgid "Size:"
-msgstr ""
+msgstr "വലുപ്പം:"
 
 #: discover/qml/ApplicationPage.qml:384
 #, kde-format
 msgid "Source:"
-msgstr ""
+msgstr "ഉറവിടം:"
 
 #: discover/qml/ApplicationPage.qml:396
 #, kde-format
 msgid "License:"
-msgstr ""
+msgstr "ലൈസൻസ്:"
 
 #: discover/qml/ApplicationPage.qml:406
 #, kde-format
 msgid "See full license terms"
-msgstr ""
+msgstr "എല്ലാ ലൈസൻസ് നിബന്ധനകളും കാണുക"
 
 #: discover/qml/ApplicationPage.qml:419
 #, kde-format
 msgid "Homepage:"
-msgstr ""
+msgstr "ഹോം‌പേജ്:"
 
 #: discover/qml/ApplicationPage.qml:432
 #, kde-format
 msgid "User Guide:"
-msgstr ""
+msgstr "ഉപയോക്തൃ സഹായി:"
 
 #: discover/qml/ApplicationPage.qml:445
 #, kde-format
 msgid "Donate:"
-msgstr ""
+msgstr "സംഭാവനചെയ്യുക:"
 
 #: discover/qml/ApplicationPage.qml:458
 #, kde-format
 msgid "Report a Problem:"
-msgstr ""
+msgstr "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക:"
 
 #: discover/qml/ApplicationsListPage.qml:68
 #, kde-format
 msgid "Search: %1"
-msgstr ""
+msgstr "തിരയുക: %1"
 
 #: discover/qml/ApplicationsListPage.qml:94
 #, kde-format
 msgid "Sort: %1"
-msgstr ""
+msgstr "അടുക്കുക: %1"
 
 #: discover/qml/ApplicationsListPage.qml:97
 #, kde-format
 msgid "Name"
-msgstr ""
+msgstr "പേര്"
 
 #: discover/qml/ApplicationsListPage.qml:106
 #, kde-format
 msgid "Rating"
-msgstr ""
+msgstr "റേറ്റിംഗ്"
 
 #: discover/qml/ApplicationsListPage.qml:115
 #, kde-format
 msgid "Size"
-msgstr ""
+msgstr "വലുപ്പം"
 
 #: discover/qml/ApplicationsListPage.qml:124
 #, kde-format
 msgid "Release Date"
-msgstr ""
+msgstr "പ്രകാശന തീയതി"
 
 #: discover/qml/ApplicationsListPage.qml:164
 #, kde-format
 msgid "Sorry, nothing found..."
-msgstr ""
+msgstr "ക്ഷമിക്കണം, ഒന്നും കണ്ടെത്തിയില്ല ..."
 
 #: discover/qml/ApplicationsListPage.qml:180
 #, kde-format
 msgid "Still looking..."
-msgstr ""
+msgstr "ഇപ്പോഴും നോക്കികൊണ്ടിരിക്കുന്നു..."
 
 #: discover/qml/BrowsingPage.qml:31
 #, kde-format
 msgid "Featured"
-msgstr ""
+msgstr "തിരഞ്ഞെടുത്തത്"
 
 #: discover/qml/BrowsingPage.qml:86
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Unable to load applications.<nl/>Please verify Internet connectivity."
 msgstr ""
+"അപ്ലിക്കേഷനുകൾ ലോഡുചെയ്യാനായില്ല.<nl/>ഇന്റർനെറ്റ് കണക്റ്റിവിറ്റി "
+"സ്ഥിരീകരിക്കുക."
 
 #: discover/qml/DiscoverDrawer.qml:120
 #, kde-format
 msgid "Return to the Featured page"
-msgstr ""
+msgstr "തിരഞ്ഞെടുത്ത താളിലേക്ക് മടങ്ങുക"
 
 #: discover/qml/DiscoverWindow.qml:47
 #, kde-format
@@ -370,22 +372,22 @@ msgstr ""
 #: discover/qml/DiscoverWindow.qml:66
 #, kde-format
 msgid "Search"
-msgstr ""
+msgstr "തിരയുക"
 
 #: discover/qml/DiscoverWindow.qml:74 discover/qml/InstalledPage.qml:16
 #, kde-format
 msgid "Installed"
-msgstr ""
+msgstr "ഇൻസ്റ്റാളുചെയ്‌തു"
 
 #: discover/qml/DiscoverWindow.qml:81
 #, kde-format
 msgid "Fetching Updates..."
-msgstr ""
+msgstr "അപ്‌ഡേറ്റുകൾ നേടുന്നു..."
 
 #: discover/qml/DiscoverWindow.qml:81
 #, kde-format
 msgid "Up to Date"
-msgstr ""
+msgstr "കാലികമാണ്"
 
 #: discover/qml/DiscoverWindow.qml:81
 #, kde-format
@@ -396,17 +398,17 @@ msgstr ""
 #: discover/qml/DiscoverWindow.qml:88
 #, kde-format
 msgid "About"
-msgstr ""
+msgstr "ഇതിനെ കുറിച്ച്"
 
 #: discover/qml/DiscoverWindow.qml:95 discover/qml/SourcesPage.qml:12
 #, kde-format
 msgid "Settings"
-msgstr ""
+msgstr "സജ്ജീകരണങ്ങള്‍"
 
 #: discover/qml/DiscoverWindow.qml:135
 #, kde-format
 msgid "Sorry..."
-msgstr ""
+msgstr "ക്ഷമിക്കണം..."
 
 #: discover/qml/DiscoverWindow.qml:138
 #, kde-format
@@ -495,7 +497,7 @@ msgstr ""
 #: discover/qml/InstallApplicationButton.qml:14
 #, kde-format
 msgid "Remove"
-msgstr ""
+msgstr "ഒഴിവാക്കുക"
 
 #: discover/qml/LoadingPage.qml:7
 #, kde-format
@@ -593,7 +595,7 @@ msgstr ""
 #: discover/qml/ReviewDialog.qml:35
 #, kde-format
 msgid "Title:"
-msgstr ""
+msgstr "തലക്കെട്ട്:"
 
 #: discover/qml/ReviewDialog.qml:41
 #, kde-format
@@ -693,7 +695,7 @@ msgstr ""
 #: discover/qml/UpdatesPage.qml:50
 #, kde-format
 msgid "OK"
-msgstr ""
+msgstr "ശെരി"
 
 #: discover/qml/UpdatesPage.qml:73
 #, kde-format
