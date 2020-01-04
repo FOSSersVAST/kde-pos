@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-04 03:12+0100\n"
+"POT-Creation-Date: 2019-12-30 03:31+0100\n"
 "PO-Revision-Date: 2019-12-23 17:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -81,44 +81,44 @@ msgstr ""
 msgid "New version: %1"
 msgstr ""
 
-#: notifier/main.cpp:52
+#: notifier/main.cpp:51
 #, kde-format
 msgid "Discover Notifier"
 msgstr ""
 
-#: notifier/main.cpp:52
+#: notifier/main.cpp:51
 #, kde-format
 msgid "System update status notifier"
 msgstr ""
 
-#: notifier/main.cpp:53
+#: notifier/main.cpp:52
 #, kde-format
 msgid "© 2010-2019 Plasma Development Team"
 msgstr "© 2010-2019 പ്ലാസ്മ വികസന ടീം"
 
-#: notifier/main.cpp:58
+#: notifier/main.cpp:57
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "നിസരി കെ കെ"
 
-#: notifier/main.cpp:59
+#: notifier/main.cpp:58
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
 
-#: notifier/main.cpp:65
+#: notifier/main.cpp:64
 #, kde-format
 msgid "Replace an existing instance"
 msgstr ""
 
-#: notifier/main.cpp:67
+#: notifier/main.cpp:66
 #, kde-format
 msgid "Do not show the notifier"
 msgstr ""
 
-#: notifier/main.cpp:67
+#: notifier/main.cpp:66
 #, kde-format
 msgid "hidden"
 msgstr ""
