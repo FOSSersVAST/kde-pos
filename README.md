@@ -71,6 +71,8 @@ NOTE: Don't make any change directly in KDE upstream branch. If doing so, make s
   svn commit -m 'Update malayalam'
   ```
 
+Steps till Weblate pull can be done periodically to keep Weblate POs up-to-date with upstream.
+
 ## Adding a new component
 
 Copy file from upstream to corresponding one in `l10n-kf5` folder.
