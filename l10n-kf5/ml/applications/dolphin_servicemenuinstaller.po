@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-07-22 02:24+0200\n"
-"PO-Revision-Date: 2019-12-12 21:17+0000\n"
-"Last-Translator: Preyas Prathap <preyasprathap@protonmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2020-01-21 17:27+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,22 +22,22 @@ msgstr ""
 #: servicemenuinstaller.cpp:37
 #, kde-format
 msgid "Dolphin service menu installation failed"
-msgstr "ഡോൾഫിൻ സേവന പട്ടിക സ്ഥാപിക്കല്‍ പരാജയപ്പെട്ടു"
+msgstr "ഡോൾഫിൻ സേവന മെനു ഇൻസ്റ്റാളേഷൻ പരാജയപ്പെട്ടു"
 
 #: servicemenuinstaller.cpp:94
 #, kde-format
 msgid "Unsupported archive type %1: %2"
-msgstr ""
+msgstr "പിന്തുണയ്‌ക്കാത്ത ആർക്കൈവ് തരം %1:%2"
 
 #: servicemenuinstaller.cpp:103
 #, kde-format
 msgid "Failed to run uncompressor command for %1"
-msgstr ""
+msgstr "%1 നായി കംപ്രസ്സർ കമാൻഡ് പ്രവർത്തിപ്പിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #: servicemenuinstaller.cpp:108
 #, kde-format
 msgid "Process did not finish in reasonable time: %1 %2"
-msgstr ""
+msgstr "പ്രോസസ്സ് ന്യായമായ സമയത്ത് പൂർത്തിയായില്ല: %1 %2"
 
 #: servicemenuinstaller.cpp:112
 #, kde-format
