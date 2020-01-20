@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-25 02:53+0000\n"
+"POT-Creation-Date: 2020-01-16 02:52+0000\n"
 "PO-Revision-Date: 2019-12-23 17:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Plasma Network Management module"
 msgstr "പ്ലാസ്മ ശൃംഖല നടത്തിപ്പ്‌ മൊഡ്യൂൾ"
 
-#: kded/networkmanagement.desktop:28
+#: kded/networkmanagement.desktop:30
 msgctxt "Comment"
 msgid "Provides secrets to the NetworkManager daemon"
 msgstr ""
@@ -132,6 +132,11 @@ msgstr ""
 #: kded/networkmanagement.notifyrc:801
 msgctxt "Name"
 msgid "Captive portal detected"
+msgstr ""
+
+#: kded/networkmanagement.notifyrc:843
+msgctxt "Name"
+msgid "Failed to create hotspot"
 msgstr ""
 
 #: libs/editor/plasma-networkmanagement-vpnuiplugin.desktop:4

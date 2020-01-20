@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-19 03:33+0100\n"
+"POT-Creation-Date: 2020-01-16 03:42+0100\n"
 "PO-Revision-Date: 2019-12-29 06:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -91,33 +91,48 @@ msgstr "ശൃംഖലയുടെ പ്രവേശന താള്‍ തു
 msgid "Password..."
 msgstr "രഹസ്യവാക്കു്..."
 
-#: contents/ui/Toolbar.qml:71
+#: contents/ui/Toolbar.qml:76
 #, kde-format
 msgid "Enable wireless"
 msgstr ""
 
-#: contents/ui/Toolbar.qml:85
+#: contents/ui/Toolbar.qml:90
 #, kde-format
 msgid "Enable mobile network"
 msgstr "മൊബൈൽ ശൃംഖല പ്രവര്‍ത്തനസജ്ജമാക്കുക"
 
-#: contents/ui/Toolbar.qml:101
+#: contents/ui/Toolbar.qml:106
 #, kde-format
 msgid "Enable airplane mode"
 msgstr ""
 
-#: contents/ui/Toolbar.qml:130
+#: contents/ui/Toolbar.qml:142
+#, kde-format
+msgid "Hotspot"
+msgstr ""
+
+#: contents/ui/Toolbar.qml:163 contents/ui/Toolbar.qml:174
+#, kde-format
+msgid "Disable Hotspot"
+msgstr ""
+
+#: contents/ui/Toolbar.qml:168 contents/ui/Toolbar.qml:174
+#, kde-format
+msgid "Create Hotspot"
+msgstr ""
+
+#: contents/ui/Toolbar.qml:188
 #, kde-format
 msgctxt "button tooltip"
 msgid "Search the connections"
 msgstr "ബന്ധങ്ങള്‍ തിരയുക"
 
-#: contents/ui/Toolbar.qml:137
+#: contents/ui/Toolbar.qml:202
 #, kde-format
 msgid "Configure network connections..."
 msgstr "ശൃംഖലയുടെ ബന്ധങ്ങള്‍ ക്രമീകരിക്കുക..."
 
-#: contents/ui/Toolbar.qml:158
+#: contents/ui/Toolbar.qml:223
 #, kde-format
 msgctxt "text field placeholder text"
 msgid "Search..."

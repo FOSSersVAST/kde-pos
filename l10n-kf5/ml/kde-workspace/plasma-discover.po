@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-01 03:37+0100\n"
+"POT-Creation-Date: 2020-01-18 03:40+0100\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -90,54 +90,59 @@ msgstr "ലഭ്യമായ എല്ലാ ബാക്കെൻഡുകള�
 msgid "Search string."
 msgstr "സ്ട്രിംഗ് തിരയുക."
 
-#: discover/main.cpp:56
+#: discover/main.cpp:55
+#, kde-format
+msgid "Lists the available options for user feedback"
+msgstr ""
+
+#: discover/main.cpp:57
 #, kde-format
 msgid "Supports appstream: url scheme"
 msgstr "ആപ്സ്ട്രീം പിന്തുണയ്ക്കുന്നു: url പദ്ധതി"
 
-#: discover/main.cpp:100 discover/qml/DiscoverWindow.qml:57
+#: discover/main.cpp:101 discover/qml/DiscoverWindow.qml:58
 #, kde-format
 msgid "Discover"
 msgstr "ഡിസ്കവർ "
 
-#: discover/main.cpp:100
+#: discover/main.cpp:101
 #, kde-format
 msgid "An application explorer"
 msgstr "ഒരു ആപ്ലിക്കേഷൻ പരിവേക്ഷക"
 
-#: discover/main.cpp:101
+#: discover/main.cpp:102
 #, kde-format
 msgid "© 2010-2019 Plasma Development Team"
 msgstr "© 2010-2019 പ്ലാസ്മ വികസന ടീം"
 
-#: discover/main.cpp:102
+#: discover/main.cpp:103
 #, kde-format
 msgid "Aleix Pol Gonzalez"
 msgstr ""
 
-#: discover/main.cpp:103
+#: discover/main.cpp:104
 #, kde-format
 msgid "Jonathan Thomas"
 msgstr "ജോനാഥൻ  തോമസ് "
 
-#: discover/main.cpp:108
+#: discover/main.cpp:109
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "നിസരി കെ കെ,പ്രേയസ് പ്രതാപ് "
 
-#: discover/main.cpp:109
+#: discover/main.cpp:110
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "nisarikoolath@gmail.com,preyasprathap@yahoo.com"
 
-#: discover/main.cpp:121
+#: discover/main.cpp:122
 #, kde-format
 msgid "Available backends:\n"
 msgstr "ലഭ്യമായ ബാക്കെൻഡുകൾ:\n"
 
-#: discover/main.cpp:157
+#: discover/main.cpp:158
 #, kde-format
 msgid "Available modes:\n"
 msgstr "ലഭ്യമായ രീതികൾ:\n"
@@ -172,9 +177,9 @@ msgstr "ഒരു പുതിയ %1 സംഭരണി കൂട്ടിച്
 msgid "Add"
 msgstr "കൂട്ടിച്ചേര്‍ക്കുക"
 
-#: discover/qml/AddSourceDialog.qml:86 discover/qml/DiscoverWindow.qml:243
+#: discover/qml/AddSourceDialog.qml:86 discover/qml/DiscoverWindow.qml:244
 #: discover/qml/InstallApplicationButton.qml:33
-#: discover/qml/SourcesPage.qml:136 discover/qml/UpdatesPage.qml:104
+#: discover/qml/SourcesPage.qml:137 discover/qml/UpdatesPage.qml:104
 #, kde-format
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
@@ -367,122 +372,122 @@ msgstr "തിരഞ്ഞെടുത്ത താളിലേക്ക് മ�
 msgid "Running as <em>root</em> is discouraged and unnecessary."
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:66
+#: discover/qml/DiscoverWindow.qml:67
 #, kde-format
 msgid "Search"
 msgstr "തിരയുക"
 
-#: discover/qml/DiscoverWindow.qml:74 discover/qml/InstalledPage.qml:16
+#: discover/qml/DiscoverWindow.qml:75 discover/qml/InstalledPage.qml:16
 #, kde-format
 msgid "Installed"
 msgstr "ഇൻസ്റ്റാളുചെയ്‌തു"
 
-#: discover/qml/DiscoverWindow.qml:81
+#: discover/qml/DiscoverWindow.qml:82
 #, kde-format
 msgid "Fetching Updates..."
 msgstr "അപ്‌ഡേറ്റുകൾ നേടുന്നു..."
 
-#: discover/qml/DiscoverWindow.qml:81
+#: discover/qml/DiscoverWindow.qml:82
 #, kde-format
 msgid "Up to Date"
 msgstr "കാലികമാണ്"
 
-#: discover/qml/DiscoverWindow.qml:81
+#: discover/qml/DiscoverWindow.qml:82
 #, kde-format
 msgctxt "Update section name"
 msgid "Update (%1)"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:88
+#: discover/qml/DiscoverWindow.qml:89
 #, kde-format
 msgid "About"
 msgstr "ഇതിനെ കുറിച്ച്"
 
-#: discover/qml/DiscoverWindow.qml:95 discover/qml/SourcesPage.qml:12
+#: discover/qml/DiscoverWindow.qml:96 discover/qml/SourcesPage.qml:12
 #, kde-format
 msgid "Settings"
 msgstr "സജ്ജീകരണങ്ങള്‍"
 
-#: discover/qml/DiscoverWindow.qml:135
+#: discover/qml/DiscoverWindow.qml:136
 #, kde-format
 msgid "Sorry..."
 msgstr "ക്ഷമിക്കണം..."
 
-#: discover/qml/DiscoverWindow.qml:138
+#: discover/qml/DiscoverWindow.qml:139
 #, kde-format
 msgid "Could not close Discover, there are tasks that need to be done."
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:138
+#: discover/qml/DiscoverWindow.qml:139
 #, kde-format
 msgid "Quit Anyway"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:140
+#: discover/qml/DiscoverWindow.qml:141
 #, kde-format
 msgid "Unable to find resource: %1"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:225
+#: discover/qml/DiscoverWindow.qml:226
 #, kde-format
 msgid "Show all"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:225
+#: discover/qml/DiscoverWindow.qml:226
 #, kde-format
 msgid "Hide"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:231 discover/qml/SourcesPage.qml:126
+#: discover/qml/DiscoverWindow.qml:232 discover/qml/SourcesPage.qml:127
 #, kde-format
 msgid "Proceed"
 msgstr ""
 
-#: discover/qml/Feedback.qml:10
+#: discover/qml/Feedback.qml:11
 #, kde-format
 msgid "Submit usage information"
 msgstr ""
 
-#: discover/qml/Feedback.qml:11
+#: discover/qml/Feedback.qml:12
 #, kde-format
 msgid ""
 "Sends anonymized usage information to KDE so we can better understand our "
 "users. For more information see https://kde.org/privacypolicy-apps.php."
 msgstr ""
 
-#: discover/qml/Feedback.qml:14
+#: discover/qml/Feedback.qml:15
 #, kde-format
 msgid "Submitting usage information..."
 msgstr ""
 
-#: discover/qml/Feedback.qml:14
+#: discover/qml/Feedback.qml:15
 #, kde-format
 msgid "Configure"
 msgstr "ക്രമീകരിക്കുക"
 
-#: discover/qml/Feedback.qml:18
+#: discover/qml/Feedback.qml:19
 #, kde-format
 msgid "Configure feedback..."
 msgstr ""
 
-#: discover/qml/Feedback.qml:47
+#: discover/qml/Feedback.qml:48
 #, kde-format
 msgid ""
 "You can help us improving this application by sharing statistics and "
 "participate in surveys."
 msgstr ""
 
-#: discover/qml/Feedback.qml:47
+#: discover/qml/Feedback.qml:48
 #, kde-format
 msgid "Contribute..."
 msgstr ""
 
-#: discover/qml/Feedback.qml:52
+#: discover/qml/Feedback.qml:53
 #, kde-format
 msgid "We are looking for your feedback!"
 msgstr ""
 
-#: discover/qml/Feedback.qml:52
+#: discover/qml/Feedback.qml:53
 #, kde-format
 msgid "Participate..."
 msgstr ""
@@ -534,101 +539,108 @@ msgctxt "TransactioName - TransactionStatus"
 msgid "%1 - %2"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:36
-#, kde-format
-msgid "<em>Tell us about this review!</em>"
-msgstr ""
-
-#: discover/qml/ReviewDelegate.qml:37
-#, kde-format
-msgid "<em>%1 out of %2 people found this review useful</em>"
-msgstr ""
-
-#: discover/qml/ReviewDelegate.qml:66
+#: discover/qml/ReviewDelegate.qml:94
 #, kde-format
 msgid "unknown reviewer"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:67
+#: discover/qml/ReviewDelegate.qml:95
 #, kde-format
 msgid "<b>%1</b> by %2"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:67
+#: discover/qml/ReviewDelegate.qml:95
 #, kde-format
 msgid "Comment by %1"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:92
+#: discover/qml/ReviewDelegate.qml:144
 #, kde-format
-msgid "<em>Useful? <a href='true'><b>Yes</b></a>/<a href='false'>No</a></em>"
+msgid "Votes: %1 out of %2"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:95
+#: discover/qml/ReviewDelegate.qml:152
 #, kde-format
-msgid "<em>Useful? <a href='true'>Yes</a>/<a href='false'><b>No</b></a></em>"
+msgid "Useful?"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:98
+#: discover/qml/ReviewDelegate.qml:164
 #, kde-format
-msgid "<em>Useful? <a href='true'>Yes</a>/<a href='false'>No</a></em>"
+msgctxt "Keep this string as short as humanly possible"
+msgid "Yes"
 msgstr ""
 
-#: discover/qml/ReviewDialog.qml:22
+#: discover/qml/ReviewDelegate.qml:180
 #, kde-format
-msgid "Reviewing '%1'"
+msgctxt "Keep this string as short as humanly possible"
+msgid "No"
 msgstr ""
 
-#: discover/qml/ReviewDialog.qml:23
+#: discover/qml/ReviewDialog.qml:28
+#, fuzzy, kde-format
+#| msgid "Reviews"
+msgid "Reviewing %1"
+msgstr "അവലോകനങ്ങൾ"
+
+#: discover/qml/ReviewDialog.qml:37
 #, kde-format
 msgid "Rating:"
 msgstr ""
 
-#: discover/qml/ReviewDialog.qml:33
-#, kde-kuit-format
-msgctxt "@info"
-msgid "Submission name:<nl/>%1"
-msgstr ""
+#: discover/qml/ReviewDialog.qml:41
+#, fuzzy, kde-format
+#| msgid "Name"
+msgid "Name:"
+msgstr "പേര്"
 
-#: discover/qml/ReviewDialog.qml:35
+#: discover/qml/ReviewDialog.qml:49
 #, kde-format
 msgid "Title:"
 msgstr "തലക്കെട്ട്:"
 
-#: discover/qml/ReviewDialog.qml:41
-#, kde-format
-msgid "Review:"
-msgstr ""
-
-#: discover/qml/ReviewDialog.qml:54
+#: discover/qml/ReviewDialog.qml:68
 #, kde-format
 msgid "Enter a rating"
 msgstr ""
 
-#: discover/qml/ReviewDialog.qml:55
-#, kde-format
-msgid "Write a title"
-msgstr ""
+#: discover/qml/ReviewDialog.qml:69
+#, fuzzy, kde-format
+#| msgid "Write a review!"
+msgid "Write the title"
+msgstr "ഒരു അവലോകനം എഴുതുക!"
 
-#: discover/qml/ReviewDialog.qml:56
+#: discover/qml/ReviewDialog.qml:70
+#, fuzzy, kde-format
+#| msgid "Write a review!"
+msgid "Write the review"
+msgstr "ഒരു അവലോകനം എഴുതുക!"
+
+#: discover/qml/ReviewDialog.qml:71
 #, kde-format
 msgid "Keep writing..."
 msgstr ""
 
-#: discover/qml/ReviewDialog.qml:57
+#: discover/qml/ReviewDialog.qml:72
 #, kde-format
 msgid "Too long!"
 msgstr ""
 
-#: discover/qml/ReviewDialog.qml:58
+#: discover/qml/ReviewDialog.qml:86
 #, kde-format
 msgid "Submit review"
 msgstr ""
 
-#: discover/qml/ReviewsPage.qml:67
-#, kde-format
-msgid "Review..."
-msgstr ""
+#: discover/qml/ReviewsPage.qml:69
+#, fuzzy, kde-format
+#| msgid "Write a review!"
+msgid "Write a Review..."
+msgstr "ഒരു അവലോകനം എഴുതുക!"
+
+#: discover/qml/ReviewsPage.qml:75
+#, fuzzy, kde-format
+#| msgid "Install this app to write a review!"
+msgid "Install this app to write a review"
+msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
 
 #: discover/qml/SearchField.qml:41
 #, kde-format
@@ -640,47 +652,47 @@ msgstr "തിരയുക..."
 msgid "Search in '%1'..."
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:37
+#: discover/qml/SourcesPage.qml:38
 #, kde-format
 msgid "%1 (Default)"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:54
+#: discover/qml/SourcesPage.qml:55
 #, kde-format
 msgid "Add Source..."
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:78
+#: discover/qml/SourcesPage.qml:79
 #, kde-format
 msgid "Make default"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:170
+#: discover/qml/SourcesPage.qml:171
 #, kde-format
 msgid "Failed to increase '%1' preference"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:180
+#: discover/qml/SourcesPage.qml:181
 #, kde-format
 msgid "Failed to decrease '%1' preference"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:185
+#: discover/qml/SourcesPage.qml:186
 #, kde-format
 msgid "Delete the origin"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:190
+#: discover/qml/SourcesPage.qml:191
 #, kde-format
 msgid "Failed to remove the source '%1'"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:196
+#: discover/qml/SourcesPage.qml:197
 #, kde-format
 msgid "Show contents"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:235
+#: discover/qml/SourcesPage.qml:236
 #, kde-format
 msgid "Missing Backends"
 msgstr ""
