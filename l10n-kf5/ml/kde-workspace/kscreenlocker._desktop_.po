@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop files\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-14 02:51+0000\n"
+"PO-Revision-Date: 2018-10-21 02:00+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:2
+msgctxt "Name"
+msgid "Password dialog"
+msgstr ""
+
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:47
+msgctxt "Comment"
+msgid ""
+"Screen locker that provides a password dialog and an interface to switch the "
+"current user"
+msgstr ""
+
+#: kcm/screenlocker.desktop:13
+msgctxt "Name"
+msgid "Screen Locking"
+msgstr ""
+
+#: kcm/screenlocker.desktop:57
+msgctxt "Comment"
+msgid "Configure screen locking"
+msgstr ""
+
+#: kcm/screenlocker.desktop:89
+msgctxt "X-KDE-Keywords"
+msgid "lock,resume, screensaver, screenlock"
+msgstr ""
+
+#: kscreenlocker.notifyrc:3
+msgctxt "Comment"
+msgid "Screen Saver"
+msgstr ""
+
+#: kscreenlocker.notifyrc:49
+msgctxt "Name"
+msgid "Screen locked"
+msgstr ""
+
+#: kscreenlocker.notifyrc:94
+msgctxt "Comment"
+msgid "The screen has been locked"
+msgstr ""
+
+#: kscreenlocker.notifyrc:141
+msgctxt "Name"
+msgid "Screen unlocked"
+msgstr ""
+
+#: kscreenlocker.notifyrc:186
+msgctxt "Comment"
+msgid "The screen has been unlocked"
+msgstr ""

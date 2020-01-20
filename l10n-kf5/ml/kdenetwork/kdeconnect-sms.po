@@ -1,0 +1,153 @@
+# Malayalam translations for kdeconnect-kde package.
+# Copyright (C) 2020 This file is copyright:
+# This file is distributed under the same license as the kdeconnect-kde package.
+# Automatically generated, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeconnect-kde\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-13 03:16+0100\n"
+"PO-Revision-Date: 2020-01-13 03:16+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: SMC <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: conversationlistmodel.cpp:185 conversationmodel.cpp:135
+#, kde-format
+msgid "(Unsupported Message Type)"
+msgstr ""
+
+#: conversationlistmodel.cpp:189
+#, kde-format
+msgid "You: %1"
+msgstr ""
+
+#: conversationlistmodel.cpp:195
+#, kde-format
+msgid "%1: %2"
+msgstr ""
+
+#: main.cpp:39
+#, kde-format
+msgid "SMS Instant Messaging"
+msgstr ""
+
+#: main.cpp:41 qml/main.qml:35
+#, kde-format
+msgid "KDE Connect SMS"
+msgstr ""
+
+#: main.cpp:43
+#, kde-format
+msgid "(C) 2018-2019, KDE Connect Team"
+msgstr ""
+
+#: main.cpp:44
+#, kde-format
+msgid "Simon Redman"
+msgstr ""
+
+#: main.cpp:45
+#, kde-format
+msgid "Aleix Pol Gonzalez"
+msgstr ""
+
+#: main.cpp:46
+#, kde-format
+msgid "Nicolas Fella"
+msgstr ""
+
+#: main.cpp:54
+#, kde-format
+msgid "Select a device"
+msgstr ""
+
+#: main.cpp:54
+#, kde-format
+msgid "id"
+msgstr ""
+
+#: main.cpp:55
+#, kde-format
+msgid "Send a message"
+msgstr ""
+
+#: main.cpp:55
+#, kde-format
+msgid "message"
+msgstr ""
+
+#: qml/ChatMessage.qml:122
+#, kde-format
+msgid "Copy Message"
+msgstr ""
+
+#: qml/ChatMessage.qml:150
+#, kde-format
+msgid "Spoiler"
+msgstr ""
+
+#: qml/ChatMessage.qml:190
+#, kde-format
+msgid "Download"
+msgstr ""
+
+#: qml/ConversationDisplay.qml:199
+#, kde-format
+msgid "Replying to multitarget messages is not supported"
+msgstr ""
+
+#: qml/ConversationDisplay.qml:199
+#, kde-format
+msgid "Compose message"
+msgstr ""
+
+#: qml/ConversationList.qml:38 qml/ConversationList.qml:94
+#, kde-format
+msgid "No devices available"
+msgstr ""
+
+#: qml/ConversationList.qml:48
+#, kde-format
+msgid ""
+"No new messages can be sent or received, but you can browse cached content"
+msgstr ""
+
+#: qml/ConversationList.qml:54
+#, kde-format
+msgid "Refresh"
+msgstr ""
+
+#: qml/ConversationList.qml:80
+#, kde-format
+msgid "Choose recipient"
+msgstr ""
+
+#: qml/ConversationList.qml:85
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: qml/ConversationList.qml:140
+#, kde-format
+msgid "Filter..."
+msgstr ""
+
+#: qml/main.qml:50
+#, kde-format
+msgid "About..."
+msgstr ""
