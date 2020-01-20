@@ -51,7 +51,7 @@ weblate loadpo kde
 
 NOTE: Don't make any change directly in KDE upstream branch. If doing so, make sure to update the PO file in this repo's `l10n-kf5` folder too.
 
-* In `upstream/l10n-kf5/ml`, do `svn update`
+* In `upstream/l10n-kf5-trunk/ml`, do `svn update`
 * Copy files from upstream to this repo's `l10n-kf5` (This will only `cp` files that are in this repo from upstream)
   ```bash
   copy-from-upstream.sh

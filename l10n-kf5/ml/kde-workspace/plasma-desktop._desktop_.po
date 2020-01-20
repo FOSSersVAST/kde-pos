@@ -1,0 +1,1731 @@
+# Translation of desktop_kdebase to Malayalam
+# Copyright (C) 2008-2010 This_file_is_part_of_KDE
+# This file is distributed under the same license as the desktop_kdebase package.
+# Santhosh Thottingal <santhosh.thottingal@gmail.com>, 2008.
+# Ani Peter <peter.ani@gmail.com>, 2008.
+# Hari Vishnu <harivishnu@gmail.com>, 2008.
+# SANKARANARAYANAN <snalledam@dataone.in>, 2009.
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008, 2009, 2010.
+# seshagiri prabhu <seshagiriprabhu@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-01-20 02:50+0000\n"
+"PO-Revision-Date: 2019-12-14 15:04+0530\n"
+"Last-Translator: Saranya P S <amminiperumbilly@gmail.com>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: applets/icontasks/metadata.desktop:2
+msgctxt "Name"
+msgid "Icons-only Task Manager"
+msgstr "ചിഹ്നങ്ങൾക്കായുള്ള ടാസ്ക് മാനേജര്‍"
+
+#: applets/icontasks/metadata.desktop:50
+#: applets/taskmanager/package/metadata.desktop:83
+msgctxt "Comment"
+msgid "Switch between running applications"
+msgstr "പ്രവര്‍ത്തിക്കുന്ന പ്രവര്‍ത്തങ്ങള്‍ തമ്മില്‍ മാറുക"
+
+#: applets/kicker/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Menu"
+msgstr "പ്രയോഗസൂചിക"
+
+#: applets/kicker/package/metadata.desktop:54
+msgctxt "Comment"
+msgid "A launcher based on cascading popup menus"
+msgstr ""
+
+#: applets/kickoff/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Application Launcher"
+msgstr "പ്രയോഗവിക്ഷേപിണി"
+
+#: applets/kickoff/package/metadata.desktop:88
+msgctxt "Comment"
+msgid "Launcher to start applications"
+msgstr "പ്രയോഗങ്ങള്‍ ആരംഭിക്കുന്നതിനു് സഹായിക്കുന്ന സംവിധാനം"
+
+#: applets/kimpanel/backend/ibus/emojier/org.kde.plasma.emojier.desktop:3
+msgctxt "Name"
+msgid "Emoji Selector"
+msgstr ""
+
+#: applets/kimpanel/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Input Method Panel"
+msgstr ""
+
+#: applets/kimpanel/package/metadata.desktop:43
+msgctxt "Comment"
+msgid "A generic input method panel"
+msgstr ""
+
+#: applets/kimpanel/package/metadata.desktop:83
+msgctxt "Keywords"
+msgid "Input;IM;"
+msgstr ""
+
+#: applets/minimizeall/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Minimize all Windows"
+msgstr "എല്ലാ ജാലകങ്ങളും ചെറുതാക്കുക"
+
+#: applets/minimizeall/package/metadata.desktop:34
+msgctxt "Comment"
+msgid "Shows the desktop by minimizing all windows"
+msgstr ""
+
+#: applets/pager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Pager"
+msgstr "പേജര്‍"
+
+#: applets/pager/package/metadata.desktop:85
+msgctxt "Comment"
+msgid "Switch between virtual desktops"
+msgstr "വര്‍ച്ചുവല്‍ പണിയിടങ്ങള്‍ തമ്മില്‍ മാറുക"
+
+#: applets/showActivityManager/package/metadata.desktop:2
+#: kcms/activities/kcm_activities.desktop:15
+msgctxt "Name"
+msgid "Activities"
+msgstr "പ്രവര്‍ത്തികള്‍"
+
+#: applets/showActivityManager/package/metadata.desktop:63
+#, fuzzy
+msgctxt "Comment"
+msgid "Shows the activity manager"
+msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
+
+#: applets/showdesktop/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Show Desktop"
+msgstr "പണിയിടം കാണിക്കുക"
+
+#: applets/showdesktop/package/metadata.desktop:35
+msgctxt "Comment"
+msgid "Show the Plasma desktop"
+msgstr "പ്ലാസ്മ പണിയിടം കാണിക്കുക"
+
+#: applets/taskmanager/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Task Manager"
+msgstr "ടാസ്ക് മാനേജര്‍"
+
+#: applets/trash/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Trashcan"
+msgstr "ചവറ്റുകുട്ട"
+
+#: applets/trash/package/metadata.desktop:81
+msgctxt "Comment"
+msgid "Provides access to the files sent to trash"
+msgstr ""
+
+#: applets/window-list/metadata.desktop:2
+msgctxt "Name"
+msgid "Window list"
+msgstr "ജാലകപട്ടിക"
+
+#: applets/window-list/metadata.desktop:54
+msgctxt "Comment"
+msgid "Plasmoid to show list of opened windows."
+msgstr "തുറന്ന ജാലകങ്ങളുടെ പട്ടിക കാണിയ്ക്കാനുള്ള പ്ലാസ്മോയിഡ്."
+
+#: containments/desktop/package/metadata.desktop:2
+#: desktoppackage/metadata.desktop:46
+msgctxt "Name"
+msgid "Desktop"
+msgstr "പണിയിടം"
+
+#: containments/desktop/package/metadata.desktop:91
+msgctxt "Comment"
+msgid "A clean and simple layout"
+msgstr ""
+
+#: containments/folder/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Folder View"
+msgstr "അക്ഷരസഞ്ചയദര്‍ശിനി"
+
+#: containments/folder/metadata.desktop:47
+msgctxt "Comment"
+msgid "Display the contents of folders"
+msgstr ""
+
+#: containments/panel/metadata.desktop:3
+#, fuzzy
+msgctxt "Name"
+msgid "Panel"
+msgstr "പാളി"
+
+#: containments/panel/plasma-containment-panel.desktop:2
+#: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Empty Panel"
+msgstr "പാളി"
+
+#: containments/panel/plasma-containment-panel.desktop:55
+msgctxt "Comment"
+msgid "A simple linear panel"
+msgstr ""
+
+#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:2
+msgctxt "Name"
+msgid "DataEngine for Kimpanel"
+msgstr ""
+
+#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:40
+msgctxt "Comment"
+msgid "DataEngine for Kimpanel"
+msgstr ""
+
+#: desktoppackage/metadata.desktop:2
+#, fuzzy
+msgctxt "Comment"
+msgid "Desktop view furniture"
+msgstr "പണിയിടം വലുതാക്കാന്‍"
+
+#: kaccess/kaccess.desktop:3
+msgctxt "Name"
+msgid "KDE Accessibility Tool"
+msgstr "കെഡിഇ സാമീപ്യതാ ഉപകരണം"
+
+#: kaccess/kaccess.notifyrc:3
+msgctxt "Comment"
+msgid "Accessibility"
+msgstr "സാമീപ്യത"
+
+#: kaccess/kaccess.notifyrc:96
+msgctxt "Name"
+msgid "A modifier key has become active"
+msgstr "ഒരു മോഡിഫയര്‍ കീ സജീവമായിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:173
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
+msgstr "ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട് അല്ലെങ്കില്‍ കണ്ട്രോള്‍) അവസ്ഥ മാറി സജീവമായിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:251
+msgctxt "Name"
+msgid "A modifier key has become inactive"
+msgstr "ഒരു മോഡിഫയര്‍ കീ നിര്‍ജീവമായിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:328
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
+msgstr "ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട് അല്ലെങ്കില്‍ കണ്ട്രോള്‍) അവസ്ഥ മാറി നിര്‍ജീവമായിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:406
+msgctxt "Name"
+msgid "A modifier key has been locked"
+msgstr "ഒരു മോഡിഫയര്‍ കീ പൂട്ടിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:484
+msgctxt "Comment"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
+"all of the following keypresses"
+msgstr ""
+"ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട്  അല്ലെങ്കില്‍ കണ്ട്രോള്‍) പൂട്ടിയിരിക്കുന്നു. നിലവില്‍ താഴെ പറയുന്ന "
+"കീപ്രെസ്സുകള്‍ക്കു് ഇതു് സജീവമാണു്"
+
+#: kaccess/kaccess.notifyrc:562
+msgctxt "Name"
+msgid "A lock key has been activated"
+msgstr "ഒരു ലോക്ക് കീ സജീവമാക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:641
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"active"
+msgstr ""
+"ഒരു ലോക്ക് കീ (ഉദാ. കാപ്സ് ലോക്ക് അല്ലെങ്കില്‍ നം ലോക്ക്) അവസ്ഥ മാറി സജീവമാക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:719
+msgctxt "Name"
+msgid "A lock key has been deactivated"
+msgstr "ഒരു ലോക്ക് കീ നിര്‍ജ്ജീവമാക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:798
+msgctxt "Comment"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"inactive"
+msgstr ""
+"ഒരു ലോക്ക് കീ (ഉദാ. കാപ്സ് ലോക്ക് അല്ലെങ്കില്‍ നം ലോക്ക്) അവസ്ഥ മാറി നിര്‍ജീവമായിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:876
+msgctxt "Name"
+msgid "Sticky keys has been enabled or disabled"
+msgstr "സ്റ്റിക്കി കീ പ്രവര്‍ത്തന സജ്ജം അല്ലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതം ആക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:951
+msgctxt "Comment"
+msgid "Sticky keys has been enabled or disabled"
+msgstr "സ്റ്റിക്കി കീ പ്രവര്‍ത്തന സജ്ജം അല്ലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതം ആക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:1031
+msgctxt "Name"
+msgid "Slow keys has been enabled or disabled"
+msgstr "സ്ലോ കീ പ്രവര്‍ത്തന സജ്ജമലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:1105
+msgctxt "Comment"
+msgid "Slow keys has been enabled or disabled"
+msgstr "സ്ലോ കീ പ്രവര്‍ത്തന സജ്ജമലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:1184
+msgctxt "Name"
+msgid "Bounce keys has been enabled or disabled"
+msgstr "ബൌണ്‍സ് കീ പ്രവര്‍ത്തന സജ്ജം അല്ലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതം ആക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:1259
+msgctxt "Comment"
+msgid "Bounce keys has been enabled or disabled"
+msgstr "ബൌണ്‍സ് കീ പ്രവര്‍ത്തന സജ്ജം അല്ലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതം ആക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:1339
+msgctxt "Name"
+msgid "Mouse keys has been enabled or disabled"
+msgstr "മൌസ് കീ പ്രവര്‍ത്തന സജ്ജം അല്ലെങ്കില്‍ പ്രവര്‍ത്തന രഹിതം ആക്കിയിരിക്കുന്നു"
+
+#: kaccess/kaccess.notifyrc:1414
+msgctxt "Comment"
+msgid "Mouse keys has been enabled or disabled"
+msgstr "മൌസ് കീ പ്രവര്‍ത്തന സജ്ജം അല്ല്ലെങ്കില്‍ പ്രവര്‍ത്തനരഹിതം ആക്കിയിരിക്കുന്നു"
+
+#: kcms/access/kcmaccess.desktop:17
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "പ്രാപ്യത"
+
+#: kcms/access/kcmaccess.desktop:111
+msgctxt "Comment"
+msgid "Accessibility Options"
+msgstr "പ്രാപ്യതാസാധ്യതകൾ"
+
+#: kcms/access/kcmaccess.desktop:160
+msgctxt "X-KDE-Keywords"
+msgid ""
+"access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
+"visible bell,visual bell,Keyboard,keys,sticky keys,bounce keys,slow keys,"
+"mouse navigation,num pad,numpad,activation gestures,gestures,sticky,modifier "
+"keys,modifier,locking keys"
+msgstr ""
+
+#: kcms/activities/kcm_activities.desktop:76
+msgctxt "Comment"
+msgid "Activities help you to focus on a specific task"
+msgstr ""
+
+#: kcms/autostart/autostart.desktop:14
+msgctxt "Name"
+msgid "Autostart"
+msgstr "ഓട്ടോസ്റ്റാര്‍ട്ട്"
+
+#: kcms/autostart/autostart.desktop:104
+msgctxt "Comment"
+msgid "Automatically Started Applications"
+msgstr "താനേ തുടങ്ങിയ പ്രയോഗങ്ങൾ"
+
+#: kcms/autostart/autostart.desktop:152
+msgctxt "X-KDE-Keywords"
+msgid "Autostart Manager,autostart,startup,system startup,plasma start,cron"
+msgstr ""
+
+#: kcms/baloo/kcm_baloofile.desktop:15
+msgctxt "Name"
+msgid "File Search"
+msgstr "ഫയൽ തിരയുക"
+
+#: kcms/baloo/kcm_baloofile.desktop:61
+msgctxt "Comment"
+msgid "Configure File Search"
+msgstr "ഫയൽ തിരച്ചിൽ ക്രമീകരിക്കുക"
+
+#: kcms/baloo/kcm_baloofile.desktop:107
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo"
+msgstr ""
+
+#: kcms/baloo/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Search"
+msgstr "തിരയുക"
+
+#: kcms/baloo/package/metadata.desktop:31
+msgctxt "Comment"
+msgid "Configure the File Indexer"
+msgstr "ഫയൽ സൂചിക ക്രമീകരിക്കുക"
+
+#: kcms/colors/colorschemes.knsrc:2
+#, fuzzy
+msgctxt "Name"
+msgid "Color Schemes"
+msgstr "കര്‍സര്‍ ഫയലുകള്‍"
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:2
+msgctxt "GenericName"
+msgid "Color scheme editor"
+msgstr ""
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:42
+msgctxt "Name"
+msgid "KColorSchemeEditor"
+msgstr ""
+
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:82
+msgctxt "Comment"
+msgid "Plasma color scheme editor"
+msgstr ""
+
+#: kcms/colors/kcm_colors.desktop:14 kcms/colors/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Colors"
+msgstr "നിറങ്ങള്‍"
+
+#: kcms/colors/kcm_colors.desktop:107 kcms/colors/package/metadata.desktop:94
+#, fuzzy
+msgctxt "Comment"
+msgid "Choose color scheme"
+msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+
+#: kcms/colors/kcm_colors.desktop:142
+msgctxt "X-KDE-Keywords"
+msgid ""
+"colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
+"theme"
+msgstr ""
+
+#: kcms/componentchooser/componentchooser.desktop:14
+msgctxt "Name"
+msgid "Default Applications"
+msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
+
+#: kcms/componentchooser/componentchooser.desktop:99
+#, fuzzy
+msgctxt "Comment"
+msgid "Default Applications"
+msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
+
+#: kcms/componentchooser/componentchooser.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid ""
+"default applications,components,component chooser,resources,e-mail,email "
+"client,text editor,instant messenger,terminal emulator,web browser,URL,"
+"hyperlinks"
+msgstr ""
+
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:4
+msgctxt "Name|standard desktop component"
+msgid "Web Browser"
+msgstr "വെബ് ബ്രൌസര്‍"
+
+#: kcms/componentchooser/componentservices/kcm_browser.desktop:76
+msgctxt "Comment"
+msgid ""
+"Here you can configure your default web browser. All KDE applications in "
+"which you can select hyperlinks should honor this setting."
+msgstr ""
+"നിങ്ങളുടെ സഹജമായ വെബ് ബ്രൌസര്‍ നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ഹൈപ്പര്‍കണ്ണികള്‍ തെരഞ്ഞെടുക്കാന്‍ "
+"സാധ്യമാകുന്ന എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
+
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:4
+#, fuzzy
+msgctxt "Name|standard desktop component"
+msgid "File Manager"
+msgstr "ടാസ്ക് മാനേജര്‍"
+
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:54
+msgctxt "Comment"
+msgid ""
+"Here you can configure your default file manager. The entries in the K menu "
+"and all KDE applications in which you can open folders will use this file "
+"manager."
+msgstr ""
+"നിങ്ങളുടെ സ്വാഭാവിക ഫയല്‍ കാര്യസ്ഥന്‍ നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. കെ വിഭവസൂചികയിലുള്ള "
+"ഇനങ്ങളും എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഈ ഫയല്‍ കാര്യസ്ഥന്‍ ഉപയോഗിക്കും."
+
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:4
+msgctxt "Name|standard desktop component"
+msgid "Email Client"
+msgstr "ഈമെയില്‍ ക്ലയന്റ്"
+
+#: kcms/componentchooser/componentservices/kcm_kemail.desktop:76
+msgctxt "Comment"
+msgid ""
+"This service allows you to configure your default email client. All KDE "
+"applications which need access to an email client application should honor "
+"this setting."
+msgstr ""
+"നിങ്ങളുടെ സഹജമായ ഇമെയില്‍ ക്ലയന്റ് നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ഇമെയില്‍ ക്ലയന്റ് "
+"ഉപയോഗിയ്ക്കാന്‍ ആവശ്യമുള്ള എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
+
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:4
+msgctxt "Name|standard desktop component"
+msgid "Terminal Emulator"
+msgstr "ടെര്‍മിനല്‍ എമുലേറ്റര്‍"
+
+#: kcms/componentchooser/componentservices/kcm_terminal.desktop:76
+msgctxt "Comment"
+msgid ""
+"This service allows you to configure your default terminal emulator. All KDE "
+"applications which invoke a terminal emulator application should honor this "
+"setting."
+msgstr ""
+"നിങ്ങളുടെ സഹജമായ ടെര്‍മിനലിന്റെ അനുകരണം നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ടെര്‍മിനലിന്റെ "
+"അനുകരണം തുടങ്ങാന്‍ ആവശ്യമുള്ള എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:13
+#: kcms/cursortheme/package/metadata.desktop:2
+#: kcms/cursortheme/xcursor/xcursor.knsrc:2
+#, fuzzy
+msgctxt "Name"
+msgid "Cursors"
+msgstr "കര്‍സര്‍ ഫയലുകള്‍"
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:56
+#: kcms/cursortheme/package/metadata.desktop:44
+#, fuzzy
+msgctxt "Comment"
+msgid "Choose mouse cursor theme"
+msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+
+#: kcms/cursortheme/kcm_cursortheme.desktop:89
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
+"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+msgstr ""
+
+#: kcms/dateandtime/clock.desktop:16
+msgctxt "Name"
+msgid "Date & Time"
+msgstr "തീയതിയും സമയവും"
+
+#: kcms/dateandtime/clock.desktop:109
+#, fuzzy
+msgctxt "Comment"
+msgid "Date and Time"
+msgstr "തീയതിയും സമയവും"
+
+#: kcms/dateandtime/clock.desktop:159
+msgctxt "X-KDE-Keywords"
+msgid ""
+"clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
+msgstr ""
+
+#: kcms/dateandtime/kcmclock_actions.actions:2
+msgctxt "Name"
+msgid "Date and Time Control Module"
+msgstr "തീയതിയും സമയവും നിയന്ത്രിയ്ക്കുന്ന ഭാഗം"
+
+#: kcms/dateandtime/kcmclock_actions.actions:74
+msgctxt "Name"
+msgid "Save the date/time settings"
+msgstr "തീയതിയുടെ/സമയത്തിന്റെ സജ്ജീകരണങ്ങള്‍ സൂക്ഷിയ്ക്കുക"
+
+#: kcms/dateandtime/kcmclock_actions.actions:142
+msgctxt "Description"
+msgid "System policies prevent you from saving the date/time settings."
+msgstr "സിസ്റ്റത്തിലെ നയങ്ങള്‍ തിയ്യതി/സമയം ക്രമീകരിയ്ക്കുന്നതില്‍ നിന്നും നിങ്ങളെ തടയുന്നു."
+
+#: kcms/desktoppaths/desktoppath.desktop:13
+#, fuzzy
+msgctxt "Name"
+msgid "Locations"
+msgstr "അറിയിപ്പുകള്‍ കൈകാര്യം ചെയ്യുക"
+
+#: kcms/desktoppaths/desktoppath.desktop:58
+msgctxt "Comment"
+msgid "Location for Personal Files"
+msgstr ""
+
+#: kcms/desktoppaths/desktoppath.desktop:101
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
+"autostart,downloads,music,documents,movies,pictures"
+msgstr ""
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:13
+#: kcms/desktoptheme/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Plasma Style"
+msgstr ""
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:45
+#, fuzzy
+msgctxt "Comment"
+msgid "Choose Plasma style"
+msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:77
+#, fuzzy
+msgctxt "X-KDE-Keywords"
+msgid "Desktop Theme,Plasma Theme"
+msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
+
+#: kcms/desktoptheme/package/metadata.desktop:34
+#, fuzzy
+msgctxt "Comment"
+msgid "Choose Plasma theme"
+msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+
+#: kcms/desktoptheme/plasma-themes.knsrc:2
+msgctxt "Name"
+msgid "Plasma Styles"
+msgstr ""
+
+#: kcms/emoticons/emoticons.desktop:13 kcms/emoticons/emoticons.knsrc:2
+msgctxt "Name"
+msgid "Emoticons"
+msgstr "വികാരചിഹ്നങ്ങള്‍"
+
+#: kcms/emoticons/emoticons.desktop:97
+#, fuzzy
+msgctxt "Comment"
+msgid "Choose emoticon theme"
+msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+
+#: kcms/emoticons/emoticons.desktop:130
+#, fuzzy
+msgctxt "X-KDE-Keywords"
+msgid "Emoticons"
+msgstr "വികാരചിഹ്നങ്ങള്‍"
+
+#: kcms/fonts/kcm_fonts.desktop:14 kcms/fonts/package/metadata.desktop:2
+#: kcms/kfontinst/kcmfontinst/kfontinst.knsrc:2
+#: kcms/kfontinst/kio/fonts.desktop:5
+msgctxt "Name"
+msgid "Fonts"
+msgstr "അക്ഷരസഞ്ചയങ്ങള്‍"
+
+#: kcms/fonts/kcm_fonts.desktop:107 kcms/fonts/package/metadata.desktop:95
+#, fuzzy
+msgctxt "Comment"
+msgid "Configure user interface fonts"
+msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍"
+
+#: kcms/fonts/kcm_fonts.desktop:141
+msgctxt "X-KDE-Keywords"
+msgid ""
+"fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
+"FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
+"toolbar fonts,character,general fonts"
+msgstr ""
+
+#: kcms/formats/formats.desktop:14
+msgctxt "Name"
+msgid "Formats"
+msgstr ""
+
+#: kcms/formats/formats.desktop:61
+msgctxt "Comment"
+msgid "Numeric, Currency and Time Formats"
+msgstr ""
+
+#: kcms/formats/formats.desktop:108
+msgctxt "X-KDE-Keywords"
+msgid ""
+"language,translation,number format,locale,Country,charsets,character sets,"
+"Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,"
+"currency,money,fractional digits,calendar,time,date,formats,week,week start,"
+"first,paper,size,letter,A4,measure,metric,English,Imperial"
+msgstr ""
+
+#: kcms/hardware/joystick/joystick.desktop:17
+#, fuzzy
+msgctxt "Comment"
+msgid "Calibrate Game Controller"
+msgstr "തീയതിയും സമയവും നിയന്ത്രിയ്ക്കുന്ന ഭാഗം"
+
+#: kcms/hardware/joystick/joystick.desktop:47
+#, fuzzy
+msgctxt "Name"
+msgid "Game Controller"
+msgstr "തീയതിയും സമയവും നിയന്ത്രിയ്ക്കുന്ന ഭാഗം"
+
+#: kcms/hardware/joystick/joystick.desktop:79
+msgctxt "X-KDE-Keywords"
+msgid "joystick,gamepad,controller"
+msgstr ""
+
+#: kcms/icons/icons.knsrc:2 kcms/icons/kcm_icons.desktop:14
+#: kcms/icons/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Icons"
+msgstr "ചിഹ്നങ്ങള്‍"
+
+#: kcms/icons/kcm_icons.desktop:107 kcms/icons/package/metadata.desktop:94
+#, fuzzy
+msgctxt "Comment"
+msgid "Choose icon theme"
+msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+
+#: kcms/icons/kcm_icons.desktop:140
+msgctxt "X-KDE-Keywords"
+msgid "icons,effects,size,hicolor,locolor"
+msgstr ""
+
+#: kcms/input/mouse.desktop:16 kcms/mouse/mouse.desktop:16
+msgctxt "Name"
+msgid "Mouse"
+msgstr "മൌസ്"
+
+#: kcms/input/mouse.desktop:109 kcms/mouse/mouse.desktop:109
+msgctxt "Comment"
+msgid "Mouse Controls"
+msgstr ""
+
+#: kcms/input/mouse.desktop:156
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,Double "
+"Click,Single Click,mapping,right handed,left handed,Pointer Device,Mouse "
+"Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,"
+"Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
+msgstr ""
+
+#: kcms/kded/kcmkded.desktop:14 kcms/kded/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Background Services"
+msgstr ""
+
+#: kcms/kded/kcmkded.desktop:59 kcms/kded/package/metadata.desktop:47
+#, fuzzy
+msgctxt "Comment"
+msgid "Configure background services"
+msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍"
+
+#: kcms/kded/kcmkded.desktop:73
+#, fuzzy
+msgctxt "X-KDE-Keywords"
+msgid "KDED,Daemon,Services"
+msgstr "ഡോള്‍ഫിന്‍ സേവനങ്ങള്‍"
+
+#: kcms/keyboard/kcm_keyboard.desktop:17
+msgctxt "Name"
+msgid "Keyboard"
+msgstr "കീബോര്‍ഡ്"
+
+#: kcms/keyboard/kcm_keyboard.desktop:109
+#, fuzzy
+msgctxt "Comment"
+msgid "Keyboard Hardware and Layout"
+msgstr "കീബോര്‍ഡ് വിന്യാസം"
+
+#: kcms/keyboard/kcm_keyboard.desktop:156
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
+"NumPad,Keyboard type,Keyboard model,Keyboard layout,Key layout,Language,"
+"Alternate Keyboard,Keyboard switching,Ctrl Key,Caps Lock,Esperanto,"
+"Circumflex,Kill X Server,LED Keyboard,Compose Key"
+msgstr ""
+
+#: kcms/keyboard/keyboard.desktop:11
+#, fuzzy
+msgctxt "Name"
+msgid "Keyboard Daemon"
+msgstr "കീബോര്‍ഡ് വിന്യാസം"
+
+#: kcms/keyboard/keyboard.desktop:75
+msgctxt "Comment"
+msgid "Enables switching keyboard layout through shortcuts or system tray"
+msgstr ""
+
+#: kcms/keys/keys.desktop:14
+#, fuzzy
+msgctxt "Name"
+msgid "Global Shortcuts"
+msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
+
+#: kcms/keys/keys.desktop:57
+#, fuzzy
+msgctxt "Comment"
+msgid "Global Keyboard Shortcuts"
+msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
+
+#: kcms/keys/keys.desktop:105
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts,global shortcuts"
+msgstr ""
+
+#: kcms/kfontinst/apps/installfont.desktop:7
+msgctxt "Name"
+msgid "Install..."
+msgstr "ഇന്‍‌സ്റ്റോള്‍ ചെയ്യുക..."
+
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:2
+msgctxt "Name"
+msgid "KFontView"
+msgstr "കെഫോണ്ട്‌വ്യൂ"
+
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:97
+msgctxt "GenericName"
+msgid "Font Viewer"
+msgstr "അക്ഷരസഞ്ചയദര്‍ശിനി"
+
+#: kcms/kfontinst/dbus/fontinst.actions:2
+msgctxt "Name"
+msgid "Font Installer"
+msgstr "അക്ഷരസഞ്ചയ ഇന്‍സ്റ്റാളര്‍"
+
+#: kcms/kfontinst/dbus/fontinst.actions:96
+msgctxt "Name"
+msgid "Manage system-wide fonts."
+msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍."
+
+#: kcms/kfontinst/dbus/fontinst.actions:163
+msgctxt "Description"
+msgid "Modifying the system-wide font configuration requires privileges."
+msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ ക്രമീകരിണം മാറ്റാന്‍ അനുവാദം ആവശ്യമാണ്."
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:14
+#, fuzzy
+msgctxt "Name"
+msgid "Font Management"
+msgstr "ഫയല്‍ നടത്തിപ്പ്"
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:73
+#, fuzzy
+msgctxt "Comment"
+msgid "Install, manage and preview fonts"
+msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക, നോക്കി നടത്തുക അല്ലെങ്കില്‍ കണ്ടുനോക്കുക"
+
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:107
+msgctxt "X-KDE-Keywords"
+msgid "font,fonts,installer,truetype,type1,bitmap"
+msgstr ""
+
+#: kcms/kfontinst/thumbnail/fontthumbnail.desktop:3
+msgctxt "Name"
+msgid "Font Files"
+msgstr "അക്ഷരസഞ്ചയ ഫയലുകള്‍"
+
+#: kcms/kfontinst/viewpart/kfontviewpart.desktop:2
+msgctxt "Name"
+msgid "Font Viewer"
+msgstr "അക്ഷരസഞ്ചയദര്‍ശിനി"
+
+#: kcms/ksmserver/kcmsmserver.desktop:14
+#, fuzzy
+msgctxt "Name"
+msgid "Desktop Session"
+msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
+
+#: kcms/ksmserver/kcmsmserver.desktop:61
+msgctxt "Comment"
+msgid "Desktop Session Login and Logout"
+msgstr ""
+
+#: kcms/ksmserver/kcmsmserver.desktop:106
+msgctxt "X-KDE-Keywords"
+msgid "ksmserver,session,logout,confirmation,save,restore,efi,uefi,bios"
+msgstr ""
+
+#: kcms/ksplash/kcm_splashscreen.desktop:15
+#: kcms/ksplash/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Splash Screen"
+msgstr ""
+
+#: kcms/ksplash/kcm_splashscreen.desktop:63
+#: kcms/ksplash/package/metadata.desktop:50
+#, fuzzy
+msgctxt "Comment"
+msgid "Choose splash screen theme"
+msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+
+#: kcms/ksplash/kcm_splashscreen.desktop:96
+msgctxt "X-KDE-Keywords"
+msgid "splash screen,splash theme,startup"
+msgstr ""
+
+#: kcms/ksplash/ksplash.knsrc:2
+msgctxt "Name"
+msgid "Splash Screens"
+msgstr ""
+
+#: kcms/launch/kcm_launchfeedback.desktop:14
+#: kcms/launch/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Launch Feedback"
+msgstr "അഭിപ്രായങ്ങള്‍ ലഭ്യമാക്കുക"
+
+#: kcms/launch/kcm_launchfeedback.desktop:101
+#: kcms/launch/package/metadata.desktop:89
+#, fuzzy
+msgctxt "Comment"
+msgid "Application Launch Feedback"
+msgstr "പ്രയോഗവിക്ഷേപിണി"
+
+#: kcms/launch/kcm_launchfeedback.desktop:149
+msgctxt "X-KDE-Keywords"
+msgid ""
+"application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
+"rotating,spinning,disk,startup,program,report,taskbar"
+msgstr ""
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:14
+#: kcms/lookandfeel/package/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Global Theme"
+msgstr "കര്‍സര്‍ ഫയലുകള്‍"
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:47
+#: kcms/lookandfeel/package/metadata.desktop:35
+#, fuzzy
+msgctxt "Comment"
+msgid "Choose global look and feel"
+msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
+
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:78
+msgctxt "X-KDE-Keywords"
+msgid "theme, look, feel"
+msgstr ""
+
+#: kcms/lookandfeel/lookandfeel.knsrc:2
+#, fuzzy
+msgctxt "Name"
+msgid "Global Themes"
+msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
+
+#: kcms/mouse/mouse.desktop:156
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,"
+"mapping,right handed,left handed,Pointer Device,Mouse Wheel,Mouse Emulation,"
+"Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,Mouse Sensitivity,Move "
+"Mouse with Num Pad,Mouse Num Pad Emulation"
+msgstr ""
+
+#: kcms/nightcolor/kcm_nightcolor.desktop:16
+#: kcms/nightcolor/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Night Color"
+msgstr ""
+
+#: kcms/nightcolor/kcm_nightcolor.desktop:54
+#: kcms/nightcolor/package/metadata.desktop:40
+msgctxt "Comment"
+msgid "Adjust color temperature at night to reduce eye strain"
+msgstr ""
+
+#: kcms/nightcolor/kcm_nightcolor.desktop:92
+msgctxt "X-KDE-Keywords"
+msgid "kwin,window,manager,night,colors,redshift,eyes"
+msgstr ""
+
+#: kcms/notifications/kcm_notifications.desktop:14
+#: kcms/notifications/package/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Notifications"
+msgstr "അറിയിപ്പുകള്‍ കൈകാര്യം ചെയ്യുക"
+
+#: kcms/notifications/kcm_notifications.desktop:63
+#: kcms/notifications/package/metadata.desktop:51
+#, fuzzy
+msgctxt "Comment"
+msgid "Event Notifications and Actions"
+msgstr "സിസ്റ്റത്തിന്റെ മണിയ്ക്കുള്ള ക്രമീകരണം"
+
+#: kcms/qtquicksettings/qtquicksettings.desktop:14
+msgctxt "Name"
+msgid "Plasma Renderer"
+msgstr ""
+
+#: kcms/runners/kcm_plasmasearch.desktop:13
+msgctxt "Name"
+msgid "KRunner"
+msgstr ""
+
+#: kcms/runners/kcm_plasmasearch.desktop:46
+#, fuzzy
+msgctxt "Comment"
+msgid "Configure Search Bar"
+msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
+
+#: kcms/runners/kcm_plasmasearch.desktop:85
+msgctxt "X-KDE-Keywords"
+msgid "Search, File, Baloo, Runner, krunner"
+msgstr ""
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:2
+msgctxt "Name"
+msgid "Charge Percent"
+msgstr "ചാര്‍ജ്ജ് ശതമാനം"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:74
+msgctxt "Name"
+msgid "Charge State"
+msgstr "ചാര്‍ജ്ജ് സ്ഥിതി"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:145
+#, fuzzy
+msgctxt "Name|battery plugged in"
+msgid "Plugged"
+msgstr "കുത്തിയിരിയ്ക്കുന്നു"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:198
+msgctxt "Name"
+msgid "Rechargeable"
+msgstr "വീണ്ടും ചാര്‍ജ്ജ് ചെയ്യാവുന്നത്"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:266
+msgctxt "Name"
+msgid "Type"
+msgstr "തരം"
+
+#: kcms/solid_actions/device-actions/solid-device-Battery.desktop:341
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:210
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:147
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:868
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:655
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:147
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:285
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:146
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:364
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:437
+msgctxt "Name"
+msgid "Solid Device"
+msgstr "സോളിഡ് ഉപകരണം"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:2
+msgctxt "Name"
+msgid "Device"
+msgstr "ഉപകരണം"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:75
+msgctxt "Name"
+msgid "Major"
+msgstr "മുഖ്യം"
+
+#: kcms/solid_actions/device-actions/solid-device-Block.desktop:142
+msgctxt "Name"
+msgid "Minor"
+msgstr "നിസാരം"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:2
+msgctxt "Name"
+msgid "Supported Drivers"
+msgstr "പിന്തുണയുള്ള സാരഥികള്‍"
+
+#: kcms/solid_actions/device-actions/solid-device-Camera.desktop:74
+#: kcms/solid_actions/device-actions/solid-device-PortableMediaPlayer.desktop:74
+msgctxt "Name"
+msgid "Supported Protocols"
+msgstr "പിന്തുണയ്ക്കുന്ന സമ്പ്രദായങ്ങള്‍"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:2
+msgctxt "Name"
+msgid "Appendable"
+msgstr "വീണ്ടും എഴുതാവുന്നതു്"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:72
+msgctxt "Name"
+msgid "Available Content"
+msgstr "ലഭ്യമായ ള്ളടക്കങ്ങള്‍"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:145
+msgctxt "Name"
+msgid "Blank"
+msgstr "ശൂന്യം"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:216
+msgctxt "Name"
+msgid "Capacity"
+msgstr "വലിപ്പം"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:289
+msgctxt "Name"
+msgid "Disc Type"
+msgstr "ഡിസ്കിന്റെ തരം"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:362
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:2
+msgctxt "Name"
+msgid "Fs Type"
+msgstr "ഫയല്‍ വ്യവസ്ഥയുടെ തരം"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:434
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:74
+msgctxt "Name"
+msgid "Ignored"
+msgstr "അവഗണിച്ചു"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:505
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:145
+msgctxt "Name"
+msgid "Label"
+msgstr "ലേബല്‍"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:577
+msgctxt "Name"
+msgid "Rewritable"
+msgstr "വീണ്ടും എഴുതാവുന്ന"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:648
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:361
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:289
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:217
+msgctxt "Name"
+msgid "Size"
+msgstr "വലിപ്പം"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:722
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:291
+msgctxt "Name"
+msgid "Usage"
+msgstr "ഉപയോഗരീതി"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDisc.desktop:795
+#: kcms/solid_actions/device-actions/solid-device-StorageVolume.desktop:364
+msgctxt "Name"
+msgid "Uuid"
+msgstr "യുയുഐഡി"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:2
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:2
+msgctxt "Name"
+msgid "Bus"
+msgstr "ബസ്"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:76
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:76
+msgctxt "Name"
+msgid "Drive Type"
+msgstr "ഡ്രൈവിന്റെ തരം"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:149
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:149
+msgctxt "Name"
+msgid "Hotpluggable"
+msgstr "ഹോട്ട്പ്ലഗ് ചെയ്യാവുന്ന"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:216
+msgctxt "Name"
+msgid "Read Speed"
+msgstr "വായനാ വേഗം"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:288
+#: kcms/solid_actions/device-actions/solid-device-StorageDrive.desktop:216
+msgctxt "Name"
+msgid "Removable"
+msgstr "നീക്കം ചെയ്യാവുന്ന"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:435
+msgctxt "Name"
+msgid "Supported Media"
+msgstr "പിന്തുണയുള്ള മാദ്ധ്യമം"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:506
+msgctxt "Name"
+msgid "Write Speed"
+msgstr "എഴുത്തിന്റെ വേഗത"
+
+#: kcms/solid_actions/device-actions/solid-device-OpticalDrive.desktop:580
+msgctxt "Name"
+msgid "Write Speeds"
+msgstr "എഴുത്തിന്റെ വേഗതകള്‍"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:2
+msgctxt "Name"
+msgid "Can Change Frequency"
+msgstr "ആവര്‍ത്തി മാറ്റാവുന്നത്"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:71
+msgctxt "Name"
+msgid "Instruction Sets"
+msgstr "നിര്‍ദ്ദേശ ഗണം"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:139
+msgctxt "Name"
+msgid "Max Speed"
+msgstr "കൂടിയ വേഗം"
+
+#: kcms/solid_actions/device-actions/solid-device-Processor.desktop:212
+msgctxt "Name"
+msgid "Number"
+msgstr "അക്കം"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:2
+msgctxt "Name"
+msgid "Accessible"
+msgstr "സാമീപിയ്ക്കാവുന്നതു്"
+
+#: kcms/solid_actions/device-actions/solid-device-StorageAccess.desktop:73
+msgctxt "Name"
+msgid "File Path"
+msgstr "ഫയല്‍ വഴി"
+
+#: kcms/solid_actions/solid-actions.desktop:13
+msgctxt "Name"
+msgid "Device Actions"
+msgstr "ഉപകരണത്തിനുള്ള പ്രവൃത്തികള്‍"
+
+#: kcms/solid_actions/solid-actions.desktop:83
+#, fuzzy
+msgctxt "Comment"
+msgid "Manage actions available to the user when connecting new devices"
+msgstr ""
+"കമ്പ്യൂട്ടറില്‍ പുതിയ ഉപകരണങ്ങള്‍ ഘടിപ്പിക്കുമ്പോള്‍ ഉപയോക്താവിന് ലഭ്യമാകുന്ന നടപടികള്‍ കൈകാര്യം "
+"ചെയ്യാനുള്ള ക്രമീകരണായുധം"
+
+#: kcms/solid_actions/solid-actions.desktop:136
+#, fuzzy
+msgctxt "X-KDE-Keywords"
+msgid "Solid Devices Actions"
+msgstr "ഉപകരണത്തിനുള്ള പ്രവൃത്തികള്‍"
+
+#: kcms/solid_actions/solid-device-type.desktop:4
+msgctxt "Name"
+msgid "Solid Device Type"
+msgstr "സോളിഡ് ഉപകരണതരം"
+
+#: kcms/spellchecking/spellchecking.desktop:14
+msgctxt "Name"
+msgid "Spell Check"
+msgstr "അക്ഷരത്തെറ്റു് പരിശോധക"
+
+#: kcms/spellchecking/spellchecking.desktop:64
+msgctxt "Comment"
+msgid "Spell Checker Dictionaries and Options"
+msgstr ""
+
+#: kcms/spellchecking/spellchecking.desktop:110
+msgctxt "X-KDE-Keywords"
+msgid "Spell"
+msgstr ""
+
+#: kcms/standard_actions/standard_actions.desktop:15
+#, fuzzy
+msgctxt "Name"
+msgid "Standard Shortcuts"
+msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
+
+#: kcms/standard_actions/standard_actions.desktop:58
+#, fuzzy
+msgctxt "Comment"
+msgid "Standard Keyboard Shortcuts for Applications"
+msgstr "കീബോര്‍ഡിലെ സ്റ്റാന്‍ഡേര്‍ഡ് കുറക്കുവഴികള്‍"
+
+#: kcms/standard_actions/standard_actions.desktop:104
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts"
+msgstr ""
+
+#: kcms/style/cgcgtk3.knsrc:2
+msgctxt "Name"
+msgid "GTK 3.x Themes"
+msgstr ""
+
+#: kcms/style/cgctheme.knsrc:2
+msgctxt "Name"
+msgid "GTK 2.x Themes"
+msgstr ""
+
+#: kcms/style/kcm_style.desktop:16 kcms/style/package/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Application Style"
+msgstr "പ്രയോഗവിക്ഷേപിണി"
+
+#: kcms/style/kcm_style.desktop:50 kcms/style/package/metadata.desktop:36
+#, fuzzy
+msgctxt "Comment"
+msgid "Configure application style and behavior"
+msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
+
+#: kcms/style/kcm_style.desktop:83
+msgctxt "X-KDE-Keywords"
+msgid ""
+"style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
+"theme,plasma,menu,global menu"
+msgstr ""
+
+#: kcms/touchpad/src/applet/dataengine.desktop:2
+msgctxt "Name"
+msgid "Touchpad DataEngine"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:2
+msgctxt "Comment"
+msgid "Shows current touchpad state"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:46
+msgctxt "Keywords"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/applet/qml/metadata.desktop:89
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:16
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:2
+#: kcms/touchpad/src/kded/kded_touchpad.desktop:9
+msgctxt "Name"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:60
+#, fuzzy
+msgctxt "Comment"
+msgid "Touchpad settings"
+msgstr "മൌസിന്റെ സജ്ജീകരണങ്ങള്‍"
+
+#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:103
+msgctxt "X-KDE-Keywords"
+msgid "Touchpad,Synaptics"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:47
+msgctxt "Comment"
+msgid "Touchpad"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:93
+msgctxt "Name"
+msgid "Touchpad was disabled"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:135
+msgctxt "Comment"
+msgid "Touchpad was disabled because mouse is detected"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:181
+msgctxt "Name"
+msgid "Touchpad was enabled"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:223
+msgctxt "Comment"
+msgid "Touchpad was enabled because the mouse was unplugged"
+msgstr ""
+
+#: kcms/touchpad/src/kded/kded_touchpad.desktop:53
+msgctxt "Comment"
+msgid "Enables or disables touchpad"
+msgstr ""
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:11
+#: kcms/workspaceoptions/package/metadata.desktop:2
+msgctxt "Name"
+msgid "General Behavior"
+msgstr ""
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:43
+#: kcms/workspaceoptions/package/metadata.desktop:34
+#, fuzzy
+msgctxt "Comment"
+msgid "Configure general workspace behavior"
+msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
+
+#: kcms/workspaceoptions/kcm_workspace.desktop:74
+msgctxt "X-KDE-Keywords"
+msgid ""
+"plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
+"tooltips,click,single click,double click,animation speed"
+msgstr ""
+
+#: knetattach/org.kde.knetattach.desktop:2
+msgctxt "Name"
+msgid "KNetAttach"
+msgstr "കെനെറ്റ്അറ്റാച്ച്"
+
+#: knetattach/org.kde.knetattach.desktop:90
+msgctxt "GenericName"
+msgid "Network Folder Wizard"
+msgstr "നെറ്റ്‌വര്‍ക്ക് ഫോള്‍ഡര്‍ മാന്ത്രികന്‍"
+
+#: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Application Menu Bar"
+msgstr "പ്രയോഗവിക്ഷേപിണി"
+
+#: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:42
+msgctxt "Comment"
+msgid "Panel containing the global menu applet"
+msgstr ""
+
+#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Default Panel"
+msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
+
+#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:50
+msgctxt "Comment"
+msgid ""
+"Default panel featuring application launcher, task manager and system tray"
+msgstr ""
+
+#: layout-templates/org.kde.plasma.desktop.emptyPanel/metadata.desktop:55
+#, fuzzy
+msgctxt "Comment"
+msgid "Empty panel"
+msgstr "പാളി"
+
+#: runners/kwin/plasma-runner-kwin.desktop:2
+msgctxt "Name"
+msgid "KWin"
+msgstr ""
+
+#: runners/kwin/plasma-runner-kwin.desktop:42
+#, fuzzy
+msgctxt "Comment"
+msgid "Interact with the Plasma Compositor"
+msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
+
+#: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:2
+msgctxt "Name"
+msgid "Plasma Desktop Shell"
+msgstr "പ്ലാസ്മ പണിയിട ആവരണം"
+
+#: runners/plasma-desktop/plasma-runner-plasma-desktop.desktop:67
+msgctxt "Comment"
+msgid "Interact with the Plasma desktop shell"
+msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:9
+msgctxt "X-KDE-Keywords"
+msgid "Mount,Removable,Devices,Automatic"
+msgstr ""
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:49
+#, fuzzy
+msgctxt "Name"
+msgid "Removable Devices"
+msgstr "നീക്കം ചെയ്യാവുന്ന"
+
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:92
+msgctxt "Comment"
+msgid "Configure automatic handling of removable storage media"
+msgstr ""
+
+#: solid-device-automounter/kded/device_automounter.desktop:10
+msgctxt "Name"
+msgid "Removable Device Automounter"
+msgstr ""
+
+#: solid-device-automounter/kded/device_automounter.desktop:50
+msgctxt "Comment"
+msgid "Automatically mounts devices as needed"
+msgstr ""
+
+#: toolboxes/desktoptoolbox/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Declarative Toolbox"
+msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
+
+#: toolboxes/desktoptoolbox/metadata.desktop:47
+msgctxt "Comment"
+msgid "Manage Plasma"
+msgstr ""
+
+#: toolboxes/paneltoolbox/metadata.desktop:2
+#, fuzzy
+msgctxt "Name"
+msgid "Panel Toolbox"
+msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
+
+#: toolboxes/paneltoolbox/metadata.desktop:52
+msgctxt "Comment"
+msgid "Manage Plasma panel"
+msgstr "പ്ലാസ്മയുടെ സഹായക്കുറിപ്പു്"
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:2
+#, fuzzy
+msgctxt "Comment"
+msgid "Default panel toolbox for the Plasma desktop shell"
+msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
+
+#: toolboxes/plasma-toolbox-paneltoolbox.desktop:61
+#, fuzzy
+msgctxt "Name"
+msgid "Panel toolbox"
+msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
+
+#~ msgctxt "Name"
+#~ msgid "A nice name you have chosen for your interface"
+#~ msgstr "നിങ്ങളുടെ വിനിമയതലത്തിനു് നിങ്ങള്‍ തെരഞ്ഞെടുത്ത മനോഹരമായൊരു പേരു്"
+
+#~ msgctxt "Comment"
+#~ msgid "A helpful description of the interface for the top right info box"
+#~ msgstr ""
+#~ "വലത്തു് മുകളിലായുള്ള വിവരം നല്‍കുന്ന കളത്തില്‍ കാണിയ്ക്കാനായി നിങ്ങളുടെ വിനിമയതലത്തിനുള്ള "
+#~ "സഹായകരമായ ഒരു വിവരണം"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Audio and Video"
+#~ msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Phonon Audio and Video"
+#~ msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Joystick"
+#~ msgstr "ജോയ്സ്റ്റിക്"
+
+#~ msgctxt "Name"
+#~ msgid "Joystick"
+#~ msgstr "ജോയ്സ്റ്റിക്"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Emoticon Theme"
+#~ msgstr "വികാരചിഹ്നങ്ങളുടെ വൈവിധ്യപാലകന്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Fonts"
+#~ msgstr "അക്ഷരസഞ്ചയങ്ങള്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Application Color Scheme"
+#~ msgstr "പ്രയോഗവിക്ഷേപിണി"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Cursor Theme"
+#~ msgstr "കര്‍സര്‍ ഫയലുകള്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Mouse Cursor Theme"
+#~ msgstr "കര്‍സര്‍ ഫയലുകള്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Desktop Theme"
+#~ msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Desktop Theme"
+#~ msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Workspace and Application Colors"
+#~ msgstr "പ്രയോഗവിക്ഷേപിണി"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Menubar manager"
+#~ msgstr "കലണ്ടര്‍ നടത്തിപ്പുകാരന്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Application Keyboard Shortcuts"
+#~ msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Icons-only Task Manager (Old backend)"
+#~ msgstr "ടാസ്ക് മാനേജര്‍"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Task Manager (Old backend)"
+#~ msgstr "ടാസ്ക് മാനേജര്‍"
+
+#, fuzzy
+#~ msgctxt "Name|standard desktop component"
+#~ msgid "Window Manager"
+#~ msgstr "ടാസ്ക് മാനേജര്‍"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Here you can select the window manager to be run in your KDE session."
+#~ msgstr ""
+#~ "ഇവിടെ നിങ്ങള്‍ക്ക് കെഡിഇ സെഷനില്‍ പ്രവര്‍ത്തിക്കേണ്ട ജാലക-പരിപാലന പ്രവര്‍ത്തനങ്ങള്‍ "
+#~ "തിരഞ്ഞെടുക്കാം"
+
+#~ msgctxt "Name"
+#~ msgid ""
+#~ "Compiz custom (create wrapper script 'compiz-kde-launcher' to launch it)"
+#~ msgstr ""
+#~ "ക്രമീകൃതകോമ്പിസ് (ഇതു പ്രവര്‍ത്തിപ്പിയ്ക്കാന്‍ 'compiz-kde-launcher' റാപ്പര്‍ സ്ക്രിപ്റ്റ് "
+#~ "ഉത്പാദിപ്പിയ്ക്കുക)"
+
+#~ msgctxt "Name"
+#~ msgid "Compiz"
+#~ msgstr "കോമ്പിസ്"
+
+#~ msgctxt "Name"
+#~ msgid "Metacity (GNOME)"
+#~ msgstr "മെറ്റാസിറ്റി (ഗ്നോം)"
+
+#~ msgctxt "Name"
+#~ msgid "Openbox"
+#~ msgstr "ഓപ്പണ്‍ബോക്സ്"
+
+#~ msgctxt "Name"
+#~ msgid "System Bell"
+#~ msgstr "സിസ്റ്റം മണി"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "System Bell"
+#~ msgstr "സിസ്റ്റം മണി"
+
+#~ msgctxt "Name"
+#~ msgid "Paths"
+#~ msgstr "വഴികള്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Accessibility Improvements for Disabled Persons"
+#~ msgstr "അംഗവൈകല്യമുള്ളവര്‍ക്കുള്ള സാമീപ്യത നന്നാക്കുക"
+
+#~ msgctxt "Name"
+#~ msgid "Keyboard Layout"
+#~ msgstr "കീബോര്‍ഡ് വിന്യാസം"
+
+#~ msgctxt "Name"
+#~ msgid "Has State"
+#~ msgstr "സ്ഥിതിയുണ്ട്"
+
+#~ msgctxt "Name"
+#~ msgid "State Value"
+#~ msgstr "അവസ്ഥാവില"
+
+#~ msgctxt "Comment"
+#~ msgid "Manage Social Desktop Providers"
+#~ msgstr "സാമൂഹിക പണിയിട ദാതാക്കളെ കൈകാര്യം ചെയ്യുക"
+
+#~ msgctxt "Name"
+#~ msgid "Style"
+#~ msgstr "രീതി"
+
+#~ msgctxt "Name"
+#~ msgid "Display"
+#~ msgstr "പ്രദര്‍ശനം"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Manage which programs start up automatically with KDE."
+#~ msgstr ""
+#~ "കെഡിഇ ആരംഭിക്കുമ്പോള്‍ തുടങ്ങേണ്ട പ്രോഗ്രാമുകള്‍ കൈകാര്യം ചെയ്യുന്നതിനുള്ള ക്രമീകരണ ഉപകരണം."
+
+#~ msgctxt "Comment"
+#~ msgid "System Bell Configuration"
+#~ msgstr "സിസ്റ്റത്തിന്റെ മണിയ്ക്കുള്ള ക്രമീകരണം"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Change the colors used in applications"
+#~ msgstr "പ്രയോഗങ്ങള്‍ ആരംഭിക്കുന്നതിനു് സഹായിക്കുന്ന സംവിധാനം"
+
+#~ msgctxt "Comment"
+#~ msgid "Choose the default components for various services"
+#~ msgstr "പല സേവനങ്ങള്‍ക്കുമുള്ള സഹജമായ ഘടകങ്ങള്‍ തെരഞ്ഞെടുക്കുക"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Configure date and time settings"
+#~ msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#~ msgctxt "Comment"
+#~ msgid "Change the location important files are stored"
+#~ msgstr "പ്രധാനപ്പെട്ട ഫയലുകള്‍ സൂക്ഷിച്ച സ്ഥാനം മാറ്റുക"
+
+#~ msgctxt "Comment"
+#~ msgid "Font settings"
+#~ msgstr "അക്ഷരസഞ്ചയത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Numeric, currency and time formatting settings for your particular region"
+#~ msgstr "നിങ്ങളുടെ പ്രദേശത്തിനുള്ള ഭാഷ, അക്കങ്ങള്‍, സമയം എന്നിവയ്ക്കുള്ള സജ്ജീകരണങ്ങള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "Display Settings"
+#~ msgstr "പ്രദര്‍ശനത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "Joystick settings"
+#~ msgstr "ജോയ്സ്റ്റിക് സജ്ജീകരണങ്ങള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "Customize KDE Icons"
+#~ msgstr "കെഡിഇ ചിഹ്നങ്ങള്‍ സജ്ജീകരിയ്ക്കുക"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Service Manager"
+#~ msgstr "കലണ്ടര്‍ നടത്തിപ്പുകാരന്‍"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "KDE Services Configuration"
+#~ msgstr "സിസ്റ്റത്തിന്റെ മണിയ്ക്കുള്ള ക്രമീകരണം"
+
+#~ msgctxt "Comment"
+#~ msgid "Keyboard settings"
+#~ msgstr "കീബോര്‍ഡിന്റെ സജ്ജീകരണങ്ങള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of keybindings"
+#~ msgstr "കീബൈന്‍ഡിങ്സിനുള്ള ക്രമീകരണം"
+
+#, fuzzy
+#~ msgctxt "Name"
+#~ msgid "Session Management"
+#~ msgstr "ഫയല്‍ നടത്തിപ്പ്"
+
+#, fuzzy
+#~ msgctxt "Comment"
+#~ msgid "Configure the session manager and logout settings"
+#~ msgstr "കീബോര്‍ഡ്, മൌസ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#~ msgctxt "Comment"
+#~ msgid "Choose application-launch feedback style"
+#~ msgstr "പ്രയോഗവിക്ഷേപിണിയുടെ ഫീഡ്ബാക്ക് സ്റ്റൈല്‍ തിടഞ്ഞെടുക്കുക"
+
+#~ msgctxt "Comment"
+#~ msgid "Configuration of standard keybindings"
+#~ msgstr "കീബൈന്‍ഡിങ്സിനുള്ള സ്റ്റാന്‍ഡേര്‍ഡ് ക്രമീകരണം"
+
+#~ msgctxt "Comment"
+#~ msgid ""
+#~ "Allows the manipulation of widget behavior and changing the Style for KDE"
+#~ msgstr ""
+#~ "ഉരുപ്പടിയുടെ വിശേഷതകള്‍ കൈകാര്യം ചെയ്യുന്നതിനും കെഡിഇയുടെ രീതികള്‍ മാറ്റുന്നതിനും അനുവദിക്കുന്നു"
+
+#~ msgctxt "Name"
+#~ msgid "Country/Region & Language"
+#~ msgstr "രാജ്യം/പ്രദേശം, ഭാഷ"
