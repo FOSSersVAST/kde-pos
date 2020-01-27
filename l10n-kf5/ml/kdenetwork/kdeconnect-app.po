@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-22 03:10+0100\n"
-"PO-Revision-Date: 2020-01-20 09:42+0000\n"
+"PO-Revision-Date: 2020-01-28 02:48+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -36,7 +36,7 @@ msgstr "കെ.ഡി.ഇ കണക്റ്റ്"
 #: main.cpp:33
 #, kde-format
 msgid "(c) 2015, Aleix Pol Gonzalez"
-msgstr ""
+msgstr "(c) 2015, അലെയ്‌സ് പോൽ ഗോൺസാലസ്"
 
 #: main.cpp:34
 #, kde-format
@@ -46,12 +46,12 @@ msgstr ""
 #: main.cpp:34
 #, kde-format
 msgid "Maintainer"
-msgstr ""
+msgstr "പരിപാലകൻ"
 
 #: qml/DevicePage.qml:67
 #, kde-format
 msgid "Unpair"
-msgstr ""
+msgstr "മറക്കുക"
 
 #: qml/DevicePage.qml:71
 #, kde-format
@@ -61,134 +61,134 @@ msgstr "ഒന്ന് മുട്ടുക"
 #: qml/DevicePage.qml:94
 #, kde-format
 msgid "Multimedia control"
-msgstr ""
+msgstr "മൾട്ടിമീഡിയ നിയന്ത്രണം"
 
 #: qml/DevicePage.qml:100
 #, kde-format
 msgid "Remote input"
-msgstr ""
+msgstr "വിദൂര ഇൻപുട്ട്"
 
 #: qml/DevicePage.qml:106 qml/presentationRemote.qml:29
 #, kde-format
 msgid "Presentation Remote"
-msgstr ""
+msgstr "വിദൂര അവതരണം"
 
 #: qml/DevicePage.qml:114
 #, kde-format
 msgid "Unlock"
-msgstr ""
+msgstr "പൂട്ടുതുറക്കുക"
 
 #: qml/DevicePage.qml:114
 #, kde-format
 msgid "Lock"
-msgstr ""
+msgstr "പൂട്ടുക"
 
 #: qml/DevicePage.qml:122
 #, kde-format
 msgid "Find Device"
-msgstr ""
+msgstr "ഉപകരണം കണ്ടെത്തുക"
 
 #: qml/DevicePage.qml:128 qml/runcommand.qml:30
 #, kde-format
 msgid "Run command"
-msgstr ""
+msgstr "കമാൻഡ് പ്രവർത്തിപ്പിക്കുക"
 
 #: qml/DevicePage.qml:136
 #, kde-format
 msgid "Share File"
-msgstr ""
+msgstr "ഫയൽ പങ്കിടുക"
 
 #: qml/DevicePage.qml:143 qml/volume.qml:30
 #, kde-format
 msgid "Volume control"
-msgstr ""
+msgstr "ശബ്ദ നിയന്ത്രണം"
 
 #: qml/DevicePage.qml:157 qml/FindDevicesPage.qml:35
 #, kde-format
 msgid "Pair"
-msgstr ""
+msgstr "ജോഡിചേരുക"
 
 #: qml/DevicePage.qml:170
 #, kde-format
 msgid "Accept"
-msgstr ""
+msgstr "അംഗീകരിക്കുക"
 
 #: qml/DevicePage.qml:176
 #, kde-format
 msgid "Reject"
-msgstr ""
+msgstr "നിരസിക്കുക"
 
 #: qml/DevicePage.qml:191
 #, kde-format
 msgid "This device is not reachable"
-msgstr ""
+msgstr "ഈ ഉപകരണം എത്തിച്ചേരാന്‍ കഴിയുന്നതല്ല"
 
 #: qml/DevicePage.qml:199
 #, kde-format
 msgid "Please choose a file"
-msgstr ""
+msgstr "ഒരു ഫയൽ തിരഞ്ഞെടുക്കുക"
 
 #: qml/FindDevicesPage.qml:38
 #, kde-format
 msgid "No devices found"
-msgstr ""
+msgstr "ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല"
 
 #: qml/FindDevicesPage.qml:53
 #, kde-format
 msgid "Remembered"
-msgstr ""
+msgstr "ഓർമ്മിച്ചത്"
 
 #: qml/FindDevicesPage.qml:55
 #, kde-format
 msgid "Available"
-msgstr ""
+msgstr "ലഭ്യമായത്"
 
 #: qml/FindDevicesPage.qml:57
 #, kde-format
 msgid "Connected"
-msgstr ""
+msgstr "ബന്ധിപ്പിച്ചു"
 
 #: qml/main.qml:36
 #, kde-format
 msgid "Find devices..."
-msgstr ""
+msgstr "ഉപകരണങ്ങൾ കണ്ടെത്തുക..."
 
 #: qml/mousepad.qml:30
 #, kde-format
 msgid "Remote Control"
-msgstr ""
+msgstr "വിദൂര നിയന്ത്രണം"
 
 #: qml/mpris.qml:33
 #, kde-format
 msgid "Multimedia Controls"
-msgstr ""
+msgstr "മൾട്ടിമീഡിയ നിയന്ത്രണങ്ങൾ"
 
 #: qml/mpris.qml:76
 #, kde-format
 msgid "No players available"
-msgstr ""
+msgstr "പ്ലെയറുകൾ ലഭ്യമല്ല"
 
 #: qml/mpris.qml:124
 #, kde-format
 msgid "%1 - %2"
-msgstr ""
+msgstr "%1 - %2"
 
 #: qml/presentationRemote.qml:34
 #, kde-format
 msgid "Enable Full-Screen"
-msgstr ""
+msgstr "ഫുള്‍സ്‌ക്രീൻ പ്രവര്‍ത്തനസജ്ജമാക്കുക"
 
 #: qml/runcommand.qml:35
 #, kde-format
 msgid "Edit commands"
-msgstr ""
+msgstr "കമാൻഡുകൾ എഡിറ്റുചെയ്യുക"
 
 #: qml/runcommand.qml:38
 #, kde-format
 msgid "You can edit commands on the connected device"
-msgstr ""
+msgstr "കണക്റ്റുചെയ്‌ത ഉപകരണത്തിൽ നിങ്ങൾക്ക് കമാൻഡുകൾ എഡിറ്റുചെയ്യാനാകും"
 
 #: qml/runcommand.qml:58
 #, kde-format
 msgid "No commands defined"
-msgstr ""
+msgstr "കമാൻഡുകളൊന്നും നിർവചിച്ചിട്ടില്ല"
