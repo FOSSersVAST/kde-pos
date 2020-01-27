@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-07-22 02:24+0200\n"
-"PO-Revision-Date: 2020-01-21 17:27+0000\n"
+"PO-Revision-Date: 2020-01-28 02:48+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -27,7 +27,7 @@ msgstr "ഡോൾഫിൻ സേവന മെനു ഇൻസ്റ്റാള
 #: servicemenuinstaller.cpp:94
 #, kde-format
 msgid "Unsupported archive type %1: %2"
-msgstr "പിന്തുണയ്‌ക്കാത്ത ആർക്കൈവ് തരം %1:%2"
+msgstr "പിന്തുണയ്‌ക്കാത്ത ആർക്കൈവ് തരം %1: % 2"
 
 #: servicemenuinstaller.cpp:103
 #, kde-format
