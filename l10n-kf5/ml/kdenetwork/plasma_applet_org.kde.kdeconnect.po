@@ -8,89 +8,91 @@ msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-10-13 02:40+0200\n"
-"PO-Revision-Date: 2019-10-13 02:40+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2020-02-02 13:49+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: package/contents/ui/Battery.qml:40
 msgid "%1% charging"
-msgstr ""
+msgstr "%1% ചാർജിംഗ്"
 
 #: package/contents/ui/Battery.qml:40
 msgid "%1%"
-msgstr ""
+msgstr "%1%"
 
 #: package/contents/ui/Battery.qml:40
 msgid "No info"
-msgstr ""
+msgstr "വിവരമില്ല"
 
 #: package/contents/ui/DeviceDelegate.qml:65
 msgid "File Transfer"
-msgstr ""
+msgstr "ഫയൽ കൈമാറ്റം"
 
 #: package/contents/ui/DeviceDelegate.qml:66
 msgid "Drop a file to transfer it onto your phone."
-msgstr ""
+msgstr "മൊബൈലിലേക്ക് പങ്കുവെക്കേണ്ട ഫയൽ ഇവിടെ വീഴ്ത്തുക"
 
 #: package/contents/ui/DeviceDelegate.qml:84
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #: package/contents/ui/DeviceDelegate.qml:106
 msgid "Please choose a file"
-msgstr ""
+msgstr "ദയവായി ഒരു ഫയൽ തിരഞ്ഞെടുക്കുക"
 
 #: package/contents/ui/DeviceDelegate.qml:114
 msgid "Share file"
-msgstr ""
+msgstr "ഫയൽ പങ്കുവെക്കുക"
 
 #: package/contents/ui/DeviceDelegate.qml:134
 msgid "Ring my phone"
-msgstr ""
+msgstr "എന്റെ മൊബൈൽ റിംഗ് ചെയ്പ്പിക്കുക"
 
 #: package/contents/ui/DeviceDelegate.qml:152
 msgid "Browse this device"
-msgstr ""
+msgstr "ഈ ഉപകരണം തുറന്നുനോക്കുക"
 
 #: package/contents/ui/DeviceDelegate.qml:169
 msgid "SMS Messages"
-msgstr ""
+msgstr "SMS സന്ദേശങ്ങൾ"
 
 #: package/contents/ui/DeviceDelegate.qml:190
 msgid "Remote Keyboard"
-msgstr ""
+msgstr "വിദൂര കീബോർഡ്"
 
 #: package/contents/ui/DeviceDelegate.qml:206
 msgid "Notifications:"
-msgstr ""
+msgstr "അറിയിപ്പുകൾ:"
 
 #: package/contents/ui/DeviceDelegate.qml:213
 msgid "Dismiss all notifications"
-msgstr ""
+msgstr "എല്ലാ അറിയിപ്പുകളും ഉപേക്ഷിക്കുക"
 
 #: package/contents/ui/DeviceDelegate.qml:249
 msgid "Reply"
-msgstr ""
+msgstr "മറുപടി"
 
 #: package/contents/ui/DeviceDelegate.qml:258
 msgid "Dismiss"
-msgstr ""
+msgstr "ഉപേക്ഷിക്കുക"
 
 #: package/contents/ui/DeviceDelegate.qml:275
 msgid "Run command"
-msgstr ""
+msgstr "ആജ്ഞ പ്രവർത്തിപ്പിക്കുക"
 
 #: package/contents/ui/DeviceDelegate.qml:283
 msgid "Add command"
-msgstr ""
+msgstr "ആജ്ഞ കൂട്ടിച്ചേർക്കുക"
 
 #: package/contents/ui/FullRepresentation.qml:47
 msgid "No paired devices available"
-msgstr ""
+msgstr "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"
 
 #: package/contents/ui/FullRepresentation.qml:60
 msgid "Install KDE Connect on your Android device to integrate it with Plasma!"
@@ -98,13 +100,13 @@ msgstr ""
 
 #: package/contents/ui/FullRepresentation.qml:71
 msgid "Install from Google Play"
-msgstr ""
+msgstr "ഗൂഗിൾ പ്ലേയിൽ നിന്നും ഇൻസ്റ്റാൾ ചെയ്യുക"
 
 #: package/contents/ui/FullRepresentation.qml:81
 msgid "Install from F-Droid"
-msgstr ""
+msgstr "എഫ്-ഡ്രോയ്ഡിൽ നിന്നും ഇൻസ്റ്റാൾ ചെയ്യുക"
 
 #: package/contents/ui/FullRepresentation.qml:91
 #: package/contents/ui/main.qml:66
 msgid "KDE Connect Settings..."
-msgstr ""
+msgstr "കെ ഡി ഇ കണക്ട് സജ്ജീകരണങ്ങൾ"
