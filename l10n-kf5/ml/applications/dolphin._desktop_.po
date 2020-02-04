@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-12 02:44+0000\n"
-"PO-Revision-Date: 2019-05-22 01:57+0530\n"
-"Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2020-02-05 14:49+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: src/dolphinpart.desktop:3
 msgctxt "Name"
@@ -46,7 +47,7 @@ msgstr "ഫയല്‍ മാനേജര്‍"
 #: src/settings/kcm/kcmdolphingeneral.desktop:1
 msgctxt "Name"
 msgid "Dolphin General"
-msgstr "പൊതു സജ്ജീകരണങ്ങള്‍"
+msgstr "ഡോൾഫിൻ ജനറൽ"
 
 #: src/settings/kcm/kcmdolphingeneral.desktop:47
 msgctxt "Comment"
@@ -119,7 +120,7 @@ msgstr "ഡോള്‍ഫിന്‍ അവതരണദശകള്‍ ക്�
 #: src/settings/kcm/kcmdolphinviewmodes.desktop:103
 msgctxt "Name"
 msgid "View Modes"
-msgstr "അവതരണ ദശകള്‍"
+msgstr "അവതരണ രീതികള്‍"
 
 #: src/settings/kcm/kcmdolphinviewmodes.desktop:149
 msgctxt "Comment"
@@ -129,4 +130,4 @@ msgstr "ഫയല്‍ മാനേജറിന്റെ അവതരണ ദശ
 #: src/views/versioncontrol/fileviewversioncontrolplugin.desktop:4
 msgctxt "Comment"
 msgid "Version Control Plugin for File Views"
-msgstr "ഫയല്‍ അവതരണദിശകൾക്കുള്ള പതിപ്പ് നിയന്ത്രണ സംയോജകം"
+msgstr "ഫയൽ കാഴ്‌ചകൾക്കായുള്ള പതിപ്പ് നിയന്ത്രണ പ്ലഗിൻ"
