@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2017-02-23 03:58+0100\n"
-"PO-Revision-Date: 2020-01-28 02:48+0000\n"
+"PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -20,7 +20,7 @@ msgstr "കെ.ഡി.ഇ കണക്ട്"
 #. (itstool) path: component/summary
 #: org.kde.kdeconnect.kcm.appdata.xml:7
 msgid "Seamless connection of your devices"
-msgstr ""
+msgstr "നിങ്ങളുടെ ഉപകരണങ്ങളുമായി എളുപ്പം കണക്ഷൻ"
 
 #. (itstool) path: description/p
 #: org.kde.kdeconnect.kcm.appdata.xml:9
@@ -30,3 +30,7 @@ msgid ""
 "for this app to work, and keep the desktop version up-to-date with the "
 "Android version for the latest features to work."
 msgstr ""
+"കെ ഡി ഇ കണക്ട് നിങ്ങളുടെ മൊബൈലും കമ്പ്യൂട്ടറും സംയോജിപ്പിക്കുന്നതിനായി ചില "
+"സംവിധാനങ്ങൾ ലഭ്യമാക്കുന്നു: ശ്രദ്ധിക്കുക, കെ.ഡി.ഇ കണക്റ്റ് നിങ്ങളുടെ "
+"കമ്പ്യൂട്ടറിലും ഇൻസ്റ്റാൾ ചെയ്തിരിക്കണം, ഒപ്പം തന്നെ ഡെസ്ക്ടോപ്പ് വേർഷനും "
+"മൊബൈൽ വേർഷനും പുതിയ സംവിധാനങ്ങൾക്കായി അപ്ഡേറ്റ് ചെയ്തിട്ടുണ്ടാകണം."
