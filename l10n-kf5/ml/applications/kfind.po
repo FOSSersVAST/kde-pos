@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-12-31 02:30+0100\n"
-"PO-Revision-Date: 2019-12-29 20:50+0000\n"
+"PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -128,17 +128,17 @@ msgstr "ചേരുന്ന ആദ്യത്തെ വരി"
 #: kfindtreeview.cpp:346
 #, kde-format
 msgid "&Open containing folder(s)"
-msgstr ""
+msgstr "അടങ്ങിയിരിക്കുന്ന അറ(കള്‍) തുറക്കുക (&O)"
 
 #: kfindtreeview.cpp:350
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Delete"
-msgstr "വെട്ടിമാറ്റുക"
+msgstr "കളയുക (&D)"
 
 #: kfindtreeview.cpp:354
 #, kde-format
 msgid "&Move to Trash"
-msgstr ""
+msgstr "ചവറിലേകു നീകൂക (&M)"
 
 #: kfindtreeview.cpp:465
 #, kde-format
@@ -168,7 +168,7 @@ msgid "&Properties"
 msgstr "&ഗുണഗണങ്ങള്‍"
 
 #: kftabdlg.cpp:82
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "this is the label for the name textfield"
 msgid "&Named:"
 msgstr "&Named:"
@@ -207,7 +207,7 @@ msgstr "ഫയലുകള്‍ക്കുള്ള സൂചിക &ഉപയ
 #: kftabdlg.cpp:98
 #, kde-format
 msgid "Show &hidden files"
-msgstr ""
+msgstr "മറഞ്ഞിരിക്കുന്ന ഫയലുകൾ കാണിക്കുക (&H)"
 
 #: kftabdlg.cpp:117
 #, kde-format
@@ -223,6 +223,18 @@ msgid ""
 "between</li><li><b>My Document.kwd</b> finds a file of exactly that name</"
 "li></ul></qt>"
 msgstr ""
+"<qt>നിങ്ങൾ തിരയുന്ന ഫയൽ നാമം നൽകുക. <br /> ഇതരനാമങ്ങള്‍ \";\" എന്ന "
+"അർദ്ധവിരാമത്താൽ വേർതിരിക്കാം. <br /> <br /> ഫയൽ നാമത്തിൽ ഇനിപ്പറയുന്ന പ്രത്യേ"
+"ക പ്രതീകങ്ങൾ അടങ്ങിയിരിക്കാം: <ul> <li> <b>? </ b> ഏതെങ്കിലും ഒറ്റയായ അക്ഷരം "
+"മാച്ച് ചെയ്യും</li> </ul> <b> * </b> ഏതെങ്കിലും പ്രതീകങ്ങളോ "
+"(ഒന്നുമില്ലെങ്കിലും) അതിൽ കൂടുതലോ പൊരുത്തപ്പെടുന്നു</ li> <li> <b> [...] </ "
+"b> ബ്രേസുകൾക്കിടയിലുള്ള ഏതെങ്കിലും പ്രതീകങ്ങളുമായി പൊരുത്തപ്പെടുന്നു "
+"</li></ul> <br />തിരച്ചില്‍ ഉദാഹരണങ്ങള്‍: <ul> <li> <b>* .kwd; *. txt </b> "
+".kwd അല്ലെങ്കിൽ .txt </li> <li എന്ന് അവസാനിക്കുന്ന എല്ലാ ഫയലുകളും "
+"കണ്ടെത്തുന്നു. </li><b>go[dt]</b> godഉം, gotഉം കണ്ടെത്തുന്നു "
+"</li><li><b>Hel?o</b> \"Hel\" എന്ന് ആരംഭിച്ച്  \"o\" എന്ന് അവസാനിക്കുന്ന "
+"എല്ലാ ഫയലുകളും കണ്ടെത്തുന്നു, അതിനിടയില്‍ ഒരു അക്ഷരമുള്ളതും</ li> <li> <b>My "
+"Documents.kwd</b> ആ പേരുള്ള ഫയൽ കണ്ടെത്തുന്നു </li> </ul> </qt>"
 
 #: kftabdlg.cpp:138
 #, kde-format
@@ -231,6 +243,9 @@ msgid ""
 "to speed-up the search; remember to update the index from time to time "
 "(using <i>updatedb</i>).</qt>"
 msgstr ""
+"<qt>തിരയൽ വേഗത്തിലാക്കാൻ <i>slocate</ i> പാക്കേജ് സൃഷ്ടിച്ച ഫയലുകളുടെ സൂചിക "
+"ഉപയോഗിക്കാൻ ഇത് നിങ്ങളെ അനുവദിക്കുന്നു;  സമയാസമയങ്ങളിൽ സൂചിക "
+"അപ്‌ഡേറ്റുചെയ്യുന്നത് ഓർക്കുക (<i>updateb</i> ഉപയോഗിച്ച്).</qt>"
 
 #: kftabdlg.cpp:182
 #, kde-format
@@ -284,7 +299,7 @@ msgid "Equal To"
 msgstr "സമം"
 
 #: kftabdlg.cpp:234 kftabdlg.cpp:891
-#, fuzzy, kde-format
+#, kde-format
 msgid "Byte"
 msgid_plural "Bytes"
 msgstr[0] "ബൈറ്റ്സ്"
@@ -306,10 +321,10 @@ msgid "GiB"
 msgstr "GiB"
 
 #: kftabdlg.cpp:300
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "label for the file type combobox"
 msgid "File &type:"
-msgstr "ഫയല്‍ &തരം:"
+msgstr "ഫയല്‍ തരം (&T):"
 
 #: kftabdlg.cpp:305
 #, kde-format
@@ -323,6 +338,10 @@ msgid ""
 "all file types from the list above are supported. Please refer to the "
 "documentation for a list of supported file types.</qt>"
 msgstr ""
+"<qt>വ്യക്തമാക്കിയിട്ടുണ്ടെങ്കിൽ, ഈ വാചകം അടങ്ങിയിരിക്കുന്ന ഫയലുകൾ മാത്രമേ "
+"കണ്ടെത്താനാകൂ. മുകളിലുള്ള ലിസ്റ്റിൽ നിന്നുള്ള എല്ലാ ഫയൽ തരങ്ങളും "
+"പിന്തുണയ്ക്കുന്നില്ല എന്നത് ശ്രദ്ധിക്കുക. പിന്തുണയ്‌ക്കുന്ന ഫയൽ തരങ്ങളുടെ ഒരു"
+" ലിസ്റ്റിനായി ഡോക്യുമെന്റേഷൻ പരിശോധിക്കുക.</qt>"
 
 #: kftabdlg.cpp:319
 #, kde-format
@@ -345,6 +364,8 @@ msgid ""
 "<qt>This lets you search in any type of file, even those that usually do not "
 "contain text (for example program files and images).</qt>"
 msgstr ""
+"<qt>സാധാരണയായി വാചകം അടങ്ങിയിട്ടില്ലാത്ത (ഉദാഹരണത്തിന് പ്രോഗ്രാം ഫയലുകളും "
+"ചിത്രങ്ങളും) ഏത് തരത്തിലുള്ള ഫയലിലും തിരയാൻ ഇത് നിങ്ങളെ അനുവദിക്കുന്നു.</ qt>"
 
 #: kftabdlg.cpp:332
 #, kde-format
@@ -352,10 +373,10 @@ msgid "&Edit..."
 msgstr "&ചിട്ടപ്പെടുത്തുക..."
 
 #: kftabdlg.cpp:338
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "as in search for"
 msgid "fo&r:"
-msgstr "വേ&ണ്ടി:"
+msgstr "വേണ്ടി (&R):"
 
 #: kftabdlg.cpp:340
 #, kde-format
@@ -418,10 +439,10 @@ msgid "Name/&Location"
 msgstr "പേരു്/&സ്ഥാനം"
 
 #: kftabdlg.cpp:436
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "tab name: search by contents"
 msgid "C&ontents"
-msgstr "ഉ&ള്ളടക്കം"
+msgstr "ഉള്ളടക്കം (&O)"
 
 #: kftabdlg.cpp:441
 #, kde-format
@@ -431,6 +452,10 @@ msgid ""
 "title, an album</li><li><b>Images (png...)</b> Search images with a special "
 "resolution, comment...</li></ul></qt>"
 msgstr ""
+"<qt>ഫയലുകളുടെ നിർ‌ദ്ദിഷ്‌ട അഭിപ്രായങ്ങൾ‌ / മെറ്റായിൻ‌ഫോയിൽ‌ തിരയുക <br />ഇവ "
+"ചില ഉദാഹരണങ്ങളാണ്:<br /><ul><ul><li><b>ഓഡിയോ ഫയലുകൾ‌ (mp3...)</ b> id3 ടാഗിൽ‌"
+" ശീർഷകം, ആൽബം എന്നിവ തിരയാന്‍ ഉപയോഗിക്കുക</li><li><b>ഇമേജുകൾ (png ...)</b> "
+"ഒരു പ്രത്യേക വലുപ്പമുള്ള പടങ്ങള്‍ തിരയുക, അഭിപ്രായമിടുക...</li></ul></qt>"
 
 #: kftabdlg.cpp:449
 #, kde-format
@@ -439,6 +464,10 @@ msgid ""
 "(mp3...)</b> This can be Title, Album...</li><li><b>Images (png...)</b> "
 "Search only in Resolution, Bitdepth...</li></ul></qt>"
 msgstr ""
+"<qt> വ്യക്തമാക്കിയിട്ടുണ്ടെങ്കിൽ, ഈ ഫീൽഡിൽ മാത്രം തിരയുക. <br /> <ul> <ul> "
+"<b> ഓഡിയോ ഫയലുകൾ (mp3 ...) </ b> ഇത് ശീർഷകം, ആൽബം ... </ li> <  li> <b> "
+"ഇമേജുകൾ‌ (png ...) </b> റെസല്യൂഷനിൽ‌ മാത്രം തിരയുക, ബിറ്റ്‌ഡെപ്ത് ... </li> "
+"</ul> </qt>"
 
 #: kftabdlg.cpp:609
 #, kde-format
@@ -660,15 +689,17 @@ msgstr "ക്ലാറന്‍സ് ഡാങ്"
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "അനി പീറ്റര്‍, ഹരി വിഷ്ണു,ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ.ജെ."
+msgstr ""
+"അനി പീറ്റര്‍, ഹരി വിഷ്ണു,ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം,വിവേക് കെ.ജെ"
+".,Emmanuantony Jose"
 
 #: main.cpp:60
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
-"peter.ani@gmail.com,harivishnu@gmail.com,shijualexonline@gmail.com,"
-"snalledam@dataone.in,vivekkj2004@gmail.com"
+"peter.ani@gmail.com,harivishnu@gmail.com,shijualexonline@gmail.com,snalledam@"
+"dataone.in,vivekkj2004@gmail.com,"
 
 #: main.cpp:66
 #, kde-format
