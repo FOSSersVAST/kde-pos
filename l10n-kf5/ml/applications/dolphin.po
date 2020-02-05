@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-20 02:34+0100\n"
+"POT-Creation-Date: 2020-01-29 02:33+0100\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -1205,7 +1205,7 @@ msgctxt "@title:menu"
 msgid "Main Toolbar"
 msgstr "പ്രധാന പണിയായുധനിര"
 
-#: dolphinviewcontainer.cpp:84
+#: dolphinviewcontainer.cpp:85
 #, kde-kuit-format
 msgctxt "@info:whatsthis location bar"
 msgid ""
@@ -1221,13 +1221,13 @@ msgid ""
 "Handbook.</para>"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:109
+#: dolphinviewcontainer.cpp:110
 #, kde-format
 msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "ചവറ്റുകുട്ട കാലിയാക്കുക"
 
-#: dolphinviewcontainer.cpp:123
+#: dolphinviewcontainer.cpp:124
 #, kde-kuit-format
 msgctxt "@info:whatsthis findbar"
 msgid ""
@@ -1242,45 +1242,45 @@ msgid ""
 "find an item.</item></list></para>"
 msgstr ""
 
-#: dolphinviewcontainer.cpp:143
+#: dolphinviewcontainer.cpp:144
 #, kde-format
 msgid "Running Dolphin as root can be dangerous. Please be careful."
 msgstr "ഡോൾഫിൻ റൂട്ട് ആയി ഉപയോഗിക്കുന്നത് അപകടകരമാണ്. ദയവായി സൂക്ഷിക്കുക."
 
-#: dolphinviewcontainer.cpp:431 search/dolphinsearchbox.cpp:301
+#: dolphinviewcontainer.cpp:432 search/dolphinsearchbox.cpp:301
 #, kde-format
 msgid "Search for %1 in %2"
 msgstr "'%1' ല്‍ '%2' തിരയുക"
 
-#: dolphinviewcontainer.cpp:469
+#: dolphinviewcontainer.cpp:470
 #, kde-format
 msgid "Search"
 msgstr "തിരയുക"
 
-#: dolphinviewcontainer.cpp:471
+#: dolphinviewcontainer.cpp:472
 #, kde-format
 msgid "Search for %1"
 msgstr "'%1' തിരയുക"
 
-#: dolphinviewcontainer.cpp:549
+#: dolphinviewcontainer.cpp:550
 #, kde-format
 msgctxt "@info:progress"
 msgid "Loading folder..."
 msgstr "അറ തുറക്കുന്നു..."
 
-#: dolphinviewcontainer.cpp:557
+#: dolphinviewcontainer.cpp:558
 #, kde-format
 msgctxt "@info:progress"
 msgid "Sorting..."
 msgstr "ക്രമത്തിലാക്കുന്നു..."
 
-#: dolphinviewcontainer.cpp:568
+#: dolphinviewcontainer.cpp:569
 #, kde-format
 msgctxt "@info"
 msgid "Searching..."
 msgstr "തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു..."
 
-#: dolphinviewcontainer.cpp:589
+#: dolphinviewcontainer.cpp:590
 #, kde-format
 msgctxt "@info:status"
 msgid "No items found."
@@ -1292,13 +1292,16 @@ msgctxt "@info:status"
 msgid "Dolphin does not support web pages, the web browser has been launched"
 msgstr "ഡോള്‍ഫിന്‍ വെബ് താളുകളെ പിന്തുണയ്ക്കുന്നില്ല, വെബ് ബ്രൌസര്‍ തുടങ്ങിയിരിയ്ക്കുന്നു"
 
-#: dolphinviewcontainer.cpp:711
-#, kde-format
+#: dolphinviewcontainer.cpp:701
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Protocol not supported by Dolphin, Konqueror has been launched"
 msgctxt "@info:status"
-msgid "Protocol not supported by Dolphin, Konqueror has been launched"
+msgid ""
+"Protocol not supported by Dolphin, default application has been launched"
 msgstr "ഈ സമ്പ്രദായം ഡോള്‍ഫിന്‍ പിന്തുണയ്ക്കുന്നില്ല, കോണ്‍കറര്‍ തുടങ്ങിയിരിയ്ക്കുന്നു"
 
-#: dolphinviewcontainer.cpp:719
+#: dolphinviewcontainer.cpp:708
 #, kde-format
 msgctxt "@info:status"
 msgid "Invalid protocol"
@@ -1335,92 +1338,92 @@ msgid_plural "%1 items"
 msgstr[0] "%1 സാധനം തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 msgstr[1] "%1 സാധനങ്ങള്‍ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു"
 
-#: kitemviews/kfileitemmodel.cpp:1944
+#: kitemviews/kfileitemmodel.cpp:1954
 #, kde-format
 msgctxt "@title:group Groups that start with a digit"
 msgid "0 - 9"
 msgstr "0 - 9"
 
-#: kitemviews/kfileitemmodel.cpp:1946
+#: kitemviews/kfileitemmodel.cpp:1956
 #, kde-format
 msgctxt "@title:group"
 msgid "Others"
 msgstr "മറ്റുള്ളവര്‍"
 
-#: kitemviews/kfileitemmodel.cpp:1977
+#: kitemviews/kfileitemmodel.cpp:1987
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Folders"
 msgstr "അറകള്‍"
 
-#: kitemviews/kfileitemmodel.cpp:1979
+#: kitemviews/kfileitemmodel.cpp:1989
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Small"
 msgstr "ചെറുതു്"
 
-#: kitemviews/kfileitemmodel.cpp:1981
+#: kitemviews/kfileitemmodel.cpp:1991
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Medium"
 msgstr "ഇടത്തരം"
 
-#: kitemviews/kfileitemmodel.cpp:1983
+#: kitemviews/kfileitemmodel.cpp:1993
 #, kde-format
 msgctxt "@title:group Size"
 msgid "Big"
 msgstr "വലുതു്"
 
-#: kitemviews/kfileitemmodel.cpp:2028
+#: kitemviews/kfileitemmodel.cpp:2038
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Today"
 msgstr "ഇന്നു്"
 
-#: kitemviews/kfileitemmodel.cpp:2029
+#: kitemviews/kfileitemmodel.cpp:2039
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Yesterday"
 msgstr "ഇന്നലെ"
 
-#: kitemviews/kfileitemmodel.cpp:2032
+#: kitemviews/kfileitemmodel.cpp:2042
 #, kde-format
 msgctxt "@title:group Date: The week day name: dddd"
 msgid "dddd"
 msgstr "dddd"
 
-#: kitemviews/kfileitemmodel.cpp:2034
+#: kitemviews/kfileitemmodel.cpp:2044
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"dddd\"with context @title:group Date"
 msgid "%1"
 msgstr "%1"
 
-#: kitemviews/kfileitemmodel.cpp:2038
+#: kitemviews/kfileitemmodel.cpp:2048
 #, kde-format
 msgctxt "@title:group Date"
 msgid "One Week Ago"
 msgstr "ഒരാഴ്ച മുമ്പ്"
 
-#: kitemviews/kfileitemmodel.cpp:2041
+#: kitemviews/kfileitemmodel.cpp:2051
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Two Weeks Ago"
 msgstr "രണ്ടാഴ്ച്ച മുമ്പു്"
 
-#: kitemviews/kfileitemmodel.cpp:2044
+#: kitemviews/kfileitemmodel.cpp:2054
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Three Weeks Ago"
 msgstr "മൂന്നാഴ്ച മുമ്പു്"
 
-#: kitemviews/kfileitemmodel.cpp:2048
+#: kitemviews/kfileitemmodel.cpp:2058
 #, kde-format
 msgctxt "@title:group Date"
 msgid "Earlier this Month"
 msgstr "ഈ മാസമാദ്യം"
 
-#: kitemviews/kfileitemmodel.cpp:2061
+#: kitemviews/kfileitemmodel.cpp:2071
 #, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
@@ -1428,7 +1431,7 @@ msgctxt ""
 msgid "'Yesterday' (MMMM, yyyy)"
 msgstr "'ഇന്നലെ' (MMMM, yyyy)"
 
-#: kitemviews/kfileitemmodel.cpp:2067
+#: kitemviews/kfileitemmodel.cpp:2077
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"'Yesterday' (MMMM, yyyy)\" with "
@@ -1436,7 +1439,7 @@ msgctxt ""
 msgid "%1"
 msgstr "%1"
 
-#: kitemviews/kfileitemmodel.cpp:2077
+#: kitemviews/kfileitemmodel.cpp:2087
 #, kde-format
 msgctxt ""
 "@title:group Date: The week day name: dddd, MMMM is full month name in "
@@ -1444,7 +1447,7 @@ msgctxt ""
 msgid "dddd (MMMM, yyyy)"
 msgstr "dddd (MMMM, yyyy)"
 
-#: kitemviews/kfileitemmodel.cpp:2080
+#: kitemviews/kfileitemmodel.cpp:2090
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"dddd (MMMM, yyyy)\" with context "
@@ -1452,7 +1455,7 @@ msgctxt ""
 msgid "%1"
 msgstr "%1"
 
-#: kitemviews/kfileitemmodel.cpp:2084
+#: kitemviews/kfileitemmodel.cpp:2094
 #, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
@@ -1460,7 +1463,7 @@ msgctxt ""
 msgid "'One Week Ago' (MMMM, yyyy)"
 msgstr "'ഒരാഴ്ച മുമ്പ്' (MMMM, yyyy)"
 
-#: kitemviews/kfileitemmodel.cpp:2090
+#: kitemviews/kfileitemmodel.cpp:2100
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"'One Week Ago' (MMMM, yyyy)\" with "
@@ -1468,7 +1471,7 @@ msgctxt ""
 msgid "%1"
 msgstr "%1"
 
-#: kitemviews/kfileitemmodel.cpp:2099
+#: kitemviews/kfileitemmodel.cpp:2109
 #, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
@@ -1476,7 +1479,7 @@ msgctxt ""
 msgid "'Two Weeks Ago' (MMMM, yyyy)"
 msgstr "'രണ്ടാഴ്ച്ച മുമ്പ്' (MMMM, yyyy)"
 
-#: kitemviews/kfileitemmodel.cpp:2105
+#: kitemviews/kfileitemmodel.cpp:2115
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"'Two Weeks Ago' (MMMM, yyyy)\" with "
@@ -1484,7 +1487,7 @@ msgctxt ""
 msgid "%1"
 msgstr "%1"
 
-#: kitemviews/kfileitemmodel.cpp:2114
+#: kitemviews/kfileitemmodel.cpp:2124
 #, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
@@ -1492,7 +1495,7 @@ msgctxt ""
 msgid "'Three Weeks Ago' (MMMM, yyyy)"
 msgstr "'മൂന്നാഴ്ച മുമ്പ്' (MMMM, yyyy)"
 
-#: kitemviews/kfileitemmodel.cpp:2120
+#: kitemviews/kfileitemmodel.cpp:2130
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"'Three Weeks Ago' (MMMM, yyyy)\" with "
@@ -1500,7 +1503,7 @@ msgctxt ""
 msgid "%1"
 msgstr "%1"
 
-#: kitemviews/kfileitemmodel.cpp:2129
+#: kitemviews/kfileitemmodel.cpp:2139
 #, kde-format
 msgctxt ""
 "@title:group Date: MMMM is full month name in current locale, and yyyy is "
@@ -1508,7 +1511,7 @@ msgctxt ""
 msgid "'Earlier on' MMMM, yyyy"
 msgstr "'നേരത്തെ' MMMM യില്‍, yyyy"
 
-#: kitemviews/kfileitemmodel.cpp:2135
+#: kitemviews/kfileitemmodel.cpp:2145
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"'Earlier on' MMMM, yyyy\" with "
@@ -1516,7 +1519,7 @@ msgctxt ""
 msgid "%1"
 msgstr "%1"
 
-#: kitemviews/kfileitemmodel.cpp:2145
+#: kitemviews/kfileitemmodel.cpp:2155
 #, kde-format
 msgctxt ""
 "@title:group The month and year: MMMM is full month name in current locale, "
@@ -1524,7 +1527,7 @@ msgctxt ""
 msgid "MMMM, yyyy"
 msgstr "MMMM, yyyy"
 
-#: kitemviews/kfileitemmodel.cpp:2148
+#: kitemviews/kfileitemmodel.cpp:2158
 #, kde-format
 msgctxt ""
 "Can be used to script translation of \"MMMM, yyyy\" with context @title:"
@@ -1532,265 +1535,265 @@ msgctxt ""
 msgid "%1"
 msgstr "%1"
 
-#: kitemviews/kfileitemmodel.cpp:2187 kitemviews/kfileitemmodel.cpp:2200
-#: kitemviews/kfileitemmodel.cpp:2213
+#: kitemviews/kfileitemmodel.cpp:2197 kitemviews/kfileitemmodel.cpp:2210
+#: kitemviews/kfileitemmodel.cpp:2223
 #, kde-format
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Read, "
 msgstr "വായിയ്ക്കുക, "
 
-#: kitemviews/kfileitemmodel.cpp:2190 kitemviews/kfileitemmodel.cpp:2203
-#: kitemviews/kfileitemmodel.cpp:2216
+#: kitemviews/kfileitemmodel.cpp:2200 kitemviews/kfileitemmodel.cpp:2213
+#: kitemviews/kfileitemmodel.cpp:2226
 #, kde-format
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Write, "
 msgstr "എഴുതുക, "
 
-#: kitemviews/kfileitemmodel.cpp:2193 kitemviews/kfileitemmodel.cpp:2206
-#: kitemviews/kfileitemmodel.cpp:2219
+#: kitemviews/kfileitemmodel.cpp:2203 kitemviews/kfileitemmodel.cpp:2216
+#: kitemviews/kfileitemmodel.cpp:2229
 #, kde-format
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Execute, "
 msgstr "പ്രവര്‍ത്തിപ്പിയ്ക്കുക, "
 
-#: kitemviews/kfileitemmodel.cpp:2195 kitemviews/kfileitemmodel.cpp:2208
-#: kitemviews/kfileitemmodel.cpp:2221
+#: kitemviews/kfileitemmodel.cpp:2205 kitemviews/kfileitemmodel.cpp:2218
+#: kitemviews/kfileitemmodel.cpp:2231
 #, kde-format
 msgctxt "@item:intext Access permission, concatenated"
 msgid "Forbidden"
 msgstr "നിഷിദ്ധം"
 
-#: kitemviews/kfileitemmodel.cpp:2223
+#: kitemviews/kfileitemmodel.cpp:2233
 #, kde-format
 msgctxt "@title:group Files and folders by permissions"
 msgid "User: %1 | Group: %2 | Others: %3"
 msgstr "(ഉപയോക്താവു്: %1) (കൂട്ടം: %2) (മറ്റുള്ളവര്‍: %3)"
 
-#: kitemviews/kfileitemmodel.cpp:2312
+#: kitemviews/kfileitemmodel.cpp:2322
 #, kde-format
 msgctxt "@label"
 msgid "Name"
 msgstr "പേരു്"
 
-#: kitemviews/kfileitemmodel.cpp:2313
+#: kitemviews/kfileitemmodel.cpp:2323
 #, kde-format
 msgctxt "@label"
 msgid "Size"
 msgstr "വലിപ്പം"
 
-#: kitemviews/kfileitemmodel.cpp:2314
+#: kitemviews/kfileitemmodel.cpp:2324
 #, kde-format
 msgctxt "@label"
 msgid "Modified"
 msgstr "പരിഷ്കരിച്ചത്"
 
-#: kitemviews/kfileitemmodel.cpp:2315
+#: kitemviews/kfileitemmodel.cpp:2325
 #, kde-format
 msgctxt "@label"
 msgid "Created"
 msgstr "പുതിയതായി സൃഷ്ടിച്ചു"
 
-#: kitemviews/kfileitemmodel.cpp:2316
+#: kitemviews/kfileitemmodel.cpp:2326
 #, kde-format
 msgctxt "@label"
 msgid "Accessed"
 msgstr "ഉപയോഗിച്ചത്"
 
-#: kitemviews/kfileitemmodel.cpp:2317
+#: kitemviews/kfileitemmodel.cpp:2327
 #, kde-format
 msgctxt "@label"
 msgid "Type"
 msgstr "തരം"
 
-#: kitemviews/kfileitemmodel.cpp:2318
+#: kitemviews/kfileitemmodel.cpp:2328
 #, kde-format
 msgctxt "@label"
 msgid "Rating"
 msgstr "നിലവാരം"
 
-#: kitemviews/kfileitemmodel.cpp:2319
+#: kitemviews/kfileitemmodel.cpp:2329
 #, kde-format
 msgctxt "@label"
 msgid "Tags"
 msgstr "മുദ്രകള്‍"
 
-#: kitemviews/kfileitemmodel.cpp:2320
+#: kitemviews/kfileitemmodel.cpp:2330
 #, kde-format
 msgctxt "@label"
 msgid "Comment"
 msgstr "അഭിപ്രായം"
 
-#: kitemviews/kfileitemmodel.cpp:2321
+#: kitemviews/kfileitemmodel.cpp:2331
 #, kde-format
 msgctxt "@label"
 msgid "Title"
 msgstr "തലക്കെട്ടു്"
 
-#: kitemviews/kfileitemmodel.cpp:2321 kitemviews/kfileitemmodel.cpp:2322
-#: kitemviews/kfileitemmodel.cpp:2323
+#: kitemviews/kfileitemmodel.cpp:2331 kitemviews/kfileitemmodel.cpp:2332
+#: kitemviews/kfileitemmodel.cpp:2333
 #, kde-format
 msgctxt "@label"
 msgid "Document"
 msgstr "വിവരണം"
 
-#: kitemviews/kfileitemmodel.cpp:2322
+#: kitemviews/kfileitemmodel.cpp:2332
 #, kde-format
 msgctxt "@label"
 msgid "Word Count"
 msgstr "വാക്കുകളുടെ എണ്ണം"
 
-#: kitemviews/kfileitemmodel.cpp:2323
+#: kitemviews/kfileitemmodel.cpp:2333
 #, kde-format
 msgctxt "@label"
 msgid "Line Count"
 msgstr "വരികളുടെ എണ്ണം"
 
-#: kitemviews/kfileitemmodel.cpp:2324
+#: kitemviews/kfileitemmodel.cpp:2334
 #, kde-format
 msgctxt "@label"
 msgid "Date Photographed"
 msgstr "പടമെടുത്തത്"
 
-#: kitemviews/kfileitemmodel.cpp:2324 kitemviews/kfileitemmodel.cpp:2325
-#: kitemviews/kfileitemmodel.cpp:2326 kitemviews/kfileitemmodel.cpp:2327
+#: kitemviews/kfileitemmodel.cpp:2334 kitemviews/kfileitemmodel.cpp:2335
+#: kitemviews/kfileitemmodel.cpp:2336 kitemviews/kfileitemmodel.cpp:2337
 #, kde-format
 msgctxt "@label"
 msgid "Image"
 msgstr "ചിത്രം"
 
-#: kitemviews/kfileitemmodel.cpp:2325
+#: kitemviews/kfileitemmodel.cpp:2335
 #, kde-format
 msgctxt "@label"
 msgid "Width"
 msgstr "വീതി"
 
-#: kitemviews/kfileitemmodel.cpp:2326
+#: kitemviews/kfileitemmodel.cpp:2336
 #, kde-format
 msgctxt "@label"
 msgid "Height"
 msgstr "നീളം"
 
-#: kitemviews/kfileitemmodel.cpp:2327
+#: kitemviews/kfileitemmodel.cpp:2337
 #, kde-format
 msgctxt "@label"
 msgid "Orientation"
 msgstr "ക്രമീകരണം"
 
-#: kitemviews/kfileitemmodel.cpp:2328
+#: kitemviews/kfileitemmodel.cpp:2338
 #, kde-format
 msgctxt "@label"
 msgid "Artist"
 msgstr "കലാകാരൻ"
 
-#: kitemviews/kfileitemmodel.cpp:2328 kitemviews/kfileitemmodel.cpp:2329
-#: kitemviews/kfileitemmodel.cpp:2330 kitemviews/kfileitemmodel.cpp:2331
-#: kitemviews/kfileitemmodel.cpp:2332 kitemviews/kfileitemmodel.cpp:2333
-#: kitemviews/kfileitemmodel.cpp:2334
+#: kitemviews/kfileitemmodel.cpp:2338 kitemviews/kfileitemmodel.cpp:2339
+#: kitemviews/kfileitemmodel.cpp:2340 kitemviews/kfileitemmodel.cpp:2341
+#: kitemviews/kfileitemmodel.cpp:2342 kitemviews/kfileitemmodel.cpp:2343
+#: kitemviews/kfileitemmodel.cpp:2344
 #, kde-format
 msgctxt "@label"
 msgid "Audio"
 msgstr "ശബ്ദം"
 
-#: kitemviews/kfileitemmodel.cpp:2329
+#: kitemviews/kfileitemmodel.cpp:2339
 #, kde-format
 msgctxt "@label"
 msgid "Genre"
 msgstr "വിഭാഗം"
 
-#: kitemviews/kfileitemmodel.cpp:2330
+#: kitemviews/kfileitemmodel.cpp:2340
 #, kde-format
 msgctxt "@label"
 msgid "Album"
 msgstr "ആല്‍ബം"
 
-#: kitemviews/kfileitemmodel.cpp:2331
+#: kitemviews/kfileitemmodel.cpp:2341
 #, kde-format
 msgctxt "@label"
 msgid "Duration"
 msgstr "ദൈര്‍ഘ്യം"
 
-#: kitemviews/kfileitemmodel.cpp:2332
+#: kitemviews/kfileitemmodel.cpp:2342
 #, kde-format
 msgctxt "@label"
 msgid "Bitrate"
 msgstr "ബിറ്റ്റേറ്റ്"
 
-#: kitemviews/kfileitemmodel.cpp:2333
+#: kitemviews/kfileitemmodel.cpp:2343
 #, kde-format
 msgctxt "@label"
 msgid "Track"
 msgstr "ട്രാക്ക്"
 
-#: kitemviews/kfileitemmodel.cpp:2334
+#: kitemviews/kfileitemmodel.cpp:2344
 #, kde-format
 msgctxt "@label"
 msgid "Release Year"
 msgstr "ഇറങ്ങിയ വർഷം"
 
-#: kitemviews/kfileitemmodel.cpp:2335
+#: kitemviews/kfileitemmodel.cpp:2345
 #, kde-format
 msgctxt "@label"
 msgid "Aspect Ratio"
 msgstr "അനുപാതം"
 
-#: kitemviews/kfileitemmodel.cpp:2335 kitemviews/kfileitemmodel.cpp:2336
+#: kitemviews/kfileitemmodel.cpp:2345 kitemviews/kfileitemmodel.cpp:2346
 #, kde-format
 msgctxt "@label"
 msgid "Video"
 msgstr "വീഡിയോ"
 
-#: kitemviews/kfileitemmodel.cpp:2336
+#: kitemviews/kfileitemmodel.cpp:2346
 #, kde-format
 msgctxt "@label"
 msgid "Frame Rate"
 msgstr "ഫ്രെയിം റേറ്റ്"
 
-#: kitemviews/kfileitemmodel.cpp:2337
+#: kitemviews/kfileitemmodel.cpp:2347
 #, kde-format
 msgctxt "@label"
 msgid "Path"
 msgstr "പാത"
 
-#: kitemviews/kfileitemmodel.cpp:2337 kitemviews/kfileitemmodel.cpp:2338
-#: kitemviews/kfileitemmodel.cpp:2339 kitemviews/kfileitemmodel.cpp:2340
-#: kitemviews/kfileitemmodel.cpp:2341 kitemviews/kfileitemmodel.cpp:2342
-#: kitemviews/kfileitemmodel.cpp:2343
+#: kitemviews/kfileitemmodel.cpp:2347 kitemviews/kfileitemmodel.cpp:2348
+#: kitemviews/kfileitemmodel.cpp:2349 kitemviews/kfileitemmodel.cpp:2350
+#: kitemviews/kfileitemmodel.cpp:2351 kitemviews/kfileitemmodel.cpp:2352
+#: kitemviews/kfileitemmodel.cpp:2353
 #, kde-format
 msgctxt "@label"
 msgid "Other"
 msgstr "മറ്റുള്ളവ"
 
-#: kitemviews/kfileitemmodel.cpp:2338
+#: kitemviews/kfileitemmodel.cpp:2348
 #, kde-format
 msgctxt "@label"
 msgid "Deletion Time"
 msgstr "കളയാനുള്ള സമയം"
 
-#: kitemviews/kfileitemmodel.cpp:2339
+#: kitemviews/kfileitemmodel.cpp:2349
 #, kde-format
 msgctxt "@label"
 msgid "Link Destination"
 msgstr "കണ്ണിയുടെ ലക്ഷ്യസ്ഥാനം"
 
-#: kitemviews/kfileitemmodel.cpp:2340
+#: kitemviews/kfileitemmodel.cpp:2350
 #, kde-format
 msgctxt "@label"
 msgid "Downloaded From"
 msgstr "ഡൗണ്‍ലോഡ് എടുത്തത്"
 
-#: kitemviews/kfileitemmodel.cpp:2341
+#: kitemviews/kfileitemmodel.cpp:2351
 #, kde-format
 msgctxt "@label"
 msgid "Permissions"
 msgstr "അനുവാദങ്ങള്‍"
 
-#: kitemviews/kfileitemmodel.cpp:2342
+#: kitemviews/kfileitemmodel.cpp:2352
 #, kde-format
 msgctxt "@label"
 msgid "Owner"
 msgstr "ഉടമ"
 
-#: kitemviews/kfileitemmodel.cpp:2343
+#: kitemviews/kfileitemmodel.cpp:2353
 #, kde-format
 msgctxt "@label"
 msgid "User Group"
@@ -4123,7 +4126,7 @@ msgctxt "Sort ascending"
 msgid "Ascending"
 msgstr "മുകളിലേയ്ക്കു്"
 
-#: views/versioncontrol/versioncontrolobserver.cpp:235
+#: views/versioncontrol/versioncontrolobserver.cpp:247
 #, kde-format
 msgctxt "@info:status"
 msgid "Updating version information..."

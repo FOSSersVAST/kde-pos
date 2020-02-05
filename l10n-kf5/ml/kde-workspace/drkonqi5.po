@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-06 03:32+0100\n"
+"POT-Creation-Date: 2020-01-30 03:37+0100\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -780,19 +780,19 @@ msgctxt ""
 msgid "What I was doing when the application \"%1\" crashed"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:157
+#: bugzillaintegration/reportassistantpages_base.cpp:163
 #, kde-format
 msgctxt "@label examples about information the user can provide"
 msgid "Examples: %1"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:213
+#: bugzillaintegration/reportassistantpages_base.cpp:219
 #, kde-format
 msgctxt "@action:button"
 msgid "&Show Contents of the Report"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:215
+#: bugzillaintegration/reportassistantpages_base.cpp:221
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:670
 #, kde-format
 msgctxt "@info:tooltip"
@@ -800,13 +800,13 @@ msgid ""
 "Use this button to show the generated report information about this crash."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:273
+#: bugzillaintegration/reportassistantpages_base.cpp:279
 #, kde-format
 msgctxt "@info"
 msgid "The automatically generated crash information is useful."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:278
+#: bugzillaintegration/reportassistantpages_base.cpp:284
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -814,7 +814,7 @@ msgid ""
 "still be useful."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:285
+#: bugzillaintegration/reportassistantpages_base.cpp:291
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -822,13 +822,13 @@ msgid ""
 "is probably not helpful."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:295
+#: bugzillaintegration/reportassistantpages_base.cpp:301
 #, kde-format
 msgctxt "@info"
 msgid "The crash information was not generated because it was not needed."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:299
+#: bugzillaintegration/reportassistantpages_base.cpp:305
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -836,7 +836,7 @@ msgid ""
 "information to be helpful."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:302
+#: bugzillaintegration/reportassistantpages_base.cpp:308
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -845,13 +845,13 @@ msgid ""
 "Guide by clicking on the <interface>Help</interface> button.</note>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:316
+#: bugzillaintegration/reportassistantpages_base.cpp:322
 #, kde-format
 msgctxt "@info"
 msgid "The information you can provide could be considered helpful."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:319
+#: bugzillaintegration/reportassistantpages_base.cpp:325
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -859,19 +859,19 @@ msgid ""
 "case."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:324
+#: bugzillaintegration/reportassistantpages_base.cpp:330
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Your problem has already been reported as bug %1."
 msgstr "നിങ്ങളുടെ പ്രശ്നം ബഗ് %1 ആയി അറിയച്ചതാണ്"
 
-#: bugzillaintegration/reportassistantpages_base.cpp:336
+#: bugzillaintegration/reportassistantpages_base.cpp:342
 #, kde-format
 msgctxt "@info"
 msgid "This report is considered helpful."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:341
+#: bugzillaintegration/reportassistantpages_base.cpp:347
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -880,7 +880,7 @@ msgid ""
 "report at <link>%1</link>"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:352
+#: bugzillaintegration/reportassistantpages_base.cpp:358
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -889,7 +889,7 @@ msgid ""
 "maintainer. Also, you can manually report at <link>%1</link>."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:367
+#: bugzillaintegration/reportassistantpages_base.cpp:373
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -897,13 +897,13 @@ msgid ""
 "automated bug reporting process is not enabled for this crash."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:370
+#: bugzillaintegration/reportassistantpages_base.cpp:376
 #, kde-format
 msgctxt "@info"
 msgid "If you wish, you can go back and change your answers. "
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:379
+#: bugzillaintegration/reportassistantpages_base.cpp:385
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -911,7 +911,7 @@ msgid ""
 "<interface>Finish</interface> to close the assistant."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:385
+#: bugzillaintegration/reportassistantpages_base.cpp:391
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -919,25 +919,25 @@ msgid ""
 "<interface>Finish</interface> to close the assistant."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:406
+#: bugzillaintegration/reportassistantpages_base.cpp:412
 #, kde-format
 msgctxt "@info report to url/mail address"
 msgid "Report to %1"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:429
+#: bugzillaintegration/reportassistantpages_base.cpp:435
 #, kde-format
 msgctxt "@title:window"
 msgid "Contents of the Report"
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:435
+#: bugzillaintegration/reportassistantpages_base.cpp:441
 #, kde-format
 msgctxt "@action:button"
 msgid "&Save to File..."
 msgstr ""
 
-#: bugzillaintegration/reportassistantpages_base.cpp:437
+#: bugzillaintegration/reportassistantpages_base.cpp:443
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""

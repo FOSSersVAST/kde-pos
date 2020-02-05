@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-30 03:38+0100\n"
+"POT-Creation-Date: 2020-02-05 03:43+0100\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -25,7 +25,7 @@ msgstr "സ്ഥാനം"
 
 #: package/contents/config/config.qml:36
 #: package/contents/ui/ConfigIcons.qml:220
-#: package/contents/ui/FolderViewLayer.qml:422
+#: package/contents/ui/FolderViewLayer.qml:412
 msgid "Icons"
 msgstr "ചിഹ്നങ്ങള്‍"
 
@@ -108,13 +108,13 @@ msgid "Arrangement:"
 msgstr "ചിഹ്നങ്ങളുടെ അടുക്കിവയ്ക്കല്‍"
 
 #: package/contents/ui/ConfigIcons.qml:142
-#: plugins/folder/viewpropertiesmenu.cpp:34
+#: plugins/folder/viewpropertiesmenu.cpp:76
 #, kde-format
 msgid "Rows"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:142
-#: plugins/folder/viewpropertiesmenu.cpp:38
+#: plugins/folder/viewpropertiesmenu.cpp:80
 #, kde-format
 msgid "Columns"
 msgstr ""
@@ -141,31 +141,31 @@ msgid "Manual"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:185
-#: plugins/folder/viewpropertiesmenu.cpp:62
+#: plugins/folder/viewpropertiesmenu.cpp:38
 #, kde-format
 msgid "Name"
 msgstr "പേര്"
 
 #: package/contents/ui/ConfigIcons.qml:185
-#: plugins/folder/viewpropertiesmenu.cpp:66
+#: plugins/folder/viewpropertiesmenu.cpp:42
 #, kde-format
 msgid "Size"
 msgstr "വലിപ്പമനുസരിച്ചു്"
 
 #: package/contents/ui/ConfigIcons.qml:185
-#: plugins/folder/viewpropertiesmenu.cpp:70
+#: plugins/folder/viewpropertiesmenu.cpp:46
 #, kde-format
 msgid "Type"
 msgstr "തരമനുസരിച്ചു്"
 
 #: package/contents/ui/ConfigIcons.qml:185
-#: plugins/folder/viewpropertiesmenu.cpp:74
+#: plugins/folder/viewpropertiesmenu.cpp:50
 #, kde-format
 msgid "Date"
 msgstr "തിയ്യതിയ്ക്കനുസരിച്ചു്"
 
 #: package/contents/ui/ConfigIcons.qml:196
-#: plugins/folder/viewpropertiesmenu.cpp:79
+#: plugins/folder/viewpropertiesmenu.cpp:55
 #, kde-format
 msgid "Descending"
 msgstr "അവരോഹണക്രമത്തിൽ"
@@ -188,13 +188,13 @@ msgid "Icon size:"
 msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം:"
 
 #: package/contents/ui/ConfigIcons.qml:246
-#: plugins/folder/viewpropertiesmenu.cpp:88
+#: plugins/folder/viewpropertiesmenu.cpp:64
 #, kde-format
 msgid "Small"
 msgstr "ചെറുതു്"
 
 #: package/contents/ui/ConfigIcons.qml:255
-#: plugins/folder/viewpropertiesmenu.cpp:88
+#: plugins/folder/viewpropertiesmenu.cpp:64
 #, kde-format
 msgid "Large"
 msgstr "വലുതു്"
@@ -208,7 +208,7 @@ msgid "Narrow"
 msgstr "ഇടുങ്ങിയത്"
 
 #: package/contents/ui/ConfigIcons.qml:268
-#: plugins/folder/viewpropertiesmenu.cpp:88
+#: plugins/folder/viewpropertiesmenu.cpp:64
 #, kde-format
 msgid "Medium"
 msgstr "ഇടത്തരം"
@@ -347,91 +347,91 @@ msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 msgid "&Refresh Desktop"
 msgstr "പണിയിടം പുതുക്കുക (&R)"
 
-#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1609
+#: plugins/folder/foldermodel.cpp:402 plugins/folder/foldermodel.cpp:1610
 #, kde-format
 msgid "&Refresh View"
 msgstr "കാഴ്ച പുതുക്കുക (&R)"
 
-#: plugins/folder/foldermodel.cpp:1616
+#: plugins/folder/foldermodel.cpp:1617
 #, fuzzy, kde-format
 msgid "&Empty Trash"
 msgstr "ചവറ്റുകുട്ട കാലിയാക്കുക (&E)"
 
-#: plugins/folder/foldermodel.cpp:1619
+#: plugins/folder/foldermodel.cpp:1620
 #, fuzzy, kde-format
 msgctxt "Restore from trash"
 msgid "Restore"
 msgstr "വീണ്ടെടുക്കുക (&R)"
 
-#: plugins/folder/foldermodel.cpp:1624
+#: plugins/folder/foldermodel.cpp:1625
 #, kde-format
 msgid "&Open"
 msgstr "തുറക്കുക (&O)"
 
-#: plugins/folder/foldermodel.cpp:1740
+#: plugins/folder/foldermodel.cpp:1741
 #, kde-format
 msgid "&Paste"
 msgstr "ഒട്ടിക്കുക (&P)"
 
-#: plugins/folder/foldermodel.cpp:1848
+#: plugins/folder/foldermodel.cpp:1849
 #, kde-format
 msgid "&Properties"
 msgstr "ഗുണഗണങ്ങള്‍ (&P)"
 
 #: plugins/folder/viewpropertiesmenu.cpp:31
 #, fuzzy, kde-format
-msgid "Arrange In"
-msgstr "ചിഹ്നങ്ങള്‍ അടുക്കിവയ്ക്കുക:"
-
-#: plugins/folder/viewpropertiesmenu.cpp:43
-#, fuzzy, kde-format
-msgid "Align"
-msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
-
-#: plugins/folder/viewpropertiesmenu.cpp:46
-#, kde-format
-msgid "Left"
-msgstr "ഇടത്"
-
-#: plugins/folder/viewpropertiesmenu.cpp:50
-#, kde-format
-msgid "Right"
-msgstr "വലത്"
-
-#: plugins/folder/viewpropertiesmenu.cpp:55
-#, fuzzy, kde-format
 msgid "Sort By"
 msgstr "ചിഹ്നങ്ങള്‍ തരം തിരിയ്ക്കുക:"
 
-#: plugins/folder/viewpropertiesmenu.cpp:58
+#: plugins/folder/viewpropertiesmenu.cpp:34
 #, fuzzy, kde-format
 msgid "Unsorted"
 msgstr "തരംതിരിയ്ക്കാത്തതു്"
 
-#: plugins/folder/viewpropertiesmenu.cpp:81
+#: plugins/folder/viewpropertiesmenu.cpp:57
 #, fuzzy, kde-format
 msgid "Folders First"
 msgstr "അറകളാദ്യം"
 
-#: plugins/folder/viewpropertiesmenu.cpp:84
+#: plugins/folder/viewpropertiesmenu.cpp:60
 #, fuzzy, kde-format
 msgid "Icon Size"
 msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം:"
 
-#: plugins/folder/viewpropertiesmenu.cpp:88
+#: plugins/folder/viewpropertiesmenu.cpp:64
 #, kde-format
 msgid "Tiny"
 msgstr "ചെറുത്"
 
-#: plugins/folder/viewpropertiesmenu.cpp:88
+#: plugins/folder/viewpropertiesmenu.cpp:64
 #, kde-format
 msgid "Small Medium"
 msgstr ""
 
-#: plugins/folder/viewpropertiesmenu.cpp:88
+#: plugins/folder/viewpropertiesmenu.cpp:64
 #, kde-format
 msgid "Huge"
 msgstr "വളരെ വലുത്"
+
+#: plugins/folder/viewpropertiesmenu.cpp:73
+#, fuzzy, kde-format
+msgid "Arrange In"
+msgstr "ചിഹ്നങ്ങള്‍ അടുക്കിവയ്ക്കുക:"
+
+#: plugins/folder/viewpropertiesmenu.cpp:85
+#, fuzzy, kde-format
+msgid "Align"
+msgstr "ഗ്രിഡുമായി ചേര്‍ത്തു്"
+
+#: plugins/folder/viewpropertiesmenu.cpp:88
+#, kde-format
+msgid "Left"
+msgstr "ഇടത്"
+
+#: plugins/folder/viewpropertiesmenu.cpp:92
+#, kde-format
+msgid "Right"
+msgstr "വലത്"
 
 #: plugins/folder/viewpropertiesmenu.cpp:97
 #, fuzzy, kde-format

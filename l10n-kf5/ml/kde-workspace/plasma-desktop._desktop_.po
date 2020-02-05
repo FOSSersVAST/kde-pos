@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-20 02:50+0000\n"
+"POT-Creation-Date: 2020-02-02 02:46+0000\n"
 "PO-Revision-Date: 2019-12-14 15:04+0530\n"
 "Last-Translator: Saranya P S <amminiperumbilly@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -78,7 +78,7 @@ msgctxt "Name"
 msgid "Minimize all Windows"
 msgstr "എല്ലാ ജാലകങ്ങളും ചെറുതാക്കുക"
 
-#: applets/minimizeall/package/metadata.desktop:34
+#: applets/minimizeall/package/metadata.desktop:35
 msgctxt "Comment"
 msgid "Shows the desktop by minimizing all windows"
 msgstr ""
@@ -367,7 +367,7 @@ msgctxt "Name"
 msgid "Search"
 msgstr "തിരയുക"
 
-#: kcms/baloo/package/metadata.desktop:31
+#: kcms/baloo/package/metadata.desktop:33
 msgctxt "Comment"
 msgid "Configure the File Indexer"
 msgstr "ഫയൽ സൂചിക ക്രമീകരിക്കുക"
@@ -713,7 +713,7 @@ msgctxt "Comment"
 msgid "Configure background services"
 msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍"
 
-#: kcms/kded/kcmkded.desktop:73
+#: kcms/kded/kcmkded.desktop:77
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "KDED,Daemon,Services"
@@ -926,13 +926,13 @@ msgctxt "Name"
 msgid "Night Color"
 msgstr ""
 
-#: kcms/nightcolor/kcm_nightcolor.desktop:54
-#: kcms/nightcolor/package/metadata.desktop:40
+#: kcms/nightcolor/kcm_nightcolor.desktop:55
+#: kcms/nightcolor/package/metadata.desktop:41
 msgctxt "Comment"
 msgid "Adjust color temperature at night to reduce eye strain"
 msgstr ""
 
-#: kcms/nightcolor/kcm_nightcolor.desktop:92
+#: kcms/nightcolor/kcm_nightcolor.desktop:94
 msgctxt "X-KDE-Keywords"
 msgid "kwin,window,manager,night,colors,redshift,eyes"
 msgstr ""
@@ -1186,7 +1186,7 @@ msgctxt "Name"
 msgid "Device Actions"
 msgstr "ഉപകരണത്തിനുള്ള പ്രവൃത്തികള്‍"
 
-#: kcms/solid_actions/solid-actions.desktop:83
+#: kcms/solid_actions/solid-actions.desktop:84
 #, fuzzy
 msgctxt "Comment"
 msgid "Manage actions available to the user when connecting new devices"
@@ -1194,7 +1194,7 @@ msgstr ""
 "കമ്പ്യൂട്ടറില്‍ പുതിയ ഉപകരണങ്ങള്‍ ഘടിപ്പിക്കുമ്പോള്‍ ഉപയോക്താവിന് ലഭ്യമാകുന്ന നടപടികള്‍ കൈകാര്യം "
 "ചെയ്യാനുള്ള ക്രമീകരണായുധം"
 
-#: kcms/solid_actions/solid-actions.desktop:136
+#: kcms/solid_actions/solid-actions.desktop:137
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "Solid Devices Actions"
@@ -1239,14 +1239,14 @@ msgid ""
 "shortcuts"
 msgstr ""
 
-#: kcms/style/cgcgtk3.knsrc:2
-msgctxt "Name"
-msgid "GTK 3.x Themes"
-msgstr ""
-
-#: kcms/style/cgctheme.knsrc:2
+#: kcms/style/gtk2_themes.knsrc:2
 msgctxt "Name"
 msgid "GTK 2.x Themes"
+msgstr ""
+
+#: kcms/style/gtk3_themes.knsrc:2
+msgctxt "Name"
+msgid "GTK 3.x Themes"
 msgstr ""
 
 #: kcms/style/kcm_style.desktop:16 kcms/style/package/metadata.desktop:2
@@ -1338,14 +1338,14 @@ msgctxt "Name"
 msgid "General Behavior"
 msgstr ""
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:43
-#: kcms/workspaceoptions/package/metadata.desktop:34
+#: kcms/workspaceoptions/kcm_workspace.desktop:44
+#: kcms/workspaceoptions/package/metadata.desktop:35
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure general workspace behavior"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
 
-#: kcms/workspaceoptions/kcm_workspace.desktop:74
+#: kcms/workspaceoptions/kcm_workspace.desktop:76
 msgctxt "X-KDE-Keywords"
 msgid ""
 "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
