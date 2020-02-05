@@ -77,6 +77,12 @@ Steps till Weblate pull can be done periodically to keep Weblate POs up-to-date 
 
 Copy file from upstream to corresponding one in `l10n-kf5` folder.
 
+Then import from git to weblate (the command in the [Setup section](#setup)) :
+
+```
+weblate import_project kde 'https://github.com/FOSSersVAST/kde-pos.git' master "l10n-kf5/(?P<language>[^/]*)/(?P<component>[^%]*)\.po" 
+```
+
 ## Searching for strings
 
 To search for a particular string, do this in upstream :

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-13 02:49+0000\n"
+"POT-Creation-Date: 2020-01-29 02:29+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -673,7 +673,7 @@ msgctxt "Name"
 msgid "User Feedback"
 msgstr ""
 
-#: kcms/feedback/kcm_feedback.desktop:40
+#: kcms/feedback/kcm_feedback.desktop:43
 msgctxt "Comment"
 msgid "Configure user feedback settings"
 msgstr ""
@@ -864,9 +864,9 @@ msgid "Plasma"
 msgstr ""
 
 #: login-sessions/plasma.desktop.cmake:54
-#: login-sessions/plasmawayland.desktop.cmake:33
-#: login-sessions/plasmawayland-dev.desktop.cmake:30
-#: login-sessions/plasmax11-dev.desktop.cmake:31
+#: login-sessions/plasmawayland.desktop.cmake:35
+#: login-sessions/plasmawayland-dev.desktop.cmake:32
+#: login-sessions/plasmax11-dev.desktop.cmake:33
 msgctxt "Comment"
 msgid "Plasma by KDE"
 msgstr ""

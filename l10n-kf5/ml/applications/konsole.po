@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-18 02:36+0100\n"
+"POT-Creation-Date: 2020-01-31 02:32+0100\n"
 "PO-Revision-Date: 2019-12-23 17:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -1534,27 +1534,27 @@ msgstr ""
 msgid "The threshold for continuous silence to be detected by Konsole"
 msgstr ""
 
-#: Filter.cpp:489
+#: Filter.cpp:476
 #, kde-format
 msgid "Open Link"
 msgstr "കണ്ണി തുറക്കുക"
 
-#: Filter.cpp:491
+#: Filter.cpp:478
 #, kde-format
 msgid "Copy Link Address"
 msgstr "ലിങ്ക് അഡ്രസ്സ് പകർത്തുക"
 
-#: Filter.cpp:494
+#: Filter.cpp:481
 #, kde-format
 msgid "Send Email To..."
 msgstr "ഇതിലേയ്ക്കു് ഇമെയില്‍ അയയ്ക്കുക"
 
-#: Filter.cpp:496
+#: Filter.cpp:483
 #, kde-format
 msgid "Copy Email Address"
 msgstr "ഇമെയില്‍ വിലാസം പകര്‍ത്തുക"
 
-#: Filter.cpp:635
+#: Filter.cpp:614
 #, fuzzy, kde-format
 msgid "Open File"
 msgstr "ഫയല്‍ മാനേജര്‍ തുറക്കുക."
@@ -1824,158 +1824,158 @@ msgstr "ഇന്‍പുട്ട്:"
 msgid "Output:"
 msgstr "ഫലം:"
 
-#: main.cpp:139
+#: main.cpp:137
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Konsole"
 msgstr "കണ്‍സോള്‍"
 
-#: main.cpp:141
+#: main.cpp:139
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Terminal emulator"
 msgstr "ടെര്‍മിനലിന്റെ അനുകരണം"
 
-#: main.cpp:143
+#: main.cpp:141
 #, kde-format
 msgctxt "@info:credit"
 msgid "(c) 1997-2020, The Konsole Developers"
 msgstr ""
 
-#: main.cpp:310
+#: main.cpp:312
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Kurt Hindenburg"
 msgstr "കര്‍ട്ട് വി. ഹിന്‍ഡന്‍ബര്‍ഗ്"
 
-#: main.cpp:311
+#: main.cpp:313
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "General maintainer, bug fixes and general improvements"
 msgstr "പിഴവു് തിരുത്തലും പൊതുവായുള്ള മെച്ചപ്പെടുത്തലുകളും"
 
-#: main.cpp:314
+#: main.cpp:316
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Robert Knight"
 msgstr "റോബര്‍ട്ട് നൈറ്റ്"
 
-#: main.cpp:315
+#: main.cpp:317
 #, kde-format
 msgctxt "@info:credit"
 msgid "Previous maintainer, ported to KDE4"
 msgstr ""
 
-#: main.cpp:317
+#: main.cpp:319
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Lars Doelle"
 msgstr "ലാര്‍സ് ഡൊയെല്ലെ"
 
-#: main.cpp:318
+#: main.cpp:320
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Original author"
 msgstr "ടെര്‍മിനലിന്റെ അനുകരണം"
 
-#: main.cpp:320
+#: main.cpp:322
 #, kde-format
 msgctxt "@info:credit"
 msgid "Jekyll Wu"
 msgstr ""
 
-#: main.cpp:321 main.cpp:324 main.cpp:327
+#: main.cpp:323 main.cpp:326 main.cpp:329
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes and general improvements"
 msgstr "പിഴവു് തിരുത്തലും പൊതുവായുള്ള മെച്ചപ്പെടുത്തലുകളും"
 
-#: main.cpp:323
+#: main.cpp:325
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr "വാല്‍ഡോ ബാസ്റ്റിയന്‍"
 
-#: main.cpp:326
+#: main.cpp:328
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Stephan Binner"
 msgstr "സ്റ്റീഫന്‍ ബിന്നര്‍"
 
-#: main.cpp:329
+#: main.cpp:331
 #, kde-format
 msgctxt "@info:credit"
 msgid "Thomas Dreibholz"
 msgstr ""
 
-#: main.cpp:330
+#: main.cpp:332
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "General improvements"
 msgstr "പൊതുവായുള്ള മെച്ചപ്പെടുത്തലുകള്‍ "
 
-#: main.cpp:332
+#: main.cpp:334
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Chris Machemer"
 msgstr "ക്രിസ് മാക്കിമര്‍"
 
-#: main.cpp:333 main.cpp:336 main.cpp:372 main.cpp:375 main.cpp:378
-#: main.cpp:381
+#: main.cpp:335 main.cpp:338 main.cpp:374 main.cpp:377 main.cpp:380
+#: main.cpp:383
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes"
 msgstr "പിഴവു് തിരുത്തലുകള്‍"
 
-#: main.cpp:335
+#: main.cpp:337
 #, kde-format
 msgctxt "@info:credit"
 msgid "Francesco Cecconi"
 msgstr ""
 
-#: main.cpp:338
+#: main.cpp:340
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Stephan Kulow"
 msgstr "സ്റ്റീഫന്‍ കുലോ"
 
-#: main.cpp:339
+#: main.cpp:341
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Solaris support and history"
 msgstr "സോളാരിസിനുള്ള പിന്തുണയും ചരിത്രവും"
 
-#: main.cpp:341
+#: main.cpp:343
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Alexander Neundorf"
 msgstr "അലക്സാണ്ടര്‍ ന്യൂണ്ടോര്‍ഫ്"
 
-#: main.cpp:342
+#: main.cpp:344
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Bug fixes and improved startup performance"
 msgstr "പിഴവു് തിരുത്തലുകളും തുടങ്ങുമ്പോളുള്ള പ്രകടനത്തിലെ മെച്ചപ്പെടുത്തലും"
 
-#: main.cpp:344
+#: main.cpp:346
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Peter Silva"
 msgstr "പീറ്റര്‍ സില്‍വ"
 
-#: main.cpp:345
+#: main.cpp:347
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Marking improvements"
 msgstr "അടയാളപ്പെടുത്തുന്നതിലെ മെച്ചപ്പെടുത്തലുകള്‍"
 
-#: main.cpp:347
+#: main.cpp:349
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Lotzi Boloni"
 msgstr "ലോട്സി ബൊലോനി"
 
-#: main.cpp:348
+#: main.cpp:350
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -1985,13 +1985,13 @@ msgstr ""
 "തുന്നിച്ചേര്‍ത്ത കണ്‍സോളും\n"
 "പണിയായുധപ്പട്ടയും സെഷനുകളുടെ പേരുകളും"
 
-#: main.cpp:351
+#: main.cpp:353
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "David Faure"
 msgstr "ഡേവിഡ് ഫോരി"
 
-#: main.cpp:352
+#: main.cpp:354
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -2001,25 +2001,25 @@ msgstr ""
 "തുന്നിച്ചേര്‍ത്ത കണ്‍സോളും\n"
 "പോതുവായുള്ള മെച്ചപ്പെടുത്തലുകള്‍"
 
-#: main.cpp:355
+#: main.cpp:357
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Antonio Larrosa"
 msgstr "അന്റോണിയോ ലറോസ"
 
-#: main.cpp:356
+#: main.cpp:358
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Visual effects"
 msgstr "കാഴ്ചയിലെ അത്ഭുതങ്ങള്‍"
 
-#: main.cpp:358
+#: main.cpp:360
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Matthias Ettrich"
 msgstr "മത്തിയാസ് എട്രിച്ച്"
 
-#: main.cpp:359
+#: main.cpp:361
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid ""
@@ -2029,67 +2029,67 @@ msgstr ""
 "കെവിടി പ്രൊജക്റ്റില്‍ നിന്നുള്ള കോഡുകള്‍\n"
 "പൊതുവായുള്ള മെച്ചപ്പെടുത്തലുകള്‍"
 
-#: main.cpp:362
+#: main.cpp:364
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Warwick Allison"
 msgstr "വാര്‍വിക്ക് അലിസണ്‍"
 
-#: main.cpp:363
+#: main.cpp:365
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Schema and text selection improvements"
 msgstr "സ്കീമയും പദാവലി തെരഞ്ഞെടുക്കുന്നതിലെ മെച്ചപ്പെടുത്തലുകളും"
 
-#: main.cpp:365
+#: main.cpp:367
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Dan Pilone"
 msgstr "ഡാന്‍ പിലോണ്‍"
 
-#: main.cpp:366
+#: main.cpp:368
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "SGI port"
 msgstr "എസ്ജിഐ പോര്‍ട്ട്"
 
-#: main.cpp:368
+#: main.cpp:370
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Kevin Street"
 msgstr "കെവിന്‍ സ്ട്രീറ്റ്"
 
-#: main.cpp:369
+#: main.cpp:371
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "FreeBSD port"
 msgstr "ഫ്രീബിഎസ്ഡി പോര്‍ട്ട്"
 
-#: main.cpp:371
+#: main.cpp:373
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Sven Fischer"
 msgstr "സ്വെന്‍ ഫിഷര്‍"
 
-#: main.cpp:374
+#: main.cpp:376
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Dale M. Flaven"
 msgstr "ഡേല്‍ എം. ഫ്ലാവെന്‍"
 
-#: main.cpp:377
+#: main.cpp:379
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Martin Jones"
 msgstr "മാര്‍ട്ടിന്‍ ജോണ്‍സ്"
 
-#: main.cpp:380
+#: main.cpp:382
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Lars Knoll"
 msgstr "ലാര്‍സ് നോള്‍"
 
-#: main.cpp:383
+#: main.cpp:385
 #, fuzzy, kde-format
 msgctxt "@info:credit"
 msgid "Thanks to many others.\n"
@@ -2680,12 +2680,12 @@ msgstr "'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്�
 msgid "Print Shell"
 msgstr "ഷെല്‍"
 
-#: SessionController.cpp:1764
+#: SessionController.cpp:1769
 #, kde-format
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1774
+#: SessionController.cpp:1779
 #, kde-format
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
@@ -2693,20 +2693,20 @@ msgid ""
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1785
+#: SessionController.cpp:1790
 #, kde-format
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1795
+#: SessionController.cpp:1800
 #, kde-format
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1801
+#: SessionController.cpp:1806
 #, kde-format
 msgid "Select Files for ZModem Upload"
 msgstr ""
@@ -3357,100 +3357,100 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr "വിദൂരത്തുള്ള കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്:"
 
-#: TerminalDisplay.cpp:1265 TerminalDisplay.cpp:1266
+#: TerminalDisplay.cpp:1266 TerminalDisplay.cpp:1267
 #, kde-format
 msgid "Size: XXX x XXX"
 msgstr "വലിപ്പം: XXX x XXX"
 
-#: TerminalDisplay.cpp:1277
+#: TerminalDisplay.cpp:1278
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr "വലിപ്പം: %1 x %2"
 
-#: TerminalDisplay.cpp:3155
+#: TerminalDisplay.cpp:3154
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3158
+#: TerminalDisplay.cpp:3157
 #, fuzzy, kde-format
 msgid "Confirm Paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3190
+#: TerminalDisplay.cpp:3189
 #, kde-format
 msgid "End Of Text/Interrupt: may exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3191
+#: TerminalDisplay.cpp:3190
 #, kde-format
 msgid "End Of Transmission: may exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3192
+#: TerminalDisplay.cpp:3191
 #, kde-format
 msgid "Bell: will try to emit an audible warning"
 msgstr ""
 
-#: TerminalDisplay.cpp:3193
+#: TerminalDisplay.cpp:3192
 #, kde-format
 msgid "Backspace"
 msgstr ""
 
-#: TerminalDisplay.cpp:3194
+#: TerminalDisplay.cpp:3193
 #, kde-format
 msgid "Device Control Three/XOFF: suspends output"
 msgstr ""
 
-#: TerminalDisplay.cpp:3195
+#: TerminalDisplay.cpp:3194
 #, kde-format
 msgid "Substitute/Suspend: may suspend current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3196
+#: TerminalDisplay.cpp:3195
 #, kde-format
 msgid "Escape: used for manipulating terminal state"
 msgstr ""
 
-#: TerminalDisplay.cpp:3197
+#: TerminalDisplay.cpp:3196
 #, kde-format
 msgid "File Separator/Quit: may abort the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3219
+#: TerminalDisplay.cpp:3218
 #, kde-format
 msgid ""
 "The text you're trying to paste contains hidden control characters, do you "
 "want to filter them out?"
 msgstr ""
 
-#: TerminalDisplay.cpp:3222
+#: TerminalDisplay.cpp:3221
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Confirm Paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3224
+#: TerminalDisplay.cpp:3223
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Paste &without control characters"
 msgstr "ഇപ്പോഴുള്ള അക്ഷരവുമായി പൊരുത്തമുള്ള നിറമായി കര്‍സര്‍ സജ്ജീകരിയ്ക്കുക"
 
-#: TerminalDisplay.cpp:3227
+#: TerminalDisplay.cpp:3226
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "&Paste everything"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
 
-#: TerminalDisplay.cpp:3230
+#: TerminalDisplay.cpp:3229
 #, kde-format
 msgctxt "@action:button"
 msgid "&Cancel"
 msgstr ""
 
-#: TerminalDisplay.cpp:3477
+#: TerminalDisplay.cpp:3476
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
@@ -3461,17 +3461,17 @@ msgstr ""
 "Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> "
 "അമര്‍ത്തുക.</qt>"
 
-#: TerminalDisplay.cpp:3515
+#: TerminalDisplay.cpp:3514
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3810
+#: TerminalDisplay.cpp:3809
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: TerminalDisplay.cpp:3842
+#: TerminalDisplay.cpp:3841
 #, fuzzy, kde-format
 msgid "&Paste Location"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
