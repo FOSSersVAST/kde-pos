@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-01-18 02:36+0100\n"
-"PO-Revision-Date: 2019-12-23 17:46+0000\n"
+"PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -81,7 +81,7 @@ msgstr "പുതിയ കണ്‍സോളിനു് ഉപയോഗിയ�
 #, kde-format
 msgctxt "@info:shell"
 msgid "Use the internal FALLBACK profile"
-msgstr ""
+msgstr "ആന്തരിക ഫോൾബാക്ക് പ്രൊഫൈൽ ഉപയോഗിക്കുക"
 
 #: Application.cpp:69
 #, fuzzy, kde-format
@@ -109,6 +109,7 @@ msgstr "പുതിയൊരു ജാലകം തുറക്കുന്ന�
 msgctxt "@info:shell"
 msgid "Create tabs as specified in given tabs configuration file"
 msgstr ""
+"തന്നിരിക്കുന്ന ടാബുകളുടെ കോൺഫിഗറേഷൻ ഫയലിൽ വ്യക്തമാക്കിയ ടാബുകൾ സൃഷ്ടിക്കുക"
 
 #: Application.cpp:83
 #, fuzzy, kde-format
@@ -123,7 +124,7 @@ msgstr ""
 #, kde-format
 msgctxt "@info:shell"
 msgid "Run in a separate process"
-msgstr ""
+msgstr "ഒരു പ്രത്യേക പ്രക്രിയയിൽ പ്രവർത്തിപ്പിക്കുക"
 
 #: Application.cpp:89
 #, kde-format
