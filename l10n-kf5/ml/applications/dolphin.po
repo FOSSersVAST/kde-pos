@@ -317,10 +317,9 @@ msgid ""
 "currently viewed folder.<nl/>If the items were added to the clipboard by the "
 "<emphasis>Cut</emphasis> action they are removed from their old location."
 msgstr ""
-"ഇത് നിങ്ങളുടെ <emphasis>ക്ലിപ്പ്ബോർഡ്</ emphasis>ൽ നിന്നും ഇനങ്ങള്‍ നിലവിലുള്"
-"ള ഫോൾഡറിലേക്ക് പകർത്തുന്നു.<nl /><emphasis>Cut</emphasis> വച്ചാണ് "
-"ക്ലിപ്പ്ബോർഡില്‍ ഇനങ്ങൾ ചേർത്തിട്ടുണ്ടെങ്കിൽ അവ പഴയ സ്ഥാനത്ത് നിന്ന് "
-"നീക്കംചെയ്യപ്പെടും."
+"ഇത് നിങ്ങളുടെ <emphasis>ക്ലിപ്പ്ബോർഡ്</emphasis>ൽ നിന്നും ഇനങ്ങള്‍ നിലവിലുള്ള ഫോൾഡറിലേക്ക് "
+"പകർത്തുന്നു.<nl /><emphasis>Cut</emphasis> വച്ചാണ് ക്ലിപ്പ്ബോർഡില്‍ ഇനങ്ങൾ "
+"ചേർത്തിട്ടുണ്ടെങ്കിൽ അവ പഴയ സ്ഥാനത്ത് നിന്ന് നീക്കംചെയ്യപ്പെടും."
 
 #: dolphinmainwindow.cpp:1369 search/dolphinsearchbox.cpp:352
 #, kde-format
@@ -1294,8 +1293,6 @@ msgstr "ഡോള്‍ഫിന്‍ വെബ് താളുകളെ പി
 
 #: dolphinviewcontainer.cpp:701
 #, fuzzy, kde-format
-#| msgctxt "@info:status"
-#| msgid "Protocol not supported by Dolphin, Konqueror has been launched"
 msgctxt "@info:status"
 msgid ""
 "Protocol not supported by Dolphin, default application has been launched"

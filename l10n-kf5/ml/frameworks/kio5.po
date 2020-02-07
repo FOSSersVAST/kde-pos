@@ -8463,7 +8463,6 @@ msgstr "&പേരു് മാറ്റുക"
 
 #: widgets/renamefiledialog.cpp:89
 #, fuzzy, kde-format
-#| msgid "&Rename"
 msgctxt "@action:button"
 msgid "&Rename"
 msgstr "&പേരു് മാറ്റുക"
@@ -8484,7 +8483,6 @@ msgstr "&പേരു് മാറ്റുക"
 
 #: widgets/renamefiledialog.cpp:112
 #, fuzzy, kde-format
-#| msgid "Change the selected identifier text."
 msgctxt "@label:textbox"
 msgid "Rename the %1 selected item to:"
 msgid_plural "Rename the %1 selected items to:"

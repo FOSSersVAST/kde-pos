@@ -578,7 +578,6 @@ msgstr ""
 
 #: discover/qml/ReviewDialog.qml:28
 #, fuzzy, kde-format
-#| msgid "Reviews"
 msgid "Reviewing %1"
 msgstr "അവലോകനങ്ങൾ"
 
@@ -589,7 +588,6 @@ msgstr ""
 
 #: discover/qml/ReviewDialog.qml:41
 #, fuzzy, kde-format
-#| msgid "Name"
 msgid "Name:"
 msgstr "പേര്"
 
@@ -605,13 +603,11 @@ msgstr ""
 
 #: discover/qml/ReviewDialog.qml:69
 #, fuzzy, kde-format
-#| msgid "Write a review!"
 msgid "Write the title"
 msgstr "ഒരു അവലോകനം എഴുതുക!"
 
 #: discover/qml/ReviewDialog.qml:70
 #, fuzzy, kde-format
-#| msgid "Write a review!"
 msgid "Write the review"
 msgstr "ഒരു അവലോകനം എഴുതുക!"
 
@@ -632,13 +628,11 @@ msgstr ""
 
 #: discover/qml/ReviewsPage.qml:69
 #, fuzzy, kde-format
-#| msgid "Write a review!"
 msgid "Write a Review..."
 msgstr "ഒരു അവലോകനം എഴുതുക!"
 
 #: discover/qml/ReviewsPage.qml:75
 #, fuzzy, kde-format
-#| msgid "Install this app to write a review!"
 msgid "Install this app to write a review"
 msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
 

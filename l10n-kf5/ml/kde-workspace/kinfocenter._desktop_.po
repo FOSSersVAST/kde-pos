@@ -24,24 +24,18 @@ msgstr ""
 
 #: Categories/basicinformation.desktop:7
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
 msgctxt "Name"
 msgid "Basic Information"
 msgstr "ഉപകരണ വിവരം"
 
 #: Categories/detailedinformation.desktop:7
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Device Information"
 msgctxt "Name"
 msgid "Detailed Information"
 msgstr "ഉപകരണ വിവരം"
 
 #: Categories/deviceinfocategory.desktop:8
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "USB Devices"
 msgctxt "Name"
 msgid "Devices"
 msgstr "യുഎസ്ബി ഉപകരണങ്ങള്‍"
