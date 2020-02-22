@@ -11,16 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-22 02:45+0000\n"
-"PO-Revision-Date: 2019-12-14 15:04+0530\n"
-"Last-Translator: Saranya P S <amminiperumbilly@gmail.com>\n"
+"POT-Creation-Date: 2020-02-02 02:46+0000\n"
+"PO-Revision-Date: 2020-02-23 17:49+0000\n"
+"Last-Translator: amrithandh m <amrithanadhm@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.2.4\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: applets/icontasks/metadata.desktop:2
 msgctxt "Name"
@@ -223,10 +223,13 @@ msgid "A modifier key has become inactive"
 msgstr "ഒരു മോഡിഫയര്‍ കീ നിര്‍ജീവമായിരിക്കുന്നു"
 
 #: kaccess/kaccess.notifyrc:328
+#, fuzzy
 msgctxt "Comment"
 msgid ""
 "A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
-msgstr "ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട് അല്ലെങ്കില്‍ കണ്ട്രോള്‍) അവസ്ഥ മാറി നിര്‍ജീവമായിരിക്കുന്നു"
+msgstr ""
+"ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട് അല്ലെങ്കില്‍ കണ്ട്രോള്‍) അവസ്ഥ മാറി "
+"നിര്‍ജീവമായിരിക്കുന്നു"
 
 #: kaccess/kaccess.notifyrc:406
 msgctxt "Name"
