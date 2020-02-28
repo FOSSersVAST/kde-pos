@@ -11,16 +11,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-26 03:00+0000\n"
-"PO-Revision-Date: 2010-07-01 15:48+0530\n"
-"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"POT-Creation-Date: 2020-01-29 02:29+0000\n"
+"PO-Revision-Date: 2020-02-29 09:49+0000\n"
+"Last-Translator: Kannan V M <kannan@disroot.org>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: applets/activitybar/metadata.desktop:2
 msgctxt "Name"
@@ -40,7 +40,7 @@ msgstr "അനലോഗ് ഘടികാരം"
 #: applets/analog-clock/metadata.desktop:87
 msgctxt "Comment"
 msgid "A clock with hands"
-msgstr ""
+msgstr "കൈകളുള്ള ഘടികാരം"
 
 #: applets/appmenu/package/metadata.desktop:2
 msgctxt "Name"
@@ -53,15 +53,14 @@ msgid "Global menubar on top of the screen"
 msgstr ""
 
 #: applets/batterymonitor/package/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Battery and Brightness"
-msgstr "പ്രദര്‍ശനത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
+msgstr "ബാറ്ററിയും തെളിച്ചവും"
 
 #: applets/batterymonitor/package/metadata.desktop:48
 msgctxt "Comment"
 msgid "See the power status of your battery"
-msgstr "നിങ്ങളുടെ ബാറ്ററിയുടെ വൈദ്യുതി ഊര്‍ജ്ജ സ്ഥിതി കാണുക"
+msgstr "നിങ്ങളുടെ ബാറ്ററിയുടെ വൈദ്യുതോര്‍ജ്ജ സ്ഥിതി കാണുക"
 
 #: applets/batterymonitor/package/metadata.desktop:121
 #, fuzzy
@@ -77,34 +76,33 @@ msgstr "കലണ്ടര്‍"
 #: applets/calendar/package/metadata.desktop:80
 msgctxt "Comment"
 msgid "Month display with your appointments and events"
-msgstr ""
+msgstr "ചടങ്ങുകളും കൂടിക്കാഴ്ചകളും അടങ്ങുന്ന പ്രതിമാസ ദൃശ്യം."
 
 #: applets/clipboard/metadata.desktop:2
 #: klipper/plasma-dataengine-clipboard.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Clipboard"
-msgstr "ക്ലിപ്ബോര്‍ഡ് ഉപകരണം"
+msgstr "ക്ലിപ്ബോര്‍ഡ്"
 
 #: applets/clipboard/metadata.desktop:51
 msgctxt "Comment"
 msgid "Provides access to the clipboard history"
-msgstr ""
+msgstr "ക്ലിപ് ബോര്‍ഡ് ചരിത്രം പരിശോധിക്കാനുള്ള അനുമതി നല്‍കുന്നു"
 
 #: applets/devicenotifier/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Device Notifier"
-msgstr "പുതിയ ഡിവൈസ് അറിയിക്കുന്നതിനുള്ള സംവിധാനം"
+msgstr "ഡിവൈസ് നോട്ടിഫയര്‍"
 
 #: applets/devicenotifier/package/metadata.desktop:78
 msgctxt "Comment"
 msgid "Notifications and access for new devices"
-msgstr "പുതിയ ഉപകരണങ്ങളുടെ അറിയിപ്പുകളും സമീപനവും"
+msgstr "പുതിയ ഉപകരണങ്ങളുടെ അറിയിപ്പുകളും അനുമതികളും"
 
 #: applets/devicenotifier/test-predicate-openinwindow.desktop:7
 msgctxt "Name"
 msgid "Open with File Manager"
-msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരനില്‍ തുറക്കുക"
+msgstr "ഫയല്‍ മാനേജറുപയോഗിച്ചു തുറക്കുക"
 
 #: applets/digital-clock/package/metadata.desktop:2
 msgctxt "Name"
@@ -114,17 +112,17 @@ msgstr "ഡിജിറ്റല്‍ ഘടികാരം"
 #: applets/digital-clock/package/metadata.desktop:89
 msgctxt "Comment"
 msgid "Time displayed in a digital format"
-msgstr ""
+msgstr "സമയം ഡിജിറ്റലായി കാണിച്ചിരിക്കുന്നു"
 
 #: applets/icon/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Icon"
-msgstr "ചിഹ്നം"
+msgstr "ഐകണ്‍"
 
 #: applets/icon/package/metadata.desktop:88
 msgctxt "Comment"
 msgid "A generic icon"
-msgstr "സാധാരണ പ്രതിരൂപം "
+msgstr "പൊതുവായുള്ള ഐകണ്‍"
 
 #: applets/lock_logout/metadata.desktop:2
 msgctxt "Name"
@@ -134,7 +132,7 @@ msgstr "പൂട്ടുക/പുറത്തിറങ്ങുക"
 #: applets/lock_logout/metadata.desktop:84
 msgctxt "Comment"
 msgid "Lock the screen or log out"
-msgstr "സ്ക്രീന്‍ പൂട്ടുക അല്ലെങ്കില്‍ പുറത്തേക്ക് കടക്കുക"
+msgstr "സ്ക്രീന്‍ പൂട്ടുക അല്ലെങ്കില്‍ പുറത്തു കടക്കുക"
 
 #: applets/lock_logout/metadata.desktop:157
 msgctxt "Keywords"
@@ -142,16 +140,14 @@ msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
 msgstr ""
 
 #: applets/mediacontroller/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Media Player"
-msgstr "മള്‍ട്ടിമീഡിയ പ്ലെയര്‍"
+msgstr "മീഡിയ പ്ലെയര്‍"
 
 #: applets/mediacontroller/metadata.desktop:49
-#, fuzzy
 msgctxt "Comment"
 msgid "Media Player Controls"
-msgstr "മള്‍ട്ടിമീഡിയ പ്ലെയര്‍"
+msgstr "മീഡിയ പ്ലെയര്‍ കണ്ട്രോളുകള്‍"
 
 #: applets/notifications/package/metadata.desktop:2
 msgctxt "Name"
@@ -159,15 +155,14 @@ msgid "Notifications"
 msgstr "അറിയിപ്പുകള്‍"
 
 #: applets/notifications/package/metadata.desktop:88
-#, fuzzy
 msgctxt "Comment"
 msgid "Display notifications and jobs"
-msgstr "കെഡിഇയിലെ അറിയിപ്പുകള്‍ക്കുള്ള നിരന്തര പ്രവൃത്തി"
+msgstr "അറിയിപ്പുകളും പ്രവര്‍ത്തനങ്ങളും കാണിക്കുക"
 
 #: applets/panelspacer/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Panel Spacer"
-msgstr "പാളിയില്‍ ഒഴിഞ്ഞസ്ഥലമിടാന്‍"
+msgstr "പാനല്‍ സ്പേസര്‍"
 
 #: applets/panelspacer/package/metadata.desktop:66
 msgctxt "Comment"
@@ -175,59 +170,55 @@ msgid "Reserve empty spaces within the panel."
 msgstr "പാനലിലെ ഒഴിഞ്ഞ ഇടങ്ങള്‍ കരുതിവെയ്ക്കുക."
 
 #: applets/systemmonitor/cpu/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "CPU Load Monitor"
-msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
+msgstr "സിപിയു നിരീക്ഷണോപാധി"
 
 #: applets/systemmonitor/cpu/metadata.desktop:47
 msgctxt "Comment"
 msgid "Monitor the load of the CPUs"
-msgstr ""
+msgstr "സിപിയുകളുടെ പ്രവര്‍ത്തനഭാരം നിരീക്ഷിക്കുക"
 
 #: applets/systemmonitor/diskactivity/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
-msgstr "ഹാര്‍ഡ് ഡിസ്ക് ഉപയോഗം നിരീക്ഷകന്‍"
+msgstr "ഹാര്‍ഡ് ഡിസ്ക്  ഐ/ഒ നിരീക്ഷണോപാധി"
 
 #: applets/systemmonitor/diskactivity/metadata.desktop:56
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
-msgstr ""
+msgstr "ഹാര്‍ഡ് ഡിസ്ക് പ്രവര്‍ത്തനം നിരീക്ഷിക്കാനുള്ള അപ്‌ലെറ്റ്"
 
 #: applets/systemmonitor/diskusage/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Hard Disk Space Usage"
-msgstr "സ്ഥിതിയുണ്ട്"
+msgstr "ഹാര്‍ഡ് ഡിസ്ക് ഉപയോഗം"
 
 #: applets/systemmonitor/diskusage/metadata.desktop:54
 msgctxt "Comment"
 msgid "An applet that monitors hard disk space usage and percentage"
-msgstr ""
+msgstr "ഹാര്‍ഡ് ഡിസ്ക് സ്ഥലോപയോഗം നിരീക്ഷിക്കാനുള്ള അപ്‌ലെറ്റ്"
 
 #: applets/systemmonitor/memory/metadata.desktop:2
 #, fuzzy
 msgctxt "Name"
 msgid "Memory Status"
-msgstr "സാംബാ സ്ഥിതിവിവരം"
+msgstr "മെമ്മറി സ്ഥിതിവിവരം"
 
 #: applets/systemmonitor/memory/metadata.desktop:65
 msgctxt "Comment"
 msgid "A RAM usage monitor"
-msgstr "റാം ഉപയോഗ നിരീക്ഷകന്‍"
+msgstr "ഒരു റാം ഉപയോഗ നിരീക്ഷണോപാധി"
 
 #: applets/systemmonitor/net/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Network Monitor"
-msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
+msgstr "നെറ്റ്‌വര്‍ക്ക് മോണിറ്റര്‍"
 
 #: applets/systemmonitor/net/metadata.desktop:65
 msgctxt "Comment"
 msgid "A network usage monitor"
-msgstr " ശ്രംഖല ഉപയോഗം നിരീക്ഷകന്‍"
+msgstr "ഒരു നെറ്റ്‌വര്‍ക്ക് ഉപയോഗ നിരീക്ഷണോപാധി"
 
 #: applets/systemtray/container/package/metadata.desktop:2
 #: applets/systemtray/package/metadata.desktop:2
@@ -249,28 +240,27 @@ msgstr "പ്രയോഗ സഹായകഗ്രന്ഥങ്ങള്‍"
 #: appmenu/appmenu.desktop:53
 msgctxt "Comment"
 msgid "Transfers application's menu to the desktop"
-msgstr ""
+msgstr "അപ്ലിക്കേഷന്റെ മെനു ഡെസ്ക്ടോപ്പിലേക്ക് മാറ്റുന്നു"
 
 #: components/shellprivate/wallpaperplugin/wallpaperplugin.knsrc:2
 msgctxt "Name"
 msgid "Wallpaper Plugins"
-msgstr ""
+msgstr "വാള്‍പേപ്പര്‍ പ്ലഗ്ഗിനുകള്‍"
 
 #: components/shellprivate/widgetexplorer/plasmoids.knsrc:2
-#, fuzzy
 msgctxt "Name"
 msgid "Plasma Widgets"
-msgstr "പ്ലാസ്മ പണിയിട ആവരണം"
+msgstr "പ്ലാസ്മ വിഡ്ജെറ്റുകള്‍"
 
 #: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:2
 msgctxt "Name"
 msgid "Application Launcher"
-msgstr "പ്രയോഗവിക്ഷേപിണി"
+msgstr "അപ്ലിക്കേഷന്‍ ലോഞ്ചര്‍"
 
 #: containmentactions/applauncher/plasma-containmentactions-applauncher.desktop:89
 msgctxt "Comment"
 msgid "Simple application launcher"
-msgstr "ലളിതമായ പ്രയോഗവിക്ഷേപിണി"
+msgstr "ലളിതമായ അപ്ലിക്കേഷന്‍ ലോഞ്ചര്‍"
 
 #: containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:2
 msgctxt "Name"
@@ -280,27 +270,27 @@ msgstr "സ്റ്റാന്‍ഡര്‍ഡ് മെനു"
 #: containmentactions/contextmenu/plasma-containmentactions-contextmenu.desktop:70
 msgctxt "Comment"
 msgid "The menu that normally shows on right-click"
-msgstr "വലത്-ഞെക്കില്‍ സാധാരണ കാണിയ്ക്കുന്ന മെനു"
+msgstr "വലത്-ക്ലിക്കില്‍ സാധാരണ കാണിയ്ക്കുന്ന മെനു"
 
 #: containmentactions/paste/plasma-containmentactions-paste.desktop:2
 msgctxt "Name"
 msgid "Paste"
-msgstr "ഒട്ടിയ്ക്കുക"
+msgstr "ചേര്‍ക്കുക"
 
 #: containmentactions/paste/plasma-containmentactions-paste.desktop:72
 msgctxt "Comment"
 msgid "Creates a widget from the contents of the clipboard"
-msgstr "ഓര്‍മ്മച്ചെപ്പിലെ ഉള്ളടക്കങ്ങള്‍ കൊണ്ട് ഒരു ഉരുപ്പടിയുണ്ടാക്കുന്നു"
+msgstr "ക്ലിപ്ബോര്‍ഡിലെ ഉള്ളടക്കങ്ങള്‍ കൊണ്ട് ഒരു വിഡ്ജെറ്റ് ഉണ്ടാക്കുന്നു"
 
 #: containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:2
 msgctxt "Name"
 msgid "Switch Activity"
-msgstr "പ്രക്രിയ മാറ്റുക"
+msgstr "ആക്ടിവിറ്റി മാറ്റുക"
 
 #: containmentactions/switchactivity/plasma-containmentactions-switchactivity.desktop:69
 msgctxt "Comment"
 msgid "Switch to another activity"
-msgstr "മറ്റൊരു പ്രക്രിയിലേയ്ക്കുള്ള മാറ്റം"
+msgstr "മറ്റൊരു ആക്ടിവിറ്റിയിലേയ്ക്കു മാറുക"
 
 #: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:2
 msgctxt "Name"
@@ -310,55 +300,52 @@ msgstr "പണിയിടം മാറുക"
 #: containmentactions/switchdesktop/plasma-containmentactions-switchdesktop.desktop:71
 msgctxt "Comment"
 msgid "Switch to another virtual desktop"
-msgstr "മറ്റൊരു മായാ പണിയിടത്തിലേയ്ക്കു് മാറുക"
+msgstr "മറ്റൊരു സാങ്കല്‍പ്പിക പണിയിടത്തിലേയ്ക്കു് മാറുക"
 
 #: containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:2
 msgctxt "Name"
 msgid "Switch Window"
-msgstr "ജാലകം മാറുക"
+msgstr "വിന്‍ഡോ മാറുക"
 
 #: containmentactions/switchwindow/plasma-containmentactions-switchwindow.desktop:69
 msgctxt "Comment"
 msgid "Show a list of windows to switch to"
-msgstr "മാറാവുന്ന ജാലകങ്ങളടെ പട്ടിക കാണിയ്ക്കുക"
+msgstr "മാറാവുന്ന വിന്‍ഡോകളുടെ പട്ടിക കാണിയ്ക്കുക"
 
 #: dataengines/activities/plasma-dataengine-activities.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Activities Engine"
-msgstr "ആക്ടിവിറ്റികള്‍ കൈകാര്യം ചെയ്യാന്‍"
+msgstr "ആക്ടിവിറ്റീസ് എന്‍ജിന്‍"
 
 #: dataengines/activities/plasma-dataengine-activities.desktop:63
-#, fuzzy
 msgctxt "Comment"
 msgid "Information on Plasma Activities"
-msgstr "ഫയലുകളുടേയും തട്ടുകളുടേയും വിവരങ്ങള്‍."
+msgstr "പ്ലാസ്മ ആക്ടിവിറ്റീസിനെപറ്റിയുള്ള വിവരങ്ങള്‍"
 
 #: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:2
 msgctxt "Name"
 msgid "Application Job Information"
-msgstr "പ്രയോഗ ജോലി അറിയിപ്പുകള്‍"
+msgstr "അപ്ലിക്കേഷന്‍ ജോലി അറിയിപ്പുകള്‍"
 
 #: dataengines/applicationjobs/plasma-dataengine-applicationjobs.desktop:72
 msgctxt "Comment"
 msgid "Application job updates (via kuiserver)"
-msgstr "പ്രയോഗ ജോലിയിലെ മാറ്റങ്ങള്‍ (കൂയിസെര്‍വര്‍ വഴി)"
+msgstr "അപ്ലിക്കേഷന്‍ ജോലിയിലെ മാറ്റങ്ങള്‍ (കൂയിസെര്‍വര്‍ വഴി)"
 
 #: dataengines/apps/plasma-dataengine-apps.desktop:2
 msgctxt "Name"
 msgid "Application Information"
-msgstr "പ്രയോഗ വിവരം"
+msgstr "അപ്ലിക്കേഷന്‍ വിവരം"
 
 #: dataengines/apps/plasma-dataengine-apps.desktop:70
 msgctxt "Comment"
 msgid "Information and launching of all applications in the app menu."
-msgstr "ആപ്പ് മെനുവിലെ പ്രയോഗങ്ങളുടെ വിവരവും തുടക്കവും."
+msgstr "ആപ്പ് മെനുവിലെ അപ്ലിക്കേഷനുകളെകുറിച്ചുള്ള വിവരവും ലോഞ്ചിങ്ങും."
 
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Device Notifications"
-msgstr "അറിയിപ്പുകള്‍"
+msgstr "ഡിവൈസിനെപറ്റിയുള്ള അറിയിപ്പുകള്‍"
 
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:65
 #, fuzzy
@@ -384,32 +371,32 @@ msgstr "ആജ്ഞകള്‍ പ്രവര്‍ത്തിപ്പി�
 #: dataengines/executable/plasma-dataengine-executable.desktop:75
 msgctxt "Comment"
 msgid "Run Executable Data Engine"
-msgstr "പ്രവര്‍ത്തിക്കാന്‍ കഴിയുന്ന ഡേറ്റാ എഞ്ചിന്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കുക"
+msgstr "എക്സിക്യൂട്ടബിളായുള്ള ഡേറ്റാ എഞ്ചിന്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കുക"
 
 #: dataengines/favicons/plasma-dataengine-favicons.desktop:2
 msgctxt "Name"
 msgid "Favicons"
-msgstr "ഇഷ്ടചിഹ്നങ്ങള്‍"
+msgstr "ഫാവികോണുകള്‍"
 
 #: dataengines/favicons/plasma-dataengine-favicons.desktop:75
 msgctxt "Comment"
 msgid "Data Engine for getting favicons of web sites"
-msgstr "വെബ് സൈറ്റുകളുടെ ഇഷ്ടചിഹ്നങ്ങള്‍ ലഭിക്കാനുള്ള ഡേറ്റ എഞ്ചിന്‍"
+msgstr "വെബ് സൈറ്റുകളുടെ ഫാവികോണുകള്‍ ലഭിക്കാനുള്ള ഡേറ്റ എഞ്ചിന്‍"
 
 #: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:2
 msgctxt "Name"
 msgid "Files and Directories"
-msgstr "ഫയല്‍, തട്ട് എന്നിവ"
+msgstr "ഫയലുകളും ഡയറക്ടറികളും"
 
 #: dataengines/filebrowser/plasma-dataengine-filebrowser.desktop:78
 msgctxt "Comment"
 msgid "Information about files and directories."
-msgstr "ഫയലുകളുടേയും തട്ടുകളുടേയും വിവരങ്ങള്‍."
+msgstr "ഫയലുകളെപറ്റിയും ഡയറക്ടറികളെപറ്റിയുമുള്ള വിവരങ്ങള്‍."
 
 #: dataengines/geolocation/plasma-dataengine-geolocation.desktop:2
 msgctxt "Name"
 msgid "Geolocation"
-msgstr "ഭൂസ്ഥാനങ്ങള്‍"
+msgstr "ഭൂസ്ഥാനം"
 
 #: dataengines/geolocation/plasma-dataengine-geolocation.desktop:68
 msgctxt "Comment"
@@ -419,12 +406,12 @@ msgstr "ഭൂസ്ഥാനങ്ങള്‍ക്കുള്ള ഡേറ�
 #: dataengines/geolocation/plasma-geolocation-gps.desktop:2
 msgctxt "Name"
 msgid "Geolocation GPS"
-msgstr "ജിപിഎസ് ഭൂസ്ഥാനങ്ങള്‍"
+msgstr "ഭൂസ്ഥാന ജിപിഎസ്"
 
 #: dataengines/geolocation/plasma-geolocation-gps.desktop:68
 msgctxt "Comment"
 msgid "Geolocation from GPS address."
-msgstr "ജിപിഎസ് വിലാസത്തില്‍ നിന്നും ഭൂസ്ഥാനങ്ങള്‍"
+msgstr "ജിപിഎസ് വിലാസത്തില്‍ നിന്നും ലഭിച്ച ഭൂസ്ഥാനം."
 
 #: dataengines/geolocation/plasma-geolocation-ip.desktop:2
 msgctxt "Name"
@@ -434,7 +421,7 @@ msgstr "ഭൂസ്ഥാന ഐപി"
 #: dataengines/geolocation/plasma-geolocation-ip.desktop:68
 msgctxt "Comment"
 msgid "Geolocation from IP address."
-msgstr "ഐപി വിലാസനതില്‍ നിന്നും ഭൂസ്ഥാനങ്ങള്‍"
+msgstr "ഐപി വിലാസനതില്‍ നിന്നും ഭൂസ്ഥാനം."
 
 #: dataengines/geolocation/plasma-geolocationprovider.desktop:4
 msgctxt "Comment"
@@ -444,7 +431,7 @@ msgstr "പ്ലാസ്മയുടെ ഭൂസ്ഥാന ധാതാവ�
 #: dataengines/hotplug/plasma-dataengine-hotplug.desktop:2
 msgctxt "Name"
 msgid "Hotplug Events"
-msgstr "ഹോട്ട്പ്ലഗ് സംഭവങ്ങള്‍"
+msgstr "ഹോട്ട്പ്ലഗ് ഇവന്റുകള്‍"
 
 #: dataengines/hotplug/plasma-dataengine-hotplug.desktop:70
 msgctxt "Comment"
