@@ -3,20 +3,21 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-01-14 02:51+0000\n"
-"PO-Revision-Date: 2018-10-21 02:00+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2020-02-29 09:49+0000\n"
+"Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: greeter/themes/org.kde.passworddialog/metadata.desktop:2
 msgctxt "Name"
 msgid "Password dialog"
-msgstr ""
+msgstr "രഹസ്യവാക്ക് ചതുരം"
 
 #: greeter/themes/org.kde.passworddialog/metadata.desktop:47
 msgctxt "Comment"
@@ -24,43 +25,45 @@ msgid ""
 "Screen locker that provides a password dialog and an interface to switch the "
 "current user"
 msgstr ""
+"നിലവിലുള്ള ഉപയോക്താവിൽ നിന്നും മാറുന്നതിനായുള്ള രഹസ്യവാക്ക് ചതുരവും "
+"സമ്പർക്കമുഖവും നൽകുന്ന സ്ക്രീൻ പൂട്ട്"
 
 #: kcm/screenlocker.desktop:13
 msgctxt "Name"
 msgid "Screen Locking"
-msgstr ""
+msgstr "സ്ക്രീൻ പുട്ടുക"
 
 #: kcm/screenlocker.desktop:57
 msgctxt "Comment"
 msgid "Configure screen locking"
-msgstr ""
+msgstr "സ്ക്രീൻ പൂട്ടൽ ക്രമീകരിക്കുക"
 
 #: kcm/screenlocker.desktop:89
 msgctxt "X-KDE-Keywords"
 msgid "lock,resume, screensaver, screenlock"
-msgstr ""
+msgstr "പൂട്ടുക,തുടരുക,സ്ക്രീൻ സംരക്ഷണം, സ്ക്രീൻ പൂട്ടൽ"
 
 #: kscreenlocker.notifyrc:3
 msgctxt "Comment"
 msgid "Screen Saver"
-msgstr ""
+msgstr "സ്ക്രീൻ സംരക്ഷണം"
 
 #: kscreenlocker.notifyrc:49
 msgctxt "Name"
 msgid "Screen locked"
-msgstr ""
+msgstr "സ്ക്രീൻ പൂട്ടിയിരിക്കുന്നു"
 
 #: kscreenlocker.notifyrc:94
 msgctxt "Comment"
 msgid "The screen has been locked"
-msgstr ""
+msgstr "ഈ സ്ക്രീൻ പൂട്ടിയിട്ടിരിക്കുകയാണ്"
 
 #: kscreenlocker.notifyrc:141
 msgctxt "Name"
 msgid "Screen unlocked"
-msgstr ""
+msgstr "സ്ക്രീൻ തുറന്നു"
 
 #: kscreenlocker.notifyrc:186
 msgctxt "Comment"
 msgid "The screen has been unlocked"
-msgstr ""
+msgstr "ഈ സ്ക്രീൻ തുറക്കപ്പെട്ടിരിക്കുന്നു"
