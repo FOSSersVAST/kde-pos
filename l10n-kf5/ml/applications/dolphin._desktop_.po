@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-11-12 02:44+0000\n"
-"PO-Revision-Date: 2020-02-05 14:49+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2020-02-29 09:49+0000\n"
+"Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgstr "സൂചനാചിത്രങ്ങള്‍"
 #: src/dolphinpart.desktop:115
 msgctxt "Name"
 msgid "Compact"
-msgstr "തിങ്ങിയതായി"
+msgstr "തിങ്ങിയത്"
 
 #: src/dolphinpart.desktop:166
 msgctxt "Name"
@@ -70,7 +70,7 @@ msgstr "ഫയൽ മാനേജറിന്റെ പൊതുവായ സജ
 #: src/settings/kcm/kcmdolphinviewmodes.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid "file manager"
-msgstr "ഫയൽ മാനേജർ "
+msgstr "ഫയൽ മാനേജർ"
 
 #: src/settings/kcm/kcmdolphinnavigation.desktop:1
 msgctxt "Name"
@@ -125,7 +125,7 @@ msgstr "അവതരണ രീതികള്‍"
 #: src/settings/kcm/kcmdolphinviewmodes.desktop:149
 msgctxt "Comment"
 msgid "Configure file manager view modes"
-msgstr "ഫയല്‍ മാനേജറിന്റെ അവതരണ ദശകള്‍ ക്രമീകരിയ്ക്കുക"
+msgstr "ഫയല്‍ മാനേജറിന്റെ അവതരണ രീതികള്‍ ക്രമീകരിയ്ക്കുക"
 
 #: src/views/versioncontrol/fileviewversioncontrolplugin.desktop:4
 msgctxt "Comment"
