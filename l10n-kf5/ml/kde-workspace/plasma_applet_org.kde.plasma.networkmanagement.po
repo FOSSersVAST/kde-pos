@@ -108,7 +108,6 @@ msgstr ""
 
 #: contents/ui/PopupDialog.qml:99
 #, fuzzy, kde-format
-#| msgid "Available connections"
 msgid "No available connections"
 msgstr "ലഭ്യമായ ബന്ധങ്ങള്‍"
 

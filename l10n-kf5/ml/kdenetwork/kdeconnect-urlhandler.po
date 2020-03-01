@@ -55,7 +55,6 @@ msgstr "%1 ഏത് ഉപകരണത്തില്‍ തുറക്കണ�
 
 #: kdeconnect-handler.cpp:98
 #, fuzzy, kde-format
-#| msgid "Device to send %1 to:"
 msgid "Device to send a SMS with:"
 msgstr "%1 ഏത് ഉപകരണത്തിലേക്ക് അയയ്ക്കണം:"
 

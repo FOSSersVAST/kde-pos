@@ -384,13 +384,11 @@ msgstr "ഇൻസ്റ്റാളുചെയ്‌തു"
 
 #: discover/qml/DiscoverWindow.qml:82
 #, fuzzy, kde-format
-#| msgid "Fetching Updates..."
 msgid "Fetching updates..."
 msgstr "അപ്‌ഡേറ്റുകൾ നേടുന്നു..."
 
 #: discover/qml/DiscoverWindow.qml:82
 #, fuzzy, kde-format
-#| msgid "Up to Date"
 msgid "Up to date"
 msgstr "കാലികമാണ്"
 
@@ -543,7 +541,6 @@ msgstr ""
 
 #: discover/qml/ReviewDelegate.qml:77
 #, fuzzy, kde-format
-#| msgid "Version:"
 msgid "Version: %1"
 msgstr "പതിപ്പ്:"
 
@@ -759,7 +756,6 @@ msgstr ""
 
 #: discover/qml/UpdatesPage.qml:352
 #, fuzzy, kde-format
-#| msgid "Fetching Updates..."
 msgctxt "@info"
 msgid "Fetching updates..."
 msgstr "അപ്‌ഡേറ്റുകൾ നേടുന്നു..."
@@ -779,7 +775,6 @@ msgstr ""
 #: discover/qml/UpdatesPage.qml:376 discover/qml/UpdatesPage.qml:382
 #: discover/qml/UpdatesPage.qml:388
 #, fuzzy, kde-format
-#| msgid "Up to Date"
 msgctxt "@info"
 msgid "Up to date"
 msgstr "കാലികമാണ്"
