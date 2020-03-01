@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-18 02:55+0000\n"
+"POT-Creation-Date: 2020-02-29 02:38+0000\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,7 +19,7 @@ msgctxt "Name"
 msgid "Screen brightness"
 msgstr "സ്ക്രീന്‍ തെളിച്ചം"
 
-#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:52
+#: daemon/actions/bundled/powerdevilbrightnesscontrolaction.desktop:53
 msgctxt "Comment"
 msgid "Basic Controls for brightness"
 msgstr "തെളിച്ചത്തിനുള്ള അടിസ്ഥാന നിയന്ത്രണങ്ങൾ "
@@ -59,7 +59,7 @@ msgctxt "Name"
 msgid "Run script"
 msgstr "സ്ക്രിപ്റ്റ് ഓടിക്കുക"
 
-#: daemon/actions/bundled/powerdevilrunscriptaction.desktop:52
+#: daemon/actions/bundled/powerdevilrunscriptaction.desktop:53
 msgctxt "Comment"
 msgid "Runs a custom script"
 msgstr "ഒരു ഇച്ഛാനുസൃത സ്ക്രിപ്റ്റ് ഓടിക്കുക"
@@ -69,7 +69,7 @@ msgctxt "Name"
 msgid "Suspend session"
 msgstr "സെഷൻ സസ്‌പെൻഡ് ചെയ്യുക "
 
-#: daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:53
+#: daemon/actions/bundled/powerdevilsuspendsessionaction.desktop:54
 msgctxt "Comment"
 msgid "Suspends the session"
 msgstr "സെഷൻ സസ്‌പെൻഡ് ചെയ്യുന്നു "
@@ -105,48 +105,48 @@ msgctxt "Name"
 msgid "KDE"
 msgstr "കെ.ഡി.ഇ"
 
-#: daemon/backends/upower/backlight_helper_actions.actions:52
+#: daemon/backends/upower/backlight_helper_actions.actions:53
 msgctxt "Name"
 msgid "Get maximum brightness value"
 msgstr "പരമാവധി തെളിച്ചം ലഭിക്കുക"
 
-#: daemon/backends/upower/backlight_helper_actions.actions:96
-#: daemon/backends/upower/backlight_helper_actions.actions:192
+#: daemon/backends/upower/backlight_helper_actions.actions:98
+#: daemon/backends/upower/backlight_helper_actions.actions:195
 msgctxt "Description"
 msgid "System policies prevent you from getting the brightness level."
 msgstr ""
 
-#: daemon/backends/upower/backlight_helper_actions.actions:146
+#: daemon/backends/upower/backlight_helper_actions.actions:148
 msgctxt "Name"
 msgid "Get brightness"
 msgstr "തെളിച്ചം ലഭിക്കുക"
 
-#: daemon/backends/upower/backlight_helper_actions.actions:242
+#: daemon/backends/upower/backlight_helper_actions.actions:245
 msgctxt "Name"
 msgid "Set brightness"
 msgstr "തെളിച്ചം സെറ്റ് ചെയ്യുക"
 
-#: daemon/backends/upower/backlight_helper_actions.actions:289
+#: daemon/backends/upower/backlight_helper_actions.actions:293
 msgctxt "Description"
 msgid "System policies prevent you from setting the brightness level."
 msgstr ""
 
-#: daemon/backends/upower/backlight_helper_actions.actions:338
+#: daemon/backends/upower/backlight_helper_actions.actions:342
 msgctxt "Name"
 msgid "Get syspath"
 msgstr ""
 
-#: daemon/backends/upower/backlight_helper_actions.actions:382
+#: daemon/backends/upower/backlight_helper_actions.actions:386
 msgctxt "Description"
 msgid "System policies prevent you from getting the syspath"
 msgstr ""
 
-#: daemon/backends/upower/discretegpu_helper_actions.actions:52
+#: daemon/backends/upower/discretegpu_helper_actions.actions:53
 msgctxt "Name"
 msgid "Check existence of discrete gpu"
 msgstr ""
 
-#: daemon/backends/upower/discretegpu_helper_actions.actions:93
+#: daemon/backends/upower/discretegpu_helper_actions.actions:94
 msgctxt "Description"
 msgid ""
 "System policies prevent you from checking the existence of discrete gpu."
@@ -182,7 +182,7 @@ msgctxt "Comment"
 msgid "Per-Activity Power Management"
 msgstr ""
 
-#: kcmodule/activities/powerdevilactivitiesconfig.desktop:107
+#: kcmodule/activities/powerdevilactivitiesconfig.desktop:108
 msgctxt "X-KDE-Keywords"
 msgid ""
 "system,power,power management,energy,laptop,battery,suspension,AC,suspend,"
@@ -194,12 +194,12 @@ msgctxt "Name"
 msgid "Advanced Settings"
 msgstr "വിസ്തരിച്ച സജ്ജീകരണങ്ങള്"
 
-#: kcmodule/global/powerdevilglobalconfig.desktop:61
+#: kcmodule/global/powerdevilglobalconfig.desktop:63
 msgctxt "Comment"
 msgid "Advanced Power Management Settings"
 msgstr ""
 
-#: kcmodule/global/powerdevilglobalconfig.desktop:107
+#: kcmodule/global/powerdevilglobalconfig.desktop:109
 #: kcmodule/profiles/powerdevilprofilesconfig.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid ""

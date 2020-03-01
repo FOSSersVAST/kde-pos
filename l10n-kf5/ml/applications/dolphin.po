@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-29 02:33+0100\n"
+"POT-Creation-Date: 2020-02-17 02:35+0100\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -2173,14 +2173,14 @@ msgstr "'%1' തുറക്കാന്‍ ശ്രമിച്ചപ്പോ
 #: panels/places/placespanel.cpp:184
 #, kde-format
 msgctxt "@item:inmenu"
-msgid "Open in New Window"
-msgstr "പുതിയ ജാലകത്തില്‍ തുറക്കുക"
+msgid "Open in New Tab"
+msgstr "പുതിയ കിളിവാതിലില്‍ തുറക്കുക"
 
 #: panels/places/placespanel.cpp:185
 #, kde-format
 msgctxt "@item:inmenu"
-msgid "Open in New Tab"
-msgstr "പുതിയ കിളിവാതിലില്‍ തുറക്കുക"
+msgid "Open in New Window"
+msgstr "പുതിയ ജാലകത്തില്‍ തുറക്കുക"
 
 #: panels/places/placespanel.cpp:218
 #, fuzzy, kde-format
@@ -3452,7 +3452,7 @@ msgctxt "@label:checkbox"
 msgid "Folders:"
 msgstr "അറകള്‍"
 
-#: settings/viewmodes/viewsettingstab.cpp:258
+#: settings/viewmodes/viewsettingstab.cpp:270
 #: statusbar/dolphinstatusbar.cpp:324
 #, kde-format
 msgctxt "@info:tooltip"
@@ -3549,37 +3549,37 @@ msgstr "വിന്യാസക്രമം:"
 msgid "View options:"
 msgstr "അവതരണം"
 
-#: settings/viewpropertiesdialog.cpp:186
+#: settings/viewpropertiesdialog.cpp:198
 #, kde-format
 msgctxt "@option:radio Apply View Properties To"
 msgid "Current folder"
 msgstr "ഇപ്പോഴത്തെ അറയ്ക്കു്"
 
-#: settings/viewpropertiesdialog.cpp:189
+#: settings/viewpropertiesdialog.cpp:201
 #, fuzzy, kde-format
 msgctxt "@option:radio Apply View Properties To"
 msgid "Current folder and sub-folders"
 msgstr "ഇപ്പോഴത്തെ അറയ്ക്കും അതിനുള്ളിലുള്ള അറകള്‍ക്കും"
 
-#: settings/viewpropertiesdialog.cpp:191
+#: settings/viewpropertiesdialog.cpp:203
 #, kde-format
 msgctxt "@option:radio Apply View Properties To"
 msgid "All folders"
 msgstr "എല്ലാ അറകള്‍ക്കും"
 
-#: settings/viewpropertiesdialog.cpp:200
+#: settings/viewpropertiesdialog.cpp:212
 #, kde-format
 msgctxt "@title:group"
 msgid "Apply to:"
 msgstr ""
 
-#: settings/viewpropertiesdialog.cpp:205
+#: settings/viewpropertiesdialog.cpp:217
 #, fuzzy, kde-format
 msgctxt "@option:check"
 msgid "Use as default view settings"
 msgstr "പുതിയ അറകള്‍ക്കു് ഈ ഐച്ഛികങ്ങള്‍ ഉപയോഗിക്കുക"
 
-#: settings/viewpropertiesdialog.cpp:354
+#: settings/viewpropertiesdialog.cpp:366
 #, kde-format
 msgctxt "@info"
 msgid ""
@@ -3587,7 +3587,7 @@ msgid ""
 "continue?"
 msgstr "ഉള്ളിലുള്ള എല്ലാ അറകളുടേയും അവതരണരീതി മാറ്റണമെന്നു് ഉറപ്പാണോ?"
 
-#: settings/viewpropertiesdialog.cpp:386
+#: settings/viewpropertiesdialog.cpp:398
 #, kde-format
 msgctxt "@info"
 msgid ""

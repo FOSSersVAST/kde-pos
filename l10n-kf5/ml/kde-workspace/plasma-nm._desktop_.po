@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-29 02:29+0000\n"
+"POT-Creation-Date: 2020-02-12 03:13+0000\n"
 "PO-Revision-Date: 2019-12-23 17:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -29,12 +29,12 @@ msgctxt "Name"
 msgid "Connections"
 msgstr "ബന്ധങ്ങള്‍"
 
-#: kcm/kcm_networkmanagement.desktop:55
+#: kcm/kcm_networkmanagement.desktop:56
 msgctxt "Comment"
 msgid "Edit your Network Connections"
 msgstr "നിങ്ങളുടെ നെറ്റ്‌വർക്ക് ബന്ധങ്ങള്‍ എഡിറ്റുചെയ്യുക"
 
-#: kcm/kcm_networkmanagement.desktop:98
+#: kcm/kcm_networkmanagement.desktop:100
 msgctxt "X-KDE-Keywords"
 msgid "network,wifi,ethernet,mobile,broadband,vpn,internet,traffic"
 msgstr "ശൃംഖല,വൈഫൈ,ഈതര്‍നെറ്റ്,മൊബൈൽ,ബ്രോഡ്‌ബാൻഡ്,വിപിഎൻ,ഇന്റർനെറ്റ്,ട്രാഫിക്"
@@ -44,7 +44,7 @@ msgctxt "Name"
 msgid "Plasma Network Management module"
 msgstr "പ്ലാസ്മ ശൃംഖല നടത്തിപ്പ്‌ മൊഡ്യൂൾ"
 
-#: kded/networkmanagement.desktop:32
+#: kded/networkmanagement.desktop:34
 msgctxt "Comment"
 msgid "Provides secrets to the NetworkManager daemon"
 msgstr ""
@@ -154,13 +154,13 @@ msgctxt "Name"
 msgid "Mobile broadband"
 msgstr ""
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:33
-#: mobile/broadband/package/metadata.desktop:33
+#: mobile/broadband/mobilebroadbandsettings.desktop:35
+#: mobile/broadband/package/metadata.desktop:35
 msgctxt "Comment"
 msgid "Mobile broadband setting"
 msgstr ""
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:76
+#: mobile/broadband/mobilebroadbandsettings.desktop:79
 msgctxt "X-KDE-Keywords"
 msgid "mobile,data,network"
 msgstr ""
@@ -175,12 +175,12 @@ msgctxt "Name"
 msgid "Wi-Fi"
 msgstr ""
 
-#: mobile/wifi/package/metadata.desktop:34 mobile/wifi/wifisettings.desktop:34
+#: mobile/wifi/package/metadata.desktop:36 mobile/wifi/wifisettings.desktop:36
 msgctxt "Comment"
 msgid "Wireless network setting"
 msgstr ""
 
-#: mobile/wifi/wifisettings.desktop:78
+#: mobile/wifi/wifisettings.desktop:81
 msgctxt "X-KDE-Keywords"
 msgid "wifi,network"
 msgstr ""
@@ -281,7 +281,7 @@ msgctxt "Name"
 msgid "SSH"
 msgstr ""
 
-#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:59
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:60
 msgctxt "Comment"
 msgid "Compatible with the SSH server"
 msgstr ""

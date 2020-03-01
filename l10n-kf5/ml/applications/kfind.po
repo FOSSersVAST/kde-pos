@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-31 02:30+0100\n"
+"POT-Creation-Date: 2020-02-15 02:38+0100\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -162,7 +162,7 @@ msgctxt "%1=filename"
 msgid "Results were saved to: %1"
 msgstr "ഫലങ്ങള്‍ സൂക്ഷിച്ചിരിക്കുന്നത്: %1"
 
-#: kfindtreeview.cpp:614 kftabdlg.cpp:437
+#: kfindtreeview.cpp:614 kftabdlg.cpp:441
 #, kde-format
 msgid "&Properties"
 msgstr "&ഗുണഗണങ്ങള്‍"
@@ -296,7 +296,7 @@ msgstr "കൂടിയതു്"
 msgid "Equal To"
 msgstr "സമം"
 
-#: kftabdlg.cpp:234 kftabdlg.cpp:891
+#: kftabdlg.cpp:234 kftabdlg.cpp:899
 #, kde-format
 msgid "Byte"
 msgid_plural "Bytes"
@@ -318,18 +318,18 @@ msgstr "MiB"
 msgid "GiB"
 msgstr "GiB"
 
-#: kftabdlg.cpp:300
+#: kftabdlg.cpp:304
 #, kde-format
 msgctxt "label for the file type combobox"
 msgid "File &type:"
 msgstr "ഫയല്‍ തരം (&T):"
 
-#: kftabdlg.cpp:305
+#: kftabdlg.cpp:309
 #, kde-format
 msgid "C&ontaining text:"
 msgstr "പദാവലി അ&ടങ്ങുന്നവ:"
 
-#: kftabdlg.cpp:311
+#: kftabdlg.cpp:315
 #, kde-format
 msgid ""
 "<qt>If specified, only files that contain this text are found. Note that not "
@@ -340,22 +340,22 @@ msgstr ""
 "മുകളിലുള്ള ലിസ്റ്റിൽ നിന്നുള്ള എല്ലാ ഫയൽ തരങ്ങളും പിന്തുണയ്ക്കുന്നില്ല എന്നത് ശ്രദ്ധിക്കുക. "
 "പിന്തുണയ്‌ക്കുന്ന ഫയൽ തരങ്ങളുടെ ഒരു ലിസ്റ്റിനായി ഡോക്യുമെന്റേഷൻ പരിശോധിക്കുക.</qt>"
 
-#: kftabdlg.cpp:319
+#: kftabdlg.cpp:323
 #, kde-format
 msgid "Case s&ensitive"
 msgstr "വലിയക്ഷര&ചെറിയക്ഷര വ്യത്യാസമുള്ള"
 
-#: kftabdlg.cpp:320
+#: kftabdlg.cpp:324
 #, kde-format
 msgid "Include &binary files"
 msgstr "&ബൈനറി ഫയലുകള്‍ ഉള്‍പ്പെടുത്തുക"
 
-#: kftabdlg.cpp:321
+#: kftabdlg.cpp:325
 #, kde-format
 msgid "Regular e&xpression"
 msgstr "റെഗുലര്‍ എ&ക്സ്പ്രെഷന്‍"
 
-#: kftabdlg.cpp:324
+#: kftabdlg.cpp:328
 #, kde-format
 msgid ""
 "<qt>This lets you search in any type of file, even those that usually do not "
@@ -364,84 +364,84 @@ msgstr ""
 "<qt>സാധാരണയായി വാചകം അടങ്ങിയിട്ടില്ലാത്ത (ഉദാഹരണത്തിന് പ്രോഗ്രാം ഫയലുകളും ചിത്രങ്ങളും) ഏത് "
 "തരത്തിലുള്ള ഫയലിലും തിരയാൻ ഇത് നിങ്ങളെ അനുവദിക്കുന്നു.</ qt>"
 
-#: kftabdlg.cpp:332
+#: kftabdlg.cpp:336
 #, kde-format
 msgid "&Edit..."
 msgstr "&ചിട്ടപ്പെടുത്തുക..."
 
-#: kftabdlg.cpp:338
+#: kftabdlg.cpp:342
 #, kde-format
 msgctxt "as in search for"
 msgid "fo&r:"
 msgstr "വേണ്ടി (&R):"
 
-#: kftabdlg.cpp:340
+#: kftabdlg.cpp:344
 #, kde-format
 msgid "Search &metainfo sections:"
 msgstr "&മെറ്റാവിവര വിഭാഗങ്ങള്‍ തെരയുക:"
 
-#: kftabdlg.cpp:344
+#: kftabdlg.cpp:348
 #, kde-format
 msgid "All Files & Folders"
 msgstr "എല്ലാ ഫയലുകളും അറകളും"
 
-#: kftabdlg.cpp:345
+#: kftabdlg.cpp:349
 #, kde-format
 msgid "Files"
 msgstr "ഫയലുകള്‍"
 
-#: kftabdlg.cpp:346
+#: kftabdlg.cpp:350
 #, kde-format
 msgid "Folders"
 msgstr "അറകള്‍"
 
-#: kftabdlg.cpp:347
+#: kftabdlg.cpp:351
 #, kde-format
 msgid "Symbolic Links"
 msgstr "പ്രതീകാത്മക കണ്ണികള്‍"
 
-#: kftabdlg.cpp:348
+#: kftabdlg.cpp:352
 #, kde-format
 msgid "Special Files (Sockets, Device Files, ...)"
 msgstr "പ്രത്യേക ഫയലുകള്‍ (സോക്കറ്റുകള്‍, ഡിവൈസ് ഫയലുകള്‍...)"
 
-#: kftabdlg.cpp:349
+#: kftabdlg.cpp:353
 #, kde-format
 msgid "Executable Files"
 msgstr "എക്സിക്യൂട്ടബിള്‍ ഫയലുകള്‍"
 
-#: kftabdlg.cpp:350
+#: kftabdlg.cpp:354
 #, kde-format
 msgid "SUID Executable Files"
 msgstr "SUID എക്സിക്യൂട്ടബിള്‍ ഫയലുകള്‍"
 
-#: kftabdlg.cpp:351
+#: kftabdlg.cpp:355
 #, kde-format
 msgid "All Images"
 msgstr "എല്ലാ ചിത്രങ്ങളും"
 
-#: kftabdlg.cpp:352
+#: kftabdlg.cpp:356
 #, kde-format
 msgid "All Video"
 msgstr "എല്ലാ വീഡിയോയും"
 
-#: kftabdlg.cpp:353
+#: kftabdlg.cpp:357
 #, kde-format
 msgid "All Sounds"
 msgstr "എല്ലാ ശബ്ദവും"
 
-#: kftabdlg.cpp:435
+#: kftabdlg.cpp:439
 #, kde-format
 msgid "Name/&Location"
 msgstr "പേരു്/&സ്ഥാനം"
 
-#: kftabdlg.cpp:436
+#: kftabdlg.cpp:440
 #, kde-format
 msgctxt "tab name: search by contents"
 msgid "C&ontents"
 msgstr "ഉള്ളടക്കം (&O)"
 
-#: kftabdlg.cpp:441
+#: kftabdlg.cpp:445
 #, kde-format
 msgid ""
 "<qt>Search within files' specific comments/metainfo<br />These are some "
@@ -454,7 +454,7 @@ msgstr ""
 "ആൽബം എന്നിവ തിരയാന്‍ ഉപയോഗിക്കുക</li><li><b>ഇമേജുകൾ (png ...)</b> ഒരു പ്രത്യേക "
 "വലുപ്പമുള്ള പടങ്ങള്‍ തിരയുക, അഭിപ്രായമിടുക...</li></ul></qt>"
 
-#: kftabdlg.cpp:449
+#: kftabdlg.cpp:453
 #, kde-format
 msgid ""
 "<qt>If specified, search only in this field<br /><ul><li><b>Audio files "
@@ -465,47 +465,47 @@ msgstr ""
 "ഫയലുകൾ (mp3 ...) </ b> ഇത് ശീർഷകം, ആൽബം ... </ li> <  li> <b> ഇമേജുകൾ‌ (png ...) "
 "</b> റെസല്യൂഷനിൽ‌ മാത്രം തിരയുക, ബിറ്റ്‌ഡെപ്ത് ... </li> </ul> </qt>"
 
-#: kftabdlg.cpp:609
+#: kftabdlg.cpp:613
 #, kde-format
 msgid "Unable to search within a period which is less than a minute."
 msgstr "ഒരു മിനിട്ടിനകമുള്ള കാലയളവില്‍ തിരയാന്‍ സാധ്യമല്ല."
 
-#: kftabdlg.cpp:620
+#: kftabdlg.cpp:624
 #, kde-format
 msgid "The date is not valid."
 msgstr "തീയതി അസാധുവാണു്."
 
-#: kftabdlg.cpp:622
+#: kftabdlg.cpp:626
 #, kde-format
 msgid "Invalid date range."
 msgstr "തീയതി തെറ്റായ പരിധിയിലാണു്."
 
-#: kftabdlg.cpp:624
+#: kftabdlg.cpp:628
 #, kde-format
 msgid "Unable to search dates in the future."
 msgstr "ഭാവിയിലുള്ള തീയതികള്‍ തിരയുവാന്‍ സാധ്യമായില്ല."
 
-#: kftabdlg.cpp:696
+#: kftabdlg.cpp:700
 #, kde-format
 msgid "Size is too big. Set maximum size value?"
 msgstr "വളരെ വലുതാണു്. ഏറ്റവും കൂടിയ വലിപ്പം ആക്കണമോ?"
 
-#: kftabdlg.cpp:696
+#: kftabdlg.cpp:700
 #, kde-format
 msgid "Error"
 msgstr "പിശകു്"
 
-#: kftabdlg.cpp:696
+#: kftabdlg.cpp:700
 #, kde-format
 msgid "Set"
 msgstr "സജീകരിക്കുക"
 
-#: kftabdlg.cpp:696
+#: kftabdlg.cpp:700
 #, kde-format
 msgid "Do Not Set"
 msgstr "സജ്ജമാക്കേണ്ട"
 
-#: kftabdlg.cpp:881
+#: kftabdlg.cpp:889
 #, fuzzy, kde-format
 msgctxt ""
 "during the previous minute(s)/hour(s)/...; dynamic context 'type': 'i' "
@@ -515,7 +515,7 @@ msgid_plural "&during the previous"
 msgstr[0] "നേരത്തേതിന്റെ &സമയത്ത്"
 msgstr[1] "നേരത്തേതിന്റെ &സമയത്ത്"
 
-#: kftabdlg.cpp:882
+#: kftabdlg.cpp:890
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "minute"
@@ -523,7 +523,7 @@ msgid_plural "minutes"
 msgstr[0] "മിനിറ്റുകള്‍"
 msgstr[1] "മിനിറ്റുകള്‍"
 
-#: kftabdlg.cpp:883
+#: kftabdlg.cpp:891
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "hour"
@@ -531,7 +531,7 @@ msgid_plural "hours"
 msgstr[0] "മണിക്കൂറുകള്‍"
 msgstr[1] "മണിക്കൂറുകള്‍"
 
-#: kftabdlg.cpp:884
+#: kftabdlg.cpp:892
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "day"
@@ -539,7 +539,7 @@ msgid_plural "days"
 msgstr[0] "ദിവസങ്ങള്‍"
 msgstr[1] "ദിവസങ്ങള്‍"
 
-#: kftabdlg.cpp:885
+#: kftabdlg.cpp:893
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "month"
@@ -547,7 +547,7 @@ msgid_plural "months"
 msgstr[0] "മാസങ്ങള്‍"
 msgstr[1] "മാസങ്ങള്‍"
 
-#: kftabdlg.cpp:886
+#: kftabdlg.cpp:894
 #, fuzzy, kde-format
 msgctxt "use date ranges to search files by modified time"
 msgid "year"

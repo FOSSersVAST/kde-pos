@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-05 02:53+0000\n"
+"POT-Creation-Date: 2020-02-26 03:00+0000\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -73,13 +73,13 @@ msgctxt "X-KDE-Keywords"
 msgid "about,info,information,distribution,distro,system,kernel,qt,kde"
 msgstr ""
 
-#: Modules/about-distro/src/about-distro.desktop:46
+#: Modules/about-distro/src/about-distro.desktop:47
 #, fuzzy
 msgctxt "Name"
 msgid "System Information"
 msgstr "പിസിഐ വിവരങ്ങള്‍"
 
-#: Modules/about-distro/src/about-distro.desktop:77
+#: Modules/about-distro/src/about-distro.desktop:79
 #, fuzzy
 msgctxt "Comment"
 msgid "Information About This System"
@@ -91,13 +91,13 @@ msgctxt "Name"
 msgid "Device Viewer"
 msgstr "ചിത്രദര്‍ശിനി"
 
-#: Modules/devinfo/devinfo.desktop:76
+#: Modules/devinfo/devinfo.desktop:77
 #, fuzzy
 msgctxt "Comment"
 msgid "Device Viewer"
 msgstr "ചിത്രദര്‍ശിനി"
 
-#: Modules/devinfo/devinfo.desktop:139
+#: Modules/devinfo/devinfo.desktop:141
 msgctxt "X-KDE-Keywords"
 msgid "device,devices,disk,drive,processor,cpu"
 msgstr ""
@@ -107,12 +107,12 @@ msgctxt "Name"
 msgid "Energy"
 msgstr ""
 
-#: Modules/energy/kcm_energyinfo.desktop:27
+#: Modules/energy/kcm_energyinfo.desktop:33
 msgctxt "Comment"
 msgid "Energy Consumption Statistics"
 msgstr ""
 
-#: Modules/energy/kcm_energyinfo.desktop:70
+#: Modules/energy/kcm_energyinfo.desktop:77
 msgctxt "X-KDE-Keywords"
 msgid "Battery,Energy,Statistics,History,Power"
 msgstr ""
@@ -134,17 +134,17 @@ msgctxt "Name"
 msgid "File Indexer Monitor"
 msgstr ""
 
-#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:50
+#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:51
 msgctxt "Comment"
 msgid "Monitor State of File Indexer"
 msgstr ""
 
-#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:90
+#: Modules/fileindexermonitor/kcm_fileindexermonitor.desktop:92
 msgctxt "X-KDE-Keywords"
 msgid "Baloo,File,Index,Monitor"
 msgstr ""
 
-#: Modules/fileindexermonitor/package/metadata.desktop:41
+#: Modules/fileindexermonitor/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "File Index Monitor"
 msgstr ""
@@ -169,12 +169,12 @@ msgctxt "Name"
 msgid "Interrupts"
 msgstr "ഇന്ററപ്റ്റുകള്‍"
 
-#: Modules/info/interrupts.desktop:105
+#: Modules/info/interrupts.desktop:106
 msgctxt "Comment"
 msgid "Interrupt information"
 msgstr "ഇന്ററപ്റ്റുകളെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
-#: Modules/info/interrupts.desktop:196
+#: Modules/info/interrupts.desktop:197
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "Interrupts,IRQ,System Information"
@@ -185,12 +185,12 @@ msgctxt "Name"
 msgid "IO-Ports"
 msgstr "ഐഒ-പോര്‍ട്ടുകള്‍"
 
-#: Modules/info/ioports.desktop:105
+#: Modules/info/ioports.desktop:106
 msgctxt "Comment"
 msgid "IO-port information"
 msgstr "ഐഒ-പോര്‍ട്ടിന്റെ വിവരങ്ങള്‍"
 
-#: Modules/info/ioports.desktop:197
+#: Modules/info/ioports.desktop:199
 msgctxt "X-KDE-Keywords"
 msgid "IO,I/O,IO-Ports,I/O-Ports,Ports,IO-Range,I/O-Range,System Information"
 msgstr ""
@@ -201,13 +201,13 @@ msgctxt "Name"
 msgid "Wayland"
 msgstr "തായിലാന്‍ഡ്"
 
-#: Modules/info/wayland.desktop:58
+#: Modules/info/wayland.desktop:59
 #, fuzzy
 msgctxt "Comment"
 msgid "Information about the Wayland Compositor"
 msgstr "ഫയലുകളുടേയും തട്ടുകളുടേയും വിവരങ്ങള്‍."
 
-#: Modules/info/wayland.desktop:104
+#: Modules/info/wayland.desktop:106
 msgctxt "X-KDE-Keywords"
 msgid "Wayland,Compositor,Display,System Information"
 msgstr ""
@@ -217,12 +217,12 @@ msgctxt "Name"
 msgid "X-Server"
 msgstr "എക്സ്-സെര്‍വര്‍"
 
-#: Modules/info/xserver.desktop:105
+#: Modules/info/xserver.desktop:106
 msgctxt "Comment"
 msgid "X-Server information"
 msgstr "എക്സ് സേവകനെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
-#: Modules/info/xserver.desktop:196
+#: Modules/info/xserver.desktop:198
 msgctxt "X-KDE-Keywords"
 msgid "X,X-Server,XServer,XFree86,Display,VideoCard,System Information"
 msgstr ""
@@ -232,12 +232,12 @@ msgctxt "Name"
 msgid "Memory"
 msgstr "മെമ്മറി"
 
-#: Modules/memory/kcm_memory.desktop:106
+#: Modules/memory/kcm_memory.desktop:107
 msgctxt "Comment"
 msgid "Memory information"
 msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
-#: Modules/memory/kcm_memory.desktop:197
+#: Modules/memory/kcm_memory.desktop:199
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
@@ -249,7 +249,7 @@ msgctxt "Name"
 msgid "Network Interfaces"
 msgstr "ശൃംഖലാ വിനിമയതലങ്ങള്‍"
 
-#: Modules/nics/nic.desktop:104
+#: Modules/nics/nic.desktop:105
 msgctxt "Comment"
 msgid "Network interface information"
 msgstr "ശൃഖലാ വിനിമയതലങ്ങളെക്കുറിച്ചുള്ള വിവരം"
@@ -259,12 +259,12 @@ msgctxt "Name"
 msgid "OpenGL"
 msgstr "ഓപ്പണ്‍ജിഎല്‍"
 
-#: Modules/opengl/opengl.desktop:102
+#: Modules/opengl/opengl.desktop:103
 msgctxt "Comment"
 msgid "OpenGL information"
 msgstr "ഓപ്പണ്‍ജിഎല്ലിനെക്കുറിച്ചുള്ള വിവരങ്ങള്‍"
 
-#: Modules/opengl/opengl.desktop:193
+#: Modules/opengl/opengl.desktop:195
 msgctxt "X-KDE-Keywords"
 msgid ""
 "OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-"
@@ -276,12 +276,12 @@ msgctxt "Name"
 msgid "PCI"
 msgstr "പിസിഐ"
 
-#: Modules/pci/kcm_pci.desktop:104
+#: Modules/pci/kcm_pci.desktop:105
 msgctxt "Comment"
 msgid "PCI information"
 msgstr "പിസിഐ വിവരങ്ങള്‍"
 
-#: Modules/pci/kcm_pci.desktop:196
+#: Modules/pci/kcm_pci.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "PCI,PCI-Devices,PCI-Bus,System Information"
 msgstr ""
@@ -291,12 +291,12 @@ msgctxt "Name"
 msgid "Samba Status"
 msgstr "സാംബാ സ്ഥിതിവിവരം"
 
-#: Modules/samba/smbstatus.desktop:104
+#: Modules/samba/smbstatus.desktop:105
 msgctxt "Comment"
 msgid "Samba status monitor"
 msgstr "സാംബാ അവസ്ഥ നിരീക്ഷിണി"
 
-#: Modules/samba/smbstatus.desktop:195
+#: Modules/samba/smbstatus.desktop:197
 msgctxt "X-KDE-Keywords"
 msgid "SMB,SAMBA,Windows network,LAN,System Information"
 msgstr ""
@@ -337,12 +337,12 @@ msgctxt "Name"
 msgid "Info Center"
 msgstr "വിവരകേന്ദ്രം"
 
-#: org.kde.kinfocenter.desktop:50
+#: org.kde.kinfocenter.desktop:51
 msgctxt "GenericName"
 msgid "Info Center"
 msgstr "വിവരകേന്ദ്രം"
 
-#: org.kde.kinfocenter.desktop:140
+#: org.kde.kinfocenter.desktop:142
 msgctxt "Comment"
 msgid "Centralized and convenient overview of system information"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-18 03:40+0100\n"
+"POT-Creation-Date: 2020-02-28 03:41+0100\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -147,7 +147,7 @@ msgstr "ലഭ്യമായ ബാക്കെൻഡുകൾ:\n"
 msgid "Available modes:\n"
 msgstr "ലഭ്യമായ രീതികൾ:\n"
 
-#: discover/qml/AddonsView.qml:24 discover/qml/ApplicationPage.qml:214
+#: discover/qml/AddonsView.qml:24 discover/qml/ApplicationPage.qml:213
 #, kde-format
 msgid "Addons"
 msgstr "ആഡോണുകൾ"
@@ -177,7 +177,7 @@ msgstr "ഒരു പുതിയ %1 സംഭരണി കൂട്ടിച്
 msgid "Add"
 msgstr "കൂട്ടിച്ചേര്‍ക്കുക"
 
-#: discover/qml/AddSourceDialog.qml:86 discover/qml/DiscoverWindow.qml:244
+#: discover/qml/AddSourceDialog.qml:86 discover/qml/DiscoverWindow.qml:245
 #: discover/qml/InstallApplicationButton.qml:33
 #: discover/qml/SourcesPage.qml:137 discover/qml/UpdatesPage.qml:104
 #, kde-format
@@ -219,134 +219,134 @@ msgstr "%1 - %2"
 msgid "What's New"
 msgstr "പുതിയത്"
 
-#: discover/qml/ApplicationPage.qml:226
+#: discover/qml/ApplicationPage.qml:225
 #, kde-format
 msgid "Reviews"
 msgstr "അവലോകനങ്ങൾ"
 
-#: discover/qml/ApplicationPage.qml:234
+#: discover/qml/ApplicationPage.qml:233
 #, kde-format
 msgid "Show %1 review..."
 msgid_plural "Show all %1 reviews..."
 msgstr[0] "%1 വിശകലനം കാണിക്കുക..."
 msgstr[1] "%1 വിശകലനങ്ങള്‍ കാണിക്കുക..."
 
-#: discover/qml/ApplicationPage.qml:267
+#: discover/qml/ApplicationPage.qml:265
 #, kde-format
 msgid "Write a review!"
 msgstr "ഒരു അവലോകനം എഴുതുക!"
 
-#: discover/qml/ApplicationPage.qml:269
+#: discover/qml/ApplicationPage.qml:267
 #, kde-format
 msgid "Be the first to write a review!"
 msgstr "ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
-#: discover/qml/ApplicationPage.qml:274
+#: discover/qml/ApplicationPage.qml:272
 #, kde-format
 msgid "Install this app to write a review!"
 msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
 
-#: discover/qml/ApplicationPage.qml:276
+#: discover/qml/ApplicationPage.qml:274
 #, kde-format
 msgid "Install this app and be the first to write a review!"
 msgstr "ഈ ആപ്പ് ഇൻസ്റ്റാളുചെയ്‌ത് ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
-#: discover/qml/ApplicationPage.qml:317
+#: discover/qml/ApplicationPage.qml:311
 #, kde-format
 msgid "Category:"
 msgstr "വിഭാഗം:"
 
-#: discover/qml/ApplicationPage.qml:331
-#, kde-format
-msgid "Version:"
-msgstr "പതിപ്പ്:"
-
-#: discover/qml/ApplicationPage.qml:342
+#: discover/qml/ApplicationPage.qml:328
 #, kde-format
 msgid "%1, released on %2"
 msgstr "%2 ന് പുറത്തിറങ്ങിയ %1"
 
-#: discover/qml/ApplicationPage.qml:359
+#: discover/qml/ApplicationPage.qml:335
+#, kde-format
+msgid "Version:"
+msgstr "പതിപ്പ്:"
+
+#: discover/qml/ApplicationPage.qml:344
 #, kde-format
 msgid "Author:"
 msgstr "രചയിതാവ്:"
 
-#: discover/qml/ApplicationPage.qml:373
+#: discover/qml/ApplicationPage.qml:353
 #, kde-format
 msgid "Size:"
 msgstr "വലുപ്പം:"
 
-#: discover/qml/ApplicationPage.qml:384
+#: discover/qml/ApplicationPage.qml:362
 #, kde-format
 msgid "Source:"
 msgstr "ഉറവിടം:"
 
-#: discover/qml/ApplicationPage.qml:396
+#: discover/qml/ApplicationPage.qml:371
 #, kde-format
 msgid "License:"
 msgstr "ലൈസൻസ്:"
 
-#: discover/qml/ApplicationPage.qml:406
+#: discover/qml/ApplicationPage.qml:378
 #, kde-format
 msgid "See full license terms"
 msgstr "എല്ലാ ലൈസൻസ് നിബന്ധനകളും കാണുക"
 
-#: discover/qml/ApplicationPage.qml:419
+#: discover/qml/ApplicationPage.qml:389
 #, kde-format
 msgid "Homepage:"
 msgstr "ഹോം‌പേജ്:"
 
-#: discover/qml/ApplicationPage.qml:432
+#: discover/qml/ApplicationPage.qml:397
 #, kde-format
 msgid "User Guide:"
 msgstr "ഉപയോക്തൃ സഹായി:"
 
-#: discover/qml/ApplicationPage.qml:445
+#: discover/qml/ApplicationPage.qml:405
 #, kde-format
 msgid "Donate:"
 msgstr "സംഭാവനചെയ്യുക:"
 
-#: discover/qml/ApplicationPage.qml:458
+#: discover/qml/ApplicationPage.qml:413
 #, kde-format
 msgid "Report a Problem:"
 msgstr "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക:"
 
-#: discover/qml/ApplicationsListPage.qml:68
+#: discover/qml/ApplicationsListPage.qml:63
 #, kde-format
 msgid "Search: %1"
 msgstr "തിരയുക: %1"
 
-#: discover/qml/ApplicationsListPage.qml:94
+#: discover/qml/ApplicationsListPage.qml:82
 #, kde-format
 msgid "Sort: %1"
 msgstr "അടുക്കുക: %1"
 
-#: discover/qml/ApplicationsListPage.qml:97
+#: discover/qml/ApplicationsListPage.qml:85
 #, kde-format
 msgid "Name"
 msgstr "പേര്"
 
-#: discover/qml/ApplicationsListPage.qml:106
+#: discover/qml/ApplicationsListPage.qml:94
 #, kde-format
 msgid "Rating"
 msgstr "റേറ്റിംഗ്"
 
-#: discover/qml/ApplicationsListPage.qml:115
+#: discover/qml/ApplicationsListPage.qml:103
 #, kde-format
 msgid "Size"
 msgstr "വലുപ്പം"
 
-#: discover/qml/ApplicationsListPage.qml:124
+#: discover/qml/ApplicationsListPage.qml:112
 #, kde-format
 msgid "Release Date"
 msgstr "പ്രകാശന തീയതി"
 
-#: discover/qml/ApplicationsListPage.qml:164
+#: discover/qml/ApplicationsListPage.qml:152
 #, kde-format
 msgid "Sorry, nothing found..."
 msgstr "ക്ഷമിക്കണം, ഒന്നും കണ്ടെത്തിയില്ല ..."
 
-#: discover/qml/ApplicationsListPage.qml:180
+#: discover/qml/ApplicationsListPage.qml:168
 #, kde-format
 msgid "Still looking..."
 msgstr "ഇപ്പോഴും നോക്കികൊണ്ടിരിക്കുന്നു..."
@@ -383,13 +383,15 @@ msgid "Installed"
 msgstr "ഇൻസ്റ്റാളുചെയ്‌തു"
 
 #: discover/qml/DiscoverWindow.qml:82
-#, kde-format
-msgid "Fetching Updates..."
+#, fuzzy, kde-format
+#| msgid "Fetching Updates..."
+msgid "Fetching updates..."
 msgstr "അപ്‌ഡേറ്റുകൾ നേടുന്നു..."
 
 #: discover/qml/DiscoverWindow.qml:82
-#, kde-format
-msgid "Up to Date"
+#, fuzzy, kde-format
+#| msgid "Up to Date"
+msgid "Up to date"
 msgstr "കാലികമാണ്"
 
 #: discover/qml/DiscoverWindow.qml:82
@@ -438,7 +440,7 @@ msgstr ""
 msgid "Hide"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:232 discover/qml/SourcesPage.qml:127
+#: discover/qml/DiscoverWindow.qml:233 discover/qml/SourcesPage.qml:127
 #, kde-format
 msgid "Proceed"
 msgstr ""
@@ -539,38 +541,44 @@ msgctxt "TransactioName - TransactionStatus"
 msgid "%1 - %2"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:94
+#: discover/qml/ReviewDelegate.qml:77
+#, fuzzy, kde-format
+#| msgid "Version:"
+msgid "Version: %1"
+msgstr "പതിപ്പ്:"
+
+#: discover/qml/ReviewDelegate.qml:100
 #, kde-format
 msgid "unknown reviewer"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:95
+#: discover/qml/ReviewDelegate.qml:101
 #, kde-format
 msgid "<b>%1</b> by %2"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:95
+#: discover/qml/ReviewDelegate.qml:101
 #, kde-format
 msgid "Comment by %1"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:144
+#: discover/qml/ReviewDelegate.qml:150
 #, kde-format
 msgid "Votes: %1 out of %2"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:152
+#: discover/qml/ReviewDelegate.qml:158
 #, kde-format
 msgid "Useful?"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:164
+#: discover/qml/ReviewDelegate.qml:170
 #, kde-format
 msgctxt "Keep this string as short as humanly possible"
 msgid "Yes"
 msgstr ""
 
-#: discover/qml/ReviewDelegate.qml:180
+#: discover/qml/ReviewDelegate.qml:186
 #, kde-format
 msgctxt "Keep this string as short as humanly possible"
 msgid "No"
@@ -676,11 +684,6 @@ msgstr ""
 msgid "Delete the origin"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:191
-#, kde-format
-msgid "Failed to remove the source '%1'"
-msgstr ""
-
 #: discover/qml/SourcesPage.qml:197
 #, kde-format
 msgid "Show contents"
@@ -723,69 +726,71 @@ msgid_plural "%1/%2 updates selected (%3)"
 msgstr[0] ""
 msgstr[1] ""
 
-#: discover/qml/UpdatesPage.qml:176
+#: discover/qml/UpdatesPage.qml:177
 #, kde-format
 msgid "Restart"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:256
+#: discover/qml/UpdatesPage.qml:257
 #, kde-format
 msgid "%1"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:269
+#: discover/qml/UpdatesPage.qml:270
 #, kde-format
 msgid "Update to version %1"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:279
+#: discover/qml/UpdatesPage.qml:280
 #, kde-format
 msgctxt "Do not translate or alter \\x9C"
 msgid "%1 → %2%1 → %2%2"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:292
+#: discover/qml/UpdatesPage.qml:293
 #, kde-format
 msgid "Installing"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:323
+#: discover/qml/UpdatesPage.qml:324
 #, kde-format
 msgid "More Information..."
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:351
-#, kde-format
+#: discover/qml/UpdatesPage.qml:352
+#, fuzzy, kde-format
+#| msgid "Fetching Updates..."
 msgctxt "@info"
-msgid "Fetching Updates..."
-msgstr ""
+msgid "Fetching updates..."
+msgstr "അപ്‌ഡേറ്റുകൾ നേടുന്നു..."
 
-#: discover/qml/UpdatesPage.qml:363
+#: discover/qml/UpdatesPage.qml:365
 #, kde-format
 msgctxt "@info"
 msgid "Updates"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:369
+#: discover/qml/UpdatesPage.qml:371
 #, kde-format
 msgctxt "@info"
 msgid "The system requires a restart to apply updates"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:373 discover/qml/UpdatesPage.qml:378
-#: discover/qml/UpdatesPage.qml:383
-#, kde-format
-msgctxt "@info"
-msgid "Up to Date"
-msgstr ""
-
+#: discover/qml/UpdatesPage.qml:376 discover/qml/UpdatesPage.qml:382
 #: discover/qml/UpdatesPage.qml:388
+#, fuzzy, kde-format
+#| msgid "Up to Date"
+msgctxt "@info"
+msgid "Up to date"
+msgstr "കാലികമാണ്"
+
+#: discover/qml/UpdatesPage.qml:394
 #, kde-format
 msgctxt "@info"
 msgid "Should check for updates"
 msgstr ""
 
-#: discover/qml/UpdatesPage.qml:393
+#: discover/qml/UpdatesPage.qml:400
 #, kde-format
 msgctxt "@info"
 msgid "It is unknown when the last check for updates was"

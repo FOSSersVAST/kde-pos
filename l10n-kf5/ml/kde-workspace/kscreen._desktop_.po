@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-21 03:01+0000\n"
+"POT-Creation-Date: 2020-02-07 02:58+0000\n"
 "PO-Revision-Date: 2020-02-02 13:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,12 +19,12 @@ msgctxt "Name"
 msgid "Display Configuration"
 msgstr "ക്രമീകരണങ്ങൾ പ്രദർശിപ്പിക്കുക"
 
-#: kcm/kcm_kscreen.desktop:52 kcm/package/metadata.desktop:44
+#: kcm/kcm_kscreen.desktop:53 kcm/package/metadata.desktop:45
 msgctxt "Comment"
 msgid "Manage and configure monitors and displays"
 msgstr "മോണിറ്ററുകളും ഡിസ്പ്ലേയും കൈകാര്യം ചെയ്യുക"
 
-#: kcm/kcm_kscreen.desktop:99
+#: kcm/kcm_kscreen.desktop:101
 msgctxt "X-KDE-Keywords"
 msgid ""
 "display,monitor,scale,scaling,resolution,orientation,outputs,screen,refresh"
@@ -40,7 +40,7 @@ msgctxt "Name"
 msgid "KScreen 2"
 msgstr "കെസ്ക്രീൻ 2"
 
-#: kded/kscreen.desktop.cmake:49
+#: kded/kscreen.desktop.cmake:50
 msgctxt "Comment"
 msgid "Screen management"
 msgstr "സ്ക്രീൻ നടത്തിപ്പ്"
@@ -50,12 +50,12 @@ msgctxt "Name"
 msgid "Quick Display Configuration"
 msgstr "ശീഘ്ര പ്രദർശന ക്രമീകരണം"
 
-#: plasma/plasma-applet-kscreen.desktop.cmake:43
+#: plasma/plasma-applet-kscreen.desktop.cmake:44
 msgctxt "Comment"
 msgid "Quick configuration of a new display"
 msgstr "പുതിയ പ്രദർശനത്തിന്റെ ശീഘ്ര ക്രമീകരണം"
 
-#: plasmoid/package/metadata.desktop:43
+#: plasmoid/package/metadata.desktop:44
 msgctxt "Comment"
 msgid "Quickly switch between screen layouts and presentation mode"
 msgstr ""

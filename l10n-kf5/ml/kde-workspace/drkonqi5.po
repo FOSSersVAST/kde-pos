@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: drkonqi\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-30 03:37+0100\n"
+"POT-Creation-Date: 2020-02-15 03:49+0100\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -2170,26 +2170,26 @@ msgctxt "@info"
 msgid "Cannot open file <filename>%1</filename> for writing."
 msgstr "<filename>%1</filename> തുറക്കുവാന്‍ സാധ്യമല്ല."
 
-#: drkonqidialog.cpp:71
+#: drkonqidialog.cpp:72
 #, fuzzy, kde-format
 msgctxt "@title:tab general information"
 msgid "&General"
 msgstr "ഉണ്ടാക്കുക"
 
-#: drkonqidialog.cpp:75
+#: drkonqidialog.cpp:76
 #, kde-format
 msgctxt "@title:tab"
 msgid "&Developer Information"
 msgstr ""
 
-#: drkonqidialog.cpp:110
+#: drkonqidialog.cpp:111
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
 "<para>We are sorry, <application>%1</application> closed unexpectedly.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:116
+#: drkonqidialog.cpp:117
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2200,7 +2200,7 @@ msgid ""
 "Information</interface> tab.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:125
+#: drkonqidialog.cpp:126
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2210,7 +2210,7 @@ msgid ""
 "interface> tab.)</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:132
+#: drkonqidialog.cpp:133
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2222,7 +2222,7 @@ msgid ""
 "para>"
 msgstr ""
 
-#: drkonqidialog.cpp:140
+#: drkonqidialog.cpp:141
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2230,7 +2230,7 @@ msgid ""
 "><link url='%1'>Learn more about bug reporting.</link></para>"
 msgstr ""
 
-#: drkonqidialog.cpp:146
+#: drkonqidialog.cpp:147
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -2238,13 +2238,13 @@ msgid ""
 "does not provide a bug reporting address.</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:155
+#: drkonqidialog.cpp:156
 #, fuzzy, kde-format
 msgctxt "@label"
 msgid "Details:"
 msgstr "വിശദാംശങ്ങള്‍ കാണിക്കുക"
 
-#: drkonqidialog.cpp:158
+#: drkonqidialog.cpp:160
 #, kde-kuit-format
 msgctxt "@info Note the time information is divided into date and time parts"
 msgid ""
@@ -2252,7 +2252,7 @@ msgid ""
 "Time: %5 %6</para>"
 msgstr ""
 
-#: drkonqidialog.cpp:188
+#: drkonqidialog.cpp:190
 #, fuzzy, kde-format
 msgctxt ""
 "@action:button this is the debug menu button label which contains the "
@@ -2260,43 +2260,43 @@ msgctxt ""
 msgid "&Debug"
 msgstr "&ഡീബഗ്ഗര്‍"
 
-#: drkonqidialog.cpp:190
+#: drkonqidialog.cpp:192
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Starts a program to debug the crashed application."
 msgstr ""
 
-#: drkonqidialog.cpp:212
+#: drkonqidialog.cpp:214
 #, kde-format
 msgctxt "@action:button"
 msgid "Report &Bug"
 msgstr ""
 
-#: drkonqidialog.cpp:214
+#: drkonqidialog.cpp:216
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Starts the bug report assistant."
 msgstr ""
 
-#: drkonqidialog.cpp:224
+#: drkonqidialog.cpp:226
 #, kde-format
 msgctxt "@action:button"
 msgid "&Restart Application"
 msgstr ""
 
-#: drkonqidialog.cpp:226
+#: drkonqidialog.cpp:228
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Use this button to restart the crashed application."
 msgstr ""
 
-#: drkonqidialog.cpp:238
+#: drkonqidialog.cpp:240
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Close this dialog (you will lose the crash information.)"
 msgstr ""
 
-#: drkonqidialog.cpp:248
+#: drkonqidialog.cpp:250
 #, kde-format
 msgctxt "@action:inmenu 1 is the debugger name"
 msgid "Debug in %1"

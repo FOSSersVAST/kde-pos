@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-13 02:40+0200\n"
+"POT-Creation-Date: 2020-02-25 03:13+0100\n"
 "PO-Revision-Date: 2020-02-02 13:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -42,51 +42,51 @@ msgstr "മൊബൈലിലേക്ക് പങ്കുവെക്കേ�
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: package/contents/ui/DeviceDelegate.qml:106
+#: package/contents/ui/DeviceDelegate.qml:105
 msgid "Please choose a file"
 msgstr "ദയവായി ഒരു ഫയൽ തിരഞ്ഞെടുക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:114
+#: package/contents/ui/DeviceDelegate.qml:113
 msgid "Share file"
 msgstr "ഫയൽ പങ്കുവെക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:134
+#: package/contents/ui/DeviceDelegate.qml:133
 msgid "Ring my phone"
 msgstr "എന്റെ മൊബൈൽ റിംഗ് ചെയ്പ്പിക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:152
+#: package/contents/ui/DeviceDelegate.qml:151
 msgid "Browse this device"
 msgstr "ഈ ഉപകരണം തുറന്നുനോക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:169
+#: package/contents/ui/DeviceDelegate.qml:168
 msgid "SMS Messages"
 msgstr "SMS സന്ദേശങ്ങൾ"
 
-#: package/contents/ui/DeviceDelegate.qml:190
+#: package/contents/ui/DeviceDelegate.qml:189
 msgid "Remote Keyboard"
 msgstr "വിദൂര കീബോർഡ്"
 
-#: package/contents/ui/DeviceDelegate.qml:206
+#: package/contents/ui/DeviceDelegate.qml:205
 msgid "Notifications:"
 msgstr "അറിയിപ്പുകൾ:"
 
-#: package/contents/ui/DeviceDelegate.qml:213
+#: package/contents/ui/DeviceDelegate.qml:212
 msgid "Dismiss all notifications"
 msgstr "എല്ലാ അറിയിപ്പുകളും ഉപേക്ഷിക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:249
+#: package/contents/ui/DeviceDelegate.qml:248
 msgid "Reply"
 msgstr "മറുപടി"
 
-#: package/contents/ui/DeviceDelegate.qml:258
+#: package/contents/ui/DeviceDelegate.qml:257
 msgid "Dismiss"
 msgstr "ഉപേക്ഷിക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:275
+#: package/contents/ui/DeviceDelegate.qml:274
 msgid "Run command"
 msgstr "ആജ്ഞ പ്രവർത്തിപ്പിക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:283
+#: package/contents/ui/DeviceDelegate.qml:282
 msgid "Add command"
 msgstr "ആജ്ഞ കൂട്ടിച്ചേർക്കുക"
 
