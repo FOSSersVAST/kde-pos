@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-02-29 02:31+0100\n"
-"PO-Revision-Date: 2020-02-26 15:49+0000\n"
-"Last-Translator: Vivek K <svivekkrishna@protonmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2020-03-17 11:50+0000\n"
+"Last-Translator: amrithandh m <amrithanadhm@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -188,7 +188,7 @@ msgstr ""
 #: kateconfigdialog.cpp:135
 #, kde-format
 msgid "&Delete unused meta-information after:"
-msgstr ""
+msgstr "ശേഷം ഉപയോഗമില്ലാത്ത മെറ്റാ-വിവരങ്ങൾ കളയുക (&D)"
 
 #: kateconfigdialog.cpp:139
 #, kde-format
@@ -262,7 +262,7 @@ msgstr "സംയോജക കാര്യസ്ഥന്‍"
 #: kateconfigdialog.cpp:256 kateconfigdialog.cpp:257
 #, kde-format
 msgid "User Feedback"
-msgstr ""
+msgstr "ഉപയോക്താവിൻെറ അഭിപ്രായം"
 
 #: kateconfigdialog.cpp:262
 #, kde-format
@@ -272,7 +272,7 @@ msgstr "എഡിറ്റർ ഘടകം"
 #: kateconfigdialog.cpp:264
 #, kde-format
 msgid "Editor Component Options"
-msgstr ""
+msgstr "എഡിറ്റർ ഘടകത്തിന്റെ ഓപ്ഷനുകൾ"
 
 #: kateconfigdialog.cpp:477
 #, kde-format
@@ -322,6 +322,8 @@ msgid ""
 "<p>The document '%1' has been modified, but not saved.</p><p>Do you want to "
 "save your changes or discard them?</p>"
 msgstr ""
+"<p>'%1' പ്രമാണത്തിൽ മാറ്റങ്ങൾ വന്നിട്ടുണ്ട്, പക്ഷേ സേവ് "
+"ചെയ്തിട്ടില്ല.</p><p>മാറ്റങ്ങൾ  സേവ് ചെയ്യണോ അതോ കളയണോ?</p>"
 
 #: katedocmanager.cpp:351 katetabbutton.cpp:46
 #, kde-format
