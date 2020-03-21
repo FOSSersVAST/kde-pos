@@ -8,25 +8,26 @@ msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-02-17 03:17+0100\n"
-"PO-Revision-Date: 2019-12-20 03:11+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2020-03-22 10:50+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 3.9.1\n"
 
 #: battery/batteryplugin.cpp:74
 #, kde-format
 msgctxt "device name: low battery"
 msgid "%1: Low Battery"
-msgstr ""
+msgstr "%1: ബാറ്ററി കുറവാണ്"
 
 #: battery/batteryplugin.cpp:74
 #, kde-format
 msgid "Battery at %1%"
-msgstr ""
+msgstr "ബാറ്ററി ചാർജ് %1%"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: findthisdevice/findthisdevice_config.ui:17
@@ -38,81 +39,81 @@ msgstr ""
 #: findthisdevice/findthisdevice_config.ui:25
 #, kde-format
 msgid "Sound to play:"
-msgstr ""
+msgstr "ശബ്ദിക്കേണ്ട ശബ്ദം:"
 
 #. i18n: ectx: property (toolTip), widget (KUrlRequester, soundFileRequester)
 #: findthisdevice/findthisdevice_config.ui:39
 #, kde-format
 msgid "Select the sound to play"
-msgstr ""
+msgstr "ശബ്ദിക്കേണ്ട ശബ്ദം തിരഞ്ഞെടുക്കുക"
 
 #: mousepad/waylandremoteinput.cpp:60 sftp/sftpplugin-win.cpp:87
 #, kde-format
 msgid "KDE Connect"
-msgstr ""
+msgstr "കെ.ഡി.ഇ കണക്ട്"
 
 #: mousepad/waylandremoteinput.cpp:60
 #, kde-format
 msgid "Use your phone as a touchpad and keyboard"
-msgstr ""
+msgstr "താങ്കളുടെ ഫോൺ റ്റച്പാഡ് ആയും കീബോർഡായും ഉപയോഗിക്കുക"
 
 #: notifications/notification.cpp:146
 #, kde-format
 msgid "Reply"
-msgstr ""
+msgstr "മറുപടി നല്കുക"
 
 #: notifications/sendreplydialog.cpp:41
 #, kde-format
 msgid "Send"
-msgstr ""
+msgstr "അയക്കുക"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, SendReplyDialog)
 #: notifications/sendreplydialog.ui:14
 #, kde-format
 msgid "Dialog"
-msgstr ""
+msgstr "ചെറുജാലകം"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, PauseMusicConfigUi)
 #: pausemusic/pausemusic_config.ui:17
 #, kde-format
 msgid "Pause music plugin"
-msgstr ""
+msgstr "സംഗീത പ്ലഗ്ഗിൻ താൽകാലികമായി നിർത്തുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: pausemusic/pausemusic_config.ui:32
 #, kde-format
 msgid "Condition"
-msgstr ""
+msgstr "അവസ്ഥ"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rad_ringing)
 #: pausemusic/pausemusic_config.ui:38
 #, kde-format
 msgid "Pause as soon as phone rings"
-msgstr ""
+msgstr "ഫോൺ റിങ് ചെയ്യുമ്പോൾ താൽകാലികമായി നിർത്തുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rad_talking)
 #: pausemusic/pausemusic_config.ui:45
 #, kde-format
 msgid "Pause only while talking"
-msgstr ""
+msgstr "സംസാരിക്കുമ്പോൾ മാത്രം നിർത്തുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
 #: pausemusic/pausemusic_config.ui:61
 #, kde-format
 msgid "Actions"
-msgstr ""
+msgstr "നടപടികൾ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_pause)
 #: pausemusic/pausemusic_config.ui:67
 #, kde-format
 msgid "Pause media players"
-msgstr ""
+msgstr "മാധ്യമ പ്ലെയറുകൾ താൽകാലികമായി നിർത്തുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_mute)
 #: pausemusic/pausemusic_config.ui:74
 #, kde-format
 msgid "Mute system sound"
-msgstr ""
+msgstr "സിസ്റ്റത്തിന്റെ ശബ്ദം നിശബ്ദമാക്കുക"
 
 #: ping/pingplugin.cpp:50
 #, kde-format
@@ -122,22 +123,22 @@ msgstr ""
 #: runcommand/runcommand_config.cpp:45
 #, kde-format
 msgid "Suspend"
-msgstr ""
+msgstr "മയങ്ങുക"
 
 #: runcommand/runcommand_config.cpp:46
 #, kde-format
 msgid "Maximum Brightness"
-msgstr ""
+msgstr "പരമാവധി തെളിച്ചം"
 
 #: runcommand/runcommand_config.cpp:47
 #, kde-format
 msgid "Lock Screen"
-msgstr ""
+msgstr "സ്ക്രീൻ ലോക്ക് ചെയ്യുക"
 
 #: runcommand/runcommand_config.cpp:48
 #, kde-format
 msgid "Unlock Screen"
-msgstr ""
+msgstr "സ്‌ക്രീനിന്റെ പൂട്ട് തുറക്കുക"
 
 #: runcommand/runcommand_config.cpp:49
 #, kde-format
@@ -152,28 +153,28 @@ msgstr ""
 #: runcommand/runcommand_config.cpp:57
 #, kde-format
 msgid "Sample commands"
-msgstr ""
+msgstr "ഉദ്ദാഹരണ ആജ്ഞകൾ"
 
 #: runcommand/runcommand_config.cpp:66
 #: sendnotifications/notifyingapplicationmodel.cpp:208
 #, kde-format
 msgid "Name"
-msgstr ""
+msgstr "പേര്"
 
 #: runcommand/runcommand_config.cpp:66
 #, kde-format
 msgid "Command"
-msgstr ""
+msgstr "ആജ്ഞ"
 
 #: screensaver-inhibit/screensaverinhibitplugin.cpp:45
 #, kde-format
 msgid "Phone is connected"
-msgstr ""
+msgstr "ഫോൺ ബന്ധപ്പെടുത്തിയിരിക്കുന്നു"
 
 #: sendnotifications/notifyingapplicationmodel.cpp:212
 #, kde-format
 msgid "Blacklisted"
-msgstr ""
+msgstr "ബ്ലാക്ക്ലിസ്റ്റ് ചെയ്തിരിക്കുന്നു"
 
 #: sendnotifications/notifyingapplicationmodel.cpp:216
 #, kde-format
@@ -197,7 +198,7 @@ msgstr ""
 #: sendnotifications/sendnotifications_config.ui:38
 #, kde-format
 msgid "General"
-msgstr ""
+msgstr "പൊതുവായത്"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, check_persistent)
 #: sendnotifications/sendnotifications_config.ui:44
@@ -209,7 +210,7 @@ msgstr ""
 #: sendnotifications/sendnotifications_config.ui:47
 #, kde-format
 msgid "Persistent notifications only"
-msgstr ""
+msgstr "സ്ഥിരമായിട്ടുള്ള അറിയിപ്പുകൾ മാത്രം"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, check_body)
 #: sendnotifications/sendnotifications_config.ui:60
@@ -222,7 +223,7 @@ msgstr ""
 #: sendnotifications/sendnotifications_config.ui:63
 #, kde-format
 msgid "Include body"
-msgstr ""
+msgstr "ബോഡി ഉൾപ്പെടുത്തുക"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, check_icons)
 #: sendnotifications/sendnotifications_config.ui:76
@@ -243,6 +244,8 @@ msgid ""
 "<html><head/><body><p>Minimum urgency level of the notifications</p></body></"
 "html>"
 msgstr ""
+"<html><head/><body><p>അറിയിപ്പുകളുടെ ഏറ്റവും കുറഞ്ഞ "
+"അത്യാവിശ്യകത</p></body></html>"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label)
 #: sendnotifications/sendnotifications_config.ui:123
@@ -254,28 +257,28 @@ msgstr ""
 #: sendnotifications/sendnotifications_config.ui:126
 #, kde-format
 msgid "Minimum urgency level"
-msgstr ""
+msgstr "ഏറ്റവും കുറഞ്ഞ ആവശ്യകത"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: sendnotifications/sendnotifications_config.ui:148
 #, kde-format
 msgid "Applications"
-msgstr ""
+msgstr "ആപ്ലിക്കേഷനുകൾ"
 
 #: sftp/mounter.cpp:185
 #, kde-format
 msgid "Failed to start sshfs"
-msgstr ""
+msgstr "sshfs തുടങ്ങുവാൻ സാധിച്ചില്ല"
 
 #: sftp/mounter.cpp:189
 #, kde-format
 msgid "sshfs process crashed"
-msgstr ""
+msgstr "sshfs പ്രക്രിയ തകർന്നു"
 
 #: sftp/mounter.cpp:193
 #, kde-format
 msgid "Unknown error in sshfs"
-msgstr ""
+msgstr "sshfs-ൽ അറിയപ്പെടാത്ത പിശക് "
 
 #: sftp/mounter.cpp:207
 #, kde-format
@@ -285,7 +288,7 @@ msgstr ""
 #: sftp/mounter.cpp:216
 #, kde-format
 msgid "Failed to mount filesystem: device not responding"
-msgstr ""
+msgstr "ഫയൽസിസ്റ്റം ഘടിപ്പിക്കാൻ സാധിച്ചില്ല: ഉപകരണം മറുപടി നല്കുന്നില്ല"
 
 #: sftp/sftpplugin-win.cpp:87
 #, kde-format
@@ -295,12 +298,12 @@ msgstr ""
 #: sftp/sftpplugin.cpp:155
 #, kde-format
 msgid "All files"
-msgstr ""
+msgstr "എല്ലാ ഫയലുകളും"
 
 #: sftp/sftpplugin.cpp:156
 #, kde-format
 msgid "Camera pictures"
-msgstr ""
+msgstr "ക്യാമറ ചിത്രങ്ങൾ"
 
 #: share/share_config.cpp:38
 #, kde-format
@@ -311,44 +314,44 @@ msgstr ""
 #: share/share_config.ui:17
 #, kde-format
 msgid "Share plugin settings"
-msgstr ""
+msgstr "പ്ലഗ്ഗിൻ സജ്ജീകരണങ്ങൾ പങ്കുവെയ്കുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #: share/share_config.ui:23
 #, kde-format
 msgid "Receiving"
-msgstr ""
+msgstr "കിട്ടുന്നു "
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: share/share_config.ui:31
 #, kde-format
 msgid "Save files in:"
-msgstr ""
+msgstr "ഫയലുകൾ സേവ് ചെയ്യേണ്ടത്:"
 
 #: share/shareplugin.cpp:209
 #, kde-format
 msgid "Could not share file"
-msgstr ""
+msgstr "ഫയൽ പങ്കുവെയ്ക്കാൻ സാധിച്ചില്ല"
 
 #: share/shareplugin.cpp:209
 #, kde-format
 msgid "%1 does not exist"
-msgstr ""
+msgstr "%1 നിലനിൽക്കുന്നില്ല"
 
 #: telephony/telephonyplugin.cpp:43
 #, kde-format
 msgid "unknown number"
-msgstr ""
+msgstr "അപരിചിത നമ്പർ"
 
 #: telephony/telephonyplugin.cpp:55
 #, kde-format
 msgid "Incoming call from %1"
-msgstr ""
+msgstr "%1 വിളിക്കുന്നു"
 
 #: telephony/telephonyplugin.cpp:59
 #, kde-format
 msgid "Missed call from %1"
-msgstr ""
+msgstr "%1-ൽ നിന്നും ഒരു മിസ്ഡ് കോൾ"
 
 #: telephony/telephonyplugin.cpp:69
 #, kde-format
@@ -358,4 +361,4 @@ msgstr ""
 #: telephony/telephonyplugin.cpp:90
 #, kde-format
 msgid "Mute Call"
-msgstr ""
+msgstr "കോൾ ശബ്ദരഹിതമാക്കുക"
