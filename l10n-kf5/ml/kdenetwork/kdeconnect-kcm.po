@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-01-17 03:20+0100\n"
-"PO-Revision-Date: 2020-03-06 14:50+0000\n"
+"PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -88,37 +88,37 @@ msgstr ""
 #: kcm.ui:70
 #, kde-format
 msgid "Edit"
-msgstr ""
+msgstr "തിരുത്തുക"
 
 #. i18n: ectx: property (text), widget (QToolButton, renameDone_button)
 #: kcm.ui:92
 #, kde-format
 msgid "Save"
-msgstr ""
+msgstr "സേവ്"
 
 #. i18n: ectx: property (text), widget (QPushButton, refresh_button)
 #: kcm.ui:108
 #, kde-format
 msgid "Refresh"
-msgstr ""
+msgstr "പുതുക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, name_label)
 #: kcm.ui:155
 #, kde-format
 msgid "Device"
-msgstr ""
+msgstr "ഉപകരണം"
 
 #. i18n: ectx: property (text), widget (QLabel, status_label)
 #: kcm.ui:171
 #, kde-format
 msgid "(status)"
-msgstr ""
+msgstr "(സ്ഥിതിവിവരം)"
 
 #. i18n: ectx: property (text), widget (QPushButton, accept_button)
 #: kcm.ui:210
 #, kde-format
 msgid "Accept"
-msgstr ""
+msgstr "സ്വീകരിക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, reject_button)
 #: kcm.ui:217
@@ -130,13 +130,13 @@ msgstr ""
 #: kcm.ui:230
 #, kde-format
 msgid "Request pair"
-msgstr ""
+msgstr "ബന്ധപ്പെടുന്നതിനായി അപേക്ഷിക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, unpair_button)
 #: kcm.ui:243
 #, kde-format
 msgid "Unpair"
-msgstr ""
+msgstr "വിച്ഛേദിക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, ping_button)
 #: kcm.ui:256
