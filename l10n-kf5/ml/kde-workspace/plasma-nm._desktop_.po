@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-02-12 03:13+0000\n"
-"PO-Revision-Date: 2019-12-23 17:46+0000\n"
+"PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -87,7 +87,7 @@ msgstr "ബന്ധം പുതുക്കി"
 #: kded/networkmanagement.notifyrc:358
 msgctxt "Name"
 msgid "Device failed"
-msgstr ""
+msgstr "ഉപകരണം പരാജയപ്പെട്ടു"
 
 #: kded/networkmanagement.notifyrc:407
 msgctxt "Name"
@@ -97,32 +97,32 @@ msgstr ""
 #: kded/networkmanagement.notifyrc:457
 msgctxt "Name"
 msgid "Failed to add connection"
-msgstr ""
+msgstr "ബന്ധം കൂട്ടിച്ചേര്‍ക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #: kded/networkmanagement.notifyrc:507
 msgctxt "Name"
 msgid "Failed to deactivate connection"
-msgstr ""
+msgstr "ബന്ധം നിർജ്ജീവമാക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #: kded/networkmanagement.notifyrc:557
 msgctxt "Name"
 msgid "Failed to remove connection"
-msgstr ""
+msgstr "ബന്ധം വിഛേദിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #: kded/networkmanagement.notifyrc:607
 msgctxt "Name"
 msgid "Failed to get secrets"
-msgstr ""
+msgstr "രഹസ്യങ്ങൾ കിട്ടുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #: kded/networkmanagement.notifyrc:657
 msgctxt "Name"
 msgid "Failed to update connection"
-msgstr ""
+msgstr "ബന്ധം പുതുക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #: kded/networkmanagement.notifyrc:707
 msgctxt "Name"
 msgid "Missing VPN plugin"
-msgstr ""
+msgstr "വി.പി.എൻ പ്ലഗ്ഗിൻ കാണുന്നില്ല"
 
 #: kded/networkmanagement.notifyrc:757
 msgctxt "Name"
