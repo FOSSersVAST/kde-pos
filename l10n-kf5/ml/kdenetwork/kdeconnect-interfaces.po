@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-01-21 03:21+0100\n"
-"PO-Revision-Date: 2020-03-22 10:50+0000\n"
+"PO-Revision-Date: 2020-03-31 17:51+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -26,14 +26,14 @@ msgstr "പിശകു്: "
 #: devicesmodel.cpp:267
 #, kde-format
 msgid "Device trusted and connected"
-msgstr ""
+msgstr "ഉപകരണം വിശ്വസിക്കപ്പെടുകയും ബന്ധിപ്പിക്കുകയും ചെയ്തിട്ടുണ്ട്"
 
 #: devicesmodel.cpp:267
 #, kde-format
 msgid "Device not trusted"
-msgstr ""
+msgstr "ഉപകരണം വിശ്വസിക്കപ്പെട്ടിട്ടില്ല"
 
 #: devicesmodel.cpp:267
 #, kde-format
 msgid "Device disconnected"
-msgstr ""
+msgstr "ഉപകരണം വിച്ഛേദിക്കപ്പെട്ടു"
