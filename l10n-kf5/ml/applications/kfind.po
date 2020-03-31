@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-15 02:38+0100\n"
+"POT-Creation-Date: 2020-03-04 02:37+0100\n"
 "PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
@@ -555,8 +555,13 @@ msgid_plural "years"
 msgstr[0] "വര്‍ഷം"
 msgstr[1] "വര്‍ഷങ്ങള്‍"
 
+<<<<<<< HEAD
 #: kquery.cpp:599
 #, kde-format
+=======
+#: kquery.cpp:603
+#, fuzzy, kde-format
+>>>>>>> 9a0d2758d8a3c912e5b4ba84f3bea76f1fafe4d9
 msgctxt "@title:window"
 msgid "Error while using locate"
 msgstr "locate ഉപയോഗിക്കുമ്പോള്‍ പിശകുണ്ടായി"

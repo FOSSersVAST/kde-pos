@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-28 03:41+0100\n"
+"POT-Creation-Date: 2020-03-28 03:51+0100\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,19 +19,19 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
-#: discover/DiscoverObject.cpp:175
+#: discover/DiscoverObject.cpp:177
 #, kde-format
 msgid "No application back-ends found, please report to your distribution."
 msgstr ""
 "ആപ്ലിക്കേഷൻ ബാക്ക്-എന്റുകളൊന്നും കണ്ടെത്തിയില്ല, ദയവായി നിങ്ങളുടെ വിതരണത്തിലേക്ക് റിപ്പോർട്ട് "
 "ചെയ്യുക."
 
-#: discover/DiscoverObject.cpp:246
+#: discover/DiscoverObject.cpp:260
 #, kde-format
 msgid "Could not find category '%1'"
 msgstr "'%1' വിഭാഗം കണ്ടെത്താൻ കഴിഞ്ഞില്ല"
 
-#: discover/DiscoverObject.cpp:281
+#: discover/DiscoverObject.cpp:294
 #, kde-format
 msgid ""
 "Cannot interact with flatpak resources without the flatpak backend %1. "
@@ -40,7 +40,7 @@ msgstr ""
 "ഫ്ലാറ്റ്പാക്ക് ബാക്കെൻഡ് %1 ഇല്ലാതെ ഫ്ലാറ്റ്പ്പാക്ക് ഉറവിടങ്ങളുമായി സംവദിക്കാൻ കഴിയില്ല. ആദ്യം "
 "അത് ഇൻസ്റ്റാൾ ചെയ്യുക."
 
-#: discover/DiscoverObject.cpp:284 discover/DiscoverObject.cpp:312
+#: discover/DiscoverObject.cpp:297 discover/DiscoverObject.cpp:324
 #, kde-format
 msgid "Couldn't open %1"
 msgstr "%1 തുറക്കാൻ കഴിഞ്ഞില്ല"
@@ -100,49 +100,49 @@ msgstr ""
 msgid "Supports appstream: url scheme"
 msgstr "ആപ്സ്ട്രീം പിന്തുണയ്ക്കുന്നു: url പദ്ധതി"
 
-#: discover/main.cpp:101 discover/qml/DiscoverWindow.qml:58
+#: discover/main.cpp:103 discover/qml/DiscoverWindow.qml:51
 #, kde-format
 msgid "Discover"
 msgstr "ഡിസ്കവർ "
 
-#: discover/main.cpp:101
+#: discover/main.cpp:103
 #, kde-format
 msgid "An application explorer"
 msgstr "ഒരു ആപ്ലിക്കേഷൻ പരിവേക്ഷക"
 
-#: discover/main.cpp:102
+#: discover/main.cpp:104
 #, kde-format
 msgid "© 2010-2019 Plasma Development Team"
 msgstr "© 2010-2019 പ്ലാസ്മ വികസന ടീം"
 
-#: discover/main.cpp:103
+#: discover/main.cpp:105
 #, kde-format
 msgid "Aleix Pol Gonzalez"
 msgstr ""
 
-#: discover/main.cpp:104
+#: discover/main.cpp:106
 #, kde-format
 msgid "Jonathan Thomas"
 msgstr "ജോനാഥൻ  തോമസ് "
 
-#: discover/main.cpp:109
+#: discover/main.cpp:111
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "നിസരി കെ കെ,പ്രേയസ് പ്രതാപ് "
 
-#: discover/main.cpp:110
+#: discover/main.cpp:112
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "nisarikoolath@gmail.com,preyasprathap@yahoo.com"
 
-#: discover/main.cpp:122
+#: discover/main.cpp:124
 #, kde-format
 msgid "Available backends:\n"
 msgstr "ലഭ്യമായ ബാക്കെൻഡുകൾ:\n"
 
-#: discover/main.cpp:158
+#: discover/main.cpp:162
 #, kde-format
 msgid "Available modes:\n"
 msgstr "ലഭ്യമായ രീതികൾ:\n"
@@ -177,9 +177,9 @@ msgstr "ഒരു പുതിയ %1 സംഭരണി കൂട്ടിച്
 msgid "Add"
 msgstr "കൂട്ടിച്ചേര്‍ക്കുക"
 
-#: discover/qml/AddSourceDialog.qml:86 discover/qml/DiscoverWindow.qml:245
+#: discover/qml/AddSourceDialog.qml:86 discover/qml/DiscoverWindow.qml:240
 #: discover/qml/InstallApplicationButton.qml:33
-#: discover/qml/SourcesPage.qml:137 discover/qml/UpdatesPage.qml:104
+#: discover/qml/SourcesPage.qml:139 discover/qml/UpdatesPage.qml:104
 #, kde-format
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
@@ -242,13 +242,15 @@ msgid "Be the first to write a review!"
 msgstr "ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
 #: discover/qml/ApplicationPage.qml:272
-#, kde-format
-msgid "Install this app to write a review!"
+#, fuzzy, kde-format
+#| msgid "Install this app to write a review!"
+msgid "Install to write a review!"
 msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
 
 #: discover/qml/ApplicationPage.qml:274
-#, kde-format
-msgid "Install this app and be the first to write a review!"
+#, fuzzy, kde-format
+#| msgid "Install this app and be the first to write a review!"
+msgid "Install and be the first to write a review!"
 msgstr "ഈ ആപ്പ് ഇൻസ്റ്റാളുചെയ്‌ത് ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
 #: discover/qml/ApplicationPage.qml:311
@@ -293,22 +295,33 @@ msgstr "എല്ലാ ലൈസൻസ് നിബന്ധനകളും ക
 
 #: discover/qml/ApplicationPage.qml:389
 #, kde-format
-msgid "Homepage:"
-msgstr "ഹോം‌പേജ്:"
+msgid "Documentation:"
+msgstr ""
 
-#: discover/qml/ApplicationPage.qml:397
+#: discover/qml/ApplicationPage.qml:390
 #, kde-format
-msgid "User Guide:"
-msgstr "ഉപയോക്തൃ സഹായി:"
+msgid "Read the user guide"
+msgstr ""
 
-#: discover/qml/ApplicationPage.qml:405
+#: discover/qml/ApplicationPage.qml:398
 #, kde-format
-msgid "Donate:"
-msgstr "സംഭാവനചെയ്യുക:"
+msgid "Get involved:"
+msgstr ""
 
-#: discover/qml/ApplicationPage.qml:413
+#: discover/qml/ApplicationPage.qml:399
 #, kde-format
-msgid "Report a Problem:"
+msgid "Visit the app's website"
+msgstr ""
+
+#: discover/qml/ApplicationPage.qml:407
+#, kde-format
+msgid "Make a donation"
+msgstr ""
+
+#: discover/qml/ApplicationPage.qml:415
+#, fuzzy, kde-format
+#| msgid "Report a Problem:"
+msgid "Report a problem"
 msgstr "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക:"
 
 #: discover/qml/ApplicationsListPage.qml:63
@@ -367,78 +380,78 @@ msgstr "അപ്ലിക്കേഷനുകൾ ലോഡുചെയ്യ�
 msgid "Return to the Featured page"
 msgstr "തിരഞ്ഞെടുത്ത താളിലേക്ക് മടങ്ങുക"
 
-#: discover/qml/DiscoverWindow.qml:47
+#: discover/qml/DiscoverWindow.qml:40
 #, kde-format
 msgid "Running as <em>root</em> is discouraged and unnecessary."
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:67
+#: discover/qml/DiscoverWindow.qml:60
 #, kde-format
 msgid "Search"
 msgstr "തിരയുക"
 
-#: discover/qml/DiscoverWindow.qml:75 discover/qml/InstalledPage.qml:16
+#: discover/qml/DiscoverWindow.qml:68 discover/qml/InstalledPage.qml:16
 #, kde-format
 msgid "Installed"
 msgstr "ഇൻസ്റ്റാളുചെയ്‌തു"
 
-#: discover/qml/DiscoverWindow.qml:82
+#: discover/qml/DiscoverWindow.qml:75
 #, fuzzy, kde-format
 msgid "Fetching updates..."
 msgstr "അപ്‌ഡേറ്റുകൾ നേടുന്നു..."
 
-#: discover/qml/DiscoverWindow.qml:82
+#: discover/qml/DiscoverWindow.qml:75
 #, fuzzy, kde-format
 msgid "Up to date"
 msgstr "കാലികമാണ്"
 
-#: discover/qml/DiscoverWindow.qml:82
+#: discover/qml/DiscoverWindow.qml:75
 #, kde-format
 msgctxt "Update section name"
 msgid "Update (%1)"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:89
+#: discover/qml/DiscoverWindow.qml:82
 #, kde-format
 msgid "About"
 msgstr "ഇതിനെ കുറിച്ച്"
 
-#: discover/qml/DiscoverWindow.qml:96 discover/qml/SourcesPage.qml:12
+#: discover/qml/DiscoverWindow.qml:89 discover/qml/SourcesPage.qml:12
 #, kde-format
 msgid "Settings"
 msgstr "സജ്ജീകരണങ്ങള്‍"
 
-#: discover/qml/DiscoverWindow.qml:136
+#: discover/qml/DiscoverWindow.qml:129
 #, kde-format
 msgid "Sorry..."
 msgstr "ക്ഷമിക്കണം..."
 
-#: discover/qml/DiscoverWindow.qml:139
+#: discover/qml/DiscoverWindow.qml:133
 #, kde-format
 msgid "Could not close Discover, there are tasks that need to be done."
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:139
+#: discover/qml/DiscoverWindow.qml:133
 #, kde-format
 msgid "Quit Anyway"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:141
+#: discover/qml/DiscoverWindow.qml:136
 #, kde-format
 msgid "Unable to find resource: %1"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:226
+#: discover/qml/DiscoverWindow.qml:221
 #, kde-format
 msgid "Show all"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:226
+#: discover/qml/DiscoverWindow.qml:221
 #, kde-format
 msgid "Hide"
 msgstr ""
 
-#: discover/qml/DiscoverWindow.qml:233 discover/qml/SourcesPage.qml:127
+#: discover/qml/DiscoverWindow.qml:228 discover/qml/SourcesPage.qml:129
 #, kde-format
 msgid "Proceed"
 msgstr ""
@@ -656,37 +669,37 @@ msgstr ""
 msgid "%1 (Default)"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:55
+#: discover/qml/SourcesPage.qml:57
 #, kde-format
 msgid "Add Source..."
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:79
+#: discover/qml/SourcesPage.qml:81
 #, kde-format
 msgid "Make default"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:171
+#: discover/qml/SourcesPage.qml:173
 #, kde-format
 msgid "Failed to increase '%1' preference"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:181
+#: discover/qml/SourcesPage.qml:183
 #, kde-format
 msgid "Failed to decrease '%1' preference"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:186
+#: discover/qml/SourcesPage.qml:188
 #, kde-format
 msgid "Delete the origin"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:197
+#: discover/qml/SourcesPage.qml:199
 #, kde-format
 msgid "Show contents"
 msgstr ""
 
-#: discover/qml/SourcesPage.qml:236
+#: discover/qml/SourcesPage.qml:238
 #, kde-format
 msgid "Missing Backends"
 msgstr ""
@@ -790,3 +803,12 @@ msgstr ""
 msgctxt "@info"
 msgid "It is unknown when the last check for updates was"
 msgstr ""
+
+#~ msgid "Homepage:"
+#~ msgstr "ഹോം‌പേജ്:"
+
+#~ msgid "User Guide:"
+#~ msgstr "ഉപയോക്തൃ സഹായി:"
+
+#~ msgid "Donate:"
+#~ msgstr "സംഭാവനചെയ്യുക:"

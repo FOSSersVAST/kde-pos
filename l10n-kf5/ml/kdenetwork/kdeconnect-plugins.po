@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-17 03:17+0100\n"
+"POT-Creation-Date: 2020-03-24 03:16+0100\n"
 "PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -343,22 +343,17 @@ msgstr "%1 നിലനിൽക്കുന്നില്ല"
 msgid "unknown number"
 msgstr "അപരിചിത നമ്പർ"
 
-#: telephony/telephonyplugin.cpp:55
+#: telephony/telephonyplugin.cpp:52
 #, kde-format
 msgid "Incoming call from %1"
 msgstr "%1 വിളിക്കുന്നു"
 
-#: telephony/telephonyplugin.cpp:59
+#: telephony/telephonyplugin.cpp:56
 #, kde-format
 msgid "Missed call from %1"
 msgstr "%1-ൽ നിന്നും ഒരു മിസ്ഡ് കോൾ"
 
-#: telephony/telephonyplugin.cpp:69
-#, kde-format
-msgid "Unknown telephony event: %1"
-msgstr ""
-
-#: telephony/telephonyplugin.cpp:90
+#: telephony/telephonyplugin.cpp:82
 #, kde-format
 msgid "Mute Call"
 msgstr "കോൾ ശബ്ദരഹിതമാക്കുക"
