@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-25 01:38+0000\n"
+"POT-Creation-Date: 2020-03-03 03:08+0000\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,12 +19,12 @@ msgctxt "Name"
 msgid "User Manager"
 msgstr "ഉപയോക്താവിനെ കൈകാര്യം ചെയ്യുന്നയാൾ"
 
-#: src/user_manager.desktop:64
+#: src/user_manager.desktop:65
 msgctxt "Comment"
 msgid "Add, remove or edit system users"
 msgstr "സിസ്റ്റം ഉപയോക്താക്കളെ ചേർക്കുകയോ ഒഴിവാക്കുകയോ തിരുത്തുകയോ ചെയ്യുക"
 
-#: src/user_manager.desktop:114
+#: src/user_manager.desktop:116
 msgctxt "X-KDE-Keywords"
 msgid "users,system,administration"
 msgstr "ഉപയോക്താവ്,സിസ്റ്റം,പരിപാലനം"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-05 02:53+0000\n"
+"POT-Creation-Date: 2020-03-03 03:08+0000\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Kannan V M <kannan@disroot.org>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -21,12 +21,12 @@ msgctxt "Name"
 msgid "KDE Connect"
 msgstr "കെ.ഡി.ഇ കണക്റ്റ്"
 
-#: app/org.kde.kdeconnect.app.desktop:44
+#: app/org.kde.kdeconnect.app.desktop:45
 msgctxt "GenericName"
 msgid "Device Synchronization"
 msgstr ""
 
-#: app/org.kde.kdeconnect.app.desktop:83
+#: app/org.kde.kdeconnect.app.desktop:84
 msgctxt "Comment"
 msgid "Make all your devices one"
 msgstr ""
@@ -61,17 +61,17 @@ msgctxt "Comment"
 msgid "Display information about your devices"
 msgstr ""
 
-#: kcm/kcm_kdeconnect.desktop:56
+#: kcm/kcm_kdeconnect.desktop:57
 msgctxt "Comment"
 msgid "Connect and sync your devices"
 msgstr ""
 
-#: kcm/kcm_kdeconnect.desktop:96
+#: kcm/kcm_kdeconnect.desktop:97
 msgctxt "X-KDE-Keywords"
 msgid "Network,Android,Devices"
 msgstr ""
 
-#: plasmoid/package/metadata.desktop:44
+#: plasmoid/package/metadata.desktop:45
 msgctxt "Comment"
 msgid "Show notifications from your devices using KDE Connect"
 msgstr ""
@@ -81,87 +81,87 @@ msgctxt "Name"
 msgid "Find This Device plugin settings"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:45
+#: plugins/kdeconnect.notifyrc:46
 msgctxt "Comment"
 msgid "Notifications from your devices"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:88
+#: plugins/kdeconnect.notifyrc:89
 msgctxt "Name"
 msgid "Pairing Request"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:129
+#: plugins/kdeconnect.notifyrc:130
 msgctxt "Comment"
 msgid "Pairing request received from a device"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:170
+#: plugins/kdeconnect.notifyrc:171
 msgctxt "Name"
 msgid "Incoming Call"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:211
+#: plugins/kdeconnect.notifyrc:212
 msgctxt "Comment"
 msgid "Someone is calling you"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:256
+#: plugins/kdeconnect.notifyrc:257
 msgctxt "Name"
 msgid "Missed Call"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:296
+#: plugins/kdeconnect.notifyrc:297
 msgctxt "Comment"
 msgid "You have a missed call"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:341
+#: plugins/kdeconnect.notifyrc:342
 msgctxt "Name"
 msgid "SMS Received"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:381
+#: plugins/kdeconnect.notifyrc:382
 msgctxt "Comment"
 msgid "Someone sent you an SMS"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:426
+#: plugins/kdeconnect.notifyrc:427
 msgctxt "Name"
 msgid "Battery Low"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:465
+#: plugins/kdeconnect.notifyrc:466
 msgctxt "Comment"
 msgid "Your battery is in low state"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:510
+#: plugins/kdeconnect.notifyrc:511
 msgctxt "Name"
 msgid "Ping Received"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:550
+#: plugins/kdeconnect.notifyrc:551
 msgctxt "Comment"
 msgid "Ping received"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:595
+#: plugins/kdeconnect.notifyrc:596
 msgctxt "Name"
 msgid "Generic Notification"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:635
+#: plugins/kdeconnect.notifyrc:636
 msgctxt "Comment"
 msgid "Notification received"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:680
+#: plugins/kdeconnect.notifyrc:681
 msgctxt "Name"
 msgid "File Transfer"
 msgstr ""
 
-#: plugins/kdeconnect.notifyrc:721
+#: plugins/kdeconnect.notifyrc:722
 msgctxt "Comment"
 msgid "Incoming file"
 msgstr ""
