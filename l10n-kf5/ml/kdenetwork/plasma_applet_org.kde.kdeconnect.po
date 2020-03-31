@@ -92,13 +92,11 @@ msgstr "ആജ്ഞ കൂട്ടിച്ചേർക്കുക"
 
 #: package/contents/ui/FullRepresentation.qml:56
 #, fuzzy
-#| msgid "No paired devices available"
 msgid "No paired devices"
 msgstr "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"
 
 #: package/contents/ui/FullRepresentation.qml:56
 #, fuzzy
-#| msgid "No paired devices available"
 msgid "Paired device is unavailable"
 msgid_plural "All paired devices are unavailable"
 msgstr[0] "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"

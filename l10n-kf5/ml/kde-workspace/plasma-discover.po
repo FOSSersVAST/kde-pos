@@ -243,13 +243,11 @@ msgstr "ഒരു അവലോകനം എഴുതുന്ന ആദ്യത
 
 #: discover/qml/ApplicationPage.qml:272
 #, fuzzy, kde-format
-#| msgid "Install this app to write a review!"
 msgid "Install to write a review!"
 msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
 
 #: discover/qml/ApplicationPage.qml:274
 #, fuzzy, kde-format
-#| msgid "Install this app and be the first to write a review!"
 msgid "Install and be the first to write a review!"
 msgstr "ഈ ആപ്പ് ഇൻസ്റ്റാളുചെയ്‌ത് ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
@@ -320,7 +318,6 @@ msgstr ""
 
 #: discover/qml/ApplicationPage.qml:415
 #, fuzzy, kde-format
-#| msgid "Report a Problem:"
 msgid "Report a problem"
 msgstr "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക:"
 

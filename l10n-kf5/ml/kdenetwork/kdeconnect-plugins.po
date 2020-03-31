@@ -244,8 +244,7 @@ msgid ""
 "<html><head/><body><p>Minimum urgency level of the notifications</p></body></"
 "html>"
 msgstr ""
-"<html><head/><body><p>അറിയിപ്പുകളുടെ ഏറ്റവും കുറഞ്ഞ "
-"അത്യാവിശ്യകത</p></body></html>"
+"<html><head/><body><p>അറിയിപ്പുകളുടെ ഏറ്റവും കുറഞ്ഞ അത്യാവിശ്യകത</p></body></html>"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label)
 #: sendnotifications/sendnotifications_config.ui:123
