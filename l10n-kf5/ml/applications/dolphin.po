@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-15 02:44+0200\n"
-"PO-Revision-Date: 2020-03-29 09:50+0000\n"
-"Last-Translator: amrithandh m <amrithanadhm@gmail.com>\n"
+"POT-Creation-Date: 2020-03-20 02:33+0100\n"
+"PO-Revision-Date: 2020-04-09 10:50+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -98,7 +98,7 @@ msgstr "വിജയകരമായി ചവറ്റുകുട്ടയി�
 #, kde-format
 msgctxt "@info:status"
 msgid "Successfully renamed."
-msgstr "വിജയകരമായി പേര് മാറ്റിയിരിക്കുന്നു"
+msgstr "വിജയകരമായി പേര് മാറ്റിയിരിക്കുന്നു."
 
 #: dolphinmainwindow.cpp:273
 #, kde-format
