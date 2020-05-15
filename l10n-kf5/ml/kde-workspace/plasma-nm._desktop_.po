@@ -3,16 +3,16 @@ msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-05-12 02:10+0000\n"
-"PO-Revision-Date: 2020-03-23 16:50+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2020-06-19 21:06+0000\n"
+"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: applet/metadata.desktop:2
 msgctxt "Name"
@@ -47,7 +47,7 @@ msgstr "പ്ലാസ്മ ശൃംഖല നടത്തിപ്പ്‌ 
 #: kded/networkmanagement.desktop:35
 msgctxt "Comment"
 msgid "Provides secrets to the NetworkManager daemon"
-msgstr "നെറ്റ്‌വർക്ക് മാനേജർ ഡീമണിന് രഹസ്യങ്ങൾ നൽകുന്നു "
+msgstr "നെറ്റ്‌വർക്ക് മാനേജർ ഡീമണിന് രഹസ്യങ്ങൾ നൽകുന്നു"
 
 #: kded/networkmanagement.notifyrc:3
 msgctxt "Name"
@@ -137,7 +137,7 @@ msgstr ""
 #: kded/networkmanagement.notifyrc:852
 msgctxt "Name"
 msgid "Failed to create hotspot"
-msgstr "ഹോട്ട്സ്പോട്ട് നിർമ്മിക്കുന്നതിൽ പരാജയപ്പെട്ടു "
+msgstr "ഹോട്ട്സ്പോട്ട് നിർമ്മിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #: libs/editor/plasma-networkmanagement-vpnuiplugin.desktop:4
 msgctxt "Name"
@@ -228,7 +228,7 @@ msgstr ""
 #: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:17
 msgctxt "Name"
 msgid "PAN Global Protect (openconnect)"
-msgstr ""
+msgstr "പാൻ ആഗോള സംരക്ഷണം (ഓപ്പൺകണക്റ്റ്)"
 
 #: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:48
 msgctxt "Comment"
