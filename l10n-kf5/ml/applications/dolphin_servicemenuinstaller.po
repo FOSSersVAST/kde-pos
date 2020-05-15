@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-22 02:24+0200\n"
+"POT-Creation-Date: 2020-05-06 02:42+0200\n"
 "PO-Revision-Date: 2020-02-02 13:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,111 +19,132 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
-#: servicemenuinstaller.cpp:37
+#: servicemenuinstaller.cpp:57
 #, kde-format
 msgid "Dolphin service menu installation failed"
 msgstr "ഡോൾഫിൻ സേവന മെനു ഇൻസ്റ്റാളേഷൻ പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:94
+#: servicemenuinstaller.cpp:85
+#, kde-format
+msgid "Failed to install \"%1\", exited with status \"%2\""
+msgstr ""
+
+#: servicemenuinstaller.cpp:117
+#, fuzzy, kde-format
+#| msgid "Failed to run installer script %1"
+msgid "Failed to uninstall \"%1\", exited with status \"%2\""
+msgstr "%1 ഇൻസ്റ്റാളർ സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
+
+#: servicemenuinstaller.cpp:130
+#, kde-format
+msgid "The file does not exist!"
+msgstr ""
+
+#: servicemenuinstaller.cpp:139
+#, kde-format
+msgid "Unknown error when installing package"
+msgstr ""
+
+#: servicemenuinstaller.cpp:194
 #, kde-format
 msgid "Unsupported archive type %1: %2"
 msgstr "പിന്തുണയ്‌ക്കാത്ത ആർക്കൈവ് തരം %1: %2"
 
-#: servicemenuinstaller.cpp:103
+#: servicemenuinstaller.cpp:203
 #, kde-format
 msgid "Failed to run uncompressor command for %1"
 msgstr "%1 നായി കംപ്രസ്സർ കമാൻഡ് പ്രവർത്തിപ്പിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:108
+#: servicemenuinstaller.cpp:208
 #, kde-format
 msgid "Process did not finish in reasonable time: %1 %2"
 msgstr "പ്രോസസ്സ് ന്യായമായ സമയത്ത് പൂർത്തിയായില്ല: %1 %2"
 
-#: servicemenuinstaller.cpp:112
+#: servicemenuinstaller.cpp:212
 #, kde-format
 msgid "Failed to uncompress %1"
 msgstr "%1 അണ്‍കംപ്രസ്സ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:133
+#: servicemenuinstaller.cpp:245
 #, kde-format
 msgid "Failed to run installer script %1"
 msgstr "%1 ഇൻസ്റ്റാളർ സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:156
+#: servicemenuinstaller.cpp:268
 #, kde-format
 msgid "Failed to set permissions on %1: %2"
 msgstr "%1ന് അനുമതികൾ സജ്ജമാക്കുന്നത് പരാജയപ്പെട്ടു: %2"
 
-#: servicemenuinstaller.cpp:175
+#: servicemenuinstaller.cpp:285
 #, kde-format
 msgctxt "Separator between arguments"
 msgid "\", \""
 msgstr "\", \""
 
-#: servicemenuinstaller.cpp:175
+#: servicemenuinstaller.cpp:285
 #, kde-format
 msgctxt "%2 = comma separated list of arguments"
 msgid "Installer script %1 failed, tried arguments \"%2\"."
 msgstr "%1 എന്ന ഇൻസ്റ്റാളർ സ്ക്രിപ്റ്റ് പരാജയപ്പെട്ടു, \"%2\" ആർഗ്യുമെന്റുകൾ ശ്രമിച്ചു നോക്കി."
 
-#: servicemenuinstaller.cpp:189
+#: servicemenuinstaller.cpp:299
 #, kde-format
 msgid "Failed to create path %1"
 msgstr "%1 എന്ന പാത ഉണ്ടാക്കുന്നത് പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:200
+#: servicemenuinstaller.cpp:310
 #, kde-format
 msgid "Failed to copy .desktop file %1 to %2: %3"
 msgstr ".desktop ഫയൽ %1 ല്‍ നിന്നും %2 വരെ പകർത്തുന്നതിൽ പരാജയപ്പെട്ടു: %3"
 
-#: servicemenuinstaller.cpp:207 servicemenuinstaller.cpp:311
+#: servicemenuinstaller.cpp:320 servicemenuinstaller.cpp:430
 #, kde-format
 msgid "Failed to remove directory %1"
 msgstr "%1 അറ നീക്കംചെയ്യുന്നത് പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:213
+#: servicemenuinstaller.cpp:326
 #, kde-format
 msgid "Failed to create directory %1"
 msgstr "%1 അറ സൃഷ്ടിക്കുന്നത് പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:248
+#: servicemenuinstaller.cpp:365
 #, kde-format
 msgid "Failed to find an installation script in %1"
 msgstr "%1 ൽ ഒരു ഇൻസ്റ്റാളേഷൻ സ്ക്രിപ്റ്റ് കണ്ടെത്തുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:262
+#: servicemenuinstaller.cpp:379
 #, kde-format
 msgid "Failed to remove .desktop file %1: %2"
 msgstr "%1 .desktop ഫയൽ നീക്കംചെയ്യുന്നത് പരാജയപ്പെട്ടു : %2"
 
-#: servicemenuinstaller.cpp:305
+#: servicemenuinstaller.cpp:424
 #, kde-format
 msgid "Failed to find an uninstallation script in %1"
 msgstr "%1 ൽ അൺ‌ഇൻ‌സ്റ്റാളേഷൻ‌ സ്ക്രിപ്റ്റ് കണ്ടെത്തുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: servicemenuinstaller.cpp:324
+#: servicemenuinstaller.cpp:443
 #, kde-format
 msgctxt "@info:shell"
 msgid "Command to execute: install or uninstall."
 msgstr "എക്സിക്യൂട്ട് ചെയ്യാനുള്ള കമാൻഡ്: ഇൻസ്റ്റാൾ ചെയ്യുക അല്ലെങ്കിൽ അൺഇൻസ്റ്റാൾ ചെയ്യുക."
 
-#: servicemenuinstaller.cpp:325
+#: servicemenuinstaller.cpp:444
 #, kde-format
 msgctxt "@info:shell"
 msgid "Path to archive."
 msgstr "ആർക്കൈവിലേക്കുള്ള പാത."
 
-#: servicemenuinstaller.cpp:330
+#: servicemenuinstaller.cpp:449
 #, kde-format
 msgid "Command is required."
 msgstr "കമാൻഡ് ആവശ്യമാണ്."
 
-#: servicemenuinstaller.cpp:333
+#: servicemenuinstaller.cpp:452
 #, kde-format
 msgid "Path to archive is required."
 msgstr "ആര്‍ക്കൈവിലേക്കുള്ള പാത ആവശ്യമാണ്."
 
-#: servicemenuinstaller.cpp:349
+#: servicemenuinstaller.cpp:468
 #, kde-format
 msgid "Unsupported command %1"
 msgstr "പിന്തുണയ്‌ക്കാത്ത കമാൻഡ് %1"

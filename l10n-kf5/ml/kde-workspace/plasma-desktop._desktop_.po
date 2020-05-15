@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-28 03:06+0000\n"
+"POT-Creation-Date: 2020-05-02 01:55+0000\n"
 "PO-Revision-Date: 2020-02-23 17:49+0000\n"
 "Last-Translator: amrithandh m <amrithanadhm@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -309,17 +309,17 @@ msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "മൌസ് കീ പ്രവര്‍ത്തന സജ്ജം അല്ല്ലെങ്കില്‍ പ്രവര്‍ത്തനരഹിതം ആക്കിയിരിക്കുന്നു"
 
-#: kcms/access/kcmaccess.desktop:17
+#: kcms/access/kcmaccess.desktop:15
 msgctxt "Name"
 msgid "Accessibility"
 msgstr "പ്രാപ്യത"
 
-#: kcms/access/kcmaccess.desktop:111
+#: kcms/access/kcmaccess.desktop:109
 msgctxt "Comment"
 msgid "Accessibility Options"
 msgstr "പ്രാപ്യതാസാധ്യതകൾ"
 
-#: kcms/access/kcmaccess.desktop:161
+#: kcms/access/kcmaccess.desktop:159
 msgctxt "X-KDE-Keywords"
 msgid ""
 "access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
@@ -714,7 +714,7 @@ msgctxt "Comment"
 msgid "Configure background services"
 msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍"
 
-#: kcms/kded/kcmkded.desktop:87
+#: kcms/kded/kcmkded.desktop:88
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "KDED,Daemon,Services"
@@ -751,19 +751,19 @@ msgctxt "Comment"
 msgid "Enables switching keyboard layout through shortcuts or system tray"
 msgstr ""
 
-#: kcms/keys/keys.desktop:14
+#: kcms/keys/kcm_keys.desktop:14 kcms/keys/package/metadata.desktop:2
 #, fuzzy
 msgctxt "Name"
 msgid "Global Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
-#: kcms/keys/keys.desktop:58
+#: kcms/keys/kcm_keys.desktop:58 kcms/keys/package/metadata.desktop:46
 #, fuzzy
 msgctxt "Comment"
 msgid "Global Keyboard Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
-#: kcms/keys/keys.desktop:107
+#: kcms/keys/kcm_keys.desktop:107
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -1269,66 +1269,66 @@ msgid ""
 "theme,plasma,menu,global menu"
 msgstr ""
 
-#: kcms/touchpad/src/applet/dataengine.desktop:2
+#: kcms/touchpad/applet/dataengine.desktop:2
 msgctxt "Name"
 msgid "Touchpad DataEngine"
 msgstr ""
 
-#: kcms/touchpad/src/applet/qml/metadata.desktop:2
+#: kcms/touchpad/applet/qml/metadata.desktop:2
 msgctxt "Comment"
 msgid "Shows current touchpad state"
 msgstr ""
 
-#: kcms/touchpad/src/applet/qml/metadata.desktop:46
+#: kcms/touchpad/applet/qml/metadata.desktop:46
 msgctxt "Keywords"
 msgid "Touchpad"
 msgstr ""
 
-#: kcms/touchpad/src/applet/qml/metadata.desktop:89
-#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:16
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:2
-#: kcms/touchpad/src/kded/kded_touchpad.desktop:9
+#: kcms/touchpad/applet/qml/metadata.desktop:89
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:16
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:2
+#: kcms/touchpad/kded/kded_touchpad.desktop:9
 msgctxt "Name"
 msgid "Touchpad"
 msgstr ""
 
-#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:60
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:60
 #, fuzzy
 msgctxt "Comment"
 msgid "Touchpad settings"
 msgstr "മൌസിന്റെ സജ്ജീകരണങ്ങള്‍"
 
-#: kcms/touchpad/src/kcm/kcm_touchpad.desktop:104
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:104
 msgctxt "X-KDE-Keywords"
 msgid "Touchpad,Synaptics"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:47
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:47
 msgctxt "Comment"
 msgid "Touchpad"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:93
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:93
 msgctxt "Name"
 msgid "Touchpad was disabled"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:135
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:135
 msgctxt "Comment"
 msgid "Touchpad was disabled because mouse is detected"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:181
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:181
 msgctxt "Name"
 msgid "Touchpad was enabled"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kcm_touchpad.notifyrc:223
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:223
 msgctxt "Comment"
 msgid "Touchpad was enabled because the mouse was unplugged"
 msgstr ""
 
-#: kcms/touchpad/src/kded/kded_touchpad.desktop:53
+#: kcms/touchpad/kded/kded_touchpad.desktop:53
 msgctxt "Comment"
 msgid "Enables or disables touchpad"
 msgstr ""

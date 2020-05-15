@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-29 03:48+0200\n"
+"POT-Creation-Date: 2020-05-11 02:43+0200\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -54,13 +54,13 @@ msgid "Split View"
 msgstr "വിഭജിച്ച കാഴ്ച"
 
 #. i18n: ectx: Menu (settings)
-#: ../desktop/konsoleui.rc:34
+#: ../desktop/konsoleui.rc:35
 #, kde-format
 msgid "Settings"
 msgstr "സജ്ജീകരണങ്ങള്‍"
 
 #. i18n: ectx: Menu (help)
-#: ../desktop/konsoleui.rc:45
+#: ../desktop/konsoleui.rc:46
 #, kde-format
 msgid "Help"
 msgstr "സഹായം"
@@ -193,19 +193,19 @@ msgctxt "@info:shell"
 msgid "Arguments passed to command"
 msgstr "ആജ്ഞയോടൊപ്പം കൊടുത്ത ഐച്ഛികങ്ങള്‍"
 
-#: Application.cpp:560
+#: Application.cpp:566
 #, fuzzy, kde-format
 msgctxt "@item"
 msgid "Toggle Background Window"
 msgstr "പശ്ചാത്തലം (തീവ്രമായ)"
 
-#: BookmarkHandler.cpp:126
+#: BookmarkHandler.cpp:124
 #, kde-format
 msgctxt "@item:inmenu The user's name and host they are connected to via ssh"
 msgid "%1 on %2"
 msgstr "%2 യില്‍ %1 "
 
-#: BookmarkHandler.cpp:128
+#: BookmarkHandler.cpp:126
 #, kde-format
 msgctxt "@item:inmenu The host the user is connected to via ssh"
 msgid "%1"
@@ -1062,7 +1062,7 @@ msgstr "പരിസരം ചിട്ടപ്പെടുത്തുക"
 msgid "One environment variable per line"
 msgstr ""
 
-#: EditProfileDialog.cpp:540
+#: EditProfileDialog.cpp:543
 #, kde-format
 msgctxt "Unit of time"
 msgid " second"
@@ -1070,18 +1070,18 @@ msgid_plural " seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#: EditProfileDialog.cpp:623
+#: EditProfileDialog.cpp:631
 #, kde-format
 msgid "Select Initial Directory"
 msgstr "തുടക്കത്തിലെ തട്ടു് തെരഞ്ഞെടുക്കുക"
 
-#: EditProfileDialog.cpp:1156
+#: EditProfileDialog.cpp:1164
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Scheme <resource>%1</resource> failed to load."
 msgstr ""
 
-#: EditProfileDialog.cpp:1341
+#: EditProfileDialog.cpp:1349
 #, kde-format
 msgid ""
 "This color scheme uses a transparent background which does not appear to be "
@@ -1090,14 +1090,14 @@ msgstr ""
 "ഈ നിറങ്ങളുടെ പദ്ധതിയ്ക്കു് പുറകില്‍ കാണാവുന്ന തരത്തിലുള്ള പശ്ചാത്തലമുണ്ടെങ്കിലും നിങ്ങളുടെ "
 "പണിയിടത്തില്‍ അതിനുള്ള പിന്തുണയുള്ളതായി കാണുന്നില്ല"
 
-#: EditProfileDialog.cpp:1347
+#: EditProfileDialog.cpp:1355
 #, kde-format
 msgid ""
 "Konsole was started before desktop effects were enabled. You need to restart "
 "Konsole to see transparent background."
 msgstr ""
 
-#: EditProfileDialog.cpp:1904
+#: EditProfileDialog.cpp:1912
 #, kde-format
 msgid "AaZz09..."
 msgstr ""
@@ -1211,8 +1211,8 @@ msgid ""
 "terminal program. For more information on how to customize the key bindings "
 "check the Konsole Handbook."
 msgstr ""
-"ടെര്‍മിനല്‍ ജാലകത്തില്‍ അമര്‍ത്തുന്ന കീകളുടെ കൂട്ടം അക്ഷരങ്ങളുടെ നിരകളായി മാറ്റി നിലവിലുള്ള ടെര്‍"
-"മിനല്‍ പ്രോഗ്രാമിനു് അയച്ചു് കൊടുക്കേണ്ടതെങ്ങനെയെന്നു് കുറുക്കുവഴി അക്ഷരങ്ങള്‍ നിയന്ത്രിയ്ക്കുന്നു."
+"ടെര്‍മിനല്‍ ജാലകത്തില്‍ അമര്‍ത്തുന്ന കീകളുടെ കൂട്ടം അക്ഷരങ്ങളുടെ നിരകളായി മാറ്റി നിലവിലുള്ള "
+"ടെര്‍മിനല്‍ പ്രോഗ്രാമിനു് അയച്ചു് കൊടുക്കേണ്ടതെങ്ങനെയെന്നു് കുറുക്കുവഴി അക്ഷരങ്ങള്‍ നിയന്ത്രിയ്ക്കുന്നു."
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newKeyBindingsButton)
 #: EditProfileKeyboardPage.ui:72
@@ -1552,27 +1552,27 @@ msgstr ""
 msgid "The threshold for continuous silence to be detected by Konsole"
 msgstr ""
 
-#: Filter.cpp:476
+#: Filter.cpp:439
 #, kde-format
 msgid "Open Link"
 msgstr "കണ്ണി തുറക്കുക"
 
-#: Filter.cpp:478
+#: Filter.cpp:441
 #, kde-format
 msgid "Copy Link Address"
 msgstr "ലിങ്ക് അഡ്രസ്സ് പകർത്തുക"
 
-#: Filter.cpp:481
+#: Filter.cpp:444
 #, kde-format
 msgid "Send Email To..."
 msgstr "ഇതിലേയ്ക്കു് ഇമെയില്‍ അയയ്ക്കുക"
 
-#: Filter.cpp:483
+#: Filter.cpp:446
 #, kde-format
 msgid "Copy Email Address"
 msgstr "ഇമെയില്‍ വിലാസം പകര്‍ത്തുക"
 
-#: Filter.cpp:624
+#: Filter.cpp:586
 #, fuzzy, kde-format
 msgid "Open File"
 msgstr "ഫയല്‍ മാനേജര്‍ തുറക്കുക."
@@ -1674,8 +1674,8 @@ msgstr "പുറകിലേയ്ക്കു് പോകാന്‍ പര�
 #, fuzzy, kde-format
 msgid "Do not remember previous output"
 msgstr ""
-"പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുകയും മുമ്പത്തെ ഫലം ഓര്‍"
-"ത്തുവയ്ക്കാതിരിയ്ക്കുകയും ചെയ്യുക"
+"പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുകയും മുമ്പത്തെ ഫലം "
+"ഓര്‍ത്തുവയ്ക്കാതിരിയ്ക്കുകയും ചെയ്യുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, noHistoryButton)
 #: HistorySizeWidget.ui:177
@@ -2113,49 +2113,49 @@ msgctxt "@info:credit"
 msgid "Thanks to many others.\n"
 msgstr "മറ്റു് പലര്‍ക്കും നന്ദി.\n"
 
-#: MainWindow.cpp:320
+#: MainWindow.cpp:310
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "&New Tab"
 msgstr "&പുതിയ കിളിവാതില്‍"
 
-#: MainWindow.cpp:330
+#: MainWindow.cpp:320
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "&Clone Tab"
 msgstr "കിളിവാതില്‍ &അടയ്ക്കുക"
 
-#: MainWindow.cpp:337
+#: MainWindow.cpp:327
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "New &Window"
 msgstr "പുതിയ &ജാലകം"
 
-#: MainWindow.cpp:344
+#: MainWindow.cpp:334
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Window"
 msgstr "കണ്‍സോള്‍"
 
-#: MainWindow.cpp:349
+#: MainWindow.cpp:339
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Bookmarks"
 msgstr "അടയാളകുറിപ്പുകൾ (&B)"
 
-#: MainWindow.cpp:368
+#: MainWindow.cpp:358
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Manage Profiles..."
 msgstr "പ്രൊഫൈലുകള്‍ കൈകാര്യം ചെയ്യുക"
 
-#: MainWindow.cpp:374
+#: MainWindow.cpp:364
 #, kde-format
 msgctxt "@item"
 msgid "Activate Menu"
 msgstr ""
 
-#: MainWindow.cpp:604 MainWindow.cpp:623
+#: MainWindow.cpp:598 MainWindow.cpp:617
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "There is a process running in this window. Do you still want to quit?"
@@ -2164,55 +2164,55 @@ msgid_plural ""
 msgstr[0] "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 msgstr[1] "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
-#: MainWindow.cpp:610 MainWindow.cpp:629 MainWindow.cpp:647
+#: MainWindow.cpp:604 MainWindow.cpp:623 MainWindow.cpp:641
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Confirm Close"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: MainWindow.cpp:612 MainWindow.cpp:631 MainWindow.cpp:648
+#: MainWindow.cpp:606 MainWindow.cpp:625 MainWindow.cpp:642
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Close &Window"
 msgstr "കണ്‍സോള്‍"
 
-#: MainWindow.cpp:634 MainWindow.cpp:651
+#: MainWindow.cpp:628 MainWindow.cpp:645
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Close Current &Tab"
 msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അടയ്ക്കുക"
 
-#: MainWindow.cpp:644
+#: MainWindow.cpp:638
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "There are %1 open terminals in this window. Do you still want to quit?"
 msgstr "ഈ ജാലകത്തില്‍ %1 കിളിവാതിലുകളുണ്ട്, പുറത്തുകടക്കണമെന്ന് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
-#: MainWindow.cpp:762
+#: MainWindow.cpp:756
 #, fuzzy, kde-format
 msgctxt "@title Preferences page name"
 msgid "General"
 msgstr "പൊതുവായുള്ള"
 
-#: MainWindow.cpp:767 Part.cpp:333
+#: MainWindow.cpp:761 Part.cpp:330
 #, fuzzy, kde-format
 msgctxt "@title Preferences page name"
 msgid "Profiles"
 msgstr "പുതിയ പ്രൊഫൈല്‍"
 
-#: MainWindow.cpp:772
+#: MainWindow.cpp:766
 #, fuzzy, kde-format
 msgctxt "@title Preferences page name"
 msgid "Tab Bar"
 msgstr "കിളിവാതിലുകളുടെ പട്ട"
 
-#: MainWindow.cpp:777
+#: MainWindow.cpp:771
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "Temporary Files"
 msgstr ""
 
-#: Part.cpp:339
+#: Part.cpp:336
 #, kde-format
 msgctxt "@title Preferences page name"
 msgid "Part Info"
@@ -2239,7 +2239,7 @@ msgstr ""
 msgid "&Scale output"
 msgstr ""
 
-#: Profile.cpp:158
+#: Profile.cpp:159
 #, fuzzy, kde-format
 msgctxt "Name of the default/builtin profile"
 msgid "Default"
@@ -2250,12 +2250,12 @@ msgstr "സഹജമായി സജ്ജീകരിയ്ക്കുക"
 msgid "Default profile"
 msgstr "പ്രൊഫൈല്‍ നീക്കം ചെയ്യുക"
 
-#: ProfileManager.cpp:350
+#: ProfileManager.cpp:346
 #, kde-format
 msgid "Konsole does not have permission to save this profile to %1"
 msgstr ""
 
-#: ProfileManager.cpp:387
+#: ProfileManager.cpp:383
 #, fuzzy, kde-format
 msgctxt "The default name of a profile"
 msgid "Profile #%1"
@@ -2266,33 +2266,44 @@ msgstr "പ്രൊഫൈല്‍ ചിട്ടപ്പെടുത്ത�
 msgid "Rename Tab"
 msgstr "കിളിവാതിലിന്റെ പേരു് മാറ്റുക"
 
-#. i18n: ectx: property (text), widget (QLabel, label)
-#: RenameTabWidget.ui:41
-#, kde-format
-msgid "Tab title format:"
-msgstr "കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്:"
-
-#. i18n: ectx: property (toolTip), widget (QLineEdit, tabTitleEdit)
-#: RenameTabWidget.ui:60
-#, kde-format
-msgid "Normal tab title format"
-msgstr "സാധാരണയുള്ള കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ് "
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#: RenameTabWidget.ui:76
-#, kde-format
-msgid "Remote tab title format:"
-msgstr "വിദൂരത്തുള്ള കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്:"
+#: RenameTabWidget.cpp:47
+#, fuzzy, kde-format
+msgid "Color from theme"
+msgstr "പുതിയ നിറങ്ങളുടെ പദ്ധതി"
 
 #. i18n: ectx: property (toolTip), widget (QLineEdit, remoteTabTitleEdit)
-#: RenameTabWidget.ui:95
+#: RenameTabWidget.ui:41
 #, kde-format
 msgid ""
 "Tab title format used when a remote command (e.g. connection to another "
 "computer via SSH) is being executed"
 msgstr ""
-"വിദൂരത്തൊരു ആജ്ഞ (ഉദാ. എസ്എസ്എച്ച് ഉപയോഗിച്ചു് മറ്റൊരു കമ്പ്യൂട്ടറിലേയ്ക്കുള്ള ബന്ധം) പ്രവര്‍"
-"ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്"
+"വിദൂരത്തൊരു ആജ്ഞ (ഉദാ. എസ്എസ്എച്ച് ഉപയോഗിച്ചു് മറ്റൊരു കമ്പ്യൂട്ടറിലേയ്ക്കുള്ള ബന്ധം) "
+"പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: RenameTabWidget.ui:60
+#, kde-format
+msgid "Remote tab title format:"
+msgstr "വിദൂരത്തുള്ള കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്:"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: RenameTabWidget.ui:79
+#, kde-format
+msgid "Tab title format:"
+msgstr "കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, tabTitleEdit)
+#: RenameTabWidget.ui:98
+#, kde-format
+msgid "Normal tab title format"
+msgstr "സാധാരണയുള്ള കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ് "
+
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#: RenameTabWidget.ui:105
+#, fuzzy, kde-format
+msgid "Tab Color:"
+msgstr "നിറം"
 
 #: SaveHistoryTask.cpp:81
 #, kde-format
@@ -2388,18 +2399,23 @@ msgstr "ലിനക്സ് കണ്‍സോള്‍"
 msgid "Solaris console"
 msgstr "സോളാരിസ് കണ്‍സോള്‍"
 
-#: Session.cpp:390
+#: Session.cpp:127
+#, kde-format
+msgid "Bell in session '%1'"
+msgstr "'%1' സെഷനില്‍ മണിയടിച്ചു"
+
+#: Session.cpp:401
 #, kde-format
 msgid "Could not find binary: "
 msgstr "ബൈനറി കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല: "
 
-#: Session.cpp:399
+#: Session.cpp:410
 #, kde-format
 msgctxt "@info:shell Alert the user with red color text"
 msgid "Warning: "
 msgstr "മുന്നറിയിപ്പു്:"
 
-#: Session.cpp:457
+#: Session.cpp:468
 #, kde-format
 msgid ""
 "Could not find '%1', starting '%2' instead.  Please check your profile "
@@ -2408,32 +2424,22 @@ msgstr ""
 "'%1' കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, ഇതിനുപകരം '%2' തുടങ്ങുന്നു. നിങ്ങളുടെ പ്രൊഫൈലിന്റെ "
 "സജ്ജീകരണം പരിശോധിയ്ക്കുക."
 
-#: Session.cpp:460
+#: Session.cpp:471
 #, kde-format
 msgid "Could not find an interactive shell to start."
 msgstr "പരസ്പരവിനിമയത്തിനു് കഴിവുള്ളൊരു ഷെല്‍ തുടങ്ങാന്‍ സാധിച്ചില്ല."
 
-#: Session.cpp:498
+#: Session.cpp:509
 #, kde-format
 msgid "Could not start program '%1' with arguments '%2'."
 msgstr "'%2' ഐച്ഛികങ്ങളുപയോഗിച്ചു് '%1' എന്ന പ്രോഗ്രാം തുടങ്ങാന്‍ സാധിച്ചില്ല."
 
-#: Session.cpp:634
+#: Session.cpp:657
 #, kde-format
 msgid "Silence in session '%1'"
 msgstr "'%1' സെഷനില്‍ നിശബ്ദത"
 
-#: Session.cpp:698
-#, kde-format
-msgid "Bell in session '%1'"
-msgstr "'%1' സെഷനില്‍ മണിയടിച്ചു"
-
-#: Session.cpp:711
-#, kde-format
-msgid "Activity in session '%1'"
-msgstr "'%1' സെഷനില്‍ മാറ്റങ്ങള്‍"
-
-#: Session.cpp:932
+#: Session.cpp:919
 #, kde-format
 msgid ""
 "The D-Bus methods sendText/runCommand were just used.  There are security "
@@ -2442,268 +2448,273 @@ msgid ""
 "warning will only show once for this Konsole instance.</p>"
 msgstr ""
 
-#: Session.cpp:960
+#: Session.cpp:947
 #, kde-format
 msgctxt "@info:shell This session is done"
 msgid "Finished"
 msgstr "പൂര്‍ണ്ണമായി"
 
-#: Session.cpp:974 Session.cpp:987
+#: Session.cpp:961 Session.cpp:974
 #, kde-format
 msgid "Program '%1' crashed."
 msgstr "'%1' എന്ന പ്രോഗ്രാം തകര്‍ന്നു."
 
-#: Session.cpp:976
+#: Session.cpp:963
 #, kde-format
 msgid "Program '%1' exited with status %2."
 msgstr "%2 എന്ന വിലയോടെ '%1' എന്ന പ്രോഗ്രാം പുറത്തു വന്നു."
 
-#: Session.cpp:1419
+#: Session.cpp:1406
 #, kde-format
 msgid "ZModem Progress"
 msgstr "ഇസഡ്‌മോഡത്തിന്റെ പുരോഗതി"
 
-#: SessionController.cpp:132
+#: Session.cpp:1732
+#, kde-format
+msgid "Activity in session '%1'"
+msgstr "'%1' സെഷനില്‍ മാറ്റങ്ങള്‍"
+
+#: SessionController.cpp:124
 #, kde-format
 msgid "Konsole"
 msgstr "കണ്‍സോള്‍"
 
-#: SessionController.cpp:375
+#: SessionController.cpp:399
 #, kde-format
 msgid "Konsole does not know how to open the bookmark: "
 msgstr ""
 
-#: SessionController.cpp:435
+#: SessionController.cpp:465
 #, kde-format
 msgid "Search for '%1' with"
 msgstr ""
 
-#: SessionController.cpp:449
+#: SessionController.cpp:479
 #, kde-format
 msgid "Configure Web Shortcuts..."
 msgstr ""
 
-#: SessionController.cpp:564
+#: SessionController.cpp:570
 #, fuzzy, kde-format
 msgid "&Close Session"
 msgstr "കണ്‍സോള്‍"
 
-#: SessionController.cpp:571
+#: SessionController.cpp:577
 #, kde-format
 msgid "Open File Manager"
 msgstr "ഫയല്‍ മാനേജര്‍ തുറക്കുക."
 
-#: SessionController.cpp:598
+#: SessionController.cpp:604
 #, kde-format
 msgid "Paste Selection"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
 
-#: SessionController.cpp:605
+#: SessionController.cpp:611
 #, kde-format
 msgid "Web Search"
 msgstr ""
 
-#: SessionController.cpp:612
+#: SessionController.cpp:618
 #, fuzzy, kde-format
 msgid "&Select All"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
-#: SessionController.cpp:616
+#: SessionController.cpp:622
 #, fuzzy, kde-format
 msgid "Select &Line"
 msgstr "തെരഞ്ഞെടുക്കുക"
 
-#: SessionController.cpp:619
+#: SessionController.cpp:625
 #, fuzzy, kde-format
 msgid "Save Output &As..."
 msgstr "ഫലം സൂക്ഷിയ്ക്കുക..."
 
-#: SessionController.cpp:625
+#: SessionController.cpp:631
 #, kde-format
 msgid "&Print Screen..."
 msgstr ""
 
-#: SessionController.cpp:629
+#: SessionController.cpp:635
 #, fuzzy, kde-format
 msgid "Adjust Scrollback..."
 msgstr "സ്ക്രോള്‍ബാക്ക് കൈകാര്യം ചെയ്യുക..."
 
-#: SessionController.cpp:633
+#: SessionController.cpp:639
 #, kde-format
 msgid "Clear Scrollback"
 msgstr "പുറകോട്ടുള്ളതു് വൃത്തിയാക്കുക"
 
-#: SessionController.cpp:637
+#: SessionController.cpp:643
 #, fuzzy, kde-format
 msgid "Clear Scrollback and Reset"
 msgstr "പുറകോട്ടുള്ളതു് വൃത്തിയാക്കി && വീണ്ടുംതുടങ്ങുക"
 
-#: SessionController.cpp:643
+#: SessionController.cpp:649
 #, fuzzy, kde-format
 msgid "Edit Current Profile..."
 msgstr "ഇപ്പോഴത്തെ പ്രൊഫൈല്‍ കൈകാര്യം ചെയ്യുക..."
 
-#: SessionController.cpp:646
+#: SessionController.cpp:652
 #, fuzzy, kde-format
 msgid "Switch Profile"
 msgstr "പ്രൊഫൈല്‍ ചിട്ടപ്പെടുത്തുക"
 
-#: SessionController.cpp:670
+#: SessionController.cpp:676
 #, kde-format
 msgid "Set &Encoding"
 msgstr "&എന്‍കോഡിങ്ങ് ക്രമീകരിക്കുക"
 
-#: SessionController.cpp:680
+#: SessionController.cpp:686
 #, kde-format
 msgctxt "@item:inmenu A read only (locked) session"
 msgid "Read-only"
 msgstr ""
 
-#: SessionController.cpp:691
+#: SessionController.cpp:697
 #, kde-format
 msgid "&Rename Tab..."
 msgstr "കിളിവാതിലിന്റെ പേരു് മാറ്റുക..."
 
-#: SessionController.cpp:697
+#: SessionController.cpp:703
 #, kde-format
 msgid "&All Tabs in Current Window"
 msgstr "&എല്ല കിളിവാതിലുകലൂം നിലവിലുള്ള ജാലകത്തില്‍ "
 
-#: SessionController.cpp:704
+#: SessionController.cpp:710
 #, kde-format
 msgid "&Select Tabs..."
 msgstr "&തെരഞ്ഞെടുത്ത കിളിവാതിലികള്‍..."
 
-#: SessionController.cpp:710
+#: SessionController.cpp:716
 #, fuzzy, kde-format
 msgctxt "@action:inmenu Do not select any tabs"
 msgid "&None"
 msgstr "&ഒന്നുമില്ല"
 
-#: SessionController.cpp:718
+#: SessionController.cpp:724
 #, kde-format
 msgid "Copy Input To"
 msgstr "ഇന്‍പുട്ട് പകര്‍ത്തേണ്ടതു്"
 
-#: SessionController.cpp:727
+#: SessionController.cpp:733
 #, kde-format
 msgid "&ZModem Upload..."
 msgstr ""
 
-#: SessionController.cpp:732
+#: SessionController.cpp:738
 #, kde-format
 msgid "Monitor for &Activity"
 msgstr "&മാറ്റങ്ങള്‍ക്കായി നിരീക്ഷിയ്ക്കുക"
 
-#: SessionController.cpp:737
+#: SessionController.cpp:743
 #, kde-format
 msgid "Monitor for &Silence"
 msgstr "നിശബ്ദതയ്ക്കായി നിരീക്ഷിയ്ക്കുക"
 
-#: SessionController.cpp:744
+#: SessionController.cpp:750
 #, kde-format
 msgid "Enlarge Font"
 msgstr "അക്ഷരത്തിന്റെ വലിപ്പം കൂട്ടുക"
 
-#: SessionController.cpp:752
+#: SessionController.cpp:758
 #, kde-format
 msgid "Shrink Font"
 msgstr "അക്ഷരവലുപ്പം ചുരുക്കുക"
 
-#: SessionController.cpp:757
+#: SessionController.cpp:763
 #, kde-format
 msgid "Reset Font Size"
 msgstr ""
 
-#: SessionController.cpp:762
+#: SessionController.cpp:768
 #, kde-format
 msgid "Send Signal"
 msgstr ""
 
-#: SessionController.cpp:768
+#: SessionController.cpp:774
 #, kde-format
 msgid "&Suspend Task"
 msgstr ""
 
-#: SessionController.cpp:773
+#: SessionController.cpp:779
 #, fuzzy, kde-format
 msgid "&Continue Task"
 msgstr "കിളിവാതില്‍ &അടയ്ക്കുക"
 
-#: SessionController.cpp:778
+#: SessionController.cpp:784
 #, kde-format
 msgid "&Hangup"
 msgstr ""
 
-#: SessionController.cpp:783
+#: SessionController.cpp:789
 #, kde-format
 msgid "&Interrupt Task"
 msgstr ""
 
-#: SessionController.cpp:788
+#: SessionController.cpp:794
 #, fuzzy, kde-format
 msgid "&Terminate Task"
 msgstr "ടെര്‍മിനലിന്റെ കഴിവുകള്‍"
 
-#: SessionController.cpp:793
+#: SessionController.cpp:799
 #, kde-format
 msgid "&Kill Task"
 msgstr ""
 
-#: SessionController.cpp:798
+#: SessionController.cpp:804
 #, kde-format
 msgid "User Signal &1"
 msgstr ""
 
-#: SessionController.cpp:803
+#: SessionController.cpp:809
 #, kde-format
 msgid "User Signal &2"
 msgstr ""
 
-#: SessionController.cpp:918
+#: SessionController.cpp:933
 #, kde-format
 msgid ""
 "A program is currently running in this session.  Are you sure you want to "
 "close it?"
 msgstr "ഒരു പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
-#: SessionController.cpp:921
+#: SessionController.cpp:936
 #, kde-format
 msgid ""
 "The program '%1' is currently running in this session.  Are you sure you "
 "want to close it?"
 msgstr "'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
-#: SessionController.cpp:927 SessionController.cpp:957
+#: SessionController.cpp:942 SessionController.cpp:972
 #, kde-format
 msgid "Confirm Close"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: SessionController.cpp:950
+#: SessionController.cpp:965
 #, fuzzy, kde-format
 msgid ""
 "A program in this session would not die.  Are you sure you want to kill it "
 "by force?"
 msgstr "ഒരു പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
-#: SessionController.cpp:953
+#: SessionController.cpp:968
 #, fuzzy, kde-format
 msgid ""
 "The program '%1' is in this session would not die.  Are you sure you want to "
 "kill it by force?"
 msgstr "'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
-#: SessionController.cpp:1496
+#: SessionController.cpp:1527
 #, fuzzy, kde-format
 msgid "Print Shell"
 msgstr "ഷെല്‍"
 
-#: SessionController.cpp:1772
+#: SessionController.cpp:1781
 #, kde-format
 msgid "Save ZModem Download to..."
 msgstr ""
 
-#: SessionController.cpp:1782
+#: SessionController.cpp:1791
 #, kde-format
 msgid ""
 "<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
@@ -2711,20 +2722,20 @@ msgid ""
 "or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1793
+#: SessionController.cpp:1802
 #, kde-format
 msgid ""
 "<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
-#: SessionController.cpp:1803
+#: SessionController.cpp:1812
 #, kde-format
 msgid ""
 "<p>No suitable ZModem software was found on this system.</p><p>You may wish "
 "to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
-#: SessionController.cpp:1809
+#: SessionController.cpp:1818
 #, kde-format
 msgid "Select Files for ZModem Upload"
 msgstr ""
@@ -3375,100 +3386,100 @@ msgctxt "@info:tooltip"
 msgid "Insert remote title format"
 msgstr "വിദൂരത്തുള്ള കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്:"
 
-#: TerminalDisplay.cpp:1271 TerminalDisplay.cpp:1272
+#: TerminalDisplay.cpp:1282 TerminalDisplay.cpp:1283
 #, kde-format
 msgid "Size: XXX x XXX"
 msgstr "വലിപ്പം: XXX x XXX"
 
-#: TerminalDisplay.cpp:1283
+#: TerminalDisplay.cpp:1294
 #, kde-format
 msgid "Size: %1 x %2"
 msgstr "വലിപ്പം: %1 x %2"
 
-#: TerminalDisplay.cpp:3161
+#: TerminalDisplay.cpp:3164
 #, kde-format
 msgid "Are you sure you want to paste %1 character?"
 msgid_plural "Are you sure you want to paste %1 characters?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: TerminalDisplay.cpp:3164
+#: TerminalDisplay.cpp:3167
 #, fuzzy, kde-format
 msgid "Confirm Paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3196
+#: TerminalDisplay.cpp:3199
 #, kde-format
 msgid "End Of Text/Interrupt: may exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3197
+#: TerminalDisplay.cpp:3200
 #, kde-format
 msgid "End Of Transmission: may exit the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3198
+#: TerminalDisplay.cpp:3201
 #, kde-format
 msgid "Bell: will try to emit an audible warning"
 msgstr ""
 
-#: TerminalDisplay.cpp:3199
+#: TerminalDisplay.cpp:3202
 #, kde-format
 msgid "Backspace"
 msgstr ""
 
-#: TerminalDisplay.cpp:3200
+#: TerminalDisplay.cpp:3203
 #, kde-format
 msgid "Device Control Three/XOFF: suspends output"
 msgstr ""
 
-#: TerminalDisplay.cpp:3201
+#: TerminalDisplay.cpp:3204
 #, kde-format
 msgid "Substitute/Suspend: may suspend current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3202
+#: TerminalDisplay.cpp:3205
 #, kde-format
 msgid "Escape: used for manipulating terminal state"
 msgstr ""
 
-#: TerminalDisplay.cpp:3203
+#: TerminalDisplay.cpp:3206
 #, kde-format
 msgid "File Separator/Quit: may abort the current process"
 msgstr ""
 
-#: TerminalDisplay.cpp:3225
+#: TerminalDisplay.cpp:3228
 #, kde-format
 msgid ""
 "The text you're trying to paste contains hidden control characters, do you "
 "want to filter them out?"
 msgstr ""
 
-#: TerminalDisplay.cpp:3228
+#: TerminalDisplay.cpp:3231
 #, fuzzy, kde-format
 msgctxt "@title"
 msgid "Confirm Paste"
 msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 
-#: TerminalDisplay.cpp:3230
+#: TerminalDisplay.cpp:3233
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Paste &without control characters"
 msgstr "ഇപ്പോഴുള്ള അക്ഷരവുമായി പൊരുത്തമുള്ള നിറമായി കര്‍സര്‍ സജ്ജീകരിയ്ക്കുക"
 
-#: TerminalDisplay.cpp:3233
+#: TerminalDisplay.cpp:3236
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "&Paste everything"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
 
-#: TerminalDisplay.cpp:3236
+#: TerminalDisplay.cpp:3239
 #, kde-format
 msgctxt "@action:button"
 msgid "&Cancel"
 msgstr ""
 
-#: TerminalDisplay.cpp:3483
+#: TerminalDisplay.cpp:3486
 #, kde-format
 msgid ""
 "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
@@ -3476,49 +3487,49 @@ msgid ""
 "b> to resume.</qt>"
 msgstr ""
 "<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a href=\"http://en.wikipedia.org/wiki/"
-"Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> അമര്‍"
-"ത്തുക.</qt>"
+"Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> "
+"അമര്‍ത്തുക.</qt>"
 
-#: TerminalDisplay.cpp:3521
+#: TerminalDisplay.cpp:3524
 #, kde-format
 msgid "This terminal is read-only."
 msgstr ""
 
-#: TerminalDisplay.cpp:3816
+#: TerminalDisplay.cpp:3819
 #, kde-format
 msgid "Change &Directory To"
 msgstr ""
 
-#: TerminalDisplay.cpp:3848
+#: TerminalDisplay.cpp:3851
 #, fuzzy, kde-format
 msgid "&Paste Location"
 msgstr "തെരഞ്ഞെടുത്തതു് പകര്‍ത്തുക"
 
-#: TerminalHeaderBar.cpp:49 TerminalHeaderBar.cpp:50
-#, fuzzy, kde-format
-msgctxt "@info:tooltip"
-msgid "Close terminal"
-msgstr "കിളിവാതില്‍ &അടയ്ക്കുക"
-
-#: TerminalHeaderBar.cpp:58
+#: TerminalHeaderBar.cpp:93
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
 msgid "Maximize terminal"
 msgstr "കിളിവാതില്‍ &അടയ്ക്കുക"
 
-#: ViewContainer.cpp:112
+#: TerminalHeaderBar.cpp:104 TerminalHeaderBar.cpp:105
+#, fuzzy, kde-format
+msgctxt "@info:tooltip"
+msgid "Close terminal"
+msgstr "കിളിവാതില്‍ &അടയ്ക്കുക"
+
+#: ViewContainer.cpp:115
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Detach Tab"
 msgstr "കിളിവാതില്‍ &വേര്‍പ്പെടുത്തുക"
 
-#: ViewContainer.cpp:119
+#: ViewContainer.cpp:122
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "&Rename Tab..."
 msgstr "കിളിവാതിലിന്റെ &പേരു് മാറ്റുക..."
 
-#: ViewContainer.cpp:126
+#: ViewContainer.cpp:129
 #, fuzzy, kde-format
 msgctxt "@action:inmenu"
 msgid "Close Tab"
@@ -3560,91 +3571,97 @@ msgctxt "@action:inmenu"
 msgid "Detach Current &Tab"
 msgstr "ഇപ്പോഴത്തെ കിളിവാതില്‍ അടര്‍ത്തിമാറ്റുക"
 
-#: ViewManager.cpp:165
+#: ViewManager.cpp:162
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Next Tab"
 msgstr "&പുതിയ കിളിവാതില്‍"
 
-#: ViewManager.cpp:173
+#: ViewManager.cpp:170
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Previous Tab"
 msgstr "മുമ്പത്തെ"
 
-#: ViewManager.cpp:181
+#: ViewManager.cpp:178
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Above Terminal"
 msgstr "ടെര്‍മിനലുകള്‍ കാണിയ്ക്കുന്നതിനു് മുകളില്‍"
 
-#: ViewManager.cpp:188
+#: ViewManager.cpp:185
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Below Terminal"
 msgstr "ടെര്‍മിനലുകള്‍ കാണിയ്ക്കുന്നതിനു് താഴെ"
 
-#: ViewManager.cpp:195
+#: ViewManager.cpp:192
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Left Terminal"
 msgstr ""
 
-#: ViewManager.cpp:201
+#: ViewManager.cpp:198
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Focus Right Terminal"
 msgstr ""
 
-#: ViewManager.cpp:207
+#: ViewManager.cpp:204
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Last Tab"
 msgstr "ടാബ് %1-ലേക്ക് മാറുക"
 
-#: ViewManager.cpp:212
+#: ViewManager.cpp:209
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Last Used Tabs"
 msgstr ""
 
-#: ViewManager.cpp:217
+#: ViewManager.cpp:214
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Toggle Between Two Tabs"
 msgstr ""
 
-#: ViewManager.cpp:222
+#: ViewManager.cpp:219
 #, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Last Used Tabs (Reverse)"
 msgstr ""
 
-#: ViewManager.cpp:227
+#: ViewManager.cpp:224
 #, kde-format
 msgctxt "@action Shortcut entry"
-msgid "Maximize current Terminal"
+msgid "Toggle maximize current view"
 msgstr ""
 
-#: ViewManager.cpp:234
+#: ViewManager.cpp:225
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Toggle maximize current view"
+msgstr ""
+
+#: ViewManager.cpp:233
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the right"
 msgstr "കാഴ്ച വലത്തോട്ടു് മാറ്റുക"
 
-#: ViewManager.cpp:240
+#: ViewManager.cpp:239
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Move tab to the left"
 msgstr "കാഴ്ച ഇടത്തോട്ടു് മാറ്റുക"
 
-#: ViewManager.cpp:249
+#: ViewManager.cpp:248
 #, fuzzy, kde-format
 msgctxt "@action Shortcut entry"
 msgid "Switch to Tab %1"
 msgstr "ടാബ് %1-ലേക്ക് മാറുക"
 
-#: Vt102Emulation.cpp:1246
+#: Vt102Emulation.cpp:1231
 #, kde-format
 msgid ""
 "No keyboard translator available.  The information needed to convert key "

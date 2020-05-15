@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-24 03:16+0100\n"
+"POT-Creation-Date: 2020-05-04 03:15+0200\n"
 "PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
-#: battery/batteryplugin.cpp:74
+#: battery/batteryplugin.cpp:148
 #, kde-format
 msgctxt "device name: low battery"
 msgid "%1: Low Battery"
 msgstr "%1: ബാറ്ററി കുറവാണ്"
 
-#: battery/batteryplugin.cpp:74
+#: battery/batteryplugin.cpp:148
 #, kde-format
 msgid "Battery at %1%"
 msgstr "ബാറ്ററി ചാർജ് %1%"
@@ -57,7 +57,7 @@ msgstr "കെ.ഡി.ഇ കണക്ട്"
 msgid "Use your phone as a touchpad and keyboard"
 msgstr "താങ്കളുടെ ഫോൺ റ്റച്പാഡ് ആയും കീബോർഡായും ഉപയോഗിക്കുക"
 
-#: notifications/notification.cpp:146
+#: notifications/notification.cpp:131
 #, kde-format
 msgid "Reply"
 msgstr "മറുപടി നല്കുക"
@@ -352,7 +352,7 @@ msgstr "%1 വിളിക്കുന്നു"
 msgid "Missed call from %1"
 msgstr "%1-ൽ നിന്നും ഒരു മിസ്ഡ് കോൾ"
 
-#: telephony/telephonyplugin.cpp:82
+#: telephony/telephonyplugin.cpp:84
 #, kde-format
 msgid "Mute Call"
 msgstr "കോൾ ശബ്ദരഹിതമാക്കുക"

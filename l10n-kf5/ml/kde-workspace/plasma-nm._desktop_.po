@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-28 03:06+0000\n"
+"POT-Creation-Date: 2020-05-12 02:10+0000\n"
 "PO-Revision-Date: 2020-03-23 16:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -89,52 +89,52 @@ msgctxt "Name"
 msgid "Device failed"
 msgstr "ഉപകരണം പരാജയപ്പെട്ടു"
 
-#: kded/networkmanagement.notifyrc:407
+#: kded/networkmanagement.notifyrc:408
 msgctxt "Name"
 msgid "Failed to activate connection"
 msgstr "ബന്ധം സജീവമാക്കുന്നത് പരാജയപ്പെട്ടു"
 
-#: kded/networkmanagement.notifyrc:457
+#: kded/networkmanagement.notifyrc:459
 msgctxt "Name"
 msgid "Failed to add connection"
 msgstr "ബന്ധം കൂട്ടിച്ചേര്‍ക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: kded/networkmanagement.notifyrc:507
+#: kded/networkmanagement.notifyrc:510
 msgctxt "Name"
 msgid "Failed to deactivate connection"
 msgstr "ബന്ധം നിർജ്ജീവമാക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: kded/networkmanagement.notifyrc:557
+#: kded/networkmanagement.notifyrc:561
 msgctxt "Name"
 msgid "Failed to remove connection"
 msgstr "ബന്ധം വിഛേദിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: kded/networkmanagement.notifyrc:607
+#: kded/networkmanagement.notifyrc:612
 msgctxt "Name"
 msgid "Failed to get secrets"
 msgstr "രഹസ്യങ്ങൾ കിട്ടുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: kded/networkmanagement.notifyrc:657
+#: kded/networkmanagement.notifyrc:663
 msgctxt "Name"
 msgid "Failed to update connection"
 msgstr "ബന്ധം പുതുക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#: kded/networkmanagement.notifyrc:707
+#: kded/networkmanagement.notifyrc:714
 msgctxt "Name"
 msgid "Missing VPN plugin"
 msgstr "വി.പി.എൻ പ്ലഗ്ഗിൻ കാണുന്നില്ല"
 
-#: kded/networkmanagement.notifyrc:757
+#: kded/networkmanagement.notifyrc:765
 msgctxt "Name"
 msgid "No longer connected to a network"
 msgstr "ഒരു ശൃംഖലയുമായി നിലവിൽ ബന്ധപ്പെടുത്തിയിട്ടില്ല"
 
-#: kded/networkmanagement.notifyrc:801
+#: kded/networkmanagement.notifyrc:810
 msgctxt "Name"
 msgid "Captive portal detected"
 msgstr ""
 
-#: kded/networkmanagement.notifyrc:843
+#: kded/networkmanagement.notifyrc:852
 msgctxt "Name"
 msgid "Failed to create hotspot"
 msgstr "ഹോട്ട്സ്പോട്ട് നിർമ്മിക്കുന്നതിൽ പരാജയപ്പെട്ടു "
@@ -144,7 +144,7 @@ msgctxt "Name"
 msgid "Network Management VPN UI Plugin"
 msgstr "ശൃംഖല നടത്തിപ്പ് VPN UI സംയോജകം"
 
-#: libs/editor/plasma-networkmanagement-vpnuiplugin.desktop:49
+#: libs/editor/plasma-networkmanagement-vpnuiplugin.desktop:50
 msgctxt "Comment"
 msgid "Defines KDE Network Management UI Plugins"
 msgstr "കെ.ഡി.ഇ ശൃംഖല നടത്തിപ്പ് യു.ഐ സംയോജകങ്ങൾ നിർവചിക്കുന്നു"
@@ -154,13 +154,13 @@ msgctxt "Name"
 msgid "Mobile broadband"
 msgstr "മൊബൈൽ ബ്രോഡ്ബാൻഡ്"
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:36
-#: mobile/broadband/package/metadata.desktop:36
+#: mobile/broadband/mobilebroadbandsettings.desktop:37
+#: mobile/broadband/package/metadata.desktop:37
 msgctxt "Comment"
 msgid "Mobile broadband setting"
 msgstr "മൊബൈൽ ബ്രോഡ്ബാൻഡ് സജ്ജീകരണം"
 
-#: mobile/broadband/mobilebroadbandsettings.desktop:81
+#: mobile/broadband/mobilebroadbandsettings.desktop:83
 msgctxt "X-KDE-Keywords"
 msgid "mobile,data,network"
 msgstr "മൊബൈൽ,ഡാറ്റ,ശൃംഖല"
@@ -170,17 +170,27 @@ msgctxt "Name"
 msgid "Mobile Broadband"
 msgstr "മൊബൈൽ ബ്രോഡ്ബാൻഡ്"
 
+#: mobile/hotspot/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Hotspot"
+msgstr ""
+
+#: mobile/hotspot/package/metadata.desktop:21
+msgctxt "Comment"
+msgid "Wi-Fi Hotspots"
+msgstr ""
+
 #: mobile/wifi/package/metadata.desktop:2 mobile/wifi/wifisettings.desktop:2
 msgctxt "Name"
 msgid "Wi-Fi"
 msgstr "വൈ-ഫൈ"
 
-#: mobile/wifi/package/metadata.desktop:37 mobile/wifi/wifisettings.desktop:37
+#: mobile/wifi/package/metadata.desktop:38 mobile/wifi/wifisettings.desktop:38
 msgctxt "Comment"
 msgid "Wireless network setting"
 msgstr "വയർലെസ് ശൃംഖല സജ്ജീകരണം"
 
-#: mobile/wifi/wifisettings.desktop:83
+#: mobile/wifi/wifisettings.desktop:85
 msgctxt "X-KDE-Keywords"
 msgid "wifi,network"
 msgstr "വൈഫൈ,ശൃംഖല"
@@ -190,7 +200,7 @@ msgctxt "Name"
 msgid "Fortinet SSLVPN (fortisslvpn)"
 msgstr "Fortinet SSLVPN (fortisslvpn)"
 
-#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:54
+#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:55
 msgctxt "Comment"
 msgid "Fortinet SSLVPN virtual private networks"
 msgstr "Fortinet SSLVPN (fortisslvpn) സാങ്കല്പിക സ്വകാര്യ ശൃംഖലകൾ"
@@ -200,7 +210,7 @@ msgctxt "Name"
 msgid "Iodine DNS tunnel (iodine)"
 msgstr "Iodine DNS tunnel (iodine)"
 
-#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:53
+#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:54
 msgctxt "Comment"
 msgid "Tunnel connections via DNS"
 msgstr "ഡി.എൻ.എസ് വഴിയുള്ള ട്ടണൽ ബന്ധങ്ങൾ"

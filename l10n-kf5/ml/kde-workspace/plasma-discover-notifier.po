@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-30 03:37+0100\n"
+"POT-Creation-Date: 2020-04-15 03:50+0200\n"
 "PO-Revision-Date: 2019-12-23 17:46+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,64 +19,64 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
-#: notifier/DiscoverNotifier.cpp:83
+#: notifier/DiscoverNotifier.cpp:100
 #, kde-format
 msgid "View Updates"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:142
+#: notifier/DiscoverNotifier.cpp:159
 #, kde-format
 msgid "Security updates available"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:144
+#: notifier/DiscoverNotifier.cpp:161
 #, kde-format
 msgid "Updates available"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:146
+#: notifier/DiscoverNotifier.cpp:163
 #, kde-format
 msgid "System up to date"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:148
+#: notifier/DiscoverNotifier.cpp:165
 #, kde-format
 msgid "Computer needs to restart"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:150
+#: notifier/DiscoverNotifier.cpp:167
 #, kde-format
 msgid "Offline"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:181
+#: notifier/DiscoverNotifier.cpp:198
 #, kde-format
 msgctxt "@action:button"
 msgid "Restart"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:182
+#: notifier/DiscoverNotifier.cpp:199
 #, kde-format
 msgid "Restart is required"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:183
+#: notifier/DiscoverNotifier.cpp:200
 #, kde-format
 msgid "The system needs to be restarted for the updates to take effect."
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:200
+#: notifier/DiscoverNotifier.cpp:217
 #, kde-format
 msgctxt "@action:button"
 msgid "Upgrade"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:201
+#: notifier/DiscoverNotifier.cpp:218
 #, kde-format
 msgid "Upgrade available"
 msgstr ""
 
-#: notifier/DiscoverNotifier.cpp:202
+#: notifier/DiscoverNotifier.cpp:219
 #, kde-format
 msgid "New version: %1"
 msgstr ""

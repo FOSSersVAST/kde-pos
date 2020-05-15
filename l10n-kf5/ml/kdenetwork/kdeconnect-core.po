@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-22 03:13+0100\n"
+"POT-Creation-Date: 2020-05-10 03:31+0200\n"
 "PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -51,30 +51,30 @@ msgstr ""
 msgid "Failed to send packet to %1"
 msgstr ""
 
-#: backends/lan/compositeuploadjob.cpp:288
+#: backends/lan/compositeuploadjob.cpp:292
 #, kde-format
 msgid "Sent 1 file"
 msgid_plural "Sent %1 files"
 msgstr[0] ""
 msgstr[1] ""
 
-#: backends/lan/compositeuploadjob.cpp:289
-#: backends/lan/compositeuploadjob.cpp:304
+#: backends/lan/compositeuploadjob.cpp:293
+#: backends/lan/compositeuploadjob.cpp:308
 #, kde-format
 msgid "Sending to %1"
 msgstr ""
 
-#: backends/lan/compositeuploadjob.cpp:300 compositefiletransferjob.cpp:155
+#: backends/lan/compositeuploadjob.cpp:304 compositefiletransferjob.cpp:155
 #, kde-format
 msgid "Progress"
 msgstr ""
 
-#: backends/lan/compositeuploadjob.cpp:301
+#: backends/lan/compositeuploadjob.cpp:305
 #, kde-format
 msgid "Sending file %1 of %2"
 msgstr ""
 
-#: backends/lan/compositeuploadjob.cpp:305 compositefiletransferjob.cpp:160
+#: backends/lan/compositeuploadjob.cpp:309 compositefiletransferjob.cpp:160
 #, kde-format
 msgid "File"
 msgstr "ഫയൽ"
@@ -123,12 +123,12 @@ msgstr ""
 msgid "Filename already present"
 msgstr ""
 
-#: filetransferjob.cpp:111
+#: filetransferjob.cpp:115
 #, kde-format
 msgid "Received incomplete file: %1"
 msgstr ""
 
-#: filetransferjob.cpp:129
+#: filetransferjob.cpp:133
 #, kde-format
 msgid "Received incomplete file from: %1"
 msgstr ""
@@ -146,12 +146,12 @@ msgid ""
 "you have them installed and try again."
 msgstr ""
 
-#: kdeconnectconfig.cpp:286
+#: kdeconnectconfig.cpp:302
 #, kde-format
 msgid "Could not store private key file: %1"
 msgstr ""
 
-#: kdeconnectconfig.cpp:331
+#: kdeconnectconfig.cpp:347
 #, kde-format
 msgid "Could not store certificate file: %1"
 msgstr ""

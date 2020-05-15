@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-16 03:22+0100\n"
+"POT-Creation-Date: 2020-04-23 03:27+0200\n"
 "PO-Revision-Date: 2020-02-02 13:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -90,38 +90,38 @@ msgstr "ആജ്ഞ പ്രവർത്തിപ്പിക്കുക"
 msgid "Add command"
 msgstr "ആജ്ഞ കൂട്ടിച്ചേർക്കുക"
 
-#: package/contents/ui/FullRepresentation.qml:56
+#: package/contents/ui/FullRepresentation.qml:74
 #, fuzzy
 msgid "No paired devices"
 msgstr "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"
 
-#: package/contents/ui/FullRepresentation.qml:56
+#: package/contents/ui/FullRepresentation.qml:74
 #, fuzzy
 msgid "Paired device is unavailable"
 msgid_plural "All paired devices are unavailable"
 msgstr[0] "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"
 msgstr[1] "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"
 
-#: package/contents/ui/FullRepresentation.qml:65
+#: package/contents/ui/FullRepresentation.qml:76
 msgid "Install KDE Connect on your Android device to integrate it with Plasma!"
 msgstr ""
 
-#: package/contents/ui/FullRepresentation.qml:76
-msgid "Install from Google Play"
-msgstr "ഗൂഗിൾ പ്ലേയിൽ നിന്നും ഇൻസ്റ്റാൾ ചെയ്യുക"
-
-#: package/contents/ui/FullRepresentation.qml:86
-msgid "Install from F-Droid"
-msgstr "എഫ്-ഡ്രോയ്ഡിൽ നിന്നും ഇൻസ്റ്റാൾ ചെയ്യുക"
-
-#: package/contents/ui/FullRepresentation.qml:92
+#: package/contents/ui/FullRepresentation.qml:80
 msgid "Pair a Device..."
 msgstr ""
 
-#: package/contents/ui/FullRepresentation.qml:92
+#: package/contents/ui/FullRepresentation.qml:80
 msgid "Configure..."
 msgstr ""
 
-#: package/contents/ui/main.qml:66
+#: package/contents/ui/FullRepresentation.qml:92
+msgid "Install from Google Play"
+msgstr "ഗൂഗിൾ പ്ലേയിൽ നിന്നും ഇൻസ്റ്റാൾ ചെയ്യുക"
+
+#: package/contents/ui/FullRepresentation.qml:102
+msgid "Install from F-Droid"
+msgstr "എഫ്-ഡ്രോയ്ഡിൽ നിന്നും ഇൻസ്റ്റാൾ ചെയ്യുക"
+
+#: package/contents/ui/main.qml:63
 msgid "KDE Connect Settings..."
 msgstr "കെ ഡി ഇ കണക്ട് സജ്ജീകരണങ്ങൾ"
