@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-05-12 02:10+0000\n"
 "PO-Revision-Date: 2020-06-19 21:06+0000\n"
-"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
@@ -218,7 +218,7 @@ msgstr "ഡി.എൻ.എസ് വഴിയുള്ള ട്ടണൽ ബന�
 #: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:16
 msgctxt "Name"
 msgid "Layer 2 Tunneling Protocol (L2TP)"
-msgstr ""
+msgstr "Layer 2 Tunneling Protocol (L2TP)"
 
 #: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:55
 msgctxt "Comment"
