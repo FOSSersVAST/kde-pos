@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-03-20 02:33+0100\n"
 "PO-Revision-Date: 2020-08-25 06:56+0000\n"
-"Last-Translator: Emmanuantony Jose <jaemmu11@gmail.com>\n"
+"Last-Translator: Vivek K <svivekkrishna@protonmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -619,16 +619,16 @@ msgstr ""
 "ഓപ്ഷനുകളും ഉൾക്കൊള്ളുന്നു"
 
 #: dolphinmainwindow.cpp:1638
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Activate Tab %1"
-msgstr "അടുത്ത കിളിവാതില്‍ സജീവമാക്കുക"
+msgstr "%1 കിളിവാതില്‍ സജീവമാക്കുക"
 
 #: dolphinmainwindow.cpp:1649
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "@action:inmenu"
 msgid "Activate Last Tab"
-msgstr "അടുത്ത കിളിവാതില്‍ സജീവമാക്കുക"
+msgstr "മുമ്പത്തെ കിളിവാതില്‍ സജീവമാക്കുക"
 
 #: dolphinmainwindow.cpp:1655
 #, kde-format
