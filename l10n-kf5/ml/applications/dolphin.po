@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-03-20 02:33+0100\n"
 "PO-Revision-Date: 2020-08-25 06:56+0000\n"
-"Last-Translator: Vivek K <svivekkrishna@protonmail.com>\n"
+"Last-Translator: ABHIJITH K.J <abhijithkj2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -811,6 +811,9 @@ msgid ""
 "This displays all places in the places panel that have been hidden. They "
 "will appear semi-transparent unless you uncheck their hide property."
 msgstr ""
+"മറഞ്ഞിരിക്കുന്ന സ്ഥല പാനലിലെ എല്ലാ സ്ഥലങ്ങളും ഇത് പ്രദർശിപ്പിക്കുന്നു.  നിങ്"
+"ങൾ അവരുടെ മറയ്ക്കൽ പ്രോപ്പർട്ടി അൺചെക്ക് ചെയ്തില്ലെങ്കിൽ അവ അർദ്ധസുതാര്യമായി "
+"ദൃശ്യമാകും."
 
 #: dolphinmainwindow.cpp:1886
 #, kde-kuit-format
@@ -822,6 +825,12 @@ msgid ""
 "also contains sections to find recently saved files or files of a certain "
 "type.</para>"
 msgstr ""
+"<para> ഇത് വിൻഡോയുടെ ഇടതുവശത്തുള്ള <emphasis> സ്ഥലങ്ങൾ </ amp> പാനൽ ടോഗിൾ "
+"ചെയ്യുന്നു. </ para> <para> നിങ്ങൾ ബുക്ക്മാർക്ക് ചെയ്ത സ്ഥലങ്ങളിലേക്ക് "
+"പോകാനും കമ്പ്യൂട്ടറിൽ ഘടിപ്പിച്ചിട്ടുള്ള ഡിസ്ക് അല്ലെങ്കിൽ മീഡിയ ആക്സസ് "
+"ചെയ്യാനും ഇത് നിങ്ങളെ അനുവദിക്കുന്നു.  അല്ലെങ്കിൽ നെറ്റ്‌വർക്കിലേക്ക്.  "
+"അടുത്തിടെ സംരക്ഷിച്ച ഫയലുകളോ ഒരു പ്രത്യേക തരത്തിലുള്ള ഫയലുകളോ "
+"കണ്ടെത്തുന്നതിനുള്ള വിഭാഗങ്ങളും ഇതിൽ അടങ്ങിയിരിക്കുന്നു. </ Para>"
 
 #: dolphinmainwindow.cpp:1892
 #, kde-kuit-format
