@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-03-20 02:33+0100\n"
-"PO-Revision-Date: 2020-08-04 08:23+0000\n"
-"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
+"PO-Revision-Date: 2020-08-25 06:44+0000\n"
+"Last-Translator: Vivek K J <VIVEKKJ2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -325,7 +325,7 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Copy to inactive split view"
-msgstr ""
+msgstr "നിർജ്ജീവമായ സ്പ്ലിറ്റ് കാഴ്ചയിലേക്ക് പകർത്തുക"
 
 #: dolphinmainwindow.cpp:1389
 #, kde-kuit-format
@@ -339,13 +339,13 @@ msgstr ""
 #, kde-format
 msgctxt "@action:inmenu Edit"
 msgid "Copy to inactive split view"
-msgstr ""
+msgstr "നിർജ്ജീവമായ സ്പ്ലിറ്റ് കാഴ്ചയിലേക്ക് പകർത്തുക"
 
 #: dolphinmainwindow.cpp:1397
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Move to inactive split view"
-msgstr ""
+msgstr "നിർജ്ജീവമായ സ്പ്ലിറ്റ് കാഴ്ചയിലേക്ക് നീങ്ങുക"
 
 #: dolphinmainwindow.cpp:1398
 #, kde-kuit-format
