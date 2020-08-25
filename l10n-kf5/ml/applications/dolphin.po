@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-03-20 02:33+0100\n"
 "PO-Revision-Date: 2020-08-25 06:56+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: Emmanuantony Jose <jaemmu11@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -614,6 +614,9 @@ msgid ""
 "<interface>Control</interface> button. Both contain mostly the same commands "
 "and configuration options."
 msgstr ""
+"ഇത് ഒരു <emphasis> മെനുബാർ </ amp> ഉള്ളതും <interface> Control </interface> "
+"ബട്ടണും തമ്മിൽ മാറുന്നു.  രണ്ടും മിക്കവാറും ഒരേ കമാൻഡുകളും കോൺഫിഗറേഷൻ "
+"ഓപ്ഷനുകളും ഉൾക്കൊള്ളുന്നു"
 
 #: dolphinmainwindow.cpp:1638
 #, fuzzy, kde-format
