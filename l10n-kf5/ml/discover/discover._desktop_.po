@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-27 02:42+0000\n"
+"POT-Creation-Date: 2020-06-19 00:26+0000\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,18 +20,18 @@ msgctxt "Name"
 msgid "Discover"
 msgstr "കണ്ടെത്തുക"
 
-#: discover/org.kde.discover.desktop.cmake:54
+#: discover/org.kde.discover.desktop.cmake:55
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr "സോഫ്റ്റ്വെയർ സെന്റർ"
 
-#: discover/org.kde.discover.desktop.cmake:100
+#: discover/org.kde.discover.desktop.cmake:102
 msgctxt "Keywords"
 msgid ""
 "program;software;repository;package;install;remove;update;apps;applications;"
 msgstr ""
 
-#: discover/org.kde.discover.desktop.cmake:145
+#: discover/org.kde.discover.desktop.cmake:148
 msgctxt "Name"
 msgid "Updates"
 msgstr "അപ്ഡേറ്റുകൾ"
@@ -46,7 +46,7 @@ msgctxt "Name"
 msgid "Snap login action"
 msgstr ""
 
-#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:41
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:42
 msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr ""
@@ -56,12 +56,12 @@ msgctxt "Comment"
 msgid "Discover"
 msgstr "കണ്ടെത്തുക"
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:49
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:50
 msgctxt "Name"
 msgid "Updates Are Available"
 msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ് "
 
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:95
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:97
 msgctxt "Comment"
 msgid "Updates Available"
 msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ്"

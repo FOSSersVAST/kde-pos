@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: json files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-26 03:43+0000\n"
+"POT-Creation-Date: 2020-05-31 18:32+0000\n"
 "PO-Revision-Date: 2019-11-26 03:43+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -64,6 +64,11 @@ msgstr ""
 #: plugins/sftp/kdeconnect_sftp.json
 msgctxt "Authors Name"
 msgid "Samoilenko Yuri"
+msgstr ""
+
+#: plugins/bigscreen/kdeconnect_bigscreen.json
+msgctxt "Authors Name"
+msgid "Aditya Mehra"
 msgstr ""
 
 #: plugins/mousepad/kdeconnect_mousepad.json
@@ -169,6 +174,11 @@ msgstr ""
 #: plugins/presenter/kdeconnect_presenter.json
 msgctxt "Name"
 msgid "Presenter"
+msgstr ""
+
+#: plugins/bigscreen/kdeconnect_bigscreen.json
+msgctxt "Name"
+msgid "Bigscreen"
 msgstr ""
 
 #: plugins/telephony/kdeconnect_telephony.json
@@ -299,6 +309,11 @@ msgstr ""
 #: plugins/presenter/kdeconnect_presenter.json
 msgctxt "Description"
 msgid "Use your mobile device to point to things on the screen"
+msgstr ""
+
+#: plugins/bigscreen/kdeconnect_bigscreen.json
+msgctxt "Description"
+msgid "Bigscreen Plugin"
 msgstr ""
 
 #: plugins/telephony/kdeconnect_telephony.json

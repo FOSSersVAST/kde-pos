@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-10 03:31+0200\n"
+"POT-Creation-Date: 2020-08-25 02:19+0200\n"
 "PO-Revision-Date: 2020-01-13 03:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -27,148 +27,143 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#: conversationlistmodel.cpp:208 conversationmodel.cpp:134
-#, kde-format
-msgid "(Unsupported Message Type)"
-msgstr ""
-
-#: conversationlistmodel.cpp:212
+#: conversationlistmodel.cpp:203
 #, kde-format
 msgid "You: %1"
 msgstr ""
 
-#: conversationlistmodel.cpp:218
+#: conversationlistmodel.cpp:209
 #, kde-format
 msgid "%1: %2"
 msgstr ""
 
-#: conversationlistmodel.cpp:257 conversationlistmodel.cpp:279
+#: conversationlistmodel.cpp:248 conversationlistmodel.cpp:270
 #, kde-format
 msgid "%1"
 msgstr ""
 
-#: main.cpp:42
-#, kde-format
-msgid "SMS Instant Messaging"
-msgstr ""
-
-#: main.cpp:44 qml/main.qml:35
+#: main.cpp:30 qml/main.qml:21
 #, kde-format
 msgid "KDE Connect SMS"
 msgstr ""
 
-#: main.cpp:46
+#: main.cpp:32
+#, kde-format
+msgid "SMS Instant Messaging"
+msgstr ""
+
+#: main.cpp:34
 #, kde-format
 msgid "(C) 2018-2019, KDE Connect Team"
 msgstr ""
 
-#: main.cpp:47
+#: main.cpp:35
 #, kde-format
 msgid "Simon Redman"
 msgstr ""
 
-#: main.cpp:48
+#: main.cpp:36
 #, kde-format
 msgid "Aleix Pol Gonzalez"
 msgstr ""
 
-#: main.cpp:49
+#: main.cpp:37
 #, kde-format
 msgid "Nicolas Fella"
 msgstr ""
 
-#: main.cpp:57
+#: main.cpp:45
 #, kde-format
 msgid "Select a device"
 msgstr ""
 
-#: main.cpp:57
+#: main.cpp:45
 #, kde-format
 msgid "id"
 msgstr ""
 
-#: main.cpp:58
+#: main.cpp:46
 #, kde-format
 msgid "Send a message"
 msgstr ""
 
-#: main.cpp:58
+#: main.cpp:46
 #, kde-format
 msgid "message"
 msgstr ""
 
-#: qml/ChatMessage.qml:122
+#: qml/AttachmentViewer.qml:34
+#, kde-format
+msgid "Open with default"
+msgstr ""
+
+#: qml/ChatMessage.qml:154
 #, kde-format
 msgid "Copy Message"
 msgstr ""
 
-#: qml/ChatMessage.qml:150
+#: qml/ChatMessage.qml:159
 #, kde-format
-msgid "Spoiler"
+msgid "Copy Selection"
 msgstr ""
 
-#: qml/ChatMessage.qml:190
-#, kde-format
-msgid "Download"
-msgstr ""
-
-#: qml/ConversationDisplay.qml:212
-#, kde-format
-msgid "Replying to multitarget messages is not supported"
-msgstr ""
-
-#: qml/ConversationDisplay.qml:212
+#: qml/ConversationDisplay.qml:201
 #, kde-format
 msgid "Compose message"
 msgstr ""
 
-#: qml/ConversationList.qml:38 qml/ConversationList.qml:119
+#: qml/ConversationList.qml:24 qml/ConversationList.qml:105
 #, kde-format
 msgid "No devices available"
 msgstr ""
 
-#: qml/ConversationList.qml:48
+#: qml/ConversationList.qml:34
 #, kde-format
 msgid ""
 "No new messages can be sent or received, but you can browse cached content"
 msgstr ""
 
-#: qml/ConversationList.qml:54
+#: qml/ConversationList.qml:40
 #, kde-format
 msgid "Refresh"
 msgstr ""
 
-#: qml/ConversationList.qml:67
+#: qml/ConversationList.qml:53
 #, kde-format
 msgid "No matched results found : ("
 msgstr ""
 
-#: qml/ConversationList.qml:105
+#: qml/ConversationList.qml:91
 #, kde-format
 msgid "Choose recipient"
 msgstr ""
 
-#: qml/ConversationList.qml:110
+#: qml/ConversationList.qml:96
 #, kde-format
 msgid "Cancel"
 msgstr ""
 
-#: qml/ConversationList.qml:168
+#: qml/ConversationList.qml:154
 #, kde-format
 msgid "Filter..."
 msgstr ""
 
-#: qml/ConversationList.qml:200
+#: qml/ConversationList.qml:186
 #, kde-format
 msgid "New"
 msgstr ""
 
-#: qml/ConversationList.qml:205
+#: qml/ConversationList.qml:191
 #, kde-format
 msgid "Start new conversation"
 msgstr ""
 
-#: qml/main.qml:50
+#: qml/main.qml:36
 #, kde-format
 msgid "About..."
+msgstr ""
+
+#: qml/MessageAttachments.qml:131
+#, kde-format
+msgid "Audio clip"
 msgstr ""

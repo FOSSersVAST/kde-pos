@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-22 03:13+0100\n"
+"POT-Creation-Date: 2020-08-18 02:18+0200\n"
 "PO-Revision-Date: 2020-02-02 13:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -28,32 +28,32 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "Vivekkj2004@gmail.com"
 
-#: kdeconnectd.cpp:68
+#: kdeconnectd.cpp:51
 #, kde-format
 msgid "Pairing request from %1"
 msgstr "%1 ൽ നിന്നും ജോടി അപേക്ഷ"
 
-#: kdeconnectd.cpp:69
+#: kdeconnectd.cpp:52
 #, kde-format
 msgid "Open"
 msgstr "തുറക്കുക"
 
-#: kdeconnectd.cpp:70
+#: kdeconnectd.cpp:53
 #, kde-format
 msgid "Accept"
 msgstr "സ്വീകരിക്കുക"
 
-#: kdeconnectd.cpp:70
+#: kdeconnectd.cpp:53
 #, kde-format
 msgid "Reject"
 msgstr "നിരസിക്കുക"
 
-#: kdeconnectd.cpp:148 kdeconnectd.cpp:150
+#: kdeconnectd.cpp:131 kdeconnectd.cpp:133
 #, kde-format
 msgid "KDE Connect Daemon"
 msgstr "കെ.ഡി.ഇ കണക്ട് ഡീമണ്‍"
 
-#: kdeconnectd.cpp:161
+#: kdeconnectd.cpp:144
 #, kde-format
 msgid "Replace an existing instance"
 msgstr "നിലവിലുള്ള ജാലകത്തിനെ പകരം വക്കുക"

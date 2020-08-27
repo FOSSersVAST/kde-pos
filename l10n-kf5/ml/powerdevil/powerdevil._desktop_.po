@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-29 02:38+0000\n"
+"POT-Creation-Date: 2020-07-07 00:32+0000\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -297,20 +297,20 @@ msgstr ""
 
 #: powerdevil.notifyrc:768
 msgctxt "Name"
-msgid "AC adaptor plugged in"
+msgid "Power source connected"
 msgstr ""
 
-#: powerdevil.notifyrc:814
+#: powerdevil.notifyrc:792
 msgctxt "Comment"
-msgid "The power adaptor has been plugged in"
+msgid "The power source has been connected"
 msgstr ""
 
-#: powerdevil.notifyrc:866
+#: powerdevil.notifyrc:822
 msgctxt "Name"
-msgid "AC adaptor unplugged"
+msgid "Power source disconnected"
 msgstr ""
 
-#: powerdevil.notifyrc:912
+#: powerdevil.notifyrc:846
 msgctxt "Comment"
-msgid "The power adaptor has been unplugged"
+msgid "The power source has been disconnected"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-04-23 03:27+0200\n"
+"POT-Creation-Date: 2020-08-18 02:18+0200\n"
 "PO-Revision-Date: 2020-02-02 13:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -18,110 +18,110 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
-#: package/contents/ui/Battery.qml:40
+#: package/contents/ui/Battery.qml:26
 msgid "%1% charging"
 msgstr "%1% ചാർജിംഗ്"
 
-#: package/contents/ui/Battery.qml:40
+#: package/contents/ui/Battery.qml:26
 msgid "%1%"
 msgstr "%1%"
 
-#: package/contents/ui/Battery.qml:40
+#: package/contents/ui/Battery.qml:26
 msgid "No info"
 msgstr "വിവരമില്ല"
 
-#: package/contents/ui/DeviceDelegate.qml:65
+#: package/contents/ui/DeviceDelegate.qml:51
 msgid "File Transfer"
 msgstr "ഫയൽ കൈമാറ്റം"
 
-#: package/contents/ui/DeviceDelegate.qml:66
+#: package/contents/ui/DeviceDelegate.qml:52
 msgid "Drop a file to transfer it onto your phone."
 msgstr "മൊബൈലിലേക്ക് പങ്കുവെക്കേണ്ട ഫയൽ ഇവിടെ വീഴ്ത്തുക"
 
-#: package/contents/ui/DeviceDelegate.qml:84
+#: package/contents/ui/DeviceDelegate.qml:70
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
-#: package/contents/ui/DeviceDelegate.qml:105
+#: package/contents/ui/DeviceDelegate.qml:91
 msgid "Please choose a file"
 msgstr "ദയവായി ഒരു ഫയൽ തിരഞ്ഞെടുക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:113
+#: package/contents/ui/DeviceDelegate.qml:100
 msgid "Share file"
 msgstr "ഫയൽ പങ്കുവെക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:133
+#: package/contents/ui/DeviceDelegate.qml:115
 msgid "Ring my phone"
 msgstr "എന്റെ മൊബൈൽ റിംഗ് ചെയ്പ്പിക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:151
+#: package/contents/ui/DeviceDelegate.qml:133
 msgid "Browse this device"
 msgstr "ഈ ഉപകരണം തുറന്നുനോക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:168
+#: package/contents/ui/DeviceDelegate.qml:150
 msgid "SMS Messages"
 msgstr "SMS സന്ദേശങ്ങൾ"
 
-#: package/contents/ui/DeviceDelegate.qml:189
+#: package/contents/ui/DeviceDelegate.qml:171
 msgid "Remote Keyboard"
 msgstr "വിദൂര കീബോർഡ്"
 
-#: package/contents/ui/DeviceDelegate.qml:205
+#: package/contents/ui/DeviceDelegate.qml:187
 msgid "Notifications:"
 msgstr "അറിയിപ്പുകൾ:"
 
-#: package/contents/ui/DeviceDelegate.qml:212
+#: package/contents/ui/DeviceDelegate.qml:194
 msgid "Dismiss all notifications"
 msgstr "എല്ലാ അറിയിപ്പുകളും ഉപേക്ഷിക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:248
+#: package/contents/ui/DeviceDelegate.qml:230
 msgid "Reply"
 msgstr "മറുപടി"
 
-#: package/contents/ui/DeviceDelegate.qml:257
+#: package/contents/ui/DeviceDelegate.qml:239
 msgid "Dismiss"
 msgstr "ഉപേക്ഷിക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:274
+#: package/contents/ui/DeviceDelegate.qml:256
 msgid "Run command"
 msgstr "ആജ്ഞ പ്രവർത്തിപ്പിക്കുക"
 
-#: package/contents/ui/DeviceDelegate.qml:282
+#: package/contents/ui/DeviceDelegate.qml:264
 msgid "Add command"
 msgstr "ആജ്ഞ കൂട്ടിച്ചേർക്കുക"
 
-#: package/contents/ui/FullRepresentation.qml:74
+#: package/contents/ui/FullRepresentation.qml:60
 #, fuzzy
 msgid "No paired devices"
 msgstr "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"
 
-#: package/contents/ui/FullRepresentation.qml:74
+#: package/contents/ui/FullRepresentation.qml:60
 #, fuzzy
 msgid "Paired device is unavailable"
 msgid_plural "All paired devices are unavailable"
 msgstr[0] "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"
 msgstr[1] "ജോഡിയായ ഉപകരണങ്ങൾ ലഭ്യമല്ല"
 
-#: package/contents/ui/FullRepresentation.qml:76
+#: package/contents/ui/FullRepresentation.qml:62
 msgid "Install KDE Connect on your Android device to integrate it with Plasma!"
 msgstr ""
 
-#: package/contents/ui/FullRepresentation.qml:80
+#: package/contents/ui/FullRepresentation.qml:66
 msgid "Pair a Device..."
 msgstr ""
 
-#: package/contents/ui/FullRepresentation.qml:80
+#: package/contents/ui/FullRepresentation.qml:66
 msgid "Configure..."
 msgstr ""
 
-#: package/contents/ui/FullRepresentation.qml:92
+#: package/contents/ui/FullRepresentation.qml:78
 msgid "Install from Google Play"
 msgstr "ഗൂഗിൾ പ്ലേയിൽ നിന്നും ഇൻസ്റ്റാൾ ചെയ്യുക"
 
-#: package/contents/ui/FullRepresentation.qml:102
+#: package/contents/ui/FullRepresentation.qml:88
 msgid "Install from F-Droid"
 msgstr "എഫ്-ഡ്രോയ്ഡിൽ നിന്നും ഇൻസ്റ്റാൾ ചെയ്യുക"
 
-#: package/contents/ui/main.qml:63
+#: package/contents/ui/main.qml:49
 msgid "KDE Connect Settings..."
 msgstr "കെ ഡി ഇ കണക്ട് സജ്ജീകരണങ്ങൾ"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-02-05 03:43+0100\n"
+"POT-Creation-Date: 2020-08-15 02:24+0200\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -20,90 +20,106 @@ msgstr ""
 "X-Generator: Weblate 3.9.1\n"
 
 #: package/contents/config/config.qml:29
+#, kde-format
 msgid "Location"
 msgstr "സ്ഥാനം"
 
 #: package/contents/config/config.qml:36
 #: package/contents/ui/ConfigIcons.qml:220
 #: package/contents/ui/FolderViewLayer.qml:412
+#, kde-format
 msgid "Icons"
 msgstr "ചിഹ്നങ്ങള്‍"
 
 #: package/contents/config/config.qml:43
+#, kde-format
 msgid "Filter"
 msgstr "അരിപ്പ"
 
 #: package/contents/ui/BackButtonItem.qml:116
+#, kde-format
 msgid "Back"
 msgstr "പുറകോട്ട്"
 
 #: package/contents/ui/ConfigFilter.qml:76
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Files:"
 msgstr "ഫയലുകള്‍:"
 
 #: package/contents/ui/ConfigFilter.qml:77
+#, kde-format
 msgid "Show all"
 msgstr "എല്ലാം കാണിക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:77
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Show matching"
 msgstr "പൊരുത്തമുള്ളത് മാത്രം കാണിക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:77
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Hide matching"
 msgstr "പൊരുത്തമുള്ളവ മറയ്ക്കുക "
 
 #: package/contents/ui/ConfigFilter.qml:82
+#, kde-format
 msgid "File name pattern:"
 msgstr "ഫയലിന്റെ പേരിലെ പാറ്റേണ്‍:"
 
 #: package/contents/ui/ConfigFilter.qml:88
+#, kde-format
 msgid "File types:"
 msgstr "ഫയലിന്റെ തരങ്ങള്‍:"
 
 #: package/contents/ui/ConfigFilter.qml:90
+#, kde-format
 msgid "Search..."
 msgstr "തിരയുക..."
 
 #: package/contents/ui/ConfigFilter.qml:188
+#, kde-format
 msgid "File type"
 msgstr "ഫയലിന്റെ തരം"
 
 #: package/contents/ui/ConfigFilter.qml:197
+#, kde-format
 msgid "Description"
 msgstr "വിവരണം"
 
 #: package/contents/ui/ConfigFilter.qml:211
+#, kde-format
 msgid "Select All"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
 #: package/contents/ui/ConfigFilter.qml:222
+#, kde-format
 msgid "Deselect All"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കാത്തതാക്കുക"
 
 #: package/contents/ui/ConfigIcons.qml:75
+#, kde-format
 msgid "Panel button:"
 msgstr "പാനൽ ബട്ടൺ:"
 
 #: package/contents/ui/ConfigIcons.qml:81
+#, kde-format
 msgid "Use a custom icon"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:115
-#, fuzzy
+#, fuzzy, kde-format
 msgctxt "@item:inmenu Open icon chooser dialog"
 msgid "Choose..."
 msgstr "പരതുക..."
 
 #: package/contents/ui/ConfigIcons.qml:121
+#, kde-format
 msgctxt "@item:inmenu Reset icon to default"
 msgid "Clear Icon"
 msgstr "ചിഹ്നം മായ്ക്കുക"
 
 #: package/contents/ui/ConfigIcons.qml:140
+#, kde-format
 msgid "Arrangement:"
 msgstr "ചിഹ്നങ്ങളുടെ അടുക്കിവയ്ക്കല്‍"
 
@@ -120,25 +136,24 @@ msgid "Columns"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:149
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Align left"
 msgstr "ഇടത്തേക്ക് ചേര്‍ത്ത്"
 
 #: package/contents/ui/ConfigIcons.qml:149
+#, kde-format
 msgid "Align right"
 msgstr "വലത്തേക്ക് ചേര്‍ത്ത്"
 
 #: package/contents/ui/ConfigIcons.qml:164
+#, kde-format
 msgid "Lock in place"
 msgstr "സ്ഥാനത്തു് പൂട്ടുക"
 
 #: package/contents/ui/ConfigIcons.qml:177
+#, kde-format
 msgid "Sorting:"
 msgstr "വിന്യാസക്രമം:"
-
-#: package/contents/ui/ConfigIcons.qml:185
-msgid "Manual"
-msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:185
 #: plugins/folder/viewpropertiesmenu.cpp:38
@@ -164,6 +179,11 @@ msgstr "തരമനുസരിച്ചു്"
 msgid "Date"
 msgstr "തിയ്യതിയ്ക്കനുസരിച്ചു്"
 
+#: package/contents/ui/ConfigIcons.qml:185
+#, kde-format
+msgid "Manual"
+msgstr ""
+
 #: package/contents/ui/ConfigIcons.qml:196
 #: plugins/folder/viewpropertiesmenu.cpp:55
 #, kde-format
@@ -171,19 +191,23 @@ msgid "Descending"
 msgstr "അവരോഹണക്രമത്തിൽ"
 
 #: package/contents/ui/ConfigIcons.qml:204
+#, kde-format
 msgid "Folders first"
 msgstr "അറകളാദ്യം"
 
 #: package/contents/ui/ConfigIcons.qml:218
+#, kde-format
 msgctxt "whether to use icon or list view"
 msgid "View mode:"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:220
+#, kde-format
 msgid "List"
 msgstr "പട്ടിക"
 
 #: package/contents/ui/ConfigIcons.qml:231
+#, kde-format
 msgid "Icon size:"
 msgstr "ചിഹ്നത്തിന്റെ വലിപ്പം:"
 
@@ -200,10 +224,12 @@ msgid "Large"
 msgstr "വലുതു്"
 
 #: package/contents/ui/ConfigIcons.qml:264
+#, kde-format
 msgid "Label width:"
 msgstr "പേരിന്റെ വീതി:"
 
 #: package/contents/ui/ConfigIcons.qml:267
+#, kde-format
 msgid "Narrow"
 msgstr "ഇടുങ്ങിയത്"
 
@@ -214,126 +240,147 @@ msgid "Medium"
 msgstr "ഇടത്തരം"
 
 #: package/contents/ui/ConfigIcons.qml:269
+#, kde-format
 msgid "Wide"
 msgstr "വീതിയില്‍"
 
 #: package/contents/ui/ConfigIcons.qml:277
+#, kde-format
 msgid "Text lines:"
 msgstr "പദാവലി വരികള്‍"
 
 #: package/contents/ui/ConfigIcons.qml:293
+#, kde-format
 msgid "Features:"
 msgstr "വിശേഷതകൾ:"
 
 #: package/contents/ui/ConfigIcons.qml:295
+#, kde-format
 msgid "Tooltips"
 msgstr "സൂചനകള്‍"
 
 #: package/contents/ui/ConfigIcons.qml:302
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Selection markers"
 msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
 #: package/contents/ui/ConfigIcons.qml:309
+#, kde-format
 msgid "Folder preview popups"
 msgstr ""
 
 #: package/contents/ui/ConfigIcons.qml:315
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Preview thumbnails"
 msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
 
 #: package/contents/ui/ConfigIcons.qml:323
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Configure Preview Plugins..."
 msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
 
 #: package/contents/ui/ConfigLocation.qml:93
+#, kde-format
 msgid "Show:"
 msgstr "കാണിക്കുക:"
 
 #: package/contents/ui/ConfigLocation.qml:95
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Desktop folder"
 msgstr "പണിയിട അറ കാണിയ്ക്കുക"
 
 #: package/contents/ui/ConfigLocation.qml:102
+#, kde-format
 msgid "Files linked to the current activity"
 msgstr "നിലവിലത്തെ പരിപാടിയുമായി ബന്ധപ്പെട്ട ഫയലുകള്‍"
 
 #: package/contents/ui/ConfigLocation.qml:109
+#, kde-format
 msgid "Places panel item:"
 msgstr ""
 
 #: package/contents/ui/ConfigLocation.qml:142
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Custom location:"
 msgstr "സ്ഥാനം"
 
 #: package/contents/ui/ConfigLocation.qml:150
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Type path or URL..."
 msgstr "ഒരു വഴിയോ യുആര്‍എല്ലോ ഇവിടെ ടൈപ്പ് ചെയ്യുക"
 
 #: package/contents/ui/ConfigLocation.qml:191
+#, kde-format
 msgid "Title:"
 msgstr ""
 
 #: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
 msgid "None"
 msgstr "ഒന്നുമല്ല"
 
 #: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
 msgid "Default"
 msgstr ""
 
 #: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
 msgid "Full path"
 msgstr ""
 
 #: package/contents/ui/ConfigLocation.qml:193
+#, kde-format
 msgid "Custom title"
 msgstr "ഇച്ഛാനുസൃത തലക്കെട്ട്"
 
 #: package/contents/ui/ConfigLocation.qml:208
+#, kde-format
 msgid "Enter custom title..."
 msgstr "ഇച്ഛാനുസൃത തലക്കെട്ട് നൽകുക..."
 
 #: package/contents/ui/ConfigOverlay.qml:101
+#, kde-format
 msgid "Rotate"
 msgstr "തിരിക്കുക"
 
 #: package/contents/ui/ConfigOverlay.qml:192
+#, kde-format
 msgid "Open Externally"
 msgstr ""
 
 #: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
 msgid "Hide Background"
 msgstr "പശ്ചാത്തലം മറയ്ക്കുക"
 
 #: package/contents/ui/ConfigOverlay.qml:204
+#, kde-format
 msgid "Show Background"
 msgstr "പശ്ചാത്തലം കാണിക്കുക"
 
 #: package/contents/ui/ConfigOverlay.qml:252
+#, kde-format
 msgid "Remove"
 msgstr ""
 
 #: package/contents/ui/FolderItemPreviewPluginsDialog.qml:36
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Preview Plugins"
 msgstr "കണ്ടുനോക്കുന്നതു് പ്രാവര്‍ത്തികമാക്കുക"
 
 #: package/contents/ui/FolderItemPreviewPluginsDialog.qml:94
+#, kde-format
 msgid "OK"
 msgstr ""
 
 #: package/contents/ui/FolderItemPreviewPluginsDialog.qml:107
+#, kde-format
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
 
 #: package/contents/ui/main.qml:361
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Configure Desktop..."
 msgstr "പണിയിടം ക്രമീകരിക്കുക"
 
@@ -373,7 +420,7 @@ msgstr "തുറക്കുക (&O)"
 msgid "&Paste"
 msgstr "ഒട്ടിക്കുക (&P)"
 
-#: plugins/folder/foldermodel.cpp:1849
+#: plugins/folder/foldermodel.cpp:1855
 #, kde-format
 msgid "&Properties"
 msgstr "ഗുണഗണങ്ങള്‍ (&P)"

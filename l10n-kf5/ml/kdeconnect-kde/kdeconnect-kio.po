@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-18 02:35+0200\n"
+"POT-Creation-Date: 2020-08-18 02:18+0200\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -18,37 +18,37 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 3.9.1\n"
 
-#: kiokdeconnect.cpp:94
+#: kiokdeconnect.cpp:80
 #, kde-format
 msgid "Listing devices..."
 msgstr "ഉപകരണങ്ങൾ ലിസ്റ്റ് ചെയ്യുന്നു...."
 
-#: kiokdeconnect.cpp:139
+#: kiokdeconnect.cpp:125
 #, kde-format
 msgid "Accessing device..."
 msgstr "ഉപകരണത്തെ സമീപിക്കുന്നു...."
 
-#: kiokdeconnect.cpp:155
+#: kiokdeconnect.cpp:141
 #, kde-format
 msgid "No such device: %0"
 msgstr "അങ്ങനെയൊരു ഉപകരണം ഇല്ല : %0"
 
-#: kiokdeconnect.cpp:162
+#: kiokdeconnect.cpp:148
 #, kde-format
 msgid "%0 is not paired"
 msgstr "%0 ജോടി ചേർത്തിട്ടില്ല"
 
-#: kiokdeconnect.cpp:167
+#: kiokdeconnect.cpp:153
 #, kde-format
 msgid "%0 is not connected"
 msgstr "%0 ബന്ധിപ്പിച്ചിട്ടില്ല"
 
-#: kiokdeconnect.cpp:172
+#: kiokdeconnect.cpp:158
 #, kde-format
 msgid "%0 has no Remote Filesystem plugin"
 msgstr ""
 
-#: kiokdeconnect.cpp:237
+#: kiokdeconnect.cpp:223
 #, kde-format
 msgid "Could not contact background service."
 msgstr ""

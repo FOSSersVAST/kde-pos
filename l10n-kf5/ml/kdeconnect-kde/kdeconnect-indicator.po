@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-22 03:10+0100\n"
+"POT-Creation-Date: 2020-08-18 02:18+0200\n"
 "PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -28,134 +28,134 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "vivekkj2004@gmail.com,adithyak04@gmail.com,subins2000@gmail.com"
 
-#: deviceindicator.cpp:50
+#: deviceindicator.cpp:36
 #, kde-format
 msgid "No Battery"
 msgstr "ബാറ്ററി തീർന്നു"
 
-#: deviceindicator.cpp:52
+#: deviceindicator.cpp:38
 #, kde-format
 msgid "Battery: %1% (Charging)"
 msgstr "ബാറ്ററി: %1% (ചാർജ് ചെയ്തുകൊണ്ടിരിക്കുന്നു.)"
 
-#: deviceindicator.cpp:54
+#: deviceindicator.cpp:40
 #, kde-format
 msgid "Battery: %1%"
 msgstr "ബാറ്ററി: %1%"
 
-#: deviceindicator.cpp:87
+#: deviceindicator.cpp:73
 #, kde-format
 msgid "Browse device"
 msgstr "ഉപകരണം തുറക്കുക"
 
-#: deviceindicator.cpp:95
+#: deviceindicator.cpp:81
 #, kde-format
 msgid "Ring device"
 msgstr ""
 
-#: deviceindicator.cpp:103
+#: deviceindicator.cpp:89
 #, kde-format
 msgid "Send file"
 msgstr "ഫയൽ അയയ്ക്കുക"
 
-#: deviceindicator.cpp:105
+#: deviceindicator.cpp:91
 #, kde-format
 msgid "Select file to send to '%1'"
 msgstr "'%1' ത്തിലേക്ക് അയയ്ക്കാനുള്ള ഫയൽ തിരഞ്ഞെടുക്കുക "
 
-#: deviceindicator.cpp:119
+#: deviceindicator.cpp:105
 #, kde-format
 msgid "SMS Messages..."
 msgstr "എസ്.എം.എസ്. സന്ദേശങ്ങൾ"
 
-#: deviceindicator.cpp:126
+#: deviceindicator.cpp:112
 #, kde-format
 msgid "Run command"
 msgstr "ആജ്ഞ റൺ ചെയ്യുക"
 
-#: deviceindicator.cpp:128
+#: deviceindicator.cpp:114
 #, kde-format
 msgid "Add commands"
 msgstr "ആജ്ഞകൾ കൂട്ടിച്ചേർക്കുക"
 
-#: indicatorhelper_mac.cpp:43
+#: indicatorhelper_mac.cpp:32
 #, kde-format
 msgid "Launching"
 msgstr ""
 
-#: indicatorhelper_mac.cpp:78
+#: indicatorhelper_mac.cpp:67
 #, kde-format
 msgid "Launching daemon"
 msgstr ""
 
-#: indicatorhelper_mac.cpp:84 indicatorhelper_mac.cpp:112
+#: indicatorhelper_mac.cpp:73 indicatorhelper_mac.cpp:101
 #, kde-format
 msgid "KDE Connect"
 msgstr ""
 
-#: indicatorhelper_mac.cpp:85
+#: indicatorhelper_mac.cpp:74
 #, kde-format
 msgid "Cannot find kdeconnectd"
 msgstr "kdeconnectd കണ്ടുപിടിക്കാൻ കഴിഞ്ഞില്ല"
 
-#: indicatorhelper_mac.cpp:93
+#: indicatorhelper_mac.cpp:82
 #, kde-format
 msgid "Waiting D-Bus"
 msgstr "D-Bus നായി കാത്തിരിക്കുന്നു"
 
-#: indicatorhelper_mac.cpp:113
+#: indicatorhelper_mac.cpp:102
 #, kde-format
 msgid ""
 "Cannot connect to DBus\n"
 "KDE Connect will quit"
 msgstr ""
 
-#: indicatorhelper_mac.cpp:124
+#: indicatorhelper_mac.cpp:113
 #, kde-format
 msgid "Loading modules"
 msgstr ""
 
-#: main.cpp:49
+#: main.cpp:35
 #, kde-format
 msgid "KDE Connect Indicator"
 msgstr ""
 
-#: main.cpp:51
+#: main.cpp:37
 #, kde-format
 msgid "KDE Connect Indicator tool"
 msgstr ""
 
-#: main.cpp:53
+#: main.cpp:39
 #, kde-format
 msgid "(C) 2016 Aleix Pol Gonzalez"
 msgstr ""
 
-#: main.cpp:75
+#: main.cpp:61
 #, kde-format
 msgid "Configure..."
 msgstr ""
 
-#: main.cpp:91
+#: main.cpp:77
 #, kde-format
 msgid "Pairing requests"
 msgstr ""
 
-#: main.cpp:96
+#: main.cpp:82
 #, kde-format
 msgid "Pair"
 msgstr ""
 
-#: main.cpp:97
+#: main.cpp:83
 #, kde-format
 msgid "Reject"
 msgstr "നിരസിക്കുക"
 
-#: main.cpp:103
+#: main.cpp:89
 #, kde-format
 msgid "Quit"
 msgstr ""
 
-#: main.cpp:131 main.cpp:145
+#: main.cpp:117 main.cpp:131
 #, kde-format
 msgid "%1 device connected"
 msgid_plural "%1 devices connected"
