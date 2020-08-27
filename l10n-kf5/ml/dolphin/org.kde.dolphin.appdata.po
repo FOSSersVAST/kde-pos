@@ -1,0 +1,100 @@
+# വിവേക് കെ. ജെ. <vivekkj2004@gmail.com>, 2019.
+# Subin Siby <mail@subinsb.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.dolphin.appdata\n"
+"POT-Creation-Date: 2018-11-08 03:42+0100\n"
+"PO-Revision-Date: 2019-12-17 16:14+0530\n"
+"Last-Translator: Subin Siby <mail@subinsb.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.0\n"
+
+#. (itstool) path: component/name
+#: org.kde.dolphin.appdata.xml:6
+msgid "Dolphin"
+msgstr "ഡോൾഫിൻ"
+
+#. (itstool) path: component/summary
+#: org.kde.dolphin.appdata.xml:7
+msgid "File Manager"
+msgstr "ഫയല്‍ കാര്യസ്ഥന്‍"
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:9
+msgid ""
+"Dolphin is a lightweight file manager. It has been designed with ease of use "
+"and simplicity in mind, while still allowing flexibility and customisation. "
+"This means that you can do your file management exactly the way you want to "
+"do it."
+msgstr ""
+"ഡോൾഫിൻ ഒരു ഭാരം കുറഞ്ഞ ഫയൽ മാനേജറാണ്. ഇത് നിർമ്മിച്ചിരിക്കുന്നത് ഉപയോഗിക്കുന്നതിനുള്ള "
+"എളുപ്പത്തിനും , മാനസികമായിയുള്ള എളുപ്പത്തിനുമാണ്, ഒപ്പം തന്നെ അഭിരുചിക്കനുസൃതമാക്കുന്നതിനും വഴക്കം "
+"നൽകുന്നതിനും അനുവദിക്കുന്നു. അതായത് നിങ്ങൾക്ക് നിങ്ങളുടെ ഫയലുകൾ  എങ്ങനെയൊക്കെ കൈകാര്യം ചെയ്യണോ "
+"അങ്ങനെ കൈകാര്യം ചെയ്യാവുന്നതാണ്."
+
+#. (itstool) path: description/p
+#: org.kde.dolphin.appdata.xml:10
+msgid "Features:"
+msgstr "വിശേഷതകൾ:"
+
+#. (itstool) path: ul/li
+#: org.kde.dolphin.appdata.xml:12
+msgid ""
+"Navigation (or breadcrumb) bar for URLs, allowing you to quickly navigate "
+"through the hierarchy of files and folders."
+msgstr ""
+"ഫയലുകളുടെയും അറകളുടെയും ശ്രേണി കണ്ടുപിടിക്കുന്നതിന് URL കൾക്ക്  നാവിഗേഷൻ (അല്ലെങ്കിൽ വഴി "
+"കാട്ടുന്നതിനുള്ള) സ്ഥലം."
+
+#. (itstool) path: ul/li
+#: org.kde.dolphin.appdata.xml:13
+msgid ""
+"Supports several different kinds of view styles and properties and allows "
+"you to configure the view exactly how you want it."
+msgstr ""
+"നിങ്ങൾക്ക് ഇഷ്ടമുള്ള രീതിയിൽ കാണുന്നതിന് ആവശ്യമായിട്ടുള്ള വിവിധ അലങ്കാര രീതികള്‍ക്ക് പിന്തുണ "
+"നൽകുന്നു."
+
+#. (itstool) path: ul/li
+#: org.kde.dolphin.appdata.xml:14
+msgid ""
+"Split view, allowing you to easily copy or move files between locations."
+msgstr "എളുപ്പത്തിൽ ഫയലുകൾ പക‍‍ർത്തുന്നതിനും നീക്കുന്നതിനും സഹായിക്കുന്ന വേർതിരിച്ച കാഴ്ച"
+
+#. (itstool) path: ul/li
+#: org.kde.dolphin.appdata.xml:15
+msgid ""
+"Additional information and shortcuts are available as dock-able panels, "
+"allowing you to move them around freely and display exactly what you want."
+msgstr ""
+"നിങ്ങൾക്ക് ആവശ്യമായിട്ടുള്ള കുറുക്കുവഴികളും വിവരങ്ങളും എളുപ്പത്തിൽ തുറക്കാവുന്ന ഭാഗങ്ങളായി ലഭ്യമാണ്."
+
+#. (itstool) path: ul/li
+#: org.kde.dolphin.appdata.xml:16
+msgid "Multiple tab support"
+msgstr "അനേക  ടാബുകളുടെ പിൻതുണ"
+
+#. (itstool) path: ul/li
+#: org.kde.dolphin.appdata.xml:17
+msgid "Informational dialogues are displayed in an unobtrusive way."
+msgstr "വിവരങ്ങൾ അച്ചടക്കമുള്ള രീതിയിൽ ദൃശ്യമാകുന്നു."
+
+#. (itstool) path: ul/li
+#: org.kde.dolphin.appdata.xml:18
+msgid "Undo/redo support"
+msgstr "നിഷ്ക്രിയമാക്കുക/വീണ്ടും ചെയ്യുക പിന്തുണയ്ക്കുന്നു"
+
+#. (itstool) path: ul/li
+#: org.kde.dolphin.appdata.xml:19
+msgid "Transparent network access through the KIO system."
+msgstr "KIO സിസ്റ്റത്തിലൂടെ ശൃംഖലയെ സമീപിക്കുന്നു."
+
+#. (itstool) path: screenshot/caption
+#: org.kde.dolphin.appdata.xml:28
+msgid "File management in Dolphin"
+msgstr "ഡോൾഫിനിലെ ഫയൽ കൈകാര്യം ചെയ്യൽ"
