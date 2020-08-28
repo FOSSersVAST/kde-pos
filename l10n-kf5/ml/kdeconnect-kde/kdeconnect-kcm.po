@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-18 02:18+0200\n"
+"POT-Creation-Date: 2020-08-18 11:00+0200\n"
 "PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -16,146 +16,166 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 3.9.1\n"
 
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "വിവേക് കെ ജെ | VIVEK K J"
 
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "vivekkj2004@gmail.com"
 
+#. +> trunk5 stable5
 #: kcm.cpp:33
 #, kde-format
 msgid "KDE Connect Settings"
 msgstr "കെ ഡി ഇ കണക്ട് സജ്ജീകരണങ്ങൾ"
 
+#. +> trunk5 stable5
 #: kcm.cpp:35
 #, kde-format
 msgid "KDE Connect Settings module"
 msgstr "കെ ഡി ഇ കണക്ട് സജ്ജീകരണഭാഗം"
 
+#. +> trunk5 stable5
 #: kcm.cpp:37
 #, kde-format
 msgid "(C) 2015 Albert Vaca Cintora"
 msgstr ""
 
+#. +> trunk5 stable5
 #: kcm.cpp:41
 #, kde-format
 msgid "Albert Vaca Cintora"
 msgstr ""
 
+#. +> trunk5 stable5
 #: kcm.cpp:248
 #, kde-format
 msgid "Available plugins"
 msgstr "ലഭ്യമായിട്ടുള്ള സംയോജകങ്ങൾ"
 
+#. +> trunk5 stable5
 #: kcm.cpp:301
 #, kde-format
 msgid "Error trying to pair: %1"
 msgstr "ബന്ധപ്പെടാൻ ശ്രമിക്കുന്നതിൽ പിശക്:%1"
 
+#. +> trunk5 stable5
 #: kcm.cpp:322
 #, kde-format
 msgid "(paired)"
 msgstr "(ബന്ധിച്ചു)"
 
+#. +> trunk5 stable5
 #: kcm.cpp:325
 #, kde-format
 msgid "(not paired)"
 msgstr "(ബന്ധിച്ചിട്ടില്ല)"
 
+#. +> trunk5 stable5
 #: kcm.cpp:328
 #, kde-format
 msgid "(incoming pair request)"
 msgstr ""
 
+#. +> trunk5 stable5
 #: kcm.cpp:331
 #, kde-format
 msgid "(pairing requested)"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, rename_label)
+#. +> trunk5 stable5
 #: kcm.ui:47
 #, kde-format
 msgid "KDE Connect"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QToolButton, renameShow_button)
+#. +> trunk5 stable5
 #: kcm.ui:70
 #, kde-format
 msgid "Edit"
 msgstr "തിരുത്തുക"
 
 #. i18n: ectx: property (text), widget (QToolButton, renameDone_button)
+#. +> trunk5 stable5
 #: kcm.ui:92
 #, kde-format
 msgid "Save"
 msgstr "സേവ്"
 
 #. i18n: ectx: property (text), widget (QPushButton, refresh_button)
+#. +> trunk5 stable5
 #: kcm.ui:108
 #, kde-format
 msgid "Refresh"
 msgstr "പുതുക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, name_label)
+#. +> trunk5 stable5
 #: kcm.ui:155
 #, kde-format
 msgid "Device"
 msgstr "ഉപകരണം"
 
 #. i18n: ectx: property (text), widget (QLabel, status_label)
+#. +> trunk5 stable5
 #: kcm.ui:171
 #, kde-format
 msgid "(status)"
 msgstr "(സ്ഥിതിവിവരം)"
 
 #. i18n: ectx: property (text), widget (QPushButton, accept_button)
+#. +> trunk5 stable5
 #: kcm.ui:210
 #, kde-format
 msgid "Accept"
 msgstr "സ്വീകരിക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, reject_button)
+#. +> trunk5 stable5
 #: kcm.ui:217
 #, kde-format
 msgid "Reject"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, pair_button)
+#. +> trunk5 stable5
 #: kcm.ui:230
 #, kde-format
 msgid "Request pair"
 msgstr "ബന്ധപ്പെടുന്നതിനായി അപേക്ഷിക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, unpair_button)
+#. +> trunk5 stable5
 #: kcm.ui:243
 #, kde-format
 msgid "Unpair"
 msgstr "വിച്ഛേദിക്കുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, ping_button)
+#. +> trunk5 stable5
 #: kcm.ui:256
 #, kde-format
 msgid "Send ping"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, noDeviceLinks)
+#. +> trunk5 stable5
 #: kcm.ui:294
 #, kde-format
 msgid ""
-"<html><head/><body><p>No device selected.<br><br>If you own an Android "
-"device, make sure to install the <a href=\"https://play.google.com/store/"
-"apps/details?id=org.kde.kdeconnect_tp\"><span style=\" text-decoration: "
-"underline; color:#4c6b8a;\">KDE Connect Android app</span></a> (also "
-"available <a href=\"https://f-droid.org/repository/browse/?fdid=org.kde."
-"kdeconnect_tp\"><span style=\" text-decoration: underline; color:#4c6b8a;"
-"\">from F-Droid</span></a>) and it should appear in the list.<br><br>If you "
-"are having problems, visit the <a href=\"https://community.kde.org/KDEConnect"
-"\"><span style=\" text-decoration: underline; color:#4c6b8a;\">KDE Connect "
-"Community wiki</span></a> for help.</p></body></html>"
+"<html><head/><body>"
+"<p>No device selected.<br>"
+"<br>"
+"If you own an Android device, make sure to install the <a href=\"https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp\"><span style=\" text-decoration: underline; color:#4c6b8a;\">KDE Connect Android app</span></a> (also available <a href=\"https://f-droid.org/repository/browse/?fdid=org.kde.kdeconnect_tp\"><span style=\" text-decoration: underline; color:#4c6b8a;\">from F-Droid</span></a>) and it should appear in the list.<br>"
+"<br>"
+"If you are having problems, visit the <a href=\"https://community.kde.org/KDEConnect\"><span style=\" text-decoration: underline; color:#4c6b8a;\">KDE Connect Community wiki</span></a> for help.</p>"
+"</body></html>"
 msgstr ""

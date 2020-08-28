@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-23 02:16+0200\n"
+"POT-Creation-Date: 2020-08-28 09:37+0200\n"
 "PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -16,358 +16,422 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 3.9.1\n"
 
-#: battery/batteryplugin.cpp:138
+#. +> trunk5 stable5
+#: battery/batteryplugin.cpp:129
 #, kde-format
 msgctxt "device name: low battery"
 msgid "%1: Low Battery"
 msgstr "%1: ബാറ്ററി കുറവാണ്"
 
-#: battery/batteryplugin.cpp:138
+#. +> trunk5 stable5
+#: battery/batteryplugin.cpp:129
 #, kde-format
 msgid "Battery at %1%"
 msgstr "ബാറ്ററി ചാർജ് %1%"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk5 stable5
 #: findthisdevice/findthisdevice_config.ui:17
 #, kde-format
 msgid "Discovery Utilities"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel)
+#. +> trunk5 stable5
 #: findthisdevice/findthisdevice_config.ui:25
 #, kde-format
 msgid "Sound to play:"
 msgstr "ശബ്ദിക്കേണ്ട ശബ്ദം:"
 
 #. i18n: ectx: property (toolTip), widget (KUrlRequester, soundFileRequester)
+#. +> trunk5 stable5
 #: findthisdevice/findthisdevice_config.ui:39
 #, kde-format
 msgid "Select the sound to play"
 msgstr "ശബ്ദിക്കേണ്ട ശബ്ദം തിരഞ്ഞെടുക്കുക"
 
+#. +> trunk5 stable5
 #: mousepad/waylandremoteinput.cpp:46 sftp/sftpplugin-win.cpp:71
 #, kde-format
 msgid "KDE Connect"
 msgstr "കെ.ഡി.ഇ കണക്ട്"
 
+#. +> trunk5 stable5
 #: mousepad/waylandremoteinput.cpp:46
 #, kde-format
 msgid "Use your phone as a touchpad and keyboard"
 msgstr "താങ്കളുടെ ഫോൺ റ്റച്പാഡ് ആയും കീബോർഡായും ഉപയോഗിക്കുക"
 
+#. +> trunk5 stable5
 #: notifications/notification.cpp:117
 #, kde-format
 msgid "Reply"
 msgstr "മറുപടി നല്കുക"
 
+#. +> trunk5 stable5
 #: notifications/sendreplydialog.cpp:27
 #, kde-format
 msgid "Send"
 msgstr "അയക്കുക"
 
 #. i18n: ectx: property (windowTitle), widget (QDialog, SendReplyDialog)
+#. +> trunk5 stable5
 #: notifications/sendreplydialog.ui:14
 #, kde-format
 msgid "Dialog"
 msgstr "ചെറുജാലകം"
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, PauseMusicConfigUi)
+#. +> trunk5 stable5
 #: pausemusic/pausemusic_config.ui:17
 #, kde-format
 msgid "Pause music plugin"
 msgstr "സംഗീത പ്ലഗ്ഗിൻ താൽകാലികമായി നിർത്തുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk5 stable5
 #: pausemusic/pausemusic_config.ui:32
 #, kde-format
 msgid "Condition"
 msgstr "അവസ്ഥ"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rad_ringing)
+#. +> trunk5 stable5
 #: pausemusic/pausemusic_config.ui:38
 #, kde-format
 msgid "Pause as soon as phone rings"
 msgstr "ഫോൺ റിങ് ചെയ്യുമ്പോൾ താൽകാലികമായി നിർത്തുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, rad_talking)
+#. +> trunk5 stable5
 #: pausemusic/pausemusic_config.ui:45
 #, kde-format
 msgid "Pause only while talking"
 msgstr "സംസാരിക്കുമ്പോൾ മാത്രം നിർത്തുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk5 stable5
 #: pausemusic/pausemusic_config.ui:61
 #, kde-format
 msgid "Actions"
 msgstr "നടപടികൾ"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_pause)
+#. +> trunk5 stable5
 #: pausemusic/pausemusic_config.ui:67
 #, kde-format
 msgid "Pause media players"
 msgstr "മാധ്യമ പ്ലെയറുകൾ താൽകാലികമായി നിർത്തുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_mute)
+#. +> trunk5 stable5
 #: pausemusic/pausemusic_config.ui:74
 #, kde-format
 msgid "Mute system sound"
 msgstr "സിസ്റ്റത്തിന്റെ ശബ്ദം നിശബ്ദമാക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_resume)
+#. +> trunk5 stable5
 #: pausemusic/pausemusic_config.ui:81
 #, kde-format
 msgid "Automatically resume media when call has finished"
 msgstr ""
 
+#. +> trunk5 stable5
 #: ping/pingplugin.cpp:35
 #, kde-format
 msgid "Ping!"
 msgstr ""
 
+#. +> trunk5
 #: runcommand/runcommand_config.cpp:38
 #, kde-format
 msgid "Shutdown"
 msgstr ""
 
+#. +> trunk5
 #: runcommand/runcommand_config.cpp:39
 #, kde-format
 msgid "Reboot"
 msgstr ""
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:40
 #, kde-format
 msgid "Suspend"
 msgstr "മയങ്ങുക"
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:41
 #, kde-format
 msgid "Maximum Brightness"
 msgstr "പരമാവധി തെളിച്ചം"
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:42
 #, kde-format
 msgid "Lock Screen"
 msgstr "സ്ക്രീൻ ലോക്ക് ചെയ്യുക"
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:43
 #, kde-format
 msgid "Unlock Screen"
 msgstr "സ്‌ക്രീനിന്റെ പൂട്ട് തുറക്കുക"
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:44
 #, kde-format
 msgid "Close All Vaults"
 msgstr ""
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:45
 #, kde-format
 msgid "Forcefully Close All Vaults"
 msgstr ""
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:52
 #, kde-format
 msgid "Sample commands"
 msgstr "ഉദ്ദാഹരണ ആജ്ഞകൾ"
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:61
 #: sendnotifications/notifyingapplicationmodel.cpp:194
 #, kde-format
 msgid "Name"
 msgstr "പേര്"
 
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:61
 #, kde-format
 msgid "Command"
 msgstr "ആജ്ഞ"
 
+#. +> trunk5 stable5
 #: screensaver-inhibit/screensaverinhibitplugin.cpp:29
 #, kde-format
 msgid "Phone is connected"
 msgstr "ഫോൺ ബന്ധപ്പെടുത്തിയിരിക്കുന്നു"
 
+#. +> trunk5 stable5
 #: sendnotifications/notifyingapplicationmodel.cpp:198
 #, kde-format
 msgid "Blacklisted"
 msgstr "ബ്ലാക്ക്ലിസ്റ്റ് ചെയ്തിരിക്കുന്നു"
 
+#. +> trunk5 stable5
 #: sendnotifications/notifyingapplicationmodel.cpp:202
 #, kde-format
 msgid "Name of a notifying application."
 msgstr ""
 
+#. +> trunk5 stable5
 #: sendnotifications/notifyingapplicationmodel.cpp:204
 #, kde-format
 msgid "Synchronize notifications of an application?"
 msgstr ""
 
+#. +> trunk5 stable5
 #: sendnotifications/notifyingapplicationmodel.cpp:206
 #, kde-format
 msgid ""
 "Regular expression defining which notifications should not be sent.\n"
-"This pattern is applied to the summary and, if selected above, the body of "
-"notifications."
+"This pattern is applied to the summary and, if selected above, the body of notifications."
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:38
 #, kde-format
 msgid "General"
 msgstr "പൊതുവായത്"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, check_persistent)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:44
 #, kde-format
 msgid "Synchronize only notifications with a timeout value of 0?"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_persistent)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:47
 #, kde-format
 msgid "Persistent notifications only"
 msgstr "സ്ഥിരമായിട്ടുള്ള അറിയിപ്പുകൾ മാത്രം"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, check_body)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:60
 #, kde-format
-msgid ""
-"Append the notification body to the summary when synchronizing notifications?"
+msgid "Append the notification body to the summary when synchronizing notifications?"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_body)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:63
 #, kde-format
 msgid "Include body"
 msgstr "ബോഡി ഉൾപ്പെടുത്തുക"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, check_icons)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:76
 #, kde-format
 msgid "Synchronize icons of notifying applications if possible?"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_icons)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:79
 #, kde-format
 msgid "Synchronize icons"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QSpinBox, spin_urgency)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:107
 #, kde-format
 msgid ""
-"<html><head/><body><p>Minimum urgency level of the notifications</p></body></"
-"html>"
+"<html><head/><body>"
+"<p>Minimum urgency level of the notifications</p>"
+"</body></html>"
 msgstr ""
-"<html><head/><body><p>അറിയിപ്പുകളുടെ ഏറ്റവും കുറഞ്ഞ അത്യാവിശ്യകത</p></body></html>"
+"<html><head/><body>"
+"<p>അറിയിപ്പുകളുടെ ഏറ്റവും കുറഞ്ഞ അത്യാവിശ്യകത</p>"
+"</body></html>"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:123
 #, kde-format
 msgid "Synchronize only notifications with the given urgency level."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:126
 #, kde-format
 msgid "Minimum urgency level"
 msgstr "ഏറ്റവും കുറഞ്ഞ ആവശ്യകത"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:148
 #, kde-format
 msgid "Applications"
 msgstr "ആപ്ലിക്കേഷനുകൾ"
 
+#. +> trunk5 stable5
 #: sftp/mounter.cpp:171
 #, kde-format
 msgid "Failed to start sshfs"
 msgstr "sshfs തുടങ്ങുവാൻ സാധിച്ചില്ല"
 
+#. +> trunk5 stable5
 #: sftp/mounter.cpp:175
 #, kde-format
 msgid "sshfs process crashed"
 msgstr "sshfs പ്രക്രിയ തകർന്നു"
 
+#. +> trunk5 stable5
 #: sftp/mounter.cpp:179
 #, kde-format
 msgid "Unknown error in sshfs"
 msgstr "sshfs-ൽ അറിയപ്പെടാത്ത പിശക് "
 
+#. +> trunk5 stable5
 #: sftp/mounter.cpp:193
 #, kde-format
 msgid "Error when accessing filesystem. sshfs finished with exit code %0"
 msgstr ""
 
+#. +> trunk5 stable5
 #: sftp/mounter.cpp:202
 #, kde-format
 msgid "Failed to mount filesystem: device not responding"
 msgstr "ഫയൽസിസ്റ്റം ഘടിപ്പിക്കാൻ സാധിച്ചില്ല: ഉപകരണം മറുപടി നല്കുന്നില്ല"
 
+#. +> trunk5 stable5
 #: sftp/sftpplugin-win.cpp:71
 #, kde-format
 msgid "Cannot handle SFTP protocol. Apologies for the inconvenience"
 msgstr ""
 
+#. +> trunk5 stable5
 #: sftp/sftpplugin.cpp:139
 #, kde-format
 msgid "All files"
 msgstr "എല്ലാ ഫയലുകളും"
 
+#. +> trunk5 stable5
 #: sftp/sftpplugin.cpp:140
 #, kde-format
 msgid "Camera pictures"
 msgstr "ക്യാമറ ചിത്രങ്ങൾ"
 
+#. +> trunk5 stable5
 #: share/share_config.cpp:24
 #, kde-format
 msgid "&percnt;1 in the path will be replaced with the specific device name."
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, ShareConfigUi)
+#. +> trunk5 stable5
 #: share/share_config.ui:17
 #, kde-format
 msgid "Share plugin settings"
 msgstr "പ്ലഗ്ഗിൻ സജ്ജീകരണങ്ങൾ പങ്കുവെയ്കുക"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk5 stable5
 #: share/share_config.ui:23
 #, kde-format
 msgid "Receiving"
 msgstr "കിട്ടുന്നു "
 
 #. i18n: ectx: property (text), widget (QLabel, label)
+#. +> trunk5 stable5
 #: share/share_config.ui:31
 #, kde-format
 msgid "Save files in:"
 msgstr "ഫയലുകൾ സേവ് ചെയ്യേണ്ടത്:"
 
+#. +> trunk5 stable5
 #: share/shareplugin.cpp:193
 #, kde-format
 msgid "Could not share file"
 msgstr "ഫയൽ പങ്കുവെയ്ക്കാൻ സാധിച്ചില്ല"
 
+#. +> trunk5 stable5
 #: share/shareplugin.cpp:193
 #, kde-format
 msgid "%1 does not exist"
 msgstr "%1 നിലനിൽക്കുന്നില്ല"
 
+#. +> trunk5 stable5
 #: telephony/telephonyplugin.cpp:28
 #, kde-format
 msgid "unknown number"
 msgstr "അപരിചിത നമ്പർ"
 
+#. +> trunk5 stable5
 #: telephony/telephonyplugin.cpp:37
 #, kde-format
 msgid "Incoming call from %1"
 msgstr "%1 വിളിക്കുന്നു"
 
+#. +> trunk5 stable5
 #: telephony/telephonyplugin.cpp:41
 #, kde-format
 msgid "Missed call from %1"
 msgstr "%1-ൽ നിന്നും ഒരു മിസ്ഡ് കോൾ"
 
+#. +> trunk5 stable5
 #: telephony/telephonyplugin.cpp:69
 #, kde-format
 msgid "Mute Call"

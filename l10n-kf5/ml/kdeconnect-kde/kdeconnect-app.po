@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-18 02:18+0200\n"
+"POT-Creation-Date: 2020-08-18 11:00+0200\n"
 "PO-Revision-Date: 2020-01-28 02:48+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -16,188 +16,224 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 3.9.1\n"
 
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:19
 #, kde-format
 msgid "KDE Connect"
 msgstr "കെ.ഡി.ഇ കണക്റ്റ്"
 
+#. +> trunk5 stable5
 #: main.cpp:19
 #, kde-format
 msgid "(c) 2015, Aleix Pol Gonzalez"
 msgstr "(c) 2015, അലെയ്‌സ് പോൽ ഗോൺസാലസ്"
 
+#. +> trunk5 stable5
 #: main.cpp:20
 #, kde-format
 msgid "Aleix Pol Gonzalez"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:20
 #, kde-format
 msgid "Maintainer"
 msgstr "പരിപാലകൻ"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:24
 #, kde-format
 msgid "Unpair"
 msgstr "മറക്കുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:29
 #, kde-format
 msgid "Send Ping"
 msgstr "ഒന്ന് മുട്ടുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:52
 #, kde-format
 msgid "Multimedia control"
 msgstr "മൾട്ടിമീഡിയ നിയന്ത്രണം"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:59
 #, kde-format
 msgid "Remote input"
 msgstr "വിദൂര ഇൻപുട്ട്"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:66 qml/presentationRemote.qml:15
 #, kde-format
 msgid "Presentation Remote"
 msgstr "വിദൂര അവതരണം"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:75
 #, kde-format
 msgid "Unlock"
 msgstr "പൂട്ടുതുറക്കുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:75
 #, kde-format
 msgid "Lock"
 msgstr "പൂട്ടുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:82
 #, kde-format
 msgid "Find Device"
 msgstr "ഉപകരണം കണ്ടെത്തുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:87 qml/runcommand.qml:16
 #, kde-format
 msgid "Run command"
 msgstr "കമാൻഡ് പ്രവർത്തിപ്പിക്കുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:95
 #, kde-format
 msgid "Share File"
 msgstr "ഫയൽ പങ്കിടുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:100 qml/volume.qml:16
 #, kde-format
 msgid "Volume control"
 msgstr "ശബ്ദ നിയന്ത്രണം"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:109
 #, fuzzy, kde-format
 msgid "This device is not paired"
 msgstr "ഈ ഉപകരണം എത്തിച്ചേരാന്‍ കഴിയുന്നതല്ല"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:113 qml/FindDevicesPage.qml:23
 #, kde-format
 msgid "Pair"
 msgstr "ജോഡിചേരുക"
 
+#. +> trunk5
 #: qml/DevicePage.qml:126
 #, kde-format
 msgid "Pair requested"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:132
 #, kde-format
 msgid "Accept"
 msgstr "അംഗീകരിക്കുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:138
 #, kde-format
 msgid "Reject"
 msgstr "നിരസിക്കുക"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:147
 #, kde-format
 msgid "This device is not reachable"
 msgstr "ഈ ഉപകരണം എത്തിച്ചേരാന്‍ കഴിയുന്നതല്ല"
 
+#. +> trunk5 stable5
 #: qml/DevicePage.qml:155
 #, kde-format
 msgid "Please choose a file"
 msgstr "ഒരു ഫയൽ തിരഞ്ഞെടുക്കുക"
 
+#. +> trunk5 stable5
 #: qml/FindDevicesPage.qml:38
 #, kde-format
 msgid "No devices found"
 msgstr "ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല"
 
+#. +> trunk5 stable5
 #: qml/FindDevicesPage.qml:51
 #, kde-format
 msgid "Remembered"
 msgstr "ഓർമ്മിച്ചത്"
 
+#. +> trunk5 stable5
 #: qml/FindDevicesPage.qml:53
 #, kde-format
 msgid "Available"
 msgstr "ലഭ്യമായത്"
 
+#. +> trunk5 stable5
 #: qml/FindDevicesPage.qml:55
 #, kde-format
 msgid "Connected"
 msgstr "ബന്ധിപ്പിച്ചു"
 
+#. +> trunk5 stable5
 #: qml/main.qml:22
 #, kde-format
 msgid "Find devices..."
 msgstr "ഉപകരണങ്ങൾ കണ്ടെത്തുക..."
 
+#. +> trunk5 stable5
 #: qml/mousepad.qml:16
 #, kde-format
 msgid "Remote Control"
 msgstr "വിദൂര നിയന്ത്രണം"
 
+#. +> trunk5 stable5
 #: qml/mpris.qml:19
 #, kde-format
 msgid "Multimedia Controls"
 msgstr "മൾട്ടിമീഡിയ നിയന്ത്രണങ്ങൾ"
 
+#. +> trunk5 stable5
 #: qml/mpris.qml:61
 #, kde-format
 msgid "No players available"
 msgstr "പ്ലെയറുകൾ ലഭ്യമല്ല"
 
+#. +> trunk5 stable5
 #: qml/mpris.qml:109
 #, kde-format
 msgid "%1 - %2"
 msgstr "%1 - %2"
 
+#. +> trunk5 stable5
 #: qml/presentationRemote.qml:20
 #, kde-format
 msgid "Enable Full-Screen"
 msgstr "ഫുള്‍സ്‌ക്രീൻ പ്രവര്‍ത്തനസജ്ജമാക്കുക"
 
+#. +> trunk5 stable5
 #: qml/runcommand.qml:21
 #, kde-format
 msgid "Edit commands"
 msgstr "കമാൻഡുകൾ എഡിറ്റുചെയ്യുക"
 
+#. +> trunk5 stable5
 #: qml/runcommand.qml:24
 #, kde-format
 msgid "You can edit commands on the connected device"
 msgstr "കണക്റ്റുചെയ്‌ത ഉപകരണത്തിൽ നിങ്ങൾക്ക് കമാൻഡുകൾ എഡിറ്റുചെയ്യാനാകും"
 
+#. +> trunk5 stable5
 #: qml/runcommand.qml:43
 #, kde-format
 msgid "No commands defined"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-18 02:18+0200\n"
+"POT-Creation-Date: 2020-08-18 11:00+0200\n"
 "PO-Revision-Date: 2020-03-31 17:51+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -16,23 +16,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 3.9.1\n"
 
+#. +> trunk5 stable5
 #: dbushelpers.h:19 dbushelpers.h:29
 #, kde-format
 msgid "error: "
 msgstr "പിശകു്: "
 
+#. +> trunk5 stable5
 #: devicesmodel.cpp:250
 #, kde-format
 msgid "Device trusted and connected"
 msgstr "ഉപകരണം വിശ്വസിക്കപ്പെടുകയും ബന്ധിപ്പിക്കുകയും ചെയ്തിട്ടുണ്ട്"
 
+#. +> trunk5 stable5
 #: devicesmodel.cpp:250
 #, kde-format
 msgid "Device not trusted"
 msgstr "ഉപകരണം വിശ്വസിക്കപ്പെട്ടിട്ടില്ല"
 
+#. +> trunk5 stable5
 #: devicesmodel.cpp:250
 #, kde-format
 msgid "Device disconnected"

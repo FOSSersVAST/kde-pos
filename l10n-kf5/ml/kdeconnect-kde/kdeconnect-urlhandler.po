@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-18 02:18+0200\n"
+"POT-Creation-Date: 2020-08-18 11:00+0200\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -16,53 +16,62 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 3.9.1\n"
 
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "വിവേക് കെ ജെ,സുബിന്‍ സിബി"
 
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "vivekkj2004@gmail.com,mail@subinsb.com"
 
+#. +> trunk5 stable5
 #: kdeconnect-handler.cpp:34
 #, kde-format
 msgid "KDE Connect URL handler"
 msgstr "കെ ഡി ഇ കണക്ട് URL ഹൻഡിലേർ"
 
+#. +> trunk5 stable5
 #: kdeconnect-handler.cpp:40
 #, kde-format
 msgid "(C) 2017 Aleix Pol Gonzalez"
 msgstr "(C) 2017 അലെയ്‌സ് പോൽ ഗോൺസാലസ്"
 
+#. +> trunk5 stable5
 #: kdeconnect-handler.cpp:48
 #, kde-format
 msgid "URL to share"
 msgstr "പങ്കുവയ്ക്കാനുള്ള URL"
 
+#. +> trunk5 stable5
 #: kdeconnect-handler.cpp:78
 #, kde-format
 msgid "Device to call %1 with:"
 msgstr "%1 ഏത് ഉപകരണം വെച്ച് വിളിക്കണം:"
 
+#. +> trunk5 stable5
 #: kdeconnect-handler.cpp:81
 #, kde-format
 msgid "Device to open %1 on:"
 msgstr "%1 ഏത് ഉപകരണത്തില്‍ തുറക്കണം:"
 
+#. +> trunk5 stable5
 #: kdeconnect-handler.cpp:84
 #, fuzzy, kde-format
 msgid "Device to send a SMS with:"
 msgstr "%1 ഏത് ഉപകരണത്തിലേക്ക് അയയ്ക്കണം:"
 
+#. +> trunk5 stable5
 #: kdeconnect-handler.cpp:87
 #, kde-format
 msgid "Device to send %1 to:"
 msgstr "%1 ഏത് ഉപകരണത്തിലേക്ക് അയയ്ക്കണം:"
 
+#. +> trunk5 stable5
 #: kdeconnect-handler.cpp:104
 #, kde-format
 msgid "Couldn't share %1"

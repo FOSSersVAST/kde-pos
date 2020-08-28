@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-25 02:19+0200\n"
+"POT-Creation-Date: 2020-08-25 10:23+0200\n"
 "PO-Revision-Date: 2020-01-13 03:16+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -17,152 +17,187 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
+#. +> trunk5 stable5
 #: conversationlistmodel.cpp:203
 #, kde-format
 msgid "You: %1"
 msgstr ""
 
+#. +> stable5
+#: conversationlistmodel.cpp:206 conversationmodel.cpp:135
+#, kde-format
+msgid "(Unsupported Message Type)"
+msgstr ""
+
+#. +> trunk5 stable5
 #: conversationlistmodel.cpp:209
 #, kde-format
 msgid "%1: %2"
 msgstr ""
 
+#. +> trunk5 stable5
 #: conversationlistmodel.cpp:248 conversationlistmodel.cpp:270
 #, kde-format
 msgid "%1"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:30 qml/main.qml:21
 #, kde-format
 msgid "KDE Connect SMS"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:32
 #, kde-format
 msgid "SMS Instant Messaging"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:34
 #, kde-format
 msgid "(C) 2018-2019, KDE Connect Team"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:35
 #, kde-format
 msgid "Simon Redman"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:36
 #, kde-format
 msgid "Aleix Pol Gonzalez"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:37
 #, kde-format
 msgid "Nicolas Fella"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:45
 #, kde-format
 msgid "Select a device"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:45
 #, kde-format
 msgid "id"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:46
 #, kde-format
 msgid "Send a message"
 msgstr ""
 
+#. +> trunk5 stable5
 #: main.cpp:46
 #, kde-format
 msgid "message"
 msgstr ""
 
+#. +> trunk5
 #: qml/AttachmentViewer.qml:34
 #, kde-format
 msgid "Open with default"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ChatMessage.qml:154
 #, kde-format
 msgid "Copy Message"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ChatMessage.qml:159
 #, kde-format
 msgid "Copy Selection"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationDisplay.qml:201
 #, kde-format
 msgid "Compose message"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:24 qml/ConversationList.qml:105
 #, kde-format
 msgid "No devices available"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:34
 #, kde-format
-msgid ""
-"No new messages can be sent or received, but you can browse cached content"
+msgid "No new messages can be sent or received, but you can browse cached content"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:40
 #, kde-format
 msgid "Refresh"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:53
 #, kde-format
 msgid "No matched results found : ("
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:91
 #, kde-format
 msgid "Choose recipient"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:96
 #, kde-format
 msgid "Cancel"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:154
 #, kde-format
 msgid "Filter..."
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:186
 #, kde-format
 msgid "New"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/ConversationList.qml:191
 #, kde-format
 msgid "Start new conversation"
 msgstr ""
 
+#. +> trunk5 stable5
 #: qml/main.qml:36
 #, kde-format
 msgid "About..."
 msgstr ""
 
+#. +> trunk5
 #: qml/MessageAttachments.qml:131
 #, kde-format
 msgid "Audio clip"

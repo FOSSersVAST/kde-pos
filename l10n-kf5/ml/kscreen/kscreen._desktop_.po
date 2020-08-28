@@ -2,59 +2,65 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 00:26+0000\n"
+"POT-Creation-Date: 2020-06-19 10:15+0200\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 3.9.1\n"
 
+#. +> trunk5 stable5 plasma5lts
 #: kcm/kcm_kscreen.desktop:11 plasmoid/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr "ക്രമീകരണങ്ങൾ പ്രദർശിപ്പിക്കുക"
 
+#. +> trunk5 stable5 plasma5lts
 #: kcm/kcm_kscreen.desktop:53 kcm/package/metadata.desktop:45
 msgctxt "Comment"
 msgid "Manage and configure monitors and displays"
 msgstr "മോണിറ്ററുകളും ഡിസ്പ്ലേയും കൈകാര്യം ചെയ്യുക"
 
+#. +> trunk5 stable5 plasma5lts
 #: kcm/kcm_kscreen.desktop:101
 msgctxt "X-KDE-Keywords"
-msgid ""
-"display,monitor,scale,scaling,resolution,orientation,outputs,screen,refresh"
+msgid "display,monitor,scale,scaling,resolution,orientation,outputs,screen,refresh"
 msgstr "പ്രദർശനം,മോണിറ്റർ,സ്കെയിൽ,അനുപാതം,അഭിവിന്യാസം,ഔട്പുട്ടുകൾ,സ്ക്രീൻ,പുതുക്കൽ"
 
+#. +> trunk5 stable5 plasma5lts
 #: kcm/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Displays"
 msgstr "പ്രദർശനങ്ങൾ"
 
+#. +> trunk5 stable5 plasma5lts
 #: kded/kscreen.desktop.cmake:2
 msgctxt "Name"
 msgid "KScreen 2"
 msgstr "കെസ്ക്രീൻ 2"
 
+#. +> trunk5 stable5 plasma5lts
 #: kded/kscreen.desktop.cmake:50
 msgctxt "Comment"
 msgid "Screen management"
 msgstr "സ്ക്രീൻ നടത്തിപ്പ്"
 
+#. +> trunk5 stable5 plasma5lts
 #: plasma/plasma-applet-kscreen.desktop.cmake:2
 msgctxt "Name"
 msgid "Quick Display Configuration"
 msgstr "ശീഘ്ര പ്രദർശന ക്രമീകരണം"
 
+#. +> trunk5 stable5 plasma5lts
 #: plasma/plasma-applet-kscreen.desktop.cmake:44
 msgctxt "Comment"
 msgid "Quick configuration of a new display"
 msgstr "പുതിയ പ്രദർശനത്തിന്റെ ശീഘ്ര ക്രമീകരണം"
 
+#. +> trunk5 stable5 plasma5lts
 #: plasmoid/package/metadata.desktop:44
 msgctxt "Comment"
 msgid "Quickly switch between screen layouts and presentation mode"
