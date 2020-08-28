@@ -8,26 +8,27 @@ msgstr ""
 "Project-Id-Version: kcmkio trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-08-27 09:47+0200\n"
-"PO-Revision-Date: 2008-07-10 11:17+0530\n"
-"Last-Translator: Manu S Madhav | മനു എസ് മാധവ് <manusmad@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2020-08-28 18:16+0000\n"
+"Last-Translator: Subin Siby admin <subins2000@gmail.com>\n"
+"Language-Team: Malayalam <https://kde.smc.org.in/projects/kde/kiokio5/ml/>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #. +> trunk5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Manu S Madhav | മനു എസ് മാധവ്"
+msgstr "Manu S Madhav | മനു എസ് മാധവ്,സുബിൻ സിബി"
 
 #. +> trunk5
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "manusmad@gmail.com"
+msgstr "manusmad@gmail.com,mail@subinsb.com"
 
 #. +> trunk5
 #: core/chmodjob.cpp:195
@@ -76,7 +77,7 @@ msgstr "ചവറ്റുകുട്ട"
 #: core/desktopexecparser.cpp:322
 #, kde-format
 msgid "No Exec field in %1"
-msgstr ""
+msgstr "%1-ൽ \"Exec\" ഫീൽഡ് ഇല്ല"
 
 #. +> trunk5
 #: core/desktopexecparser.cpp:347
