@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-05-14 23:09+0200\n"
 "PO-Revision-Date: 2019-01-09 03:29+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,7 +65,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: fortisslvpn.ui:102
 #, kde-format
-msgid "Set the name used for authenticating the local system to the peer to <name>."
+msgid ""
+"Set the name used for authenticating the local system to the peer to <name>."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, passwordLabel)

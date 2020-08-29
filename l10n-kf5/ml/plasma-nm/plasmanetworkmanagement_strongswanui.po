@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-05-14 23:09+0200\n"
 "PO-Revision-Date: 2018-08-16 09:15+0200\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +43,9 @@ msgstr ""
 #: strongswanauth.cpp:118
 #, kde-format
 msgctxt "@label:textbox error message while saving configuration"
-msgid "Configuration uses ssh-agent for authentication, but no ssh-agent found running."
+msgid ""
+"Configuration uses ssh-agent for authentication, but no ssh-agent found "
+"running."
 msgstr ""
 
 #. i18n: ectx: property (windowTitle), widget (QWidget, StrongswanAuth)

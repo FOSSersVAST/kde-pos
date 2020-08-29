@@ -5,7 +5,8 @@ msgstr ""
 "POT-Creation-Date: 2020-06-19 10:15+0200\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +28,8 @@ msgstr "മോണിറ്ററുകളും ഡിസ്പ്ലേയു�
 #. +> trunk5 stable5 plasma5lts
 #: kcm/kcm_kscreen.desktop:101
 msgctxt "X-KDE-Keywords"
-msgid "display,monitor,scale,scaling,resolution,orientation,outputs,screen,refresh"
+msgid ""
+"display,monitor,scale,scaling,resolution,orientation,outputs,screen,refresh"
 msgstr "പ്രദർശനം,മോണിറ്റർ,സ്കെയിൽ,അനുപാതം,അഭിവിന്യാസം,ഔട്പുട്ടുകൾ,സ്ക്രീൻ,പുതുക്കൽ"
 
 #. +> trunk5 stable5 plasma5lts

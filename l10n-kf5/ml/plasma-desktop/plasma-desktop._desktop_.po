@@ -237,7 +237,8 @@ msgstr "ഒരു മോഡിഫയര്‍ കീ സജീവമായിര
 #. +> trunk5 stable5 plasma5lts
 #: kaccess/kaccess.notifyrc:175
 msgctxt "Comment"
-msgid "A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now active"
 msgstr "ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട് അല്ലെങ്കില്‍ കണ്ട്രോള്‍) അവസ്ഥ മാറി സജീവമായിരിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
@@ -249,7 +250,8 @@ msgstr "ഒരു മോഡിഫയര്‍ കീ നിര്‍ജീവമ
 #. +> trunk5 stable5 plasma5lts
 #: kaccess/kaccess.notifyrc:332
 msgctxt "Comment"
-msgid "A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has changed its state and is now inactive"
 msgstr "ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട് അല്ലെങ്കില്‍ കണ്ട്രോള്‍) അവസ്ഥ മാറി നിര്‍ജീവമായിരിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
@@ -261,8 +263,12 @@ msgstr "ഒരു മോഡിഫയര്‍ കീ പൂട്ടിയിര
 #. +> trunk5 stable5 plasma5lts
 #: kaccess/kaccess.notifyrc:489
 msgctxt "Comment"
-msgid "A modifier key (e.g. Shift or Ctrl) has been locked and is now active for all of the following keypresses"
-msgstr "ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട്  അല്ലെങ്കില്‍ കണ്ട്രോള്‍) പൂട്ടിയിരിക്കുന്നു. നിലവില്‍ താഴെ പറയുന്ന കീപ്രെസ്സുകള്‍ക്കു് ഇതു് സജീവമാണു്"
+msgid ""
+"A modifier key (e.g. Shift or Ctrl) has been locked and is now active for "
+"all of the following keypresses"
+msgstr ""
+"ഒരു മോഡിഫയര്‍ കീ (ഉദാ. ഷിഫ്ട്  അല്ലെങ്കില്‍ കണ്ട്രോള്‍) പൂട്ടിയിരിക്കുന്നു. നിലവില്‍ താഴെ പറയുന്ന "
+"കീപ്രെസ്സുകള്‍ക്കു് ഇതു് സജീവമാണു്"
 
 #. +> trunk5 stable5 plasma5lts
 #: kaccess/kaccess.notifyrc:568
@@ -273,8 +279,11 @@ msgstr "ഒരു ലോക്ക് കീ സജീവമാക്കിയി
 #. +> trunk5 stable5 plasma5lts
 #: kaccess/kaccess.notifyrc:648
 msgctxt "Comment"
-msgid "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now active"
-msgstr "ഒരു ലോക്ക് കീ (ഉദാ. കാപ്സ് ലോക്ക് അല്ലെങ്കില്‍ നം ലോക്ക്) അവസ്ഥ മാറി സജീവമാക്കിയിരിക്കുന്നു"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"active"
+msgstr ""
+"ഒരു ലോക്ക് കീ (ഉദാ. കാപ്സ് ലോക്ക് അല്ലെങ്കില്‍ നം ലോക്ക്) അവസ്ഥ മാറി സജീവമാക്കിയിരിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: kaccess/kaccess.notifyrc:727
@@ -285,8 +294,11 @@ msgstr "ഒരു ലോക്ക് കീ നിര്‍ജ്ജീവമാ
 #. +> trunk5 stable5 plasma5lts
 #: kaccess/kaccess.notifyrc:807
 msgctxt "Comment"
-msgid "A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now inactive"
-msgstr "ഒരു ലോക്ക് കീ (ഉദാ. കാപ്സ് ലോക്ക് അല്ലെങ്കില്‍ നം ലോക്ക്) അവസ്ഥ മാറി നിര്‍ജീവമായിരിക്കുന്നു"
+msgid ""
+"A lock key (e.g. Caps Lock or Num Lock) has changed its state and is now "
+"inactive"
+msgstr ""
+"ഒരു ലോക്ക് കീ (ഉദാ. കാപ്സ് ലോക്ക് അല്ലെങ്കില്‍ നം ലോക്ക്) അവസ്ഥ മാറി നിര്‍ജീവമായിരിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: kaccess/kaccess.notifyrc:886
@@ -351,7 +363,11 @@ msgstr "പ്രാപ്യതാസാധ്യതകൾ"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/access/kcmaccess.desktop:160
 msgctxt "X-KDE-Keywords"
-msgid "access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,visible bell,visual bell,Keyboard,keys,sticky keys,bounce keys,slow keys,mouse navigation,num pad,numpad,activation gestures,gestures,sticky,modifier keys,modifier,locking keys"
+msgid ""
+"access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
+"visible bell,visual bell,Keyboard,keys,sticky keys,bounce keys,slow keys,"
+"mouse navigation,num pad,numpad,activation gestures,gestures,sticky,modifier "
+"keys,modifier,locking keys"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -427,7 +443,10 @@ msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/componentchooser/componentchooser.desktop:152
 msgctxt "X-KDE-Keywords"
-msgid "default applications,components,component chooser,resources,e-mail,email client,text editor,instant messenger,terminal emulator,web browser,URL,hyperlinks"
+msgid ""
+"default applications,components,component chooser,resources,e-mail,email "
+"client,text editor,instant messenger,terminal emulator,web browser,URL,"
+"hyperlinks"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -439,8 +458,12 @@ msgstr "വെബ് ബ്രൌസര്‍"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/componentchooser/componentservices/kcm_browser.desktop:77
 msgctxt "Comment"
-msgid "Here you can configure your default web browser. All KDE applications in which you can select hyperlinks should honor this setting."
-msgstr "നിങ്ങളുടെ സഹജമായ വെബ് ബ്രൌസര്‍ നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ഹൈപ്പര്‍കണ്ണികള്‍ തെരഞ്ഞെടുക്കാന്‍ സാധ്യമാകുന്ന എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
+msgid ""
+"Here you can configure your default web browser. All KDE applications in "
+"which you can select hyperlinks should honor this setting."
+msgstr ""
+"നിങ്ങളുടെ സഹജമായ വെബ് ബ്രൌസര്‍ നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ഹൈപ്പര്‍കണ്ണികള്‍ തെരഞ്ഞെടുക്കാന്‍ "
+"സാധ്യമാകുന്ന എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/componentchooser/componentservices/kcm_filemanager.desktop:4
@@ -452,8 +475,13 @@ msgstr "ടാസ്ക് മാനേജര്‍"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/componentchooser/componentservices/kcm_filemanager.desktop:55
 msgctxt "Comment"
-msgid "Here you can configure your default file manager. The entries in the K menu and all KDE applications in which you can open folders will use this file manager."
-msgstr "നിങ്ങളുടെ സ്വാഭാവിക ഫയല്‍ കാര്യസ്ഥന്‍ നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. കെ വിഭവസൂചികയിലുള്ള ഇനങ്ങളും എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഈ ഫയല്‍ കാര്യസ്ഥന്‍ ഉപയോഗിക്കും."
+msgid ""
+"Here you can configure your default file manager. The entries in the K menu "
+"and all KDE applications in which you can open folders will use this file "
+"manager."
+msgstr ""
+"നിങ്ങളുടെ സ്വാഭാവിക ഫയല്‍ കാര്യസ്ഥന്‍ നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. കെ വിഭവസൂചികയിലുള്ള "
+"ഇനങ്ങളും എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഈ ഫയല്‍ കാര്യസ്ഥന്‍ ഉപയോഗിക്കും."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/componentchooser/componentservices/kcm_kemail.desktop:4
@@ -464,8 +492,13 @@ msgstr "ഈമെയില്‍ ക്ലയന്റ്"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/componentchooser/componentservices/kcm_kemail.desktop:77
 msgctxt "Comment"
-msgid "This service allows you to configure your default email client. All KDE applications which need access to an email client application should honor this setting."
-msgstr "നിങ്ങളുടെ സഹജമായ ഇമെയില്‍ ക്ലയന്റ് നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ഇമെയില്‍ ക്ലയന്റ് ഉപയോഗിയ്ക്കാന്‍ ആവശ്യമുള്ള എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
+msgid ""
+"This service allows you to configure your default email client. All KDE "
+"applications which need access to an email client application should honor "
+"this setting."
+msgstr ""
+"നിങ്ങളുടെ സഹജമായ ഇമെയില്‍ ക്ലയന്റ് നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ഇമെയില്‍ ക്ലയന്റ് "
+"ഉപയോഗിയ്ക്കാന്‍ ആവശ്യമുള്ള എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/componentchooser/componentservices/kcm_terminal.desktop:4
@@ -476,8 +509,13 @@ msgstr "ടെര്‍മിനല്‍ എമുലേറ്റര്‍"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/componentchooser/componentservices/kcm_terminal.desktop:77
 msgctxt "Comment"
-msgid "This service allows you to configure your default terminal emulator. All KDE applications which invoke a terminal emulator application should honor this setting."
-msgstr "നിങ്ങളുടെ സഹജമായ ടെര്‍മിനലിന്റെ അനുകരണം നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ടെര്‍മിനലിന്റെ അനുകരണം തുടങ്ങാന്‍ ആവശ്യമുള്ള എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
+msgid ""
+"This service allows you to configure your default terminal emulator. All KDE "
+"applications which invoke a terminal emulator application should honor this "
+"setting."
+msgstr ""
+"നിങ്ങളുടെ സഹജമായ ടെര്‍മിനലിന്റെ അനുകരണം നിങ്ങള്‍ക്കിവിടെ ക്രമീകരിയ്ക്കാം. ടെര്‍മിനലിന്റെ "
+"അനുകരണം തുടങ്ങാന്‍ ആവശ്യമുള്ള എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/dateandtime/clock.desktop:16
@@ -495,7 +533,8 @@ msgstr "തീയതിയും സമയവും"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/dateandtime/clock.desktop:162
 msgctxt "X-KDE-Keywords"
-msgid "clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
+msgid ""
+"clock,date,time,time zone,ntp,synchronize,calendar,local time,region time"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -532,7 +571,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: kcms/desktoppaths/desktoppath.desktop:104
 msgctxt "X-KDE-Keywords"
-msgid "konqueror,dolphin,files,filemanager,path, paths,desktop,directories,autostart,downloads,music,documents,movies,pictures"
+msgid ""
+"konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
+"autostart,downloads,music,documents,movies,pictures"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -550,7 +591,11 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: kcms/formats/formats.desktop:111
 msgctxt "X-KDE-Keywords"
-msgid "language,translation,number format,locale,Country,charsets,character sets,Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,currency,money,fractional digits,calendar,time,date,formats,week,week start,first,paper,size,letter,A4,measure,metric,English,Imperial"
+msgid ""
+"language,translation,number format,locale,Country,charsets,character sets,"
+"Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,"
+"currency,money,fractional digits,calendar,time,date,formats,week,week start,"
+"first,paper,size,letter,A4,measure,metric,English,Imperial"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -588,7 +633,12 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: kcms/input/mouse.desktop:158
 msgctxt "X-KDE-Keywords"
-msgid "Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,Double Click,Single Click,mapping,right handed,left handed,Pointer Device,Mouse Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,Double "
+"Click,Single Click,mapping,right handed,left handed,Pointer Device,Mouse "
+"Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,"
+"Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -633,7 +683,11 @@ msgstr "കീബോര്‍ഡ് വിന്യാസം"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/keyboard/kcm_keyboard.desktop:159
 msgctxt "X-KDE-Keywords"
-msgid "Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,NumPad,Keyboard type,Keyboard model,Keyboard layout,Key layout,Language,Alternate Keyboard,Keyboard switching,Ctrl Key,Caps Lock,Esperanto,Circumflex,Kill X Server,LED Keyboard,Compose Key"
+msgid ""
+"Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
+"NumPad,Keyboard type,Keyboard model,Keyboard layout,Key layout,Language,"
+"Alternate Keyboard,Keyboard switching,Ctrl Key,Caps Lock,Esperanto,"
+"Circumflex,Kill X Server,LED Keyboard,Compose Key"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -680,7 +734,9 @@ msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്�
 #. +> trunk5 stable5 plasma5lts
 #: kcms/keys/kcm_keys.desktop:46
 msgctxt "X-KDE-Keywords"
-msgid "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application shortcuts,global shortcuts"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts,global shortcuts"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -747,13 +803,20 @@ msgstr "പ്രയോഗവിക്ഷേപിണി"
 #. +> trunk5 stable5 plasma5lts
 #: kcms/launch/kcm_launchfeedback.desktop:152
 msgctxt "X-KDE-Keywords"
-msgid "application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,rotating,spinning,disk,startup,program,report,taskbar"
+msgid ""
+"application,start,launch,busy,cursor,feedback,mouse,pointer,bouncing,"
+"rotating,spinning,disk,startup,program,report,taskbar"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/mouse/mouse.desktop:158
 msgctxt "X-KDE-Keywords"
-msgid "Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,mapping,right handed,left handed,Pointer Device,Mouse Wheel,Mouse Emulation,Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,Mouse Sensitivity,Move Mouse with Num Pad,Mouse Num Pad Emulation"
+msgid ""
+"Mouse,Mouse acceleration,Mouse threshold,Mouse buttons,Selection,Cursor "
+"Shape,Input Devices,Button Mapping,Click,icons,feedback,Pointers,Drag,"
+"mapping,right handed,left handed,Pointer Device,Mouse Wheel,Mouse Emulation,"
+"Mouse Navigation,Mouse Drag and Drop,Mouse Scrolling,Mouse Sensitivity,Move "
+"Mouse with Num Pad,Mouse Num Pad Emulation"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1074,7 +1137,9 @@ msgstr "ഉപകരണത്തിനുള്ള പ്രവൃത്തി�
 #, fuzzy
 msgctxt "Comment"
 msgid "Manage actions available to the user when connecting new devices"
-msgstr "കമ്പ്യൂട്ടറില്‍ പുതിയ ഉപകരണങ്ങള്‍ ഘടിപ്പിക്കുമ്പോള്‍ ഉപയോക്താവിന് ലഭ്യമാകുന്ന നടപടികള്‍ കൈകാര്യം ചെയ്യാനുള്ള ക്രമീകരണായുധം"
+msgstr ""
+"കമ്പ്യൂട്ടറില്‍ പുതിയ ഉപകരണങ്ങള്‍ ഘടിപ്പിക്കുമ്പോള്‍ ഉപയോക്താവിന് ലഭ്യമാകുന്ന നടപടികള്‍ കൈകാര്യം "
+"ചെയ്യാനുള്ള ക്രമീകരണായുധം"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/solid_actions/solid-actions.desktop:139
@@ -1232,7 +1297,9 @@ msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂ�
 #. +> trunk5 stable5 plasma5lts
 #: kcms/workspaceoptions/kcm_workspace.desktop:82
 msgctxt "X-KDE-Keywords"
-msgid "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,tooltips,click,single click,double click,animation speed"
+msgid ""
+"plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
+"tooltips,click,single click,double click,animation speed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1270,7 +1337,8 @@ msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
 #. +> trunk5 stable5 plasma5lts
 #: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:52
 msgctxt "Comment"
-msgid "Default panel featuring application launcher, task manager and system tray"
+msgid ""
+"Default panel featuring application launcher, task manager and system tray"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1429,7 +1497,9 @@ msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ 
 #. +> stable5 plasma5lts
 #: kcms/colors/kcm_colors.desktop:144
 msgctxt "X-KDE-Keywords"
-msgid "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color theme"
+msgid ""
+"colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
+"theme"
 msgstr ""
 
 #. +> stable5 plasma5lts
@@ -1452,7 +1522,9 @@ msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ 
 #. +> stable5 plasma5lts
 #: kcms/cursortheme/kcm_cursortheme.desktop:92
 msgctxt "X-KDE-Keywords"
-msgid "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+msgid ""
+"Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
+"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
 msgstr ""
 
 #. +> stable5 plasma5lts
@@ -1527,7 +1599,10 @@ msgstr "സിസ്റ്റത്തിനു് മുഴുവനായു�
 #. +> stable5 plasma5lts
 #: kcms/fonts/kcm_fonts.desktop:143
 msgctxt "X-KDE-Keywords"
-msgid "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,toolbar fonts,character,general fonts"
+msgid ""
+"fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
+"FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
+"toolbar fonts,character,general fonts"
 msgstr ""
 
 #. +> stable5 plasma5lts
@@ -1664,7 +1739,9 @@ msgstr "കീബോര്‍ഡിലെ സ്റ്റാന്‍ഡേര�
 #. +> stable5 plasma5lts
 #: kcms/standard_actions/standard_actions.desktop:105
 msgctxt "X-KDE-Keywords"
-msgid "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application shortcuts"
+msgid ""
+"Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
+"shortcuts"
 msgstr ""
 
 #. +> stable5 plasma5lts
@@ -1696,5 +1773,7 @@ msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂ�
 #. +> stable5 plasma5lts
 #: kcms/style/kcm_style.desktop:87
 msgctxt "X-KDE-Keywords"
-msgid "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,theme,plasma,menu,global menu"
+msgid ""
+"style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
+"theme,plasma,menu,global menu"
 msgstr ""

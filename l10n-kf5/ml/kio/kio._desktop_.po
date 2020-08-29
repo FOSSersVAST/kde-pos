@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-26 08:45+0200\n"
+"POT-Creation-Date: 2020-08-29 13:24+0200\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -151,7 +151,9 @@ msgstr "കണക്ഷന്‍ മുന്‍ഗണനകള്‍"
 #: src/kcms/kio/netpref.desktop:100
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
-msgstr "എത്ര സമയം കാത്തുനില്‍ക്കണം എന്നതുപോലുള്ള പൊതുവായുള്ള ശൃംഖലയുമായി ബന്ധപ്പെട്ട മുന്‍ഗണനകള്‍ ക്രമീകരിയ്ക്കുക"
+msgstr ""
+"എത്ര സമയം കാത്തുനില്‍ക്കണം എന്നതുപോലുള്ള പൊതുവായുള്ള ശൃംഖലയുമായി ബന്ധപ്പെട്ട മുന്‍ഗണനകള്‍ "
+"ക്രമീകരിയ്ക്കുക"
 
 #. +> trunk5
 #: src/kcms/kio/netpref.desktop:185
@@ -192,7 +194,9 @@ msgstr ""
 #. +> trunk5
 #: src/kcms/kio/smb.desktop:138
 msgctxt "X-KDE-Keywords"
-msgid "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,Broadcast,WINS,Share,Login,Passwords"
+msgid ""
+"SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
+"Broadcast,WINS,Share,Login,Passwords"
 msgstr ""
 
 #. +> trunk5
@@ -487,23 +491,23 @@ msgstr ""
 #. +> trunk5
 #: src/kcms/webshortcuts/webshortcuts.desktop:14
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "SearchKeywordsFilter"
 msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "തെരച്ചില്‍ കീവാക്കുകളുടെ അരിപ്പകള്‍"
 
 #. +> trunk5
-#: src/kcms/webshortcuts/webshortcuts.desktop:27
+#: src/kcms/webshortcuts/webshortcuts.desktop:28
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "വെബിലെ അടുത്തുപയോഗിച്ച താളുകള്‍ക്കുള്ള സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
 
 #. +> trunk5
-#: src/kcms/webshortcuts/webshortcuts.desktop:40
+#: src/kcms/webshortcuts/webshortcuts.desktop:42
 msgctxt "X-KDE-Keywords"
-msgid "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,Shortcuts"
+msgid ""
+"Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
+"Internet,Internet Filters,Network,Search Engines,Shortcuts"
 msgstr ""
 
 #. +> trunk5
@@ -577,8 +581,6 @@ msgstr "എച്ച്‌ടിഎംഎല്‍ ഫയലിന്റെ പ�
 #. +> trunk5
 #: src/new_file_templates/linkPath.desktop:2
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Basic link to file or directory..."
 msgctxt "Name"
 msgid "Basic Link to File or Directory..."
 msgstr "ഫയല്‍, തട്ടു് മുതലായവയിലേക്കുള്ള ലളിതമായ ലിങ്ക്"
@@ -641,8 +643,10 @@ msgstr "7ഡിജിറ്റല്‍"
 #: src/urifilters/ikws/searchproviders/7digital.desktop:75
 #, fuzzy
 msgctxt "Query"
-msgid "https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
-msgstr "http://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
+msgid ""
+"https://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
+msgstr ""
+"http://us.7digital.com/Search?search=\\\\{@}&searchtype=global&submit=Search"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/acronym.desktop:3
@@ -668,8 +672,12 @@ msgstr "ഒമാന്‍"
 #: src/urifilters/ikws/searchproviders/amazon.desktop:74
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=\\\\{@}&x=0&y=0"
-msgstr "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-keywords=\\\\{@}&x=0&y=0"
+msgid ""
+"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords="
+"\\\\{@}&x=0&y=0"
+msgstr ""
+"http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
+"keywords=\\\\{@}&x=0&y=0"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:5
@@ -681,8 +689,12 @@ msgstr "ആമസോണ്‍ എംപി3"
 #: src/urifilters/ikws/searchproviders/amazon_mp3.desktop:75
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-keywords=\\\\{@}&x=0&y=0"
-msgstr "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-keywords=\\\\{@}&x=0&y=0"
+msgid ""
+"https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
+"keywords=\\\\{@}&x=0&y=0"
+msgstr ""
+"http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=digital-music&field-"
+"keywords=\\\\{@}&x=0&y=0"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/amg.desktop:4
@@ -714,8 +726,6 @@ msgstr "http://www.backports.org/package.php?search=\\\\{@}"
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/archwiki.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Wikia"
 msgctxt "Name"
 msgid "ArchWiki"
 msgstr "വിക്കിയ"
@@ -736,7 +746,9 @@ msgstr "ഡെബിയന്‍ ബാക്ക് പോര്‍ട്ടു�
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/backports.desktop:89
 msgctxt "Query"
-msgid "https://packages.debian.org/search?suite=squeeze-backports&section=all&arch=any&searchon=names&keywords=\\\\{@}"
+msgid ""
+"https://packages.debian.org/search?suite=squeeze-"
+"backports&section=all&arch=any&searchon=names&keywords=\\\\{@}"
 msgstr ""
 
 #. +> trunk5
@@ -762,8 +774,14 @@ msgstr "ബിയോലിങ്കസ് ഓണ്‍ലൈന്‍ നിഘ�
 #: src/urifilters/ikws/searchproviders/beolingus.desktop:73
 #, fuzzy
 msgctxt "Query"
-msgid "https://dict.tu-chemnitz.de/dings.cgi?lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}&iservice=&comment=&email"
-msgstr "http://dict.tu-chemnitz.de/dings.cgi?lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}&iservice=&comment=&email"
+msgid ""
+"https://dict.tu-chemnitz.de/dings.cgi?"
+"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+"&iservice=&comment=&email"
+msgstr ""
+"http://dict.tu-chemnitz.de/dings.cgi?"
+"lang=de&service=deen&opterrors=0&optpro=0&query=\\\\{@}"
+"&iservice=&comment=&email"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/bing.desktop:3
@@ -782,8 +800,6 @@ msgstr "http://www.flickr.com/search/?q=\\\\{@}"
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/bug.desktop:3
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "KDE Forums"
 msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "കെഡിഇ ഫോറങ്ങള്‍"
@@ -817,7 +833,10 @@ msgstr "സിഐഎ വേള്‍ഡ് ഫാക്റ്റ് ബുക്
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/cia.desktop:89
 msgctxt "Query"
-msgid "https://www.cia.gov/search?q=\\\\{@}&site=WORLD_FACTBOOK&btnG=Search&client=CIA&myAction=/search&proxystylesheet=CIA&submitMethod=get&oe=UTF-8&ie=UTF-8&ud=1"
+msgid ""
+"https://www.cia.gov/search?q=\\\\{@}"
+"&site=WORLD_FACTBOOK&btnG=Search&client=CIA&myAction=/"
+"search&proxystylesheet=CIA&submitMethod=get&oe=UTF-8&ie=UTF-8&ud=1"
 msgstr ""
 
 #. +> trunk5
@@ -830,7 +849,8 @@ msgstr "സൈറ്റ്സിയര്‍: ശാസ്ത്രസാഹി�
 #: src/urifilters/ikws/searchproviders/citeseer.desktop:93
 #, fuzzy
 msgctxt "Query"
-msgid "https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
+msgid ""
+"https://citeseer.ist.psu.edu/search?q=\\\\{@}&submit=Search&sort=rlv&t=doc"
 msgstr "http://citeseer.ist.psu.edu/cs?q=\\\\{@}&submit=Search+Documents&cs=1"
 
 #. +> trunk5
@@ -843,8 +863,11 @@ msgstr "സിപാന്‍ - അനേകം വിഷയങ്ങളടങ�
 #: src/urifilters/ikws/searchproviders/cpan.desktop:93
 #, fuzzy
 msgctxt "Query"
-msgid "https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
-msgstr "http://search.cpan.org/search?mode=\\\\{mode,2,\"dist\"}&query=\\\\{query,q,1}"
+msgid ""
+"https://search.cpan.org/search?mode=\\\\{mode,2,\"\"}&query=\\\\{query,q,1}"
+msgstr ""
+"http://search.cpan.org/search?mode=\\\\{mode,2,\"dist\"}&query=\\\\{query,"
+"q,1}"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/ctan.desktop:3
@@ -868,8 +891,12 @@ msgstr "സിടാന്‍ വിവരപ്പട്ടിക"
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/ctan_cat.desktop:93
 msgctxt "Query"
-msgid "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}&metadataSearchSubmit=Search"
-msgstr "http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}&metadataSearchSubmit=Search"
+msgid ""
+"http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
+"&metadataSearchSubmit=Search"
+msgstr ""
+"http://tug.ctan.org/cgi-bin/search.py?metadataSearch=\\\\{@}"
+"&metadataSearchSubmit=Search"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/dbug.desktop:3
@@ -947,8 +974,6 @@ msgstr "സിഎന്‍ആര്‍ടിഎല്‍/ടിഐഎല്‍�
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/dictfr.desktop:77
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.cnrtl.fr/definition/\\\\{@}"
 msgctxt "Query"
 msgid "https://www.cnrtl.fr/definition/\\\\{@}"
 msgstr "http://www.cnrtl.fr/definition/\\\\{@}"
@@ -1112,8 +1137,10 @@ msgstr "ഫീഡ്സ്റ്റര്‍"
 #: src/urifilters/ikws/searchproviders/feedster.desktop:96
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
-msgstr "http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+msgid ""
+"https://www.feedster.com/index.php?page=search/web&type=Web&search=\\\\{@}"
+msgstr ""
+"http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/flickr.desktop:5
@@ -1261,8 +1288,20 @@ msgstr "ഗൂഗിളില്‍ തിരയുക"
 #: src/urifilters/ikws/searchproviders/google_advanced.desktop:95
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt=\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}&ie=UTF-8&oe=UTF-8"
-msgstr "http://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt=\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}&ie=UTF-8&oe=UTF-8"
+msgid ""
+"https://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
+"&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+"\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\"
+"\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt="
+"\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}"
+"&ie=UTF-8&oe=UTF-8"
+msgstr ""
+"http://www.google.com/search?as_q=\\\\{all,@}&num=\\\\{num,\"10\"}"
+"&btnG=Google+Search&as_epq=\\\\{exact,\"\"}&as_oq=\\\\{any,\"\"}&as_eq=\\"
+"\\{without,\"\"}&lr=\\\\{lang,\"\"}&as_ft=\\\\{ft,\"i\"}&as_filetype=\\"
+"\\{filetype,\"\"}&as_qdr=\\\\{date,\"all\"}&as_occt=\\\\{occ,\"any\"}&as_dt="
+"\\\\{siteop,\"i\"}&as_sitesearch=\\\\{site}&safe=\\\\{safe,\"active\"}"
+"&ie=UTF-8&oe=UTF-8"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/google_code.desktop:5
@@ -1314,8 +1353,12 @@ msgstr "ഗൂഗിള്‍ (ഞാന്‍ ഭാഗ്യവാനാണെ
 #: src/urifilters/ikws/searchproviders/google_lucky.desktop:95
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8"
-msgstr "http://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling+Lucky&ie=UTF-8&oe=UTF-8"
+msgid ""
+"https://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
+"+Lucky&ie=UTF-8&oe=UTF-8"
+msgstr ""
+"http://www.google.com/search?q=\\\\{@}&btnI=I%27m+Feeling"
+"+Lucky&ie=UTF-8&oe=UTF-8"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/google_maps.desktop:3
@@ -1496,8 +1539,12 @@ msgstr "ആസ്ക് ജീവ്സ്"
 #: src/urifilters/ikws/searchproviders/jeeves.desktop:95
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.ask.com/main/askJeeves.asp?origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
-msgstr "http://www.ask.com/main/askJeeves.asp?origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
+msgid ""
+"https://www.ask.com/main/askJeeves.asp?"
+"origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
+msgstr ""
+"http://www.ask.com/main/askJeeves.asp?"
+"origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/kde.desktop:6
@@ -1535,8 +1582,12 @@ msgstr "കെഡിഇ ഫോറങ്ങള്‍"
 #: src/urifilters/ikws/searchproviders/kde_forums.desktop:74
 #, fuzzy
 msgctxt "Query"
-msgid "https://forum.kde.org/search.php?keywords=\\\\{@}&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
-msgstr "http://forum.kde.org/search.php?keywords=\\\\{@}&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&feed_type=NONE&feed_style=HTML&countlimit=100&t=0&sid=77c16bc0abb91ff1347597c69835d5bd&submit=Search"
+msgid ""
+"https://forum.kde.org/search.php?keywords=\\\\{@}"
+"&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&countlimit=100&t=0&submit=Search"
+msgstr ""
+"http://forum.kde.org/search.php?keywords=\\\\{@}"
+"&terms=all&author=&tags=&sv=0&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&feed_type=NONE&feed_style=HTML&countlimit=100&t=0&sid=77c16bc0abb91ff1347597c69835d5bd&submit=Search"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/kde_look.desktop:5
@@ -1599,8 +1650,6 @@ msgstr "മാഗ്നാട്യൂണ്‍"
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/magnatune.desktop:75
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 msgctxt "Query"
 msgid "https://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
 msgstr "http://my.magnatune.com/search?w=\\\\{@}&t=m&x=0&y=0"
@@ -1731,7 +1780,9 @@ msgstr "ടെലിഫോണ്‍ബുക്ക് തെരച്ചില�
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/nl-telephone.desktop:91
 msgctxt "Query"
-msgid "https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\\\{2}"
+msgid ""
+"https://www.detelefoongids.nl/\\\\{1}/\\\\{2}/10-1/?oWhat=\\\\{1}&oWhere=\\"
+"\\{2}"
 msgstr ""
 
 #. +> trunk5
@@ -1757,8 +1808,10 @@ msgstr "പണിയിടം"
 #: src/urifilters/ikws/searchproviders/opendesktop.desktop:74
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
-msgstr "http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+msgid ""
+"https://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
+msgstr ""
+"http://www.opendesktop.org/content/search.php?search=Search&name=\\\\{@}"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/pgpkeys.desktop:3
@@ -1796,8 +1849,12 @@ msgstr "പൈത്തണ്‍ സഹായക ഗ്രന്ഥം "
 #: src/urifilters/ikws/searchproviders/python.desktop:95
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.google.com/search?sourceid=python-search&q=\\\\{@}&submit=Search&q=site%3Apython.org"
-msgstr "http://www.google.com/search?sourceid=python-search&q=\\\\{@}&submit=Search&q=site%3Apython.org"
+msgid ""
+"https://www.google.com/search?sourceid=python-search&q=\\\\{@}"
+"&submit=Search&q=site%3Apython.org"
+msgstr ""
+"http://www.google.com/search?sourceid=python-search&q=\\\\{@}"
+"&submit=Search&q=site%3Apython.org"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/qt.desktop:5
@@ -1996,8 +2053,12 @@ msgstr "സോഴ്സ്ഫോര്‍ജ്"
 #: src/urifilters/ikws/searchproviders/sourceforge.desktop:95
 #, fuzzy
 msgctxt "Query"
-msgid "https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\\\{exact,\"0\"}&words=\\\\{@}"
-msgstr "http://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\\\{exact,\"0\"}&words=\\\\{@}"
+msgid ""
+"https://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
+"\\{exact,\"0\"}&words=\\\\{@}"
+msgstr ""
+"http://sourceforge.net/search/?type_of_search=\\\\{type,\"soft\"}&exact=\\"
+"\\{exact,\"0\"}&words=\\\\{@}"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/technorati.desktop:3
@@ -2010,7 +2071,8 @@ msgstr "ടെക്നോറാറ്റി"
 #, fuzzy
 msgctxt "Query"
 msgid "https://technorati.com/search?return=sites&authority=high&q=\\\\{@}"
-msgstr "http://technorati.com/cosmos/search.html?sourceid=kde-search&url=\\\\{@}"
+msgstr ""
+"http://technorati.com/cosmos/search.html?sourceid=kde-search&url=\\\\{@}"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/technoratitags.desktop:3
@@ -2073,8 +2135,12 @@ msgstr "യു.എസ് പേറ്റന്റ് ഡേറ്റാബെയ
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/uspto.desktop:94
 msgctxt "Query"
-msgid "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
-msgstr "http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
+msgid ""
+"http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
+"&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
+msgstr ""
+"http://patft.uspto.gov/netacgi/nph-Parser?TERM1=\\\\{@}"
+"&Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/srchnum.htm&r=0&f=S&l=50"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/vimeo.desktop:5
@@ -2098,8 +2164,6 @@ msgstr "വോയിലാ"
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/voila.desktop:98
 #, fuzzy
-#| msgctxt "Query"
-#| msgid "http://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
 msgctxt "Query"
 msgid "https://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
 msgstr "http://www.voila.com/S/geek?an=1&kw=\\\\{@}&dt=*"
@@ -2127,8 +2191,11 @@ msgstr "വിക്കിയ"
 #: src/urifilters/ikws/searchproviders/wikia.desktop:74
 #, fuzzy
 msgctxt "Query"
-msgid "https://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
-msgstr "http://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
+msgid ""
+"https://www.wikia.com/Special:Search?search=\\\\{@}"
+"&wikia_search_submit=Search"
+msgstr ""
+"http://www.wikia.com/Special:Search?search=\\\\{@}&wikia_search_submit=Search"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/wikipedia.desktop:4
@@ -2191,7 +2258,9 @@ msgstr ""
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/yahoo.desktop:76
 msgctxt "Query"
-msgid "https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\\\{@}&x=0&y=0&=Web+Search"
+msgid ""
+"https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
+"\\{@}&x=0&y=0&=Web+Search"
 msgstr ""
 
 #. +> trunk5
@@ -2204,8 +2273,12 @@ msgstr "യാഹൂ ചിത്രങ്ങള്‍"
 #: src/urifilters/ikws/searchproviders/yahoo_image.desktop:74
 #, fuzzy
 msgctxt "Query"
-msgid "https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-t-701"
-msgstr "http://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-t-701"
+msgid ""
+"https://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
+"ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-t-701"
+msgstr ""
+"http://images.search.yahoo.com/search/images;_ylt=A0geuy0K6JZLsVkB4m1XNyoA?"
+"ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-web&fr=yfp-t-701"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/yahoo_local.desktop:5
@@ -2217,8 +2290,10 @@ msgstr "യാഹൂ പ്രാദേശികം"
 #: src/urifilters/ikws/searchproviders/yahoo_local.desktop:73
 #, fuzzy
 msgctxt "Query"
-msgid "https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
-msgstr "http://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
+msgid ""
+"https://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
+msgstr ""
+"http://local.yahoo.com/results?stx=\\\\{@}&ei=UTF-8&fr=yfp-t-701&fr2=tab-img"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:5
@@ -2230,8 +2305,14 @@ msgstr "യാഹൂ ഷോപ്പിങ്ങ്"
 #: src/urifilters/ikws/searchproviders/yahoo_shopping.desktop:73
 #, fuzzy
 msgctxt "Query"
-msgid "https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}&fr2=tab-video&fr=yfp-t-701"
-msgstr "http://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}&fr2=tab-video&fr=yfp-t-701"
+msgid ""
+"https://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
+"_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}"
+"&fr2=tab-video&fr=yfp-t-701"
+msgstr ""
+"http://shopping.yahoo.com/search;_ylt=A0SO8ZgG65ZLyX8AsLX7w8QF;"
+"_ylu=X3oDMTBpcjIxMDllBHNlYwN0YWJzBHZ0aWQDVjEwOQ--?cop=mss&ei=UTF-8&p=\\\\{@}"
+"&fr2=tab-video&fr=yfp-t-701"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/yahoo_video.desktop:5
@@ -2243,8 +2324,12 @@ msgstr "യാഹൂ വീഡിയോ"
 #: src/urifilters/ikws/searchproviders/yahoo_video.desktop:73
 #, fuzzy
 msgctxt "Query"
-msgid "https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
-msgstr "http://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
+msgid ""
+"https://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
+"ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
+msgstr ""
+"http://video.search.yahoo.com/search/video;_ylt=A0WTb_3a6JZLSHwAK7.JzbkF?"
+"ei=UTF-8&p=\\\\{@}&y=0&fr2=tab-img&fr=yfp-t-701"
 
 #. +> trunk5
 #: src/urifilters/ikws/searchproviders/youtube.desktop:4

@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-07-15 10:09+0200\n"
 "PO-Revision-Date: 2019-03-05 03:37+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,245 +41,294 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:99
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ConfigFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to ConfigFailedReason"
 msgid "The device could not be configured"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:103
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ConfigUnavailableReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ConfigUnavailableReason"
 msgid "IP configuration was unavailable"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:107
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ConfigExpiredReason"
+msgctxt ""
+"@info:status Notification when the device failed due to ConfigExpiredReason"
 msgid "IP configuration expired"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:111
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to NoSecretsReason"
+msgctxt ""
+"@info:status Notification when the device failed due to NoSecretsReason"
 msgid "No secrets were provided"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:115
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to AuthSupplicantDisconnectReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantDisconnectReason"
 msgid "Authorization supplicant disconnected"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:119
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to AuthSupplicantConfigFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantConfigFailedReason"
 msgid "Authorization supplicant's configuration failed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:123
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to AuthSupplicantFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantFailedReason"
 msgid "Authorization supplicant failed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:127
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to AuthSupplicantTimeoutReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AuthSupplicantTimeoutReason"
 msgid "Authorization supplicant timed out"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:131
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to PppStartFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to PppStartFailedReason"
 msgid "PPP failed to start"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:135
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to PppDisconnectReason"
+msgctxt ""
+"@info:status Notification when the device failed due to PppDisconnectReason"
 msgid "PPP disconnected"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:139
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to PppFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to PppFailedReason"
 msgid "PPP failed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:143
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to DhcpStartFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpStartFailedReason"
 msgid "DHCP failed to start"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:147
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to DhcpErrorReason"
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpErrorReason"
 msgid "A DHCP error occurred"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:151
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to DhcpFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to DhcpFailedReason"
 msgid "DHCP failed "
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:155
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to SharedStartFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"SharedStartFailedReason"
 msgid "The shared service failed to start"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:159
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to SharedFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to SharedFailedReason"
 msgid "The shared service failed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:163
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to AutoIpStartFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"AutoIpStartFailedReason"
 msgid "The auto IP service failed to start"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:167
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to AutoIpErrorReason"
+msgctxt ""
+"@info:status Notification when the device failed due to AutoIpErrorReason"
 msgid "The auto IP service reported an error"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:171
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to AutoIpFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to AutoIpFailedReason"
 msgid "The auto IP service failed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:175
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemBusyReason"
+msgctxt ""
+"@info:status Notification when the device failed due to ModemBusyReason"
 msgid "The modem is busy"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:179
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemNoDialToneReason"
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNoDialToneReason"
 msgid "The modem has no dial tone"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:183
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemNoCarrierReason"
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNoCarrierReason"
 msgid "The modem shows no carrier"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:187
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemDialTimeoutReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ModemDialTimeoutReason"
 msgid "The modem dial timed out"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:191
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemDialFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to ModemDialFailedReason"
 msgid "The modem dial failed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:195
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemInitFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to ModemInitFailedReason"
 msgid "The modem could not be initialized"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:199
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmApnSelectFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmApnSelectFailedReason"
 msgid "The GSM APN could not be selected"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:203
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmNotSearchingReason"
+msgctxt ""
+"@info:status Notification when the device failed due to GsmNotSearchingReason"
 msgid "The GSM modem is not searching"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:207
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmRegistrationDeniedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationDeniedReason"
 msgid "GSM network registration was denied"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:211
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmRegistrationTimeoutReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationTimeoutReason"
 msgid "GSM network registration timed out"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:215
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmRegistrationFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmRegistrationFailedReason"
 msgid "GSM registration failed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:219
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmPinCheckFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"GsmPinCheckFailedReason"
 msgid "The GSM PIN check failed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:223
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to FirmwareMissingReason"
+msgctxt ""
+"@info:status Notification when the device failed due to FirmwareMissingReason"
 msgid "Device firmware is missing"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:227
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to DeviceRemovedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to DeviceRemovedReason"
 msgid "The device was removed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:231
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to SleepingReason"
+msgctxt ""
+"@info:status Notification when the device failed due to SleepingReason"
 msgid "The networking system is now sleeping"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:235
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ConnectionRemovedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ConnectionRemovedReason"
 msgid "The connection was removed"
 msgstr ""
 
@@ -292,35 +342,40 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:248
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemNotFoundReason"
+msgctxt ""
+"@info:status Notification when the device failed due to ModemNotFoundReason"
 msgid "The modem could not be found"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:252
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to BluetoothFailedReason"
+msgctxt ""
+"@info:status Notification when the device failed due to BluetoothFailedReason"
 msgid "The bluetooth connection failed or timed out"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:256
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmSimNotInserted"
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimNotInserted"
 msgid "GSM Modem's SIM Card not inserted"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:260
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmSimPinRequired"
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimPinRequired"
 msgid "GSM Modem's SIM Pin required"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:264
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to GsmSimPukRequired"
+msgctxt ""
+"@info:status Notification when the device failed due to GsmSimPukRequired"
 msgid "GSM Modem's SIM Puk required"
 msgstr ""
 
@@ -334,14 +389,16 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:272
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to InfiniBandMode"
+msgctxt ""
+"@info:status Notification when the device failed due to InfiniBandMode"
 msgid "InfiniBand device does not support connected mode"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:276
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to DependencyFailed"
+msgctxt ""
+"@info:status Notification when the device failed due to DependencyFailed"
 msgid "A dependency of the connection failed"
 msgstr ""
 
@@ -355,7 +412,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:284
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemManagerUnavailable"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"ModemManagerUnavailable"
 msgid "ModemManager not running"
 msgstr ""
 
@@ -369,7 +428,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:292
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to SecondaryConnectionFailed"
+msgctxt ""
+"@info:status Notification when the device failed due to "
+"SecondaryConnectionFailed"
 msgid "A secondary connection of the base connection failed"
 msgstr ""
 
@@ -383,7 +444,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:300
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to TeamdControlFailed"
+msgctxt ""
+"@info:status Notification when the device failed due to TeamdControlFailed"
 msgid "teamd control failed"
 msgstr ""
 
@@ -397,14 +459,16 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:308
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ModemAvailable"
+msgctxt ""
+"@info:status Notification when the device failed due to ModemAvailable"
 msgid "Modem now ready and available"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:312
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to SimPinIncorrect"
+msgctxt ""
+"@info:status Notification when the device failed due to SimPinIncorrect"
 msgid "The SIM PIN was incorrect"
 msgstr ""
 
@@ -425,7 +489,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:324
 #, kde-format
-msgctxt "@info:status Notification when the device failed due to ParentManagedChanged"
+msgctxt ""
+"@info:status Notification when the device failed due to ParentManagedChanged"
 msgid "The device parent's management changed"
 msgstr ""
 
@@ -468,7 +533,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:482
 #, kde-format
-msgid "The VPN connection changed state because the device it was using was disconnected."
+msgid ""
+"The VPN connection changed state because the device it was using was "
+"disconnected."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -492,7 +559,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: notification.cpp:494
 #, kde-format
-msgid "A timeout occurred while starting the service providing the VPN connection."
+msgid ""
+"A timeout occurred while starting the service providing the VPN connection."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -540,7 +608,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: passworddialog.cpp:113
 #, kde-format
-msgid "For accessing the wireless network %1 you need to provide a password below:"
+msgid ""
+"For accessing the wireless network %1 you need to provide a password below:"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -638,7 +707,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: pindialog.cpp:96 pindialog.cpp:128
 #, kde-format
-msgid "The mobile broadband device '%1' requires a %2 code before it can be used."
+msgid ""
+"The mobile broadband device '%1' requires a %2 code before it can be used."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -756,8 +826,10 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, prompt)
 #. +> trunk5 stable5 plasma5lts
 #: pinwidget.ui:76
-#, kde-format, no-c-format
-msgid "The mobile broadband device '%1' requires a SIM PIN code before it can be used."
+#, no-c-format, kde-format
+msgid ""
+"The mobile broadband device '%1' requires a SIM PIN code before it can be "
+"used."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, pukLabel)

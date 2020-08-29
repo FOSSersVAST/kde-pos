@@ -240,7 +240,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Regular expression defining which notifications should not be sent.\n"
-"This pattern is applied to the summary and, if selected above, the body of notifications."
+"This pattern is applied to the summary and, if selected above, the body of "
+"notifications."
 msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
@@ -268,7 +269,8 @@ msgstr "സ്ഥിരമായിട്ടുള്ള അറിയിപ്�
 #. +> trunk5 stable5
 #: sendnotifications/sendnotifications_config.ui:60
 #, kde-format
-msgid "Append the notification body to the summary when synchronizing notifications?"
+msgid ""
+"Append the notification body to the summary when synchronizing notifications?"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, check_body)
@@ -297,13 +299,10 @@ msgstr ""
 #: sendnotifications/sendnotifications_config.ui:107
 #, kde-format
 msgid ""
-"<html><head/><body>"
-"<p>Minimum urgency level of the notifications</p>"
-"</body></html>"
+"<html><head/><body><p>Minimum urgency level of the notifications</p></body></"
+"html>"
 msgstr ""
-"<html><head/><body>"
-"<p>അറിയിപ്പുകളുടെ ഏറ്റവും കുറഞ്ഞ അത്യാവിശ്യകത</p>"
-"</body></html>"
+"<html><head/><body><p>അറിയിപ്പുകളുടെ ഏറ്റവും കുറഞ്ഞ അത്യാവിശ്യകത</p></body></html>"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label)
 #. +> trunk5 stable5

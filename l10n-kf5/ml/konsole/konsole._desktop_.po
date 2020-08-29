@@ -124,8 +124,6 @@ msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്
 #. +> trunk5 stable5
 #: desktop/konsole.notifyrc:795
 #, fuzzy
-#| msgctxt "Name"
-#| msgid "Silence in Monitored Session"
 msgctxt "Name"
 msgid "Process finished in Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
@@ -133,8 +131,6 @@ msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്
 #. +> trunk5 stable5
 #: desktop/konsole.notifyrc:820
 #, fuzzy
-#| msgctxt "Comment"
-#| msgid "Silence detected in a monitored session"
 msgctxt "Comment"
 msgid "Process finished in a monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"

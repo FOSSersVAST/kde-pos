@@ -28,8 +28,12 @@ msgstr "ടെർമിനൽ"
 #. (itstool) path: description/p
 #. +> trunk5 stable5
 #: org.kde.konsole.appdata.xml:9
-msgid "Konsole is a terminal to run a command shell. It provides a command line interface for directly controlling your computer."
-msgstr "കൺസോൾ എന്നത് ആജ്ഞ ഷെൽ റൺ ചെയ്യുന്നതിനുള്ള ഒരു ടെർമിനലാണ്. ഇത് കമ്പ്യൂട്ടറിനെ നേരിട്ട് നിയന്ത്രിക്കുന്നതിനുള്ള ഒരു ആജ്ഞാസ്ഥാനം നല്‍കുന്നു."
+msgid ""
+"Konsole is a terminal to run a command shell. It provides a command line "
+"interface for directly controlling your computer."
+msgstr ""
+"കൺസോൾ എന്നത് ആജ്ഞ ഷെൽ റൺ ചെയ്യുന്നതിനുള്ള ഒരു ടെർമിനലാണ്. ഇത് കമ്പ്യൂട്ടറിനെ നേരിട്ട് "
+"നിയന്ത്രിക്കുന്നതിനുള്ള ഒരു ആജ്ഞാസ്ഥാനം നല്‍കുന്നു."
 
 #. (itstool) path: description/p
 #. +> trunk5 stable5

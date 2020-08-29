@@ -299,7 +299,9 @@ msgstr "മെമ്മറിയെക്കുറിച്ചുള്ള വ�
 #. +> trunk5 stable5 plasma5lts
 #: Modules/memory/kcm_memory.desktop:201
 msgctxt "X-KDE-Keywords"
-msgid "Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System Information"
+msgid ""
+"Memory,RAM,Virtual memory,Physical memory,Shared memory,Swap,System "
+"Information"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -329,7 +331,9 @@ msgstr "ഓപ്പണ്‍ജിഎല്ലിനെക്കുറിച്
 #. +> trunk5 stable5 plasma5lts
 #: Modules/opengl/opengl.desktop:197
 msgctxt "X-KDE-Keywords"
-msgid "OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-Server,XFree86,Display"
+msgid ""
+"OpenGL,DRI,GLX,3D,VideoCard,Hardware Acceleration,Graphics,X,X11,Xserver,X-"
+"Server,XFree86,Display"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts

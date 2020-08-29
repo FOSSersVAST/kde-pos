@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-05-14 23:09+0200\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -54,15 +55,25 @@ msgstr "പിഴവ് അറിയിക്കുന്നതു വഴി ഈ
 #: aboutbugreportingdialog.cpp:54
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "<note>It is safe to close this dialog. If you do not want to, you do not have to file a bug report.</note>"
-msgstr "<note>ഈ ചെറുജാലകം അടയ്ക്കുന്നതില്‍ പ്രശ്നമില്ല. നിങ്ങൾക്ക് താൽപ്പര്യമില്ലെങ്കിൽ, പിഴവ് അറിയിക്കേണ്ടതില്ല.</note>"
+msgid ""
+"<note>It is safe to close this dialog. If you do not want to, you do not "
+"have to file a bug report.</note>"
+msgstr ""
+"<note>ഈ ചെറുജാലകം അടയ്ക്കുന്നതില്‍ പ്രശ്നമില്ല. നിങ്ങൾക്ക് താൽപ്പര്യമില്ലെങ്കിൽ, പിഴവ് "
+"അറിയിക്കേണ്ടതില്ല.</note>"
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:56
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "In order to generate a useful bug report we need some information about both the crash and your system. (You may also need to install some debug packages.)"
-msgstr "ഉപയോഗപ്രദമായ ഒരു ബഗ് റിപ്പോർട്ട് സൃഷ്ടിക്കുന്നതിന്, ക്രാഷിനെക്കുറിച്ചും നിങ്ങളുടെ സിസ്റ്റത്തെക്കുറിച്ചും ഞങ്ങൾക്ക് ചില വിവരങ്ങൾ ആവശ്യമാണ്. (നിങ്ങൾ ചില ഡീബഗ് പാക്കേജുകളും ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതായി വന്നേക്കാം.)"
+msgid ""
+"In order to generate a useful bug report we need some information about both "
+"the crash and your system. (You may also need to install some debug "
+"packages.)"
+msgstr ""
+"ഉപയോഗപ്രദമായ ഒരു ബഗ് റിപ്പോർട്ട് സൃഷ്ടിക്കുന്നതിന്, ക്രാഷിനെക്കുറിച്ചും നിങ്ങളുടെ "
+"സിസ്റ്റത്തെക്കുറിച്ചും ഞങ്ങൾക്ക് ചില വിവരങ്ങൾ ആവശ്യമാണ്. (നിങ്ങൾ ചില ഡീബഗ് പാക്കേജുകളും "
+"ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതായി വന്നേക്കാം.)"
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:61
@@ -75,7 +86,11 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:63
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "This assistant will guide you through the crash reporting process for the KDE bug tracking system. All the information you enter on the bug report <strong>must be written in English</strong>, if possible, as KDE is formed internationally."
+msgid ""
+"This assistant will guide you through the crash reporting process for the "
+"KDE bug tracking system. All the information you enter on the bug report "
+"<strong>must be written in English</strong>, if possible, as KDE is formed "
+"internationally."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -90,14 +105,19 @@ msgstr "ക്രാഷിനെക്കുറിച്ച് നിങ്ങ�
 #: aboutbugreportingdialog.cpp:73
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "In this page you need to describe how much do you know about the desktop and the application state before it crashed."
+msgid ""
+"In this page you need to describe how much do you know about the desktop and "
+"the application state before it crashed."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:75
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If you can, describe in as much detail as possible the crash circumstances, and what you were doing when the application crashed (this information is going to be requested later.) You can mention: "
+msgid ""
+"If you can, describe in as much detail as possible the crash circumstances, "
+"and what you were doing when the application crashed (this information is "
+"going to be requested later.) You can mention: "
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -111,7 +131,10 @@ msgstr "ആപ്ലിക്കേഷന് പുറത്തും അകത�
 #: aboutbugreportingdialog.cpp:80
 #, kde-kuit-format
 msgctxt "@info/rich crash situation example"
-msgid "documents or images that you were using and their type/format (later if you go to look at the report in the bug tracking system, you can attach a file to the report)"
+msgid ""
+"documents or images that you were using and their type/format (later if you "
+"go to look at the report in the bug tracking system, you can attach a file "
+"to the report)"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -146,7 +169,9 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:88
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "Screenshots can be very helpful sometimes. You can attach them to the bug report after it is posted to the bug tracking system."
+msgid ""
+"Screenshots can be very helpful sometimes. You can attach them to the bug "
+"report after it is posted to the bug tracking system."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -160,28 +185,38 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:95
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "This page will generate a \"backtrace\" of the crash. This is information that tells the developers where the application crashed."
+msgid ""
+"This page will generate a \"backtrace\" of the crash. This is information "
+"that tells the developers where the application crashed."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:98
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If the crash information is not detailed enough, you may need to install some debug packages and reload it (if the <interface>Install Debug Symbols</interface> button is available you can use it to automatically install the missing information.)"
+msgid ""
+"If the crash information is not detailed enough, you may need to install "
+"some debug packages and reload it (if the <interface>Install Debug Symbols</"
+"interface> button is available you can use it to automatically install the "
+"missing information.)"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:102
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "You can find more information about backtraces, what they mean, and how they are useful at <link>%1</link>"
+msgid ""
+"You can find more information about backtraces, what they mean, and how they "
+"are useful at <link>%1</link>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:104
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "Once you get a useful backtrace (or if you do not want to install the missing debugging packages) you can continue."
+msgid ""
+"Once you get a useful backtrace (or if you do not want to install the "
+"missing debugging packages) you can continue."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -195,21 +230,31 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:111
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "Using the quality of the crash information gathered, and your answers on the previous page, the assistant will tell you if the crash is worth reporting or not."
+msgid ""
+"Using the quality of the crash information gathered, and your answers on the "
+"previous page, the assistant will tell you if the crash is worth reporting "
+"or not."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:114
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If the crash is worth reporting but the application is not supported in the KDE bug tracking system, you will need to directly contact the maintainer of the application."
+msgid ""
+"If the crash is worth reporting but the application is not supported in the "
+"KDE bug tracking system, you will need to directly contact the maintainer of "
+"the application."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:117
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If the crash is listed as being not worth reporting, and you think the assistant has made a mistake, you can still manually report the bug by logging into the bug tracking system. You can also go back and change information and download debug packages."
+msgid ""
+"If the crash is listed as being not worth reporting, and you think the "
+"assistant has made a mistake, you can still manually report the bug by "
+"logging into the bug tracking system. You can also go back and change "
+"information and download debug packages."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -223,21 +268,31 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:127
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "We may need to contact you in the future to ask for further information. As we need to keep track of the bug reports, you need to have an account on the KDE bug tracking system. If you do not have one, you can create one here: <link>%1</link>"
+msgid ""
+"We may need to contact you in the future to ask for further information. As "
+"we need to keep track of the bug reports, you need to have an account on the "
+"KDE bug tracking system. If you do not have one, you can create one here: "
+"<link>%1</link>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:133
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "Then, enter your e-mail address and password and press the Login button. You can use this login to directly access the KDE bug tracking system later."
+msgid ""
+"Then, enter your e-mail address and password and press the Login button. You "
+"can use this login to directly access the KDE bug tracking system later."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:136
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "The KWallet dialog may appear when pressing Login to save your password in the KWallet password system. Also, it will prompt you for the KWallet password upon loading to autocomplete the login fields if you use this assistant again."
+msgid ""
+"The KWallet dialog may appear when pressing Login to save your password in "
+"the KWallet password system. Also, it will prompt you for the KWallet "
+"password upon loading to autocomplete the login fields if you use this "
+"assistant again."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -251,35 +306,52 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:146
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "This page will search the bug report system for similar crashes which are possible duplicates of your bug. If there are similar bug reports found, you can double click on them to see details. Then, read the current bug report information so you can check to see if they are similar. "
+msgid ""
+"This page will search the bug report system for similar crashes which are "
+"possible duplicates of your bug. If there are similar bug reports found, you "
+"can double click on them to see details. Then, read the current bug report "
+"information so you can check to see if they are similar. "
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:151
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If you are very sure your bug is the same as another that is previously reported, you can set your information to be attached to the existing report."
+msgid ""
+"If you are very sure your bug is the same as another that is previously "
+"reported, you can set your information to be attached to the existing report."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:154
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If you are unsure whether your report is the same, follow the main options to tentatively mark your crash as a duplicate of that report. This is usually the safest thing to do. We cannot uncombine bug reports, but we can easily merge them."
+msgid ""
+"If you are unsure whether your report is the same, follow the main options "
+"to tentatively mark your crash as a duplicate of that report. This is "
+"usually the safest thing to do. We cannot uncombine bug reports, but we can "
+"easily merge them."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:158
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If not enough possible duplicates are found, or you did not find a similar report, then you can force it to search for more bug reports (only if the date range limit is not reached.)"
+msgid ""
+"If not enough possible duplicates are found, or you did not find a similar "
+"report, then you can force it to search for more bug reports (only if the "
+"date range limit is not reached.)"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:161
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If you do not find any related reports, your crash information is not useful enough, and you really cannot give additional information about the crash context, then it is better to not file the bug report, thereby closing the assistant."
+msgid ""
+"If you do not find any related reports, your crash information is not useful "
+"enough, and you really cannot give additional information about the crash "
+"context, then it is better to not file the bug report, thereby closing the "
+"assistant."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -293,21 +365,26 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:170
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "In this case you need to write a title and description of the crash. Explain as best you can. "
+msgid ""
+"In this case you need to write a title and description of the crash. Explain "
+"as best you can. "
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:174
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "You can also specify your distribution method (GNU/Linux distribution or packaging system) or if you compiled the KDE Platform from sources."
+msgid ""
+"You can also specify your distribution method (GNU/Linux distribution or "
+"packaging system) or if you compiled the KDE Platform from sources."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:177
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "<note>You should <strong>write those information in English</strong>.</note>"
+msgid ""
+"<note>You should <strong>write those information in English</strong>.</note>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -322,14 +399,22 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:183
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "The last page will send the bug report to the bug tracking system and will notify you when it is done. It will then show the web address of the bug report in the KDE bug tracking system, so that you can look at the report later."
+msgid ""
+"The last page will send the bug report to the bug tracking system and will "
+"notify you when it is done. It will then show the web address of the bug "
+"report in the KDE bug tracking system, so that you can look at the report "
+"later."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: aboutbugreportingdialog.cpp:187
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If the process fails, you can click <interface>Retry</interface> to try sending the bug report again. If the report cannot be sent because the bug tracking system has a problem, you can save it to a file to manually report later."
+msgid ""
+"If the process fails, you can click <interface>Retry</interface> to try "
+"sending the bug report again. If the report cannot be sent because the bug "
+"tracking system has a problem, you can save it to a file to manually report "
+"later."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -343,42 +428,56 @@ msgstr ""
 #: aboutbugreportingdialog.cpp:194
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "If you are interested in helping us to keep the KDE bug tracker system clean and useful, which allows the developers to be more focused on fixing the real issues,  you are welcome to <link url='https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging'>join the BugSquad team</link>."
+msgid ""
+"If you are interested in helping us to keep the KDE bug tracker system clean "
+"and useful, which allows the developers to be more focused on fixing the "
+"real issues,  you are welcome to <link url='https://community.kde.org/"
+"Guidelines_and_HOWTOs/Bug_triaging'>join the BugSquad team</link>."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: applicationdetailsexamples.cpp:34
 #, kde-format
 msgctxt "@info examples about information the user can provide"
-msgid "Widgets you have in your desktop and panels (both official and unofficial), desktop settings (wallpaper plugin, themes) and activities."
+msgid ""
+"Widgets you have in your desktop and panels (both official and unofficial), "
+"desktop settings (wallpaper plugin, themes) and activities."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: applicationdetailsexamples.cpp:38
 #, kde-format
 msgctxt "@info examples about information the user can provide"
-msgid "State of Desktop Effects (Compositing), kind of effects enabled, window decoration, and specific window rules and configuration."
+msgid ""
+"State of Desktop Effects (Compositing), kind of effects enabled, window "
+"decoration, and specific window rules and configuration."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: applicationdetailsexamples.cpp:43
 #, kde-format
 msgctxt "@info examples about information the user can provide"
-msgid "sites you were visiting, number of opened tabs, plugins you have installed, and any other non-default setting."
+msgid ""
+"sites you were visiting, number of opened tabs, plugins you have installed, "
+"and any other non-default setting."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: applicationdetailsexamples.cpp:47
 #, kde-format
 msgctxt "@info examples about information the user can provide"
-msgid "File view mode, grouping and sorting settings, preview settings, and directory you were browsing."
+msgid ""
+"File view mode, grouping and sorting settings, preview settings, and "
+"directory you were browsing."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: applicationdetailsexamples.cpp:50
 #, kde-format
 msgctxt "@info examples about information the user can provide"
-msgid "Instant Messaging protocols you use, and plugins you have installed (official and unofficial)."
+msgid ""
+"Instant Messaging protocols you use, and plugins you have installed "
+"(official and unofficial)."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -399,7 +498,8 @@ msgstr ""
 #: applicationdetailsexamples.cpp:64
 #, kde-format
 msgctxt "@info examples about information the user can provide"
-msgid "Type of media (extension and format) you were watching and/or listening to."
+msgid ""
+"Type of media (extension and format) you were watching and/or listening to."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -413,7 +513,10 @@ msgstr ""
 #: backtracewidget.cpp:71
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Use this button to reload the crash information (backtrace). This is useful when you have installed the proper debug symbol packages and you want to obtain a better backtrace."
+msgid ""
+"Use this button to reload the crash information (backtrace). This is useful "
+"when you have installed the proper debug symbol packages and you want to "
+"obtain a better backtrace."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -434,30 +537,37 @@ msgstr ""
 #: backtracewidget.cpp:86
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Symbol installation is unavailable because the application was updated or uninstalled after it had been started."
+msgid ""
+"Symbol installation is unavailable because the application was updated or "
+"uninstalled after it had been started."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: backtracewidget.cpp:91
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Use this button to copy the crash information (backtrace) to the clipboard."
+msgid ""
+"Use this button to copy the crash information (backtrace) to the clipboard."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: backtracewidget.cpp:98
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Use this button to save the crash information (backtrace) to a file. This is useful if you want to take a look at it or to report the bug later."
+msgid ""
+"Use this button to save the crash information (backtrace) to a file. This is "
+"useful if you want to take a look at it or to report the bug later."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: backtracewidget.cpp:119
 #, kde-format
 msgid ""
-"<h2>What is a \"backtrace\" ?</h2>"
-"<p>A backtrace basically describes what was happening inside the application when it crashed, so the developers may track down where the mess started. They may look meaningless to you, but they might actually contain a wealth of useful information.<br />"
-"Backtraces are commonly used during interactive and post-mortem debugging.</p>"
+"<h2>What is a \"backtrace\" ?</h2><p>A backtrace basically describes what "
+"was happening inside the application when it crashed, so the developers may "
+"track down where the mess started. They may look meaningless to you, but "
+"they might actually contain a wealth of useful information.<br />Backtraces "
+"are commonly used during interactive and post-mortem debugging.</p>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -479,7 +589,9 @@ msgstr ""
 #: backtracewidget.cpp:193
 #, kde-format
 msgctxt "@info"
-msgid "Another debugger is currently debugging the same application. The crash information could not be fetched."
+msgid ""
+"Another debugger is currently debugging the same application. The crash "
+"information could not be fetched."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -493,7 +605,10 @@ msgstr ""
 #: backtracewidget.cpp:199
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "Another debugging process is attached to the crashed application. Therefore, the DrKonqi debugger cannot fetch the backtrace. Please close the other debugger and click <interface>Reload</interface>."
+msgid ""
+"Another debugging process is attached to the crashed application. Therefore, "
+"the DrKonqi debugger cannot fetch the backtrace. Please close the other "
+"debugger and click <interface>Reload</interface>."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -528,21 +643,33 @@ msgstr ""
 #: backtracewidget.cpp:258
 #, kde-format
 msgctxt "@info"
-msgid "The rating of this crash information is invalid. This is a bug in DrKonqi itself."
+msgid ""
+"The rating of this crash information is invalid. This is a bug in DrKonqi "
+"itself."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: backtracewidget.cpp:269
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "You can click the <interface>Install Debug Symbols</interface> button in order to automatically install the missing debugging information packages. If this method does not work: please read <link url='%1'>How to create useful crash reports</link> to learn how to get a useful backtrace; install the needed packages (<link url='%2'>list of files</link>) and click the <interface>Reload</interface> button."
+msgid ""
+"You can click the <interface>Install Debug Symbols</interface> button in "
+"order to automatically install the missing debugging information packages. "
+"If this method does not work: please read <link url='%1'>How to create "
+"useful crash reports</link> to learn how to get a useful backtrace; install "
+"the needed packages (<link url='%2'>list of files</link>) and click the "
+"<interface>Reload</interface> button."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: backtracewidget.cpp:286
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "Please read <link url='%1'>How to create useful crash reports</link> to learn how to get a useful backtrace; install the needed packages (<link url='%2'>list of files</link>) and click the <interface>Reload</interface> button."
+msgid ""
+"Please read <link url='%1'>How to create useful crash reports</link> to "
+"learn how to get a useful backtrace; install the needed packages (<link "
+"url='%2'>list of files</link>) and click the <interface>Reload</interface> "
+"button."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -563,21 +690,27 @@ msgstr ""
 #: backtracewidget.cpp:308
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "You could try to regenerate the backtrace by clicking the <interface>Reload</interface> button."
+msgid ""
+"You could try to regenerate the backtrace by clicking the <interface>Reload</"
+"interface> button."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: backtracewidget.cpp:316
 #, kde-format
 msgctxt "@info:status"
-msgid "<strong>The debugger application is missing or could not be launched.</strong>"
+msgid ""
+"<strong>The debugger application is missing or could not be launched.</"
+"strong>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: backtracewidget.cpp:322
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "<strong>You need to first install the debugger application (%1) then click the <interface>Reload</interface> button.</strong>"
+msgid ""
+"<strong>You need to first install the debugger application (%1) then click "
+"the <interface>Reload</interface> button.</strong>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -590,7 +723,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: backtracewidget.cpp:408
 #, kde-format
-msgid "The packages containing debug information for the following application and libraries are missing:"
+msgid ""
+"The packages containing debug information for the following application and "
+"libraries are missing:"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -701,7 +836,10 @@ msgstr ""
 #: bugzillaintegration/reportassistantdialog.cpp:384
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Do you really want to close the bug reporting assistant? <note>The crash information is still valid, so you can save the report before closing if you want.</note>"
+msgid ""
+"Do you really want to close the bug reporting assistant? <note>The crash "
+"information is still valid, so you can save the report before closing if you "
+"want.</note>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -723,7 +861,9 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:113
 #, kde-format
 msgctxt "@info"
-msgid "This crash information is not useful enough, do you want to try to improve it? You will need to install some debugging packages."
+msgid ""
+"This crash information is not useful enough, do you want to try to improve "
+"it? You will need to install some debugging packages."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -736,7 +876,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_base.cpp:146
 #, kde-format
-msgctxt "@option:check kind of information the user can provide about the crash, %1 is the application name"
+msgctxt ""
+"@option:check kind of information the user can provide about the crash, %1 "
+"is the application name"
 msgid "What I was doing when the application \"%1\" crashed"
 msgstr ""
 
@@ -759,7 +901,8 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:681
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Use this button to show the generated report information about this crash."
+msgid ""
+"Use this button to show the generated report information about this crash."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -773,14 +916,18 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:278
 #, kde-format
 msgctxt "@info"
-msgid "The automatically generated crash information lacks some details but may be still be useful."
+msgid ""
+"The automatically generated crash information lacks some details but may be "
+"still be useful."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_base.cpp:285
 #, kde-format
 msgctxt "@info"
-msgid "The automatically generated crash information lacks important details and it is probably not helpful."
+msgid ""
+"The automatically generated crash information lacks important details and it "
+"is probably not helpful."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -794,14 +941,19 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:299
 #, kde-format
 msgctxt "@info"
-msgid "The automatically generated crash information does not contain enough information to be helpful."
+msgid ""
+"The automatically generated crash information does not contain enough "
+"information to be helpful."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_base.cpp:302
 #, kde-kuit-format
 msgctxt "@info"
-msgid "<note>You can improve it by installing debugging packages and reloading the crash on the Crash Information page. You can get help with the Bug Reporting Guide by clicking on the <interface>Help</interface> button.</note>"
+msgid ""
+"<note>You can improve it by installing debugging packages and reloading the "
+"crash on the Crash Information page. You can get help with the Bug Reporting "
+"Guide by clicking on the <interface>Help</interface> button.</note>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -815,7 +967,9 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:319
 #, kde-format
 msgctxt "@info"
-msgid "The information you can provide is not considered helpful enough in this case."
+msgid ""
+"The information you can provide is not considered helpful enough in this "
+"case."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -836,21 +990,29 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:341
 #, kde-kuit-format
 msgctxt "@info"
-msgid "This application's bugs are reported to the KDE bug tracking system: click <interface>Next</interface> to start the reporting process. You can manually report at <link>%1</link>"
+msgid ""
+"This application's bugs are reported to the KDE bug tracking system: click "
+"<interface>Next</interface> to start the reporting process. You can manually "
+"report at <link>%1</link>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_base.cpp:352
 #, kde-kuit-format
 msgctxt "@info"
-msgid "This application is not supported in the KDE bug tracking system. Click <interface>Finish</interface> to report this bug to the application maintainer. Also, you can manually report at <link>%1</link>."
+msgid ""
+"This application is not supported in the KDE bug tracking system. Click "
+"<interface>Finish</interface> to report this bug to the application "
+"maintainer. Also, you can manually report at <link>%1</link>."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_base.cpp:367
 #, kde-format
 msgctxt "@info"
-msgid "This report does not contain enough information for the developers, so the automated bug reporting process is not enabled for this crash."
+msgid ""
+"This report does not contain enough information for the developers, so the "
+"automated bug reporting process is not enabled for this crash."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -864,14 +1026,18 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:379
 #, kde-kuit-format
 msgctxt "@info"
-msgid "You can manually report this bug at <link>%1</link>. Click <interface>Finish</interface> to close the assistant."
+msgid ""
+"You can manually report this bug at <link>%1</link>. Click "
+"<interface>Finish</interface> to close the assistant."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_base.cpp:385
 #, kde-kuit-format
 msgctxt "@info"
-msgid "You can manually report this bug to its maintainer at <link>%1</link>. Click <interface>Finish</interface> to close the assistant."
+msgid ""
+"You can manually report this bug to its maintainer at <link>%1</link>. Click "
+"<interface>Finish</interface> to close the assistant."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -899,7 +1065,9 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_base.cpp:437
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Use this button to save the generated crash report information to a file. You can use this option to report the bug later."
+msgid ""
+"Use this button to save the generated crash report information to a file. "
+"You can use this option to report the bug later."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -920,14 +1088,21 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:81
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Use this button to login to the KDE bug tracking system using the provided e-mail address and password."
+msgid ""
+"Use this button to login to the KDE bug tracking system using the provided e-"
+"mail address and password."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:95
 #, kde-kuit-format
 msgctxt "@info/rich"
-msgid "<note>You need a user account on the <link url='%1'>KDE bug tracking system</link> in order to file a bug report, because we may need to contact you later for requesting further information. If you do not have one, you can freely <link url='%2'>create one here</link>. Please do not use disposable email accounts.</note>"
+msgid ""
+"<note>You need a user account on the <link url='%1'>KDE bug tracking system</"
+"link> in order to file a bug report, because we may need to contact you "
+"later for requesting further information. If you do not have one, you can "
+"freely <link url='%2'>create one here</link>. Please do not use disposable "
+"email accounts.</note>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -998,8 +1173,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"The description about the crash details does not provide enough information yet.<br />"
-"<br />"
+"The description about the crash details does not provide enough information "
+"yet.<br /><br />"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1007,8 +1182,8 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"The amount of required information is proportional to the quality of the other information like the backtrace or the reproducibility rate.<br />"
-"<br />"
+"The amount of required information is proportional to the quality of the "
+"other information like the backtrace or the reproducibility rate.<br /><br />"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1016,15 +1191,18 @@ msgstr ""
 #, kde-format
 msgctxt "@info"
 msgid ""
-"Previously, you told DrKonqi that you could provide some contextual information. Try writing more details about your situation. (even little ones could help us.)<br />"
-"<br />"
+"Previously, you told DrKonqi that you could provide some contextual "
+"information. Try writing more details about your situation. (even little "
+"ones could help us.)<br /><br />"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:548
 #, kde-format
 msgctxt "@info"
-msgid "If you cannot provide more information, your report will probably waste developers' time. Can you tell us more?"
+msgid ""
+"If you cannot provide more information, your report will probably waste "
+"developers' time. Can you tell us more?"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1051,11 +1229,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:tooltip examples of good bug report titles"
 msgid ""
-"<strong>Examples of good titles:</strong><nl />"
-"\"Plasma crashed after adding the Notes widget and writing on it\"<nl />"
-"\"Konqueror crashed when accessing the Facebook application 'X'\"<nl />"
-"\"Kopete suddenly closed after resuming the computer and talking to a MSN buddy\"<nl />"
-"\"Kate closed while editing a log file and pressing the Delete key a couple of times\""
+"<strong>Examples of good titles:</strong><nl />\"Plasma crashed after adding "
+"the Notes widget and writing on it\"<nl />\"Konqueror crashed when accessing "
+"the Facebook application 'X'\"<nl />\"Kopete suddenly closed after resuming "
+"the computer and talking to a MSN buddy\"<nl />\"Kate closed while editing a "
+"log file and pressing the Delete key a couple of times\""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1069,14 +1247,18 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:614
 #, kde-format
 msgctxt "@info:tooltip help and examples of good bug descriptions"
-msgid "- Detail which actions were you taking inside and outside the application an instant before the crash."
+msgid ""
+"- Detail which actions were you taking inside and outside the application an "
+"instant before the crash."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:620
 #, kde-format
 msgctxt "@info:tooltip help and examples of good bug descriptions"
-msgid "- Note if you noticed any unusual behavior in the application or in the whole environment."
+msgid ""
+"- Note if you noticed any unusual behavior in the application or in the "
+"whole environment."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1089,7 +1271,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla.cpp:631
 #, kde-format
-msgctxt "@info:tooltip examples of configuration details. the examples are already translated"
+msgctxt ""
+"@info:tooltip examples of configuration details. the examples are already "
+"translated"
 msgid "Examples: %1"
 msgstr ""
 
@@ -1127,9 +1311,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"Crash report sent.<nl/>"
-"URL: <link>%1</link><nl/>"
-"Thank you for being part of KDE. You can now close this window."
+"Crash report sent.<nl/>URL: <link>%1</link><nl/>Thank you for being part of "
+"KDE. You can now close this window."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1246,7 +1429,11 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:176
 #, kde-format
-msgid "Press this button to declare that, in your opinion and according to your experience, the reports found as similar do not match the crash you have experienced, and you believe it is unlikely that a better match would be found after further review."
+msgid ""
+"Press this button to declare that, in your opinion and according to your "
+"experience, the reports found as similar do not match the crash you have "
+"experienced, and you believe it is unlikely that a better match would be "
+"found after further review."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1258,14 +1445,19 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:185
 #, kde-format
-msgid "Press this button if you would rather review more reports in order to find a match for the crash you have experienced."
+msgid ""
+"Press this button if you would rather review more reports in order to find a "
+"match for the crash you have experienced."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:191
 #, kde-format
 msgctxt "@info"
-msgid "You have not selected any possible duplicates, or a report to which to attach your crash information. Have you read all the reports, and can you confirm that there are no real duplicates?"
+msgid ""
+"You have not selected any possible duplicates, or a report to which to "
+"attach your crash information. Have you read all the reports, and can you "
+"confirm that there are no real duplicates?"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1363,35 +1555,45 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:435
 #, kde-format
 msgctxt "@label"
-msgid "Your crash is a <strong>duplicate</strong> and has already been reported as <a href=\"%1\">Bug %1</a>."
+msgid ""
+"Your crash is a <strong>duplicate</strong> and has already been reported as "
+"<a href=\"%1\">Bug %1</a>."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:436
 #, kde-format
 msgctxt "@label"
-msgid "Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is a <strong>duplicate</strong> of <a href=\"%2\">Bug %2</a>"
+msgid ""
+"Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is "
+"a <strong>duplicate</strong> of <a href=\"%2\">Bug %2</a>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:437
 #, kde-format
 msgctxt "@label"
-msgid "Only <strong><a href=\"%1\">attach</a></strong> if you can add needed information to the bug report."
+msgid ""
+"Only <strong><a href=\"%1\">attach</a></strong> if you can add needed "
+"information to the bug report."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:439
 #, kde-format
 msgctxt "@label"
-msgid "Your crash has already been reported as <a href=\"%1\">Bug %1</a> which has been <strong>closed</strong>."
+msgid ""
+"Your crash has already been reported as <a href=\"%1\">Bug %1</a> which has "
+"been <strong>closed</strong>."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:440
 #, kde-format
 msgctxt "@label"
-msgid "Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is a duplicate of the <strong>closed</strong> <a href=\"%2\">Bug %2</a>."
+msgid ""
+"Your crash has already been reported as <a href=\"%1\">Bug %1</a>, which is "
+"a duplicate of the <strong>closed</strong> <a href=\"%2\">Bug %2</a>."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1406,9 +1608,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"Error fetching the bug report list<nl/>"
-"<message>%1.</message><nl/>"
-"Please wait some time and try again."
+"Error fetching the bug report list<nl/><message>%1.</message><nl/>Please "
+"wait some time and try again."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1429,7 +1630,9 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:563
 #, kde-kuit-format
 msgctxt "@label"
-msgid "The report is going to be <strong>attached</strong> to bug %1. <a href=\"#\">Cancel</a>"
+msgid ""
+"The report is going to be <strong>attached</strong> to bug %1. <a href=\"#"
+"\">Cancel</a>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1457,7 +1660,9 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:604
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Use this button to suggest that the crash you experienced is related to this bug report"
+msgid ""
+"Use this button to suggest that the crash you experienced is related to this "
+"bug report"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1557,7 +1762,9 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:719
 #, kde-format
 msgctxt "@info bug resolution"
-msgid "the bug is caused by a problem in an external application or library, or by a distribution or packaging issue"
+msgid ""
+"the bug is caused by a problem in an external application or library, or by "
+"a distribution or packaging issue"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1571,7 +1778,9 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:750
 #, kde-format
 msgctxt "@info"
-msgid "Invalid report information (malformed data). This could mean that the bug report does not exist, or the bug tracking site is experiencing a problem."
+msgid ""
+"Invalid report information (malformed data). This could mean that the bug "
+"report does not exist, or the bug tracking site is experiencing a problem."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1592,7 +1801,9 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:772
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The report you selected (bug %1) is already marked as duplicate of bug %2. Do you want to read that report instead? (recommended)"
+msgid ""
+"The report you selected (bug %1) is already marked as duplicate of bug %2. "
+"Do you want to read that report instead? (recommended)"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1612,21 +1823,35 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:837
 #, kde-kuit-format
-msgid "<p><note>The bug report's title is often written by its reporter and may not reflect the bug's nature, root cause or other visible symptoms you could use to compare to your crash. Please read the complete report and all the comments below.</note></p>"
+msgid ""
+"<p><note>The bug report's title is often written by its reporter and may not "
+"reflect the bug's nature, root cause or other visible symptoms you could use "
+"to compare to your crash. Please read the complete report and all the "
+"comments below.</note></p>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:843
 #, kde-kuit-format
-msgid "<p><note>This bug report has %1 duplicate report. That means this is probably a <strong>common crash</strong>. <i>Please consider only adding a comment or a note if you can provide new valuable information which was not already mentioned.</i></note></p>"
-msgid_plural "<p><note>This bug report has %1 duplicate reports. That means this is probably a <strong>common crash</strong>. <i>Please consider only adding a comment or a note if you can provide new valuable information which was not already mentioned.</i></note></p>"
+msgid ""
+"<p><note>This bug report has %1 duplicate report. That means this is "
+"probably a <strong>common crash</strong>. <i>Please consider only adding a "
+"comment or a note if you can provide new valuable information which was not "
+"already mentioned.</i></note></p>"
+msgid_plural ""
+"<p><note>This bug report has %1 duplicate reports. That means this is "
+"probably a <strong>common crash</strong>. <i>Please consider only adding a "
+"comment or a note if you can provide new valuable information which was not "
+"already mentioned.</i></note></p>"
 msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:860
 #, kde-kuit-format
-msgid "<p><note>This bug report is not about a crash or about any other critical bug.</note></p>"
+msgid ""
+"<p><note>This bug report is not about a crash or about any other critical "
+"bug.</note></p>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1654,18 +1879,14 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:876
 #, kde-format
 msgctxt "@info bug report description"
-msgid ""
-"<h3>Description of the bug</h3>"
-"<p>%1</p>"
+msgid "<h3>Description of the bug</h3><p>%1</p>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:881
 #, kde-format
 msgctxt "@label:textbox bug report comments (already formatted)"
-msgid ""
-"<h2>Additional Comments</h2>"
-"%1"
+msgid "<h2>Additional Comments</h2>%1"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1680,9 +1901,8 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info/rich"
 msgid ""
-"Error fetching the bug report<nl/>"
-"<message>%1.</message><nl/>"
-"Please wait some time and try again."
+"Error fetching the bug report<nl/><message>%1.</message><nl/>Please wait "
+"some time and try again."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1730,14 +1950,18 @@ msgstr ""
 #: bugzillaintegration/reportassistantpages_bugzilla_duplicates.cpp:993
 #, kde-format
 msgctxt "@info"
-msgid "The report is closed because %1. <i>If the crash is the same, adding further information will be useless and will consume developers' time.</i>"
+msgid ""
+"The report is closed because %1. <i>If the crash is the same, adding further "
+"information will be useless and will consume developers' time.</i>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/reportinterface.cpp:183
 #, kde-kuit-format
 msgctxt "@info/plain"
-msgid "<placeholder>In detail, tell us what you were doing  when the application crashed.</placeholder>"
+msgid ""
+"<placeholder>In detail, tell us what you were doing  when the application "
+"crashed.</placeholder>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, m_rememberLabel)
@@ -1745,14 +1969,17 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:17
 #, kde-format
 msgctxt "@label question"
-msgid "<strong>Do you remember what you were doing prior to the crash?</strong>"
+msgid ""
+"<strong>Do you remember what you were doing prior to the crash?</strong>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, m_rememberCrashSituationYes)
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:44
 #, kde-format
-msgctxt "@option:radio \"yes\" to the question \"do you remember what were you doing prior to the crash?\""
+msgctxt ""
+"@option:radio \"yes\" to the question \"do you remember what were you doing "
+"prior to the crash?\""
 msgid "Yes"
 msgstr ""
 
@@ -1760,7 +1987,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:54
 #, kde-format
-msgctxt "@option:radio \"No\" to the question \"do you remember what were you doing prior to the crash?\""
+msgctxt ""
+"@option:radio \"No\" to the question \"do you remember what were you doing "
+"prior to the crash?\""
 msgid "No"
 msgstr ""
 
@@ -1769,7 +1998,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:90
 #, kde-format
 msgctxt "@label question"
-msgid "<strong>Does the application crash again if you repeat the same situation?</strong>"
+msgid ""
+"<strong>Does the application crash again if you repeat the same situation?</"
+"strong>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (KComboBox, m_reproducibleBox)
@@ -1777,7 +2008,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:118
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "If you tried to repeat the situation, select how often the application crashes"
+msgid ""
+"If you tried to repeat the situation, select how often the application "
+"crashes"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (KComboBox, m_reproducibleBox)
@@ -1785,7 +2018,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:121
 #, kde-format
 msgctxt "@info:whatsthis"
-msgid "If you tried to repeat the situation, select how often the application crashes"
+msgid ""
+"If you tried to repeat the situation, select how often the application "
+"crashes"
 msgstr ""
 
 #. i18n: ectx: property (text), item, widget (KComboBox, m_reproducibleBox)
@@ -1825,7 +2060,8 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:182
 #, kde-format
 msgctxt "@label question"
-msgid "<strong>Please select which additional information you can provide:</strong>"
+msgid ""
+"<strong>Please select which additional information you can provide:</strong>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, m_actionsInsideApp)
@@ -1833,7 +2069,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:212
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Check this option if you can describe what were you doing inside the application before it crashed"
+msgid ""
+"Check this option if you can describe what were you doing inside the "
+"application before it crashed"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_actionsInsideApp)
@@ -1841,7 +2079,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:215
 #, kde-format
 msgctxt "@info:whatsthis"
-msgid "Check this option if you can describe what were you doing inside the application before it crashed"
+msgid ""
+"Check this option if you can describe what were you doing inside the "
+"application before it crashed"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, m_unusualSituation)
@@ -1849,7 +2089,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:225
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Check this option if you can describe any unusual behavior or appearance in the application or the whole desktop"
+msgid ""
+"Check this option if you can describe any unusual behavior or appearance in "
+"the application or the whole desktop"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_unusualSituation)
@@ -1857,14 +2099,17 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:228
 #, kde-format
 msgctxt "@info:whatsthis"
-msgid "Check this option if you can describe any unusual behavior or appearance in the application or the whole desktop"
+msgid ""
+"Check this option if you can describe any unusual behavior or appearance in "
+"the application or the whole desktop"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_unusualSituation)
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:231
 #, kde-format
-msgctxt "@option:check kind of information the user can provide about the crash"
+msgctxt ""
+"@option:check kind of information the user can provide about the crash"
 msgid "Unusual desktop behavior I noticed"
 msgstr ""
 
@@ -1873,7 +2118,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:248
 #, kde-format
 msgctxt "@info:tooltip"
-msgid "Check this option if you can provide application specific details or settings that may be related to the crash."
+msgid ""
+"Check this option if you can provide application specific details or "
+"settings that may be related to the crash."
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, m_appSpecificDetails)
@@ -1881,14 +2128,17 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:251
 #, kde-format
 msgctxt "@info:whatsthis"
-msgid "Check this option if you can provide application specific details or settings that may be related to the crash."
+msgid ""
+"Check this option if you can provide application specific details or "
+"settings that may be related to the crash."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, m_appSpecificDetails)
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/ui/assistantpage_bugawareness.ui:254
 #, kde-format
-msgctxt "@option:check kind of information the user can provide about the crash"
+msgctxt ""
+"@option:check kind of information the user can provide about the crash"
 msgid "Custom settings of the application that may be related"
 msgstr ""
 
@@ -1897,7 +2147,10 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates.ui:17
 #, kde-format
 msgctxt "@info"
-msgid "See if your bug has already been reported. Double click a report in the list and compare it to yours. You can suggest that your crash is a duplicate of that report or directly attach your information to it."
+msgid ""
+"See if your bug has already been reported. Double click a report in the list "
+"and compare it to yours. You can suggest that your crash is a duplicate of "
+"that report or directly attach your information to it."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QTreeWidget, m_bugListWidget)
@@ -1920,7 +2173,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates.ui:119
 #, kde-format
-msgctxt "@label title of a listbox where the possible duplicate bug numbers are put in"
+msgctxt ""
+"@label title of a listbox where the possible duplicate bug numbers are put in"
 msgid "Possible duplicates:"
 msgstr ""
 
@@ -1928,7 +2182,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog.ui:81
 #, kde-format
-msgctxt "@option:check user must check this to preview the own backtrace (in order to compare it with the one in the showed report)"
+msgctxt ""
+"@option:check user must check this to preview the own backtrace (in order to "
+"compare it with the one in the showed report)"
 msgid "Show the backtrace of the crash I experienced to compare (advanced)"
 msgstr ""
 
@@ -1936,7 +2192,10 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: bugzillaintegration/ui/assistantpage_bugzilla_duplicates_dialog_confirmation.ui:42
 #, kde-format
-msgid "This is likely to be a <strong>common crash</strong>, and a lot of different cases' details may have been provided already. <i>Proceed only if you can add new information (not already mentioned). </i>"
+msgid ""
+"This is likely to be a <strong>common crash</strong>, and a lot of different "
+"cases' details may have been provided already. <i>Proceed only if you can "
+"add new information (not already mentioned). </i>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, proceedLabel)
@@ -2002,7 +2261,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:52
 #, kde-format
 msgctxt "@label:textbox"
-msgid "<strong>Information about the crash:</strong> (<a href=\"#\">help and examples</a>)"
+msgid ""
+"<strong>Information about the crash:</strong> (<a href=\"#\">help and "
+"examples</a>)"
 msgstr ""
 
 #. i18n: ectx: property (accessibleName), widget (QTextEdit, m_detailsEdit)
@@ -2033,7 +2294,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_bugzilla_information.ui:110
 #, kde-format
 msgctxt "@info"
-msgid "<i>Note:</i> The crash and system information will be automatically added to the bug report."
+msgid ""
+"<i>Note:</i> The crash and system information will be automatically added to "
+"the bug report."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, m_userLabel)
@@ -2128,7 +2391,9 @@ msgstr ""
 #: bugzillaintegration/ui/assistantpage_introduction.ui:17
 #, kde-format
 msgctxt "@info"
-msgid "This assistant will analyze the crash information and guide you through the bug reporting process."
+msgid ""
+"This assistant will analyze the crash information and guide you through the "
+"bug reporting process."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, m_warningLabel)
@@ -2137,8 +2402,10 @@ msgstr ""
 #, kde-format
 msgctxt "@info note before starting the bug reporting process"
 msgid ""
-"<p><i>Note:</i> Since communication between you and the developers is required for effective debugging, to continue reporting this bug <strong>it is required for you to agree that developers may contact you.</strong></p>"
-"<p>Feel free to close this dialog if you do not accept this.</p>"
+"<p><i>Note:</i> Since communication between you and the developers is "
+"required for effective debugging, to continue reporting this bug <strong>it "
+"is required for you to agree that developers may contact you.</strong></"
+"p><p>Feel free to close this dialog if you do not accept this.</p>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2172,7 +2439,9 @@ msgstr ""
 #: debugpackageinstaller.cpp:111
 #, kde-format
 msgctxt "@info"
-msgid "An error was encountered during the installation of the debug symbol packages."
+msgid ""
+"An error was encountered during the installation of the debug symbol "
+"packages."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2221,7 +2490,8 @@ msgstr ""
 #: drkonqidialog.cpp:111
 #, kde-kuit-format
 msgctxt "@info"
-msgid "<para>We are sorry, <application>%1</application> closed unexpectedly.</para>"
+msgid ""
+"<para>We are sorry, <application>%1</application> closed unexpectedly.</para>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2229,9 +2499,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<para>As the Crash Handler itself has failed, the automatic reporting process is disabled to reduce the risks of failing again.<nl />"
-"<nl />"
-"Please, <link url='%1'>manually report</link> this error to the KDE bug tracking system. Do not forget to include the backtrace from the <interface>Developer Information</interface> tab.</para>"
+"<para>As the Crash Handler itself has failed, the automatic reporting "
+"process is disabled to reduce the risks of failing again.<nl /><nl />Please, "
+"<link url='%1'>manually report</link> this error to the KDE bug tracking "
+"system. Do not forget to include the backtrace from the <interface>Developer "
+"Information</interface> tab.</para>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2239,8 +2511,10 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<para>The reporting assistant is disabled because the crash handler dialog was started in safe mode.<nl />"
-"You can manually report this bug to %1 (including the backtrace from the <interface>Developer Information</interface> tab.)</para>"
+"<para>The reporting assistant is disabled because the crash handler dialog "
+"was started in safe mode.<nl />You can manually report this bug to %1 "
+"(including the backtrace from the <interface>Developer Information</"
+"interface> tab.)</para>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2248,8 +2522,12 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<para>The reporting assistant is disabled because the crashed application appears to have been updated or uninstalled since it had been started. This prevents accurate crash reporting and can also be the cause of this crash.</para>"
-"<para>After updating it is always a good idea to log out and back in to make sure the update is fully applied and will not cause any side effects.</para>"
+"<para>The reporting assistant is disabled because the crashed application "
+"appears to have been updated or uninstalled since it had been started. This "
+"prevents accurate crash reporting and can also be the cause of this crash.</"
+"para><para>After updating it is always a good idea to log out and back in to "
+"make sure the update is fully applied and will not cause any side effects.</"
+"para>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2257,15 +2535,17 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"<para>You can help us improve KDE Software by reporting this error.<nl />"
-"<link url='%1'>Learn more about bug reporting.</link></para>"
+"<para>You can help us improve KDE Software by reporting this error.<nl /"
+"><link url='%1'>Learn more about bug reporting.</link></para>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: drkonqidialog.cpp:147
 #, kde-kuit-format
 msgctxt "@info"
-msgid "<para>You cannot report this error, because <application>%1</application> does not provide a bug reporting address.</para>"
+msgid ""
+"<para>You cannot report this error, because <application>%1</application> "
+"does not provide a bug reporting address.</para>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2279,13 +2559,17 @@ msgstr "വിശദാംശങ്ങള്‍ കാണിക്കുക"
 #: drkonqidialog.cpp:160
 #, kde-kuit-format
 msgctxt "@info Note the time information is divided into date and time parts"
-msgid "<para>Executable: <application>%1</application> PID: %2 Signal: %3 (%4) Time: %5 %6</para>"
+msgid ""
+"<para>Executable: <application>%1</application> PID: %2 Signal: %3 (%4) "
+"Time: %5 %6</para>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: drkonqidialog.cpp:192
 #, fuzzy, kde-format
-msgctxt "@action:button this is the debug menu button label which contains the debugging applications"
+msgctxt ""
+"@action:button this is the debug menu button label which contains the "
+"debugging applications"
 msgid "&Debug"
 msgstr "&ഡീബഗ്ഗര്‍"
 
@@ -2342,7 +2626,9 @@ msgstr ""
 #: main.cpp:62
 #, fuzzy, kde-format
 msgid "The KDE Crash Handler gives the user feedback if a program has crashed."
-msgstr "ഒരു പ്രോഗ്രാമിന്റെ പ്രവര്‍ത്തനം അപ്രതീക്ഷിതമായി നില്‍ക്കുന്നതിനുള്ള കാരണം കെഡിഇ തകരാറുകള്‍ കൈകാര്യം ചെയ്യുന്ന പ്രയോഗം ലഭ്യമാക്കുന്നു"
+msgstr ""
+"ഒരു പ്രോഗ്രാമിന്റെ പ്രവര്‍ത്തനം അപ്രതീക്ഷിതമായി നില്‍ക്കുന്നതിനുള്ള കാരണം കെഡിഇ തകരാറുകള്‍ "
+"കൈകാര്യം ചെയ്യുന്ന പ്രയോഗം ലഭ്യമാക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:121

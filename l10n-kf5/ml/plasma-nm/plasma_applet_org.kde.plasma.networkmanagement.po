@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-08-13 10:45+0200\n"
 "PO-Revision-Date: 2019-12-29 06:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,8 +69,10 @@ msgstr "ബന്ധിപ്പിച്ചു"
 #. +> plasma5lts
 #: contents/ui/ConnectionItem.qml:405
 #, kde-format
-msgid "Connected, <font color='%1'>⬇</font> %2/s, <font color='%3'>⬆</font> %4/s"
-msgstr "ബന്ധിപ്പിച്ചു, <font color='%1'>⬇</font> %2/s, <font color='%3'>⬆</font> %4/s"
+msgid ""
+"Connected, <font color='%1'>⬇</font> %2/s, <font color='%3'>⬆</font> %4/s"
+msgstr ""
+"ബന്ധിപ്പിച്ചു, <font color='%1'>⬇</font> %2/s, <font color='%3'>⬆</font> %4/s"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/DetailsText.qml:44
@@ -159,20 +162,14 @@ msgstr ""
 #: contents/ui/Toolbar.qml:140
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"Disable airplane mode<nl/>"
-"<nl/>"
-"This will enable Wi-Fi and Bluetooth"
+msgid "Disable airplane mode<nl/><nl/>This will enable Wi-Fi and Bluetooth"
 msgstr ""
 
 #. +> trunk5
 #: contents/ui/Toolbar.qml:141
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"Enable airplane mode<nl/>"
-"<nl/>"
-"This will disable Wi-Fi and Bluetooth"
+msgid "Enable airplane mode<nl/><nl/>This will disable Wi-Fi and Bluetooth"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts

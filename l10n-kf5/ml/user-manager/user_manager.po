@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-05-14 23:09+0200\n"
 "PO-Revision-Date: 2018-08-16 09:16+0200\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -134,7 +135,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: src/accountinfo.cpp:334
 #, kde-format
-msgid "The username can contain only letters, numbers, score, underscore and dot"
+msgid ""
+"The username can contain only letters, numbers, score, underscore and dot"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -268,7 +270,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: src/usermanager.cpp:129
 #, kde-format
-msgid "This user is using the system right now, removing it will cause problems"
+msgid ""
+"This user is using the system right now, removing it will cause problems"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts

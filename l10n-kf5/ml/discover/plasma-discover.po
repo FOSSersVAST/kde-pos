@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-08-28 09:37+0200\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +22,9 @@ msgstr ""
 #: discover/DiscoverObject.cpp:177
 #, kde-format
 msgid "No application back-ends found, please report to your distribution."
-msgstr "ആപ്ലിക്കേഷൻ ബാക്ക്-എന്റുകളൊന്നും കണ്ടെത്തിയില്ല, ദയവായി നിങ്ങളുടെ വിതരണത്തിലേക്ക് റിപ്പോർട്ട് ചെയ്യുക."
+msgstr ""
+"ആപ്ലിക്കേഷൻ ബാക്ക്-എന്റുകളൊന്നും കണ്ടെത്തിയില്ല, ദയവായി നിങ്ങളുടെ വിതരണത്തിലേക്ക് റിപ്പോർട്ട് "
+"ചെയ്യുക."
 
 #. +> trunk5 stable5 plasma5lts
 #: discover/DiscoverObject.cpp:260
@@ -32,8 +35,12 @@ msgstr "'%1' വിഭാഗം കണ്ടെത്താൻ കഴിഞ്�
 #. +> trunk5 stable5 plasma5lts
 #: discover/DiscoverObject.cpp:294
 #, kde-format
-msgid "Cannot interact with flatpak resources without the flatpak backend %1. Please install it first."
-msgstr "ഫ്ലാറ്റ്പാക്ക് ബാക്കെൻഡ് %1 ഇല്ലാതെ ഫ്ലാറ്റ്പ്പാക്ക് ഉറവിടങ്ങളുമായി സംവദിക്കാൻ കഴിയില്ല. ആദ്യം അത് ഇൻസ്റ്റാൾ ചെയ്യുക."
+msgid ""
+"Cannot interact with flatpak resources without the flatpak backend %1. "
+"Please install it first."
+msgstr ""
+"ഫ്ലാറ്റ്പാക്ക് ബാക്കെൻഡ് %1 ഇല്ലാതെ ഫ്ലാറ്റ്പ്പാക്ക് ഉറവിടങ്ങളുമായി സംവദിക്കാൻ കഴിയില്ല. ആദ്യം "
+"അത് ഇൻസ്റ്റാൾ ചെയ്യുക."
 
 #. +> trunk5 stable5 plasma5lts
 #: discover/DiscoverObject.cpp:297 discover/DiscoverObject.cpp:324
@@ -500,12 +507,8 @@ msgstr ""
 #: discover/qml/BrowsingPage.qml:71
 #, kde-kuit-format
 msgctxt "@info"
-msgid ""
-"Unable to load applications.<nl/>"
-"Please verify Internet connectivity."
-msgstr ""
-"അപ്ലിക്കേഷനുകൾ ലോഡുചെയ്യാനായില്ല.<nl/>"
-"ഇന്റർനെറ്റ് കണക്റ്റിവിറ്റി സ്ഥിരീകരിക്കുക."
+msgid "Unable to load applications.<nl/>Please verify Internet connectivity."
+msgstr "അപ്ലിക്കേഷനുകൾ ലോഡുചെയ്യാനായില്ല.<nl/>ഇന്റർനെറ്റ് കണക്റ്റിവിറ്റി സ്ഥിരീകരിക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
 #: discover/qml/DiscoverDrawer.qml:118
@@ -613,7 +616,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: discover/qml/Feedback.qml:12
 #, kde-format
-msgid "Sends anonymized usage information to KDE so we can better understand our users. For more information see https://kde.org/privacypolicy-apps.php."
+msgid ""
+"Sends anonymized usage information to KDE so we can better understand our "
+"users. For more information see https://kde.org/privacypolicy-apps.php."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -637,7 +642,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: discover/qml/Feedback.qml:48
 #, kde-format
-msgid "You can help us improving this application by sharing statistics and participate in surveys."
+msgid ""
+"You can help us improving this application by sharing statistics and "
+"participate in surveys."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts

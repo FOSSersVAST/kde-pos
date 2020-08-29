@@ -98,7 +98,9 @@ msgstr "ആന്തരിക ഫോൾബാക്ക് പ്രൊഫൈൽ 
 #, fuzzy, kde-format
 msgctxt "@info:shell"
 msgid "Set the initial working directory of the new tab or window to 'dir'"
-msgstr "ഒരു പുതിയ കിളിവാതിലോ ജാലകമോ തുറക്കുമ്പോള്‍ ആദ്യമായി കയറുന്ന തട്ടു് 'ഡിഐആര്‍ (dir)' എന്നതിലേയ്ക്കു് സജ്ജീകരിയ്ക്കുക"
+msgstr ""
+"ഒരു പുതിയ കിളിവാതിലോ ജാലകമോ തുറക്കുമ്പോള്‍ ആദ്യമായി കയറുന്ന തട്ടു് 'ഡിഐആര്‍ (dir)' "
+"എന്നതിലേയ്ക്കു് സജ്ജീകരിയ്ക്കുക"
 
 #. +> trunk5 stable5
 #: Application.cpp:74
@@ -111,7 +113,8 @@ msgstr "ആദ്യത്തെ സെഷന്‍ അവസാനിയ്ക�
 #: Application.cpp:77
 #, fuzzy, kde-format
 msgctxt "@info:shell"
-msgid "Create a new tab in an existing window rather than creating a new window"
+msgid ""
+"Create a new tab in an existing window rather than creating a new window"
 msgstr "പുതിയൊരു ജാലകം തുറക്കുന്നതിനു് പകരം നിലവിലുള്ള ജാലകത്തില്‍ തന്നെ ഒരു കിളിവാതില്‍ തുറക്കുക"
 
 #. +> trunk5 stable5
@@ -125,8 +128,11 @@ msgstr "തന്നിരിക്കുന്ന ടാബുകളുടെ �
 #: Application.cpp:84
 #, fuzzy, kde-format
 msgctxt "@info:shell"
-msgid "Start Konsole in the background and bring to the front when Ctrl+Shift+F12 (by default) is pressed"
-msgstr "കണ്‍സോള്‍ പശ്ചാത്തലത്തില്‍ തുറക്കുകയും F12 എന്ന കീ അമര്‍ത്തുമ്പോള്‍ മുന്‍വശത്തേയ്ക്കു് കൊണ്ടുവരികയും ചെയ്യുക"
+msgid ""
+"Start Konsole in the background and bring to the front when Ctrl+Shift+F12 "
+"(by default) is pressed"
+msgstr ""
+"കണ്‍സോള്‍ പശ്ചാത്തലത്തില്‍ തുറക്കുകയും F12 എന്ന കീ അമര്‍ത്തുമ്പോള്‍ മുന്‍വശത്തേയ്ക്കു് കൊണ്ടുവരികയും ചെയ്യുക"
 
 #. +> trunk5 stable5
 #: Application.cpp:87
@@ -202,7 +208,9 @@ msgstr "പ്രൊഫൈലിലെ ഗുണത്തിന്റെ വി�
 #: Application.cpp:118
 #, kde-format
 msgctxt "@info:shell"
-msgid "Command to execute. This option will catch all following arguments, so use it as the last option."
+msgid ""
+"Command to execute. This option will catch all following arguments, so use "
+"it as the last option."
 msgstr ""
 
 #. +> trunk5 stable5
@@ -482,8 +490,12 @@ msgstr "ലിനക്സിന്റെ നിറങ്ങള്‍"
 #: colorscheme/ColorSchemeEditor.cpp:154
 #, fuzzy, kde-format
 msgctxt "@info:status"
-msgid "The background transparency setting will not be used because your desktop does not appear to support transparent windows."
-msgstr "പുറകില്‍ കാണാവുന്ന ജാലകങ്ങള്‍ക്കുള്ള പിന്തുണ നിങ്ങളുടെ പണിയിടത്തിലില്ലാത്തതു് കൊണ്ടു് പുറകിലോട്ടു് കാണുന്ന പശ്ചാത്തലത്തിനുള്ള സജ്ജീകരണം ഉപയോഗിയ്ക്കുകയില്ല."
+msgid ""
+"The background transparency setting will not be used because your desktop "
+"does not appear to support transparent windows."
+msgstr ""
+"പുറകില്‍ കാണാവുന്ന ജാലകങ്ങള്‍ക്കുള്ള പിന്തുണ നിങ്ങളുടെ പണിയിടത്തിലില്ലാത്തതു് കൊണ്ടു് പുറകിലോട്ടു് "
+"കാണുന്ന പശ്ചാത്തലത്തിനുള്ള സജ്ജീകരണം ഉപയോഗിയ്ക്കുകയില്ല."
 
 #. +> trunk5 stable5
 #: colorscheme/ColorSchemeEditor.cpp:210
@@ -547,7 +559,9 @@ msgstr "വിവരണം:"
 #: colorscheme/ColorSchemeEditor.ui:50
 #, kde-format
 msgid ""
-"Hue and saturation values of default foreground and background colors are randomized by default. Some color schemes might use different randomization settings.\n"
+"Hue and saturation values of default foreground and background colors are "
+"randomized by default. Some color schemes might use different randomization "
+"settings.\n"
 "To see any effect, set colors with saturation value greater than 0."
 msgstr ""
 
@@ -703,7 +717,10 @@ msgstr "മൃദുലമായ അക്ഷരസഞ്ചയങ്ങള്�
 #: FontDialog.cpp:61
 #, kde-format
 msgctxt "@info:status"
-msgid "By its very nature, a terminal program requires font characters that are equal width (monospace). Any non monospaced font may cause display issues. This should not be necessary except in rare cases."
+msgid ""
+"By its very nature, a terminal program requires font characters that are "
+"equal width (monospace). Any non monospaced font may cause display issues. "
+"This should not be necessary except in rare cases."
 msgstr ""
 
 #. +> trunk5 stable5
@@ -1164,7 +1181,8 @@ msgstr ""
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "There is a process running in this window. Do you still want to quit?"
-msgid_plural "There are %1 processes running in this window. Do you still want to quit?"
+msgid_plural ""
+"There are %1 processes running in this window. Do you still want to quit?"
 msgstr[0] "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 msgstr[1] "ഈ ജാലകത്തില്‍ ഒന്നിലധികം കിളിവാതിലുകളുണ്ടു്, പുറത്തുകടക്കണമെന്നു് നിങ്ങള്‍ക്കുറപ്പുണ്ടോ?"
 
@@ -1428,8 +1446,12 @@ msgstr "മുന്നറിയിപ്പു്:"
 #. +> trunk5 stable5
 #: session/Session.cpp:478
 #, kde-format
-msgid "Could not find '%1', starting '%2' instead.  Please check your profile settings."
-msgstr "'%1' കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, ഇതിനുപകരം '%2' തുടങ്ങുന്നു. നിങ്ങളുടെ പ്രൊഫൈലിന്റെ സജ്ജീകരണം പരിശോധിയ്ക്കുക."
+msgid ""
+"Could not find '%1', starting '%2' instead.  Please check your profile "
+"settings."
+msgstr ""
+"'%1' കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, ഇതിനുപകരം '%2' തുടങ്ങുന്നു. നിങ്ങളുടെ പ്രൊഫൈലിന്റെ "
+"സജ്ജീകരണം പരിശോധിയ്ക്കുക."
 
 #. +> trunk5 stable5
 #: session/Session.cpp:481
@@ -1453,8 +1475,10 @@ msgstr "'%1' സെഷനില്‍ നിശബ്ദത"
 #: session/Session.cpp:921
 #, kde-format
 msgid ""
-"The D-Bus methods sendText/runCommand were just used.  There are security concerns about allowing these methods to be public.  If desired, these methods can be changed to internal use only by re-compiling Konsole. "
-"<p>This warning will only show once for this Konsole instance.</p>"
+"The D-Bus methods sendText/runCommand were just used.  There are security "
+"concerns about allowing these methods to be public.  If desired, these "
+"methods can be changed to internal use only by re-compiling Konsole. <p>This "
+"warning will only show once for this Konsole instance.</p>"
 msgstr ""
 
 #. +> trunk5 stable5
@@ -1745,13 +1769,17 @@ msgstr ""
 #. +> trunk5 stable5
 #: session/SessionController.cpp:985
 #, kde-format
-msgid "A program is currently running in this session.  Are you sure you want to close it?"
+msgid ""
+"A program is currently running in this session.  Are you sure you want to "
+"close it?"
 msgstr "ഒരു പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
 #. +> trunk5 stable5
 #: session/SessionController.cpp:988
 #, kde-format
-msgid "The program '%1' is currently running in this session.  Are you sure you want to close it?"
+msgid ""
+"The program '%1' is currently running in this session.  Are you sure you "
+"want to close it?"
 msgstr "'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
 #. +> trunk5 stable5
@@ -1763,13 +1791,17 @@ msgstr "അടയ്ക്കുന്നതുറപ്പാക്കുക"
 #. +> trunk5 stable5
 #: session/SessionController.cpp:1017
 #, fuzzy, kde-format
-msgid "A program in this session would not die.  Are you sure you want to kill it by force?"
+msgid ""
+"A program in this session would not die.  Are you sure you want to kill it "
+"by force?"
 msgstr "ഒരു പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
 #. +> trunk5 stable5
 #: session/SessionController.cpp:1020
 #, fuzzy, kde-format
-msgid "The program '%1' is in this session would not die.  Are you sure you want to kill it by force?"
+msgid ""
+"The program '%1' is in this session would not die.  Are you sure you want to "
+"kill it by force?"
 msgstr "'%1' എന്ന പ്രോഗ്രാം ഈ സെഷനില്‍ പ്രവര്‍ത്തിച്ചുകൊണ്ടിരിയ്ക്കുന്നു. അതു് അടയ്ക്കണമെന്നുറപ്പുണ്ടോ?"
 
 #. +> trunk5 stable5
@@ -1782,22 +1814,24 @@ msgstr ""
 #: session/SessionController.cpp:1847
 #, kde-format
 msgid ""
-"<p>A ZModem file transfer attempt has been detected, but no suitable ZModem software was found on this system.</p>"
-"<p>You may wish to install the 'rzsz' or 'lrzsz' package.</p>"
+"<p>A ZModem file transfer attempt has been detected, but no suitable ZModem "
+"software was found on this system.</p><p>You may wish to install the 'rzsz' "
+"or 'lrzsz' package.</p>"
 msgstr ""
 
 #. +> trunk5 stable5
 #: session/SessionController.cpp:1858
 #, kde-format
-msgid "<p>The current session already has a ZModem file transfer in progress.</p>"
+msgid ""
+"<p>The current session already has a ZModem file transfer in progress.</p>"
 msgstr ""
 
 #. +> trunk5 stable5
 #: session/SessionController.cpp:1868
 #, kde-format
 msgid ""
-"<p>No suitable ZModem software was found on this system.</p>"
-"<p>You may wish to install the 'rzsz' or 'lrzsz' package.</p>"
+"<p>No suitable ZModem software was found on this system.</p><p>You may wish "
+"to install the 'rzsz' or 'lrzsz' package.</p>"
 msgstr ""
 
 #. +> trunk5 stable5
@@ -2013,7 +2047,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: settings/konsole.kcfg:29 widgets/EditProfileAppearancePage.ui:488
 #, kde-format
-msgid "Show terminal size in columns and lines in the center of window after resizing"
+msgid ""
+"Show terminal size in columns and lines in the center of window after "
+"resizing"
 msgstr ""
 
 #. i18n: ectx: label, entry (SaveGeometryOnExit), group (KonsoleWindow)
@@ -2200,16 +2236,12 @@ msgstr ""
 #: settings/PartInfo.ui:29
 #, kde-format
 msgid ""
-"<html><head/><body>"
-"<p>Applications that use KonsolePart share profiles.</p>"
-"<p>They do not share with Konsole or other applications:"
-"<ul>"
-"<li>default profile</li>"
-"<li>show in menu</li>"
-"<li>shortcuts</li>"
-"</ul>"
-"</p>"
-"<p>Feel free to open a Konsole <a href=\"https://bugs.kde.org/enter_bug.cgi?format=guided&product=konsole&component=kpart\">bug report</a> if you desire a change to how these are handled.</body></html>"
+"<html><head/><body><p>Applications that use KonsolePart share profiles.</"
+"p><p>They do not share with Konsole or other applications:<ul><li>default "
+"profile</li><li>show in menu</li><li>shortcuts</li></ul></p><p>Feel free to "
+"open a Konsole <a href=\"https://bugs.kde.org/enter_bug.cgi?"
+"format=guided&product=konsole&component=kpart\">bug report</a> if you desire "
+"a change to how these are handled.</body></html>"
 msgstr ""
 
 #. +> trunk5 stable5
@@ -2229,7 +2261,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: settings/ProfileSettings.cpp:144 settings/ProfileSettings.cpp:207
 #, fuzzy, kde-format
-msgctxt "@info:tooltip List item's checkbox for making item (profile) visible in a menu"
+msgctxt ""
+"@info:tooltip List item's checkbox for making item (profile) visible in a "
+"menu"
 msgid "Show profile in menu"
 msgstr "മെനുവില്‍ കാണിയ്ക്കുക"
 
@@ -2265,7 +2299,10 @@ msgstr "പുതിയ പ്രൊഫൈല്‍"
 #. +> trunk5 stable5
 #: settings/ProfileSettings.ui:29
 #, kde-format
-msgid "Profiles marked as visible will appear in context and File menu. A shortcut for creating a new tab can be assigned to each entry. However, only shortcuts of visible profiles will work."
+msgid ""
+"Profiles marked as visible will appear in context and File menu. A shortcut "
+"for creating a new tab can be assigned to each entry. However, only "
+"shortcuts of visible profiles will work."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newProfileButton)
@@ -2424,7 +2461,9 @@ msgstr ""
 #: settings/TabBarSettings.ui:218
 #, fuzzy, kde-format
 msgid "Show 'New Tab' button"
-msgstr "കിളിവാതിലുകളുടെ പട്ടയില്‍ 'പുതിയ കിളിവാതില്‍', 'കിളിവാതില്‍ അടയ്ക്കുക' എന്നീ ബട്ടണുകള്‍ കാണിയ്ക്കുക"
+msgstr ""
+"കിളിവാതിലുകളുടെ പട്ടയില്‍ 'പുതിയ കിളിവാതില്‍', 'കിളിവാതില്‍ അടയ്ക്കുക' എന്നീ ബട്ടണുകള്‍ "
+"കാണിയ്ക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ExpandTabWidth)
 #. +> trunk5 stable5
@@ -2564,14 +2603,18 @@ msgstr ""
 #. +> trunk5 stable5
 #: settings/TemporaryFilesSettings.cpp:49
 #, kde-format
-msgctxt "@option:radio File location; <filename>%1</filename>: path to directory placeholder"
+msgctxt ""
+"@option:radio File location; <filename>%1</filename>: path to directory "
+"placeholder"
 msgid "System temporary directory (%1)"
 msgstr ""
 
 #. +> trunk5 stable5
 #: settings/TemporaryFilesSettings.cpp:52
 #, kde-format
-msgctxt "@option:radio File location; <filename>%1</filename>: path to directory placeholder"
+msgctxt ""
+"@option:radio File location; <filename>%1</filename>: path to directory "
+"placeholder"
 msgid "User cache directory (%1)"
 msgstr ""
 
@@ -2789,8 +2832,12 @@ msgstr "ടാബ് %1-ലേക്ക് മാറുക"
 #. +> trunk5 stable5
 #: Vt102Emulation.cpp:1253
 #, kde-format
-msgid "No keyboard translator available.  The information needed to convert key presses into characters to send to the terminal is missing."
-msgstr "കീബോര്‍ഡിന്റെ പരിഭാഷകന്‍ ലഭ്യമല്ല. കീകള്‍ അമര്‍ത്തുന്നതിനെ ടെര്‍മിനലിലേയ്ക്കയയ്ക്കാനായി അക്ഷരങ്ങളായി പരിഭാഷപ്പെടുത്തുന്നതിനുള്ള വിവരം ലഭ്യമല്ല."
+msgid ""
+"No keyboard translator available.  The information needed to convert key "
+"presses into characters to send to the terminal is missing."
+msgstr ""
+"കീബോര്‍ഡിന്റെ പരിഭാഷകന്‍ ലഭ്യമല്ല. കീകള്‍ അമര്‍ത്തുന്നതിനെ ടെര്‍മിനലിലേയ്ക്കയയ്ക്കാനായി "
+"അക്ഷരങ്ങളായി പരിഭാഷപ്പെടുത്തുന്നതിനുള്ള വിവരം ലഭ്യമല്ല."
 
 #. i18n: ectx: property (text), widget (QLabel, urlHintsLabel)
 #. +> trunk5 stable5
@@ -2885,8 +2932,12 @@ msgstr ""
 #. +> trunk5 stable5
 #: widgets/EditProfileAdvancedPage.ui:230
 #, kde-format
-msgid "Enable Bi-Directional display on terminals (valid for Arabic, Farsi or Hebrew only)"
-msgstr "ടെര്‍മിനലുകളില്‍ രണ്ടു്-ദിശയിലുമുള്ള പ്രദര്‍ശനം അനുവദിയ്ക്കുക (അറബി, പാര്‍സി അല്ലെങ്കില്‍ ഹീബ്രു എന്നിവയ്ക്കു് മാത്രം ബാധകം)"
+msgid ""
+"Enable Bi-Directional display on terminals (valid for Arabic, Farsi or "
+"Hebrew only)"
+msgstr ""
+"ടെര്‍മിനലുകളില്‍ രണ്ടു്-ദിശയിലുമുള്ള പ്രദര്‍ശനം അനുവദിയ്ക്കുക (അറബി, പാര്‍സി അല്ലെങ്കില്‍ ഹീബ്രു "
+"എന്നിവയ്ക്കു് മാത്രം ബാധകം)"
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableBidiRenderingButton)
 #. +> trunk5 stable5
@@ -3065,7 +3116,8 @@ msgstr "നിറം"
 #: widgets/EditProfileAppearancePage.ui:304
 #, kde-format
 msgid "Set the cursor to match the color of the character underneath it."
-msgstr "കര്‍സറിന്റെ പുറകെയുള്ള അക്ഷരത്തിന്റെ നിറവുമായി പൊരുത്തമുള്ള നിറമായി കര്‍സര്‍ സജ്ജീകരിയ്ക്കുക."
+msgstr ""
+"കര്‍സറിന്റെ പുറകെയുള്ള അക്ഷരത്തിന്റെ നിറവുമായി പൊരുത്തമുള്ള നിറമായി കര്‍സര്‍ സജ്ജീകരിയ്ക്കുക."
 
 #. i18n: ectx: property (text), widget (QRadioButton, autoCursorColorButton)
 #. +> trunk5 stable5
@@ -3303,9 +3355,10 @@ msgstr "നൂതനമായ"
 #: widgets/EditProfileDialog.cpp:307
 #, kde-format
 msgid ""
-"<p>Konsole does not have permission to save this profile to:<br />"
-" \"%1\"</p>"
-"<p>To be able to save settings you can either change the permissions of the profile configuration file or change the profile name to save the settings to a new profile.</p>"
+"<p>Konsole does not have permission to save this profile to:<br /> \"%1\"</"
+"p><p>To be able to save settings you can either change the permissions of "
+"the profile configuration file or change the profile name to save the "
+"settings to a new profile.</p>"
 msgstr ""
 
 #. +> trunk5 stable5
@@ -3337,7 +3390,9 @@ msgstr "പ്രൊഫൈല്‍ ചിട്ടപ്പെടുത്ത�
 #. +> trunk5 stable5
 #: widgets/EditProfileDialog.cpp:463
 #, kde-format
-msgctxt "Suffix of the number of columns (N columns). The leading space is needed to separate it from the number value."
+msgctxt ""
+"Suffix of the number of columns (N columns). The leading space is needed to "
+"separate it from the number value."
 msgid " column"
 msgid_plural " columns"
 msgstr[0] ""
@@ -3346,7 +3401,9 @@ msgstr[1] ""
 #. +> trunk5 stable5
 #: widgets/EditProfileDialog.cpp:464
 #, kde-format
-msgctxt "Suffix of the number of rows (N rows). The leading space is needed to separate it from the number value."
+msgctxt ""
+"Suffix of the number of rows (N rows). The leading space is needed to "
+"separate it from the number value."
 msgid " row"
 msgid_plural " rows"
 msgstr[0] ""
@@ -3389,13 +3446,19 @@ msgstr ""
 #. +> trunk5 stable5
 #: widgets/EditProfileDialog.cpp:1390
 #, kde-format
-msgid "This color scheme uses a transparent background which does not appear to be supported on your desktop"
-msgstr "ഈ നിറങ്ങളുടെ പദ്ധതിയ്ക്കു് പുറകില്‍ കാണാവുന്ന തരത്തിലുള്ള പശ്ചാത്തലമുണ്ടെങ്കിലും നിങ്ങളുടെ പണിയിടത്തില്‍ അതിനുള്ള പിന്തുണയുള്ളതായി കാണുന്നില്ല"
+msgid ""
+"This color scheme uses a transparent background which does not appear to be "
+"supported on your desktop"
+msgstr ""
+"ഈ നിറങ്ങളുടെ പദ്ധതിയ്ക്കു് പുറകില്‍ കാണാവുന്ന തരത്തിലുള്ള പശ്ചാത്തലമുണ്ടെങ്കിലും നിങ്ങളുടെ "
+"പണിയിടത്തില്‍ അതിനുള്ള പിന്തുണയുള്ളതായി കാണുന്നില്ല"
 
 #. +> trunk5 stable5
 #: widgets/EditProfileDialog.cpp:1396
 #, kde-format
-msgid "Konsole was started before desktop effects were enabled. You need to restart Konsole to see transparent background."
+msgid ""
+"Konsole was started before desktop effects were enabled. You need to restart "
+"Konsole to see transparent background."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, iconSelectButton)
@@ -3431,7 +3494,9 @@ msgstr "ആജ്ഞ:"
 #. +> trunk5 stable5
 #: widgets/EditProfileGeneralPage.ui:100
 #, kde-format
-msgid "The command to execute when new terminal sessions are created using this profile"
+msgid ""
+"The command to execute when new terminal sessions are created using this "
+"profile"
 msgstr "ഈ പ്രൊഫൈല്‍ ഉപയോഗിച്ചു് പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ സൃഷ്ടിയ്ക്കുമ്പോള്‍ പ്രവര്‍ത്തിപ്പിയ്ക്കേണ്ട ആജ്ഞ"
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, commandEdit)
@@ -3452,8 +3517,10 @@ msgstr "തുടക്കത്തിലെ തട്ടു്:"
 #. +> trunk5 stable5
 #: widgets/EditProfileGeneralPage.ui:132
 #, kde-format
-msgid "The initial working directory for new terminal sessions using this profile"
-msgstr "ഈ പ്രൊഫൈല്‍ ഉപയോഗിച്ചു് പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ സൃഷ്ടിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട തുടക്കത്തിലെ തട്ടു്"
+msgid ""
+"The initial working directory for new terminal sessions using this profile"
+msgstr ""
+"ഈ പ്രൊഫൈല്‍ ഉപയോഗിച്ചു് പുതിയ ടെര്‍മിനല്‍ സെഷനുകള്‍ സൃഷ്ടിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട തുടക്കത്തിലെ തട്ടു്"
 
 #. i18n: ectx: property (placeholderText), widget (QLineEdit, initialDirEdit)
 #. +> trunk5 stable5
@@ -3503,9 +3570,9 @@ msgstr "ടെര്‍മിനലിന്റെ കഴിവുകള്‍"
 #, kde-format
 msgctxt "@info"
 msgid ""
-"<html><head/><body>"
-"<p><span style=\" font-style:italic;\">Settings → Configure Konsole → General → Remember window size</span> must be disabled for these entries to work.</p>"
-"</body></html>"
+"<html><head/><body><p><span style=\" font-style:italic;\">Settings → "
+"Configure Konsole → General → Remember window size</span> must be disabled "
+"for these entries to work.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, note)
@@ -3513,8 +3580,14 @@ msgstr ""
 #: widgets/EditProfileKeyboardPage.ui:29
 #, fuzzy, kde-format
 msgctxt "@info"
-msgid "Key bindings control how combinations of keystrokes in the terminal window are converted into the stream of characters that is then sent to the current terminal program. For more information on how to customize the key bindings check the Konsole Handbook."
-msgstr "ടെര്‍മിനല്‍ ജാലകത്തില്‍ അമര്‍ത്തുന്ന കീകളുടെ കൂട്ടം അക്ഷരങ്ങളുടെ നിരകളായി മാറ്റി നിലവിലുള്ള ടെര്‍മിനല്‍ പ്രോഗ്രാമിനു് അയച്ചു് കൊടുക്കേണ്ടതെങ്ങനെയെന്നു് കുറുക്കുവഴി അക്ഷരങ്ങള്‍ നിയന്ത്രിയ്ക്കുന്നു."
+msgid ""
+"Key bindings control how combinations of keystrokes in the terminal window "
+"are converted into the stream of characters that is then sent to the current "
+"terminal program. For more information on how to customize the key bindings "
+"check the Konsole Handbook."
+msgstr ""
+"ടെര്‍മിനല്‍ ജാലകത്തില്‍ അമര്‍ത്തുന്ന കീകളുടെ കൂട്ടം അക്ഷരങ്ങളുടെ നിരകളായി മാറ്റി നിലവിലുള്ള ടെര്‍"
+"മിനല്‍ പ്രോഗ്രാമിനു് അയച്ചു് കൊടുക്കേണ്ടതെങ്ങനെയെന്നു് കുറുക്കുവഴി അക്ഷരങ്ങള്‍ നിയന്ത്രിയ്ക്കുന്നു."
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, newKeyBindingsButton)
 #. +> trunk5 stable5
@@ -3565,8 +3638,12 @@ msgstr "മൌസുമായുള്ള വിനിമയം"
 #: widgets/EditProfileMousePage.ui:47 widgets/EditProfileMousePage.ui:68
 #, fuzzy, kde-format
 msgctxt "@info:tooltip"
-msgid "Characters which are considered part of a word when double-clicking to select whole words in the terminal."
-msgstr "ടെര്‍മിനലില്‍ വച്ചു് രണ്ടു് തവണ ഞെക്കി മുഴുവന്‍ വാക്കും തെരഞ്ഞെടുക്കുമ്പോള്‍ ഒരു വാക്കിന്റെ ഭാഗമായി കണക്കാക്കേണ്ട അക്ഷരങ്ങള്‍"
+msgid ""
+"Characters which are considered part of a word when double-clicking to "
+"select whole words in the terminal."
+msgstr ""
+"ടെര്‍മിനലില്‍ വച്ചു് രണ്ടു് തവണ ഞെക്കി മുഴുവന്‍ വാക്കും തെരഞ്ഞെടുക്കുമ്പോള്‍ ഒരു വാക്കിന്റെ ഭാഗമായി "
+"കണക്കാക്കേണ്ട അക്ഷരങ്ങള്‍"
 
 #. i18n: ectx: property (text), widget (QLabel, label_11)
 #. +> trunk5 stable5
@@ -3705,7 +3782,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: widgets/EditProfileMousePage.ui:296
 #, kde-format
-msgid "Mouse scroll wheel will emulate up/down key presses in programs that use the Alternate Screen buffer (e.g. less)"
+msgid ""
+"Mouse scroll wheel will emulate up/down key presses in programs that use the "
+"Alternate Screen buffer (e.g. less)"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableAlternateScrollingButton)
@@ -3719,7 +3798,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: widgets/EditProfileMousePage.ui:306
 #, kde-format
-msgid "Text recognized as a link or an email address will be underlined when hovered by the mouse pointer."
+msgid ""
+"Text recognized as a link or an email address will be underlined when "
+"hovered by the mouse pointer."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, underlineLinksButton)
@@ -3733,7 +3814,9 @@ msgstr "അടിവര"
 #. +> trunk5 stable5
 #: widgets/EditProfileMousePage.ui:332
 #, kde-format
-msgid "Text recognized as a file will be underlined when hovered by the mouse pointer."
+msgid ""
+"Text recognized as a file will be underlined when hovered by the mouse "
+"pointer."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, underlineFilesButton)
@@ -3747,7 +3830,9 @@ msgstr "അടിവര"
 #. +> trunk5 stable5
 #: widgets/EditProfileMousePage.ui:342
 #, kde-format
-msgid "Always paste dropped files and URLs as text without offering move, copy and link actions."
+msgid ""
+"Always paste dropped files and URLs as text without offering move, copy and "
+"link actions."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, dropUrlsAsText)
@@ -3789,7 +3874,9 @@ msgstr "മിന്നുന്ന പദാവലി അനുവദിയ്�
 #. +> trunk5 stable5
 #: widgets/EditProfileMousePage.ui:385
 #, kde-format
-msgid "Text recognized as a file, link or an email address can be opened by direct mouse click."
+msgid ""
+"Text recognized as a file, link or an email address can be opened by direct "
+"mouse click."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, openLinksByDirectClickButton)
@@ -3941,7 +4028,10 @@ msgstr[1] "വരികള്‍"
 #: widgets/HistorySizeWidget.cpp:72
 #, kde-format
 msgctxt "@info:whatsthis"
-msgid "When using this option, the scrollback data will be saved to RAM. If you choose a huge value, your system may run out of free RAM and cause serious issues with your system."
+msgid ""
+"When using this option, the scrollback data will be saved to RAM. If you "
+"choose a huge value, your system may run out of free RAM and cause serious "
+"issues with your system."
 msgstr ""
 
 #. +> trunk5 stable5
@@ -3949,8 +4039,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
-"When using this option, the scrollback data will be written unencrypted to temporary files. Those temporary files will be deleted automatically when Konsole is closed in a normal manner.<nl/>"
-"Use <emphasis>Settings → Configure Konsole → File Location</emphasis> to select the location of the temporary files."
+"When using this option, the scrollback data will be written unencrypted to "
+"temporary files. Those temporary files will be deleted automatically when "
+"Konsole is closed in a normal manner.<nl/>Use <emphasis>Settings → Configure "
+"Konsole → File Location</emphasis> to select the location of the temporary "
+"files."
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QRadioButton, fixedSizeHistoryButton)
@@ -3994,7 +4087,9 @@ msgstr "പുറകിലേയ്ക്കു് പോകാന്‍ പര�
 #: widgets/HistorySizeWidget.ui:174
 #, fuzzy, kde-format
 msgid "Do not remember previous output"
-msgstr "പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുകയും മുമ്പത്തെ ഫലം ഓര്‍ത്തുവയ്ക്കാതിരിയ്ക്കുകയും ചെയ്യുക"
+msgstr ""
+"പുറകിലേയ്ക്കു് നീക്കുന്നതിനുള്ള പട്ട പ്രാവര്‍ത്തികമല്ലാതാക്കുകയും മുമ്പത്തെ ഫലം ഓര്‍"
+"ത്തുവയ്ക്കാതിരിയ്ക്കുകയും ചെയ്യുക"
 
 #. i18n: ectx: property (text), widget (QRadioButton, noHistoryButton)
 #. +> trunk5 stable5
@@ -4139,8 +4234,12 @@ msgstr "പുതിയ നിറങ്ങളുടെ പദ്ധതി"
 #. +> trunk5 stable5
 #: widgets/RenameTabWidget.ui:41
 #, kde-format
-msgid "Tab title format used when a remote command (e.g. connection to another computer via SSH) is being executed"
-msgstr "വിദൂരത്തൊരു ആജ്ഞ (ഉദാ. എസ്എസ്എച്ച് ഉപയോഗിച്ചു് മറ്റൊരു കമ്പ്യൂട്ടറിലേയ്ക്കുള്ള ബന്ധം) പ്രവര്‍ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്"
+msgid ""
+"Tab title format used when a remote command (e.g. connection to another "
+"computer via SSH) is being executed"
+msgstr ""
+"വിദൂരത്തൊരു ആജ്ഞ (ഉദാ. എസ്എസ്എച്ച് ഉപയോഗിച്ചു് മറ്റൊരു കമ്പ്യൂട്ടറിലേയ്ക്കുള്ള ബന്ധം) പ്രവര്‍"
+"ത്തിപ്പിച്ചുകൊണ്ടിരിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കേണ്ട കിളിവാതിലുകളുടെ തലക്കെട്ടിന്റെ ഫോര്‍മാറ്റ്"
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk5 stable5
@@ -4339,7 +4438,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: widgets/TerminalDisplay.cpp:3389
 #, kde-format
-msgid "The text you're trying to paste contains hidden control characters, do you want to filter them out?"
+msgid ""
+"The text you're trying to paste contains hidden control characters, do you "
+"want to filter them out?"
 msgstr ""
 
 #. +> trunk5 stable5
@@ -4373,8 +4474,14 @@ msgstr ""
 #. +> trunk5 stable5
 #: widgets/TerminalDisplay.cpp:3651
 #, kde-format
-msgid "<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/Software_flow_control\">suspended</a> by pressing Ctrl+S. Press <b>Ctrl+Q</b> to resume.</qt>"
-msgstr "<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a href=\"http://en.wikipedia.org/wiki/Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> അമര്‍ത്തുക.</qt>"
+msgid ""
+"<qt>Output has been <a href=\"https://en.wikipedia.org/wiki/"
+"Software_flow_control\">suspended</a> by pressing Ctrl+S. Press <b>Ctrl+Q</"
+"b> to resume.</qt>"
+msgstr ""
+"<qt>കണ്ട്രോള്‍+S അമര്‍ത്തിക്കൊണ്ട് ഫലം <a href=\"http://en.wikipedia.org/wiki/"
+"Flow_control\">താത്കാലികമായി നിര്‍ത്തിയിരിക്കുന്നു</a>. തുടരാനായി <b>കണ്ട്രോള്‍+Q</b> അമര്‍"
+"ത്തുക.</qt>"
 
 #. +> trunk5 stable5
 #: widgets/TerminalDisplay.cpp:3692

@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-08-26 08:44+0200\n"
 "PO-Revision-Date: 2020-02-02 13:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +27,6 @@ msgstr "ഡോൾഫിൻ സേവന മെനു ഇൻസ്റ്റാള
 #. +> trunk5 stable5
 #: servicemenuinstaller.cpp:71
 #, fuzzy, kde-format
-#| msgid "Failed to run installer script %1"
 msgid "Failed to install \"%1\", exited with status \"%2\""
 msgstr "%1 ഇൻസ്റ്റാളർ സ്ക്രിപ്റ്റ് പ്രവർത്തിപ്പിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 

@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2019-05-20 12:22+0200\n"
 "PO-Revision-Date: 2018-11-15 04:03+0100\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,9 +46,11 @@ msgstr ""
 #: vpnc.cpp:268
 #, kde-format
 msgid ""
-"The VPN settings file '%1' specifies that VPN traffic should be tunneled through TCP which is currently not supported in the vpnc software.\n"
+"The VPN settings file '%1' specifies that VPN traffic should be tunneled "
+"through TCP which is currently not supported in the vpnc software.\n"
 "\n"
-"The connection can still be created, with TCP tunneling disabled, however it may not work as expected."
+"The connection can still be created, with TCP tunneling disabled, however it "
+"may not work as expected."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -146,7 +149,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: vpnc.ui:141
 #, kde-format
-msgid "Enable hybrid authentication, i.e. use certificate in addition to password."
+msgid ""
+"Enable hybrid authentication, i.e. use certificate in addition to password."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, useHybridAuth)
@@ -293,7 +297,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: vpncadvanced.ui:190
 #, kde-format
-msgid "Local port to use (0-65535). 0 (default value) means random port. 500 is vpnc's default."
+msgid ""
+"Local port to use (0-65535). 0 (default value) means random port. 500 is "
+"vpnc's default."
 msgstr ""
 
 #. i18n: ectx: property (specialValueText), widget (QSpinBox, localport)

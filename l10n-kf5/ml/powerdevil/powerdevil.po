@@ -101,8 +101,8 @@ msgstr ""
 #. +> trunk5 stable5
 #: actions/bundled/handlebuttonevents.cpp:77
 #, fuzzy, kde-format
-#| msgid "PowerDevil"
-msgctxt "@action:inmenu Global shortcut, used for long presses of the power button"
+msgctxt ""
+"@action:inmenu Global shortcut, used for long presses of the power button"
 msgid "Power Down"
 msgstr "പവര്‍ഡെവിള്‍"
 
@@ -321,7 +321,8 @@ msgstr "കെഡിഇ4 നു് വേണ്ടിയുള്ള വൈദ�
 #: powerdevilapp.cpp:63
 #, kde-format
 msgctxt "@title"
-msgid "PowerDevil, an advanced, modular and lightweight power management daemon"
+msgid ""
+"PowerDevil, an advanced, modular and lightweight power management daemon"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -412,7 +413,9 @@ msgstr ""
 #: powerdevilcore.cpp:571 powerdevilcore.cpp:578 powerdevilcore.cpp:592
 #, kde-format
 msgctxt "Placeholder is device name"
-msgid "The battery in (\"%1\") is running low, and the device may turn off at any time. Please recharge or replace the battery."
+msgid ""
+"The battery in (\"%1\") is running low, and the device may turn off at any "
+"time. Please recharge or replace the battery."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -431,7 +434,9 @@ msgstr ""
 #: powerdevilcore.cpp:585
 #, kde-format
 msgctxt "Placeholder is device name"
-msgid "The battery in Bluetooth device \"%1\" is running low, and the device may turn off at any time. Please recharge or replace the battery."
+msgid ""
+"The battery in Bluetooth device \"%1\" is running low, and the device may "
+"turn off at any time. Please recharge or replace the battery."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -450,7 +455,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: powerdevilcore.cpp:631
 #, kde-format
-msgid "Battery running low - to continue using your computer, plug it in or shut it down and change the battery."
+msgid ""
+"Battery running low - to continue using your computer, plug it in or shut it "
+"down and change the battery."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -462,7 +469,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: powerdevilcore.cpp:647
 #, fuzzy, kde-format
-msgctxt "Cancel timeout that will automatically put system to sleep because of low battery"
+msgctxt ""
+"Cancel timeout that will automatically put system to sleep because of low "
+"battery"
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
 
@@ -475,7 +484,9 @@ msgstr "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാ�
 #. +> trunk5 stable5 plasma5lts
 #: powerdevilcore.cpp:661
 #, fuzzy, kde-format
-msgid "Battery level critical. Your computer will enter hibernation mode in 60 seconds."
+msgid ""
+"Battery level critical. Your computer will enter hibernation mode in 60 "
+"seconds."
 msgstr "നിങ്ങളുടെ ബാറ്ററി ഗുരുതരാവസ്ഥയിലാണു്, പിസി %1 സെക്കന്റിനുള്ളില്‍ നില്‍ക്കുന്നതായിരിയ്ക്കും."
 
 #. +> trunk5 stable5 plasma5lts

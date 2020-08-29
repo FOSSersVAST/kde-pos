@@ -39,8 +39,12 @@ msgstr "%1-നുള്ള ഉടമസ്ഥാവകാശം മാറ്റ�
 #. +> trunk5
 #: core/chmodjob.cpp:197
 #, kde-format
-msgid "<qt>Could not modify the ownership of file <b>%1</b>. You have insufficient access to the file to perform the change.</qt>"
-msgstr "<qt><b>%1</b> എന്ന ഫയലിന്റെ ഉടമസ്ഥത മാറ്റുവാൻ സാധിച്ചില്ല. ഈ ഫയലിൽ ഈ പരിവർത്തനം നടത്താൻ ആവശ്യമുള്ള അവകാശം നിങ്ങള്ക്ക് ഇല്ല.</qt>"
+msgid ""
+"<qt>Could not modify the ownership of file <b>%1</b>. You have insufficient "
+"access to the file to perform the change.</qt>"
+msgstr ""
+"<qt><b>%1</b> എന്ന ഫയലിന്റെ ഉടമസ്ഥത മാറ്റുവാൻ സാധിച്ചില്ല. ഈ ഫയലിൽ ഈ പരിവർത്തനം "
+"നടത്താൻ ആവശ്യമുള്ള അവകാശം നിങ്ങള്ക്ക് ഇല്ല.</qt>"
 
 #. +> trunk5
 #: core/connectionbackend.cpp:108
@@ -88,7 +92,8 @@ msgstr ""
 #. +> trunk5
 #: core/desktopexecparser.cpp:350
 #, kde-format
-msgid "The program '%1' was found at '%2' but it is missing executable permissions."
+msgid ""
+"The program '%1' was found at '%2' but it is missing executable permissions."
 msgstr ""
 
 #. +> trunk5
@@ -281,7 +286,9 @@ msgstr ""
 #. +> trunk5
 #: core/job.cpp:276
 #, kde-format
-msgid "Root privileges are required to change file attributes. Do you want to continue?"
+msgid ""
+"Root privileges are required to change file attributes. Do you want to "
+"continue?"
 msgstr ""
 
 #. +> trunk5
@@ -293,8 +300,12 @@ msgstr "ഫയലുകള്‍ ലഭ്യമല്ല"
 #. +> trunk5
 #: core/job.cpp:281
 #, kde-format
-msgid "Root privileges are required to complete the copy operation. Do you want to continue?"
-msgstr "പകർപ്പ് പ്രവർത്തനം പൂർത്തിയാക്കാൻ റൂട്ട് പ്രത്യേകാവകാശങ്ങൾ ആവശ്യമാണ്.നിങ്ങൾ തുടരാൻ ആഗ്രഹിക്കുന്നുവോ?"
+msgid ""
+"Root privileges are required to complete the copy operation. Do you want to "
+"continue?"
+msgstr ""
+"പകർപ്പ് പ്രവർത്തനം പൂർത്തിയാക്കാൻ റൂട്ട് പ്രത്യേകാവകാശങ്ങൾ ആവശ്യമാണ്.നിങ്ങൾ തുടരാൻ "
+"ആഗ്രഹിക്കുന്നുവോ?"
 
 #. +> trunk5
 #: core/job.cpp:285
@@ -305,7 +316,9 @@ msgstr "ഫയലുകള്‍ വെട്ടിമാറ്റുക"
 #. +> trunk5
 #: core/job.cpp:286
 #, kde-format
-msgid "Root privileges are required to complete the delete operation. However, doing so may damage your system. Do you want to continue?"
+msgid ""
+"Root privileges are required to complete the delete operation. However, "
+"doing so may damage your system. Do you want to continue?"
 msgstr ""
 
 #. +> trunk5
@@ -317,7 +330,8 @@ msgstr "പേരന്റ് ഫോള്‍ഡര്‍"
 #. +> trunk5
 #: core/job.cpp:291
 #, kde-format
-msgid "Root privileges are required to create this folder. Do you want to continue?"
+msgid ""
+"Root privileges are required to create this folder. Do you want to continue?"
 msgstr ""
 
 #. +> trunk5
@@ -329,7 +343,9 @@ msgstr "ചവറ്റുകുട്ടയിലേക്കു് നീക�
 #. +> trunk5
 #: core/job.cpp:296
 #, kde-format
-msgid "Root privileges are required to complete the move operation. Do you want to continue?"
+msgid ""
+"Root privileges are required to complete the move operation. Do you want to "
+"continue?"
 msgstr ""
 
 #. +> trunk5
@@ -341,7 +357,8 @@ msgstr "&പേരു് മാറ്റുക"
 #. +> trunk5
 #: core/job.cpp:301
 #, kde-format
-msgid "Root privileges are required to complete renaming. Do you want to continue?"
+msgid ""
+"Root privileges are required to complete renaming. Do you want to continue?"
 msgstr ""
 
 #. +> trunk5
@@ -354,7 +371,8 @@ msgstr ""
 #. +> trunk5
 #: core/job.cpp:306
 #, kde-format
-msgid "Root privileges are required to create a symlink. Do you want to continue?"
+msgid ""
+"Root privileges are required to create a symlink. Do you want to continue?"
 msgstr ""
 
 #. +> trunk5
@@ -366,7 +384,9 @@ msgstr "മറ്റൊരിടത്തേക്കു് മാറ്റു�
 #. +> trunk5
 #: core/job.cpp:311
 #, kde-format
-msgid "Root privileges are required to complete transferring data. Do you want to continue?"
+msgid ""
+"Root privileges are required to complete transferring data. Do you want to "
+"continue?"
 msgstr ""
 
 #. +> trunk5
@@ -794,7 +814,8 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:228
 #, kde-format
-msgid "The required content size information was not provided for a POST operation."
+msgid ""
+"The required content size information was not provided for a POST operation."
 msgstr ""
 
 #. +> trunk5
@@ -825,7 +846,9 @@ msgstr "%1 ഐഒ സ്ലേവ് നിര്‍മ്മിക്കാന�
 #: core/job_error.cpp:243
 #, kde-kuit-format
 msgctxt "@info"
-msgid "Cannot transfer <filename>%1</filename> because it is too large. The destination filesystem only supports files up to 4GiB"
+msgid ""
+"Cannot transfer <filename>%1</filename> because it is too large. The "
+"destination filesystem only supports files up to 4GiB"
 msgstr ""
 
 #. +> trunk5
@@ -860,16 +883,8 @@ msgstr "(അപരിചിതം)"
 #: core/job_error.cpp:281
 #, kde-format
 msgctxt "@info %1 error name, %2 description"
-msgid ""
-"<qt>"
-"<p><b>%1</b></p>"
-"<p>%2</p>"
-"</qt>"
-msgstr ""
-"<qt>"
-"<p><b>%1</b></p>"
-"<p>%2</p>"
-"</qt>"
+msgid "<qt><p><b>%1</b></p><p>%2</p></qt>"
+msgstr "<qt><p><b>%1</b></p><p>%2</p></qt>"
 
 #. +> trunk5
 #: core/job_error.cpp:285
@@ -929,8 +944,12 @@ msgstr "(അപരിചിതം)"
 #. +> trunk5
 #: core/job_error.cpp:344
 #, kde-format
-msgid "Contact your appropriate computer support system, whether the system administrator, or technical support group for further assistance."
-msgstr "കൂടുതല്‍ സഹായങ്ങള്‍ക്കായി നിങ്ങളുടെ സിസ്റ്റം ഭരണാധികാരിയുമായോ സിസ്റ്റത്തിനു് സാങ്കേതിക പിന്തുണ നല്‍കുന്ന സംഘവുമായോ ബന്ധപ്പെടുക."
+msgid ""
+"Contact your appropriate computer support system, whether the system "
+"administrator, or technical support group for further assistance."
+msgstr ""
+"കൂടുതല്‍ സഹായങ്ങള്‍ക്കായി നിങ്ങളുടെ സിസ്റ്റം ഭരണാധികാരിയുമായോ സിസ്റ്റത്തിനു് സാങ്കേതിക പിന്തുണ നല്‍"
+"കുന്ന സംഘവുമായോ ബന്ധപ്പെടുക."
 
 #. +> trunk5
 #: core/job_error.cpp:347
@@ -947,19 +966,25 @@ msgstr "ഈ ശ്രോതസ്സില്‍ നിങ്ങള്‍ക്�
 #. +> trunk5
 #: core/job_error.cpp:351
 #, kde-format
-msgid "Your access permissions may be inadequate to perform the requested operation on this resource."
+msgid ""
+"Your access permissions may be inadequate to perform the requested operation "
+"on this resource."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:353
 #, kde-format
-msgid "The file may be in use (and thus locked) by another user or application."
-msgstr "ഫയല്‍ വേറെ ഉപയോക്താവോ അല്ലെങ്കില്‍ പ്രയോഗമോ ഉപയോഗിക്കുകയാവാം (അതിനാല്‍ പൂട്ടിയിരിയ്ക്കുന്നു)."
+msgid ""
+"The file may be in use (and thus locked) by another user or application."
+msgstr ""
+"ഫയല്‍ വേറെ ഉപയോക്താവോ അല്ലെങ്കില്‍ പ്രയോഗമോ ഉപയോഗിക്കുകയാവാം (അതിനാല്‍ പൂട്ടിയിരിയ്ക്കുന്നു)."
 
 #. +> trunk5
 #: core/job_error.cpp:355
 #, kde-format
-msgid "Check to make sure that no other application or user is using the file or has locked the file."
+msgid ""
+"Check to make sure that no other application or user is using the file or "
+"has locked the file."
 msgstr ""
 
 #. +> trunk5
@@ -977,19 +1002,30 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:360
 #, kde-format
-msgid "This is most likely to be caused by a bug in the program. Please consider submitting a full bug report as detailed below."
+msgid ""
+"This is most likely to be caused by a bug in the program. Please consider "
+"submitting a full bug report as detailed below."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:362
 #, kde-format
-msgid "Update your software to the latest version. Your distribution should provide tools to update your software."
+msgid ""
+"Update your software to the latest version. Your distribution should provide "
+"tools to update your software."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:364
 #, kde-format
-msgid "When all else fails, please consider helping the KDE team or the third party maintainer of this software by submitting a high quality bug report. If the software is provided by a third party, please contact them directly. Otherwise, first look to see if the same bug has been submitted by someone else by searching at the <a href=\"https://bugs.kde.org/\">KDE bug reporting website</a>. If not, take note of the details given above, and include them in your bug report, along with as many other details as you think might help."
+msgid ""
+"When all else fails, please consider helping the KDE team or the third party "
+"maintainer of this software by submitting a high quality bug report. If the "
+"software is provided by a third party, please contact them directly. "
+"Otherwise, first look to see if the same bug has been submitted by someone "
+"else by searching at the <a href=\"https://bugs.kde.org/\">KDE bug reporting "
+"website</a>. If not, take note of the details given above, and include them "
+"in your bug report, along with as many other details as you think might help."
 msgstr ""
 
 #. +> trunk5
@@ -1001,13 +1037,17 @@ msgstr "നിങ്ങളുടെ നെറ്റ്‌വര്‍ക്ക�
 #. +> trunk5
 #: core/job_error.cpp:375
 #, kde-format
-msgid "There may have been a problem with your network configuration. If you have been accessing the Internet with no problems recently, this is unlikely."
+msgid ""
+"There may have been a problem with your network configuration. If you have "
+"been accessing the Internet with no problems recently, this is unlikely."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:378
 #, kde-format
-msgid "There may have been a problem at some point along the network path between the server and this computer."
+msgid ""
+"There may have been a problem at some point along the network path between "
+"the server and this computer."
 msgstr ""
 
 #. +> trunk5
@@ -1055,7 +1095,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:391
 #, kde-format
-msgid "This means that the contents of the requested file or folder <strong>%1</strong> could not be retrieved, as read access could not be obtained."
+msgid ""
+"This means that the contents of the requested file or folder <strong>%1</"
+"strong> could not be retrieved, as read access could not be obtained."
 msgstr ""
 
 #. +> trunk5
@@ -1073,7 +1115,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:401
 #, kde-format
-msgid "This means that the file, <strong>%1</strong>, could not be written to as requested, because access with permission to write could not be obtained."
+msgid ""
+"This means that the file, <strong>%1</strong>, could not be written to as "
+"requested, because access with permission to write could not be obtained."
 msgstr ""
 
 #. +> trunk5
@@ -1091,13 +1135,19 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:411
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol could not be found or started. This is usually due to technical reasons."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol could not be found or started. This is usually due to "
+"technical reasons."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:414
 #, kde-format
-msgid "The program which provides compatibility with this protocol may not have been updated with your last update of KDE. This can cause the program to be incompatible with the current version and thus not start."
+msgid ""
+"The program which provides compatibility with this protocol may not have "
+"been updated with your last update of KDE. This can cause the program to be "
+"incompatible with the current version and thus not start."
 msgstr ""
 
 #. +> trunk5
@@ -1109,7 +1159,9 @@ msgstr "ആന്തരിക പിശക്"
 #. +> trunk5
 #: core/job_error.cpp:423
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol has reported an internal error."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol has reported an internal error."
 msgstr ""
 
 #. +> trunk5
@@ -1122,8 +1174,11 @@ msgstr "തെറ്റായി എഴുതിയ യുആര്‍എല്�
 #: core/job_error.cpp:432
 #, kde-format
 msgid ""
-"The <strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator (URL) that you entered was not properly formatted. The format of a URL is generally as follows:"
-"<blockquote><strong>protocol://user:password@www.example.org:port/folder/filename.extension?query=value</strong></blockquote>"
+"The <strong>U</strong>niform <strong>R</strong>esource <strong>L</"
+"strong>ocator (URL) that you entered was not properly formatted. The format "
+"of a URL is generally as follows:<blockquote><strong>protocol://user:"
+"password@www.example.org:port/folder/filename.extension?query=value</"
+"strong></blockquote>"
 msgstr ""
 
 #. +> trunk5
@@ -1135,7 +1190,9 @@ msgstr "%1 സമ്പ്രദായത്തിനു് പിന്തു�
 #. +> trunk5
 #: core/job_error.cpp:442
 #, kde-format
-msgid "The protocol <strong>%1</strong> is not supported by the KDE programs currently installed on this computer."
+msgid ""
+"The protocol <strong>%1</strong> is not supported by the KDE programs "
+"currently installed on this computer."
 msgstr ""
 
 #. +> trunk5
@@ -1147,13 +1204,19 @@ msgstr "അപേക്ഷിച്ച സമ്പ്രദായത്തി�
 #. +> trunk5
 #: core/job_error.cpp:446
 #, kde-format
-msgid "The versions of the %1 protocol supported by this computer and the server may be incompatible."
+msgid ""
+"The versions of the %1 protocol supported by this computer and the server "
+"may be incompatible."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:448
 #, kde-format
-msgid "You may perform a search on the Internet for a KDE program (called a kioslave or ioslave) which supports this protocol. Places to search include <a href=\"https://kde-apps.org/\">https://kde-apps.org/</a> and <a href=\"http://freshmeat.net/\">http://freshmeat.net/</a>."
+msgid ""
+"You may perform a search on the Internet for a KDE program (called a "
+"kioslave or ioslave) which supports this protocol. Places to search include "
+"<a href=\"https://kde-apps.org/\">https://kde-apps.org/</a> and <a href="
+"\"http://freshmeat.net/\">http://freshmeat.net/</a>."
 msgstr ""
 
 #. +> trunk5
@@ -1171,13 +1234,19 @@ msgstr "സമ്പ്രദായം ഒരു ഫില്‍ട്ടര്�
 #. +> trunk5
 #: core/job_error.cpp:459
 #, kde-format
-msgid "The <strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator (URL) that you entered did not refer to a specific resource."
+msgid ""
+"The <strong>U</strong>niform <strong>R</strong>esource <strong>L</"
+"strong>ocator (URL) that you entered did not refer to a specific resource."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:462
 #, kde-format
-msgid "KDE is able to communicate through a protocol within a protocol; the protocol specified is only for use in such situations, however this is not one of these situations. This is a rare event, and is likely to indicate a programming error."
+msgid ""
+"KDE is able to communicate through a protocol within a protocol; the "
+"protocol specified is only for use in such situations, however this is not "
+"one of these situations. This is a rare event, and is likely to indicate a "
+"programming error."
 msgstr ""
 
 #. +> trunk5
@@ -1189,13 +1258,18 @@ msgstr "പിന്തുണ നല്‍കാത്ത പ്രവര്‍�
 #. +> trunk5
 #: core/job_error.cpp:471
 #, kde-format
-msgid "The requested action is not supported by the KDE program which is implementing the <strong>%1</strong> protocol."
+msgid ""
+"The requested action is not supported by the KDE program which is "
+"implementing the <strong>%1</strong> protocol."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:474
 #, kde-format
-msgid "This error is very much dependent on the KDE program. The additional information should give you more information than is available to the KDE input/output architecture."
+msgid ""
+"This error is very much dependent on the KDE program. The additional "
+"information should give you more information than is available to the KDE "
+"input/output architecture."
 msgstr ""
 
 #. +> trunk5
@@ -1213,8 +1287,11 @@ msgstr "കാത്തിരുന്ന ഫയല്‍"
 #. +> trunk5
 #: core/job_error.cpp:483
 #, kde-format
-msgid "The request expected a file, however the folder <strong>%1</strong> was found instead."
-msgstr "ഈ അഭ്യർത്ഥന ഒരു ഫയൽ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന അറ ആണ് ലഭിച്ചത്."
+msgid ""
+"The request expected a file, however the folder <strong>%1</strong> was "
+"found instead."
+msgstr ""
+"ഈ അഭ്യർത്ഥന ഒരു ഫയൽ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന അറ ആണ് ലഭിച്ചത്."
 
 #. +> trunk5
 #: core/job_error.cpp:485
@@ -1231,8 +1308,11 @@ msgstr "കാത്തിരുന്ന അറ"
 #. +> trunk5
 #: core/job_error.cpp:491
 #, kde-format
-msgid "The request expected a folder, however the file <strong>%1</strong> was found instead."
-msgstr "ഈ അഭ്യർത്ഥന ഒരു അറ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന ഫയൽ ആണ് ലഭിച്ചത്."
+msgid ""
+"The request expected a folder, however the file <strong>%1</strong> was "
+"found instead."
+msgstr ""
+"ഈ അഭ്യർത്ഥന ഒരു അറ ആണ് പ്രതീക്ഷിച്ചതു. പക്ഷെ <strong>%1</strong> എന്ന ഫയൽ ആണ് ലഭിച്ചത്."
 
 #. +> trunk5
 #: core/job_error.cpp:498
@@ -1249,8 +1329,11 @@ msgstr "നിര്‍ദ്ദിഷ്‌ടമായ ഫയൽ അല്ല�
 #. +> trunk5
 #: core/job_error.cpp:507
 #, kde-format
-msgid "The requested file could not be created because a file with the same name already exists."
-msgstr "അഭ്യർത്ഥിച്ച ഫയൽ ഉണ്ടാക്കാൻ സാധിച്ചില്ല കാരണം ആ പേര് ഉള്ള ഒരു ഫയൽ മുൻപേതന്നെ നിലവിൽ ഉണ്ട്."
+msgid ""
+"The requested file could not be created because a file with the same name "
+"already exists."
+msgstr ""
+"അഭ്യർത്ഥിച്ച ഫയൽ ഉണ്ടാക്കാൻ സാധിച്ചില്ല കാരണം ആ പേര് ഉള്ള ഒരു ഫയൽ മുൻപേതന്നെ നിലവിൽ ഉണ്ട്."
 
 #. +> trunk5
 #: core/job_error.cpp:509
@@ -1273,7 +1356,9 @@ msgstr "പുതിയ ഫയലിന് വേറെ ഒരു നാമം �
 #. +> trunk5
 #: core/job_error.cpp:517
 #, kde-format
-msgid "The requested folder could not be created because a folder with the same name already exists."
+msgid ""
+"The requested folder could not be created because a folder with the same "
+"name already exists."
 msgstr ""
 
 #. +> trunk5
@@ -1303,13 +1388,16 @@ msgstr "അപരിചിതമായ ഹോസ്റ്റ്"
 #. +> trunk5
 #: core/job_error.cpp:527
 #, kde-format
-msgid "An unknown host error indicates that the server with the requested name, <strong>%1</strong>, could not be located on the Internet."
+msgid ""
+"An unknown host error indicates that the server with the requested name, "
+"<strong>%1</strong>, could not be located on the Internet."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:530
 #, kde-format
-msgid "The name that you typed, %1, may not exist: it may be incorrectly typed."
+msgid ""
+"The name that you typed, %1, may not exist: it may be incorrectly typed."
 msgstr ""
 
 #. +> trunk5
@@ -1339,7 +1427,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:544 core/job_error.cpp:770 core/job_error.cpp:782
 #, kde-format
-msgid "Retry the request and ensure your authentication details are entered correctly."
+msgid ""
+"Retry the request and ensure your authentication details are entered "
+"correctly."
 msgstr ""
 
 #. +> trunk5
@@ -1351,7 +1441,9 @@ msgstr "എഴുതാനുള്ള അനുമതി നിഷേധിച�
 #. +> trunk5
 #: core/job_error.cpp:553
 #, kde-format
-msgid "This means that an attempt to write to the file <strong>%1</strong> was rejected."
+msgid ""
+"This means that an attempt to write to the file <strong>%1</strong> was "
+"rejected."
 msgstr ""
 
 #. +> trunk5
@@ -1363,7 +1455,9 @@ msgstr "അറയിലേയ്ക്കു് കടക്കാന്‍ സ�
 #. +> trunk5
 #: core/job_error.cpp:561
 #, kde-format
-msgid "This means that an attempt to enter (in other words, to open) the requested folder <strong>%1</strong> was rejected."
+msgid ""
+"This means that an attempt to enter (in other words, to open) the requested "
+"folder <strong>%1</strong> was rejected."
 msgstr ""
 
 #. +> trunk5
@@ -1381,7 +1475,10 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:571
 #, kde-format
-msgid "This means that a request was made which requires determining the contents of the folder, and the KDE program supporting this protocol is unable to do so."
+msgid ""
+"This means that a request was made which requires determining the contents "
+"of the folder, and the KDE program supporting this protocol is unable to do "
+"so."
 msgstr ""
 
 #. +> trunk5
@@ -1393,13 +1490,19 @@ msgstr "ചാക്രികമായ കണ്ണി കണ്ടെത്ത�
 #. +> trunk5
 #: core/job_error.cpp:580
 #, kde-format
-msgid "UNIX environments are commonly able to link a file or folder to a separate name and/or location. KDE detected a link or series of links that results in an infinite loop - i.e. the file was (perhaps in a roundabout way) linked to itself."
+msgid ""
+"UNIX environments are commonly able to link a file or folder to a separate "
+"name and/or location. KDE detected a link or series of links that results in "
+"an infinite loop - i.e. the file was (perhaps in a roundabout way) linked to "
+"itself."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:584 core/job_error.cpp:606
 #, kde-format
-msgid "Delete one part of the loop in order that it does not cause an infinite loop, and try again."
+msgid ""
+"Delete one part of the loop in order that it does not cause an infinite "
+"loop, and try again."
 msgstr ""
 
 #. +> trunk5
@@ -1429,7 +1532,11 @@ msgstr "പകര്‍ത്തുന്നതിനിടയില്‍ ച�
 #. +> trunk5
 #: core/job_error.cpp:601
 #, kde-format
-msgid "UNIX environments are commonly able to link a file or folder to a separate name and/or location. During the requested copy operation, KDE detected a link or series of links that results in an infinite loop - i.e. the file was (perhaps in a roundabout way) linked to itself."
+msgid ""
+"UNIX environments are commonly able to link a file or folder to a separate "
+"name and/or location. During the requested copy operation, KDE detected a "
+"link or series of links that results in an infinite loop - i.e. the file was "
+"(perhaps in a roundabout way) linked to itself."
 msgstr ""
 
 #. +> trunk5
@@ -1447,14 +1554,18 @@ msgstr "സോക്കറ്റ് ഉണ്ടാക്കാന്‍ സാ�
 #. +> trunk5
 #: core/job_error.cpp:613
 #, kde-format
-msgid "This is a fairly technical error in which a required device for network communications (a socket) could not be created."
+msgid ""
+"This is a fairly technical error in which a required device for network "
+"communications (a socket) could not be created."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:615 core/job_error.cpp:736 core/job_error.cpp:747
 #: core/job_error.cpp:756
 #, kde-format
-msgid "The network connection may be incorrectly configured, or the network interface may not be enabled."
+msgid ""
+"The network connection may be incorrectly configured, or the network "
+"interface may not be enabled."
 msgstr ""
 
 #. +> trunk5
@@ -1466,25 +1577,34 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:622
 #, kde-format
-msgid "The server <strong>%1</strong> refused to allow this computer to make a connection."
+msgid ""
+"The server <strong>%1</strong> refused to allow this computer to make a "
+"connection."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:624
 #, kde-format
-msgid "The server, while currently connected to the Internet, may not be configured to allow requests."
+msgid ""
+"The server, while currently connected to the Internet, may not be configured "
+"to allow requests."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:626
 #, kde-format
-msgid "The server, while currently connected to the Internet, may not be running the requested service (%1)."
+msgid ""
+"The server, while currently connected to the Internet, may not be running "
+"the requested service (%1)."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:628
 #, kde-format
-msgid "A network firewall (a device which restricts Internet requests), either protecting your network or the network of the server, may have intervened, preventing this request."
+msgid ""
+"A network firewall (a device which restricts Internet requests), either "
+"protecting your network or the network of the server, may have intervened, "
+"preventing this request."
 msgstr ""
 
 #. +> trunk5
@@ -1496,13 +1616,17 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:636
 #, kde-format
-msgid "Although a connection was established to <strong>%1</strong>, the connection was closed at an unexpected point in the communication."
+msgid ""
+"Although a connection was established to <strong>%1</strong>, the connection "
+"was closed at an unexpected point in the communication."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:639
 #, kde-format
-msgid "A protocol error may have occurred, causing the server to close the connection as a response to the error."
+msgid ""
+"A protocol error may have occurred, causing the server to close the "
+"connection as a response to the error."
 msgstr ""
 
 #. +> trunk5
@@ -1520,13 +1644,20 @@ msgstr "%1 സമ്പ്രദായം ഫില്‍ട്ടര്‍ സ�
 #. +> trunk5
 #: core/job_error.cpp:647
 #, kde-format
-msgid "The <strong>U</strong>niform <strong>R</strong>esource <strong>L</strong>ocator (URL) that you entered did not refer to a valid mechanism of accessing the specific resource, <strong>%1%2</strong>."
+msgid ""
+"The <strong>U</strong>niform <strong>R</strong>esource <strong>L</"
+"strong>ocator (URL) that you entered did not refer to a valid mechanism of "
+"accessing the specific resource, <strong>%1%2</strong>."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:652
 #, kde-format
-msgid "KDE is able to communicate through a protocol within a protocol. This request specified a protocol be used as such, however this protocol is not capable of such an action. This is a rare event, and is likely to indicate a programming error."
+msgid ""
+"KDE is able to communicate through a protocol within a protocol. This "
+"request specified a protocol be used as such, however this protocol is not "
+"capable of such an action. This is a rare event, and is likely to indicate a "
+"programming error."
 msgstr ""
 
 #. +> trunk5
@@ -1544,25 +1675,35 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:662
 #, kde-format
-msgid "The requested device could not be initialized (\"mounted\"). The reported error was: <strong>%1</strong>"
+msgid ""
+"The requested device could not be initialized (\"mounted\"). The reported "
+"error was: <strong>%1</strong>"
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:665
 #, kde-format
-msgid "The device may not be ready, for example there may be no media in a removable media device (i.e. no CD-ROM in a CD drive), or in the case of a peripheral/portable device, the device may not be correctly connected."
+msgid ""
+"The device may not be ready, for example there may be no media in a "
+"removable media device (i.e. no CD-ROM in a CD drive), or in the case of a "
+"peripheral/portable device, the device may not be correctly connected."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:669
 #, kde-format
-msgid "You may not have permissions to initialize (\"mount\") the device. On UNIX systems, often system administrator privileges are required to initialize a device."
+msgid ""
+"You may not have permissions to initialize (\"mount\") the device. On UNIX "
+"systems, often system administrator privileges are required to initialize a "
+"device."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:673
 #, kde-format
-msgid "Check that the device is ready; removable drives must contain media, and portable devices must be connected and powered on.; and try again."
+msgid ""
+"Check that the device is ready; removable drives must contain media, and "
+"portable devices must be connected and powered on.; and try again."
 msgstr ""
 
 #. +> trunk5
@@ -1580,19 +1721,27 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:681
 #, kde-format
-msgid "The requested device could not be uninitialized (\"unmounted\"). The reported error was: <strong>%1</strong>"
+msgid ""
+"The requested device could not be uninitialized (\"unmounted\"). The "
+"reported error was: <strong>%1</strong>"
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:684
 #, kde-format
-msgid "The device may be busy, that is, still in use by another application or user. Even such things as having an open browser window on a location on this device may cause the device to remain in use."
+msgid ""
+"The device may be busy, that is, still in use by another application or "
+"user. Even such things as having an open browser window on a location on "
+"this device may cause the device to remain in use."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:688
 #, kde-format
-msgid "You may not have permissions to uninitialize (\"unmount\") the device. On UNIX systems, system administrator privileges are often required to uninitialize a device."
+msgid ""
+"You may not have permissions to uninitialize (\"unmount\") the device. On "
+"UNIX systems, system administrator privileges are often required to "
+"uninitialize a device."
 msgstr ""
 
 #. +> trunk5
@@ -1610,7 +1759,9 @@ msgstr "വിഭവത്തില്‍ നിന്നും വായിയ�
 #. +> trunk5
 #: core/job_error.cpp:698
 #, kde-format
-msgid "This means that although the resource, <strong>%1</strong>, was able to be opened, an error occurred while reading the contents of the resource."
+msgid ""
+"This means that although the resource, <strong>%1</strong>, was able to be "
+"opened, an error occurred while reading the contents of the resource."
 msgstr ""
 
 #. +> trunk5
@@ -1628,7 +1779,9 @@ msgstr "വിഭവത്തിലേയ്ക്ക് എഴുതുവാ�
 #. +> trunk5
 #: core/job_error.cpp:715
 #, kde-format
-msgid "This means that although the resource, <strong>%1</strong>, was able to be opened, an error occurred while writing to the resource."
+msgid ""
+"This means that although the resource, <strong>%1</strong>, was able to be "
+"opened, an error occurred while writing to the resource."
 msgstr ""
 
 #. +> trunk5
@@ -1652,7 +1805,10 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:733 core/job_error.cpp:744
 #, kde-format
-msgid "This is a fairly technical error in which a required device for network communications (a socket) could not be established to listen for incoming network connections."
+msgid ""
+"This is a fairly technical error in which a required device for network "
+"communications (a socket) could not be established to listen for incoming "
+"network connections."
 msgstr ""
 
 #. +> trunk5
@@ -1670,7 +1826,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:754
 #, kde-format
-msgid "This is a fairly technical error in which an error occurred while attempting to accept an incoming network connection."
+msgid ""
+"This is a fairly technical error in which an error occurred while attempting "
+"to accept an incoming network connection."
 msgstr ""
 
 #. +> trunk5
@@ -1688,7 +1846,8 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:764
 #, kde-format
-msgid "An attempt to login to perform the requested operation was unsuccessful."
+msgid ""
+"An attempt to login to perform the requested operation was unsuccessful."
 msgstr ""
 
 #. +> trunk5
@@ -1706,7 +1865,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:777
 #, kde-format
-msgid "An attempt to determine information about the status of the resource <strong>%1</strong>, such as the resource name, type, size, etc., was unsuccessful."
+msgid ""
+"An attempt to determine information about the status of the resource <strong>"
+"%1</strong>, such as the resource name, type, size, etc., was unsuccessful."
 msgstr ""
 
 #. +> trunk5
@@ -1785,7 +1946,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:819
 #, kde-format
-msgid "The specified request asked that the transfer of file <strong>%1</strong> be resumed at a certain point of the transfer. This was not possible."
+msgid ""
+"The specified request asked that the transfer of file <strong>%1</strong> be "
+"resumed at a certain point of the transfer. This was not possible."
 msgstr ""
 
 #. +> trunk5
@@ -1821,7 +1984,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:841
 #, kde-format
-msgid "An attempt to alter the permissions on the specified resource <strong>%1</strong> failed."
+msgid ""
+"An attempt to alter the permissions on the specified resource <strong>%1</"
+"strong> failed."
 msgstr ""
 
 #. +> trunk5
@@ -1833,7 +1998,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:849
 #, kde-format
-msgid "An attempt to change the ownership of the specified resource <strong>%1</strong> failed."
+msgid ""
+"An attempt to change the ownership of the specified resource <strong>%1</"
+"strong> failed."
 msgstr ""
 
 #. +> trunk5
@@ -1857,7 +2024,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:865
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol has unexpectedly terminated."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol has unexpectedly terminated."
 msgstr ""
 
 #. +> trunk5
@@ -1869,7 +2038,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:874
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol could not obtain the memory required to continue."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol could not obtain the memory required to continue."
 msgstr ""
 
 #. +> trunk5
@@ -1881,13 +2052,19 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:883
 #, kde-format
-msgid "While retrieving information about the specified proxy host, <strong>%1</strong>, an Unknown Host error was encountered. An unknown host error indicates that the requested name could not be located on the Internet."
+msgid ""
+"While retrieving information about the specified proxy host, <strong>%1</"
+"strong>, an Unknown Host error was encountered. An unknown host error "
+"indicates that the requested name could not be located on the Internet."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:887
 #, kde-format
-msgid "There may have been a problem with your network configuration, specifically your proxy's hostname. If you have been accessing the Internet with no problems recently, this is unlikely."
+msgid ""
+"There may have been a problem with your network configuration, specifically "
+"your proxy's hostname. If you have been accessing the Internet with no "
+"problems recently, this is unlikely."
 msgstr ""
 
 #. +> trunk5
@@ -1905,13 +2082,18 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:898
 #, kde-format
-msgid "Although you may have supplied the correct authentication details, the authentication failed because the method that the server is using is not supported by the KDE program implementing the protocol %1."
+msgid ""
+"Although you may have supplied the correct authentication details, the "
+"authentication failed because the method that the server is using is not "
+"supported by the KDE program implementing the protocol %1."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:902
 #, kde-format
-msgid "Please file a bug at <a href=\"https://bugs.kde.org/\">https://bugs.kde.org/</a> to inform the KDE team of the unsupported authentication method."
+msgid ""
+"Please file a bug at <a href=\"https://bugs.kde.org/\">https://bugs.kde.org/"
+"</a> to inform the KDE team of the unsupported authentication method."
 msgstr ""
 
 #. +> trunk5
@@ -1929,13 +2111,17 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:916
 #, kde-format
-msgid "The program on the server which provides access to the <strong>%1</strong> protocol has reported an internal error: %2."
+msgid ""
+"The program on the server which provides access to the <strong>%1</strong> "
+"protocol has reported an internal error: %2."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:919
 #, kde-format
-msgid "This is most likely to be caused by a bug in the server program. Please consider submitting a full bug report as detailed below."
+msgid ""
+"This is most likely to be caused by a bug in the server program. Please "
+"consider submitting a full bug report as detailed below."
 msgstr ""
 
 #. +> trunk5
@@ -1947,7 +2133,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:924
 #, kde-format
-msgid "If you know who the authors of the server software are, submit the bug report directly to them."
+msgid ""
+"If you know who the authors of the server software are, submit the bug "
+"report directly to them."
 msgstr ""
 
 #. +> trunk5
@@ -1960,13 +2148,13 @@ msgstr ""
 #: core/job_error.cpp:930
 #, kde-format
 msgid ""
-"Although contact was made with the server, a response was not received within the amount of time allocated for the request as follows:"
-"<ul>"
-"<li>Timeout for establishing a connection: %1 seconds</li>"
-"<li>Timeout for receiving a response: %2 seconds</li>"
-"<li>Timeout for accessing proxy servers: %3 seconds</li>"
-"</ul>"
-"Please note that you can alter these timeout settings in the KDE System Settings, by selecting Network Settings -> Connection Preferences."
+"Although contact was made with the server, a response was not received "
+"within the amount of time allocated for the request as follows:"
+"<ul><li>Timeout for establishing a connection: %1 seconds</li><li>Timeout "
+"for receiving a response: %2 seconds</li><li>Timeout for accessing proxy "
+"servers: %3 seconds</li></ul>Please note that you can alter these timeout "
+"settings in the KDE System Settings, by selecting Network Settings -> "
+"Connection Preferences."
 msgstr ""
 
 #. +> trunk5
@@ -1984,7 +2172,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:948
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol has reported an unknown error: %2."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol has reported an unknown error: %2."
 msgstr ""
 
 #. +> trunk5
@@ -1996,7 +2186,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:957
 #, kde-format
-msgid "The program on your computer which provides access to the <strong>%1</strong> protocol has reported an interruption of an unknown type: %2."
+msgid ""
+"The program on your computer which provides access to the <strong>%1</"
+"strong> protocol has reported an interruption of an unknown type: %2."
 msgstr ""
 
 #. +> trunk5
@@ -2008,7 +2200,10 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:966
 #, kde-format
-msgid "The requested operation required the deleting of the original file, most likely at the end of a file move operation. The original file <strong>%1</strong> could not be deleted."
+msgid ""
+"The requested operation required the deleting of the original file, most "
+"likely at the end of a file move operation. The original file <strong>%1</"
+"strong> could not be deleted."
 msgstr ""
 
 #. +> trunk5
@@ -2020,7 +2215,10 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:976
 #, kde-format
-msgid "The requested operation required the creation of a temporary file in which to save the new file while being downloaded. This temporary file <strong>%1</strong> could not be deleted."
+msgid ""
+"The requested operation required the creation of a temporary file in which "
+"to save the new file while being downloaded. This temporary file <strong>%1</"
+"strong> could not be deleted."
 msgstr ""
 
 #. +> trunk5
@@ -2032,7 +2230,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:986
 #, kde-format
-msgid "The requested operation required the renaming of the original file <strong>%1</strong>, however it could not be renamed."
+msgid ""
+"The requested operation required the renaming of the original file <strong>"
+"%1</strong>, however it could not be renamed."
 msgstr ""
 
 #. +> trunk5
@@ -2044,7 +2244,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:995
 #, kde-format
-msgid "The requested operation required the creation of a temporary file <strong>%1</strong>, however it could not be created."
+msgid ""
+"The requested operation required the creation of a temporary file <strong>"
+"%1</strong>, however it could not be created."
 msgstr ""
 
 #. +> trunk5
@@ -2080,13 +2282,18 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:1018
 #, kde-format
-msgid "The requested file <strong>%1</strong> could not be written to as there is inadequate disk space."
+msgid ""
+"The requested file <strong>%1</strong> could not be written to as there is "
+"inadequate disk space."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:1020
 #, kde-format
-msgid "Free up enough disk space by 1) deleting unwanted and temporary files; 2) archiving files to removable media storage such as CD-Recordable discs; or 3) obtain more storage capacity."
+msgid ""
+"Free up enough disk space by 1) deleting unwanted and temporary files; 2) "
+"archiving files to removable media storage such as CD-Recordable discs; or "
+"3) obtain more storage capacity."
 msgstr ""
 
 #. +> trunk5
@@ -2098,7 +2305,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:1028
 #, kde-format
-msgid "The operation could not be completed because the source and destination files are the same file."
+msgid ""
+"The operation could not be completed because the source and destination "
+"files are the same file."
 msgstr ""
 
 #. +> trunk5
@@ -2116,7 +2325,9 @@ msgstr "ഫയലോ അറയോ നിലവിലില്ല."
 #. +> trunk5
 #: core/job_error.cpp:1035
 #, kde-format
-msgid "The operation could not be completed because the source and destination file or folder are the same."
+msgid ""
+"The operation could not be completed because the source and destination file "
+"or folder are the same."
 msgstr ""
 
 #. +> trunk5
@@ -2134,7 +2345,9 @@ msgstr "ഫയലോ അറയോ നിലവിലില്ല."
 #. +> trunk5
 #: core/job_error.cpp:1048
 #, kde-format
-msgid "The operation could not be completed because the source can not be moved into itself."
+msgid ""
+"The operation could not be completed because the source can not be moved "
+"into itself."
 msgstr ""
 
 #. +> trunk5
@@ -2152,7 +2365,9 @@ msgstr ""
 #. +> trunk5
 #: core/job_error.cpp:1055
 #, kde-format
-msgid "The operation could not be completed because the service for requesting passwords (kpasswdserver) couldn't be contacted"
+msgid ""
+"The operation could not be completed because the service for requesting "
+"passwords (kpasswdserver) couldn't be contacted"
 msgstr ""
 
 #. +> trunk5
@@ -2176,13 +2391,17 @@ msgstr "%1 ഐഒ സ്ലേവ് നിര്‍മ്മിക്കാന�
 #. +> trunk5
 #: core/job_error.cpp:1063
 #, kde-format
-msgid "The io-slave which provides access to the <strong>%1</strong> protocol could not be started. This is usually due to technical reasons."
+msgid ""
+"The io-slave which provides access to the <strong>%1</strong> protocol could "
+"not be started. This is usually due to technical reasons."
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:1066
 #, kde-format
-msgid "klauncher could not find or start the plugin which provides the protocol.This means you may have an outdated version of the plugin."
+msgid ""
+"klauncher could not find or start the plugin which provides the protocol."
+"This means you may have an outdated version of the plugin."
 msgstr ""
 
 #. +> trunk5
@@ -2196,13 +2415,17 @@ msgstr ""
 #: core/job_error.cpp:1073
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The file <filename>%1</filename> cannot be transferred, because the destination filesystem does not support files that large"
+msgid ""
+"The file <filename>%1</filename> cannot be transferred, because the "
+"destination filesystem does not support files that large"
 msgstr ""
 
 #. +> trunk5
 #: core/job_error.cpp:1075
 #, kde-format
-msgid "Reformat the destination drive to use a filesystem that supports files that large."
+msgid ""
+"Reformat the destination drive to use a filesystem that supports files that "
+"large."
 msgstr ""
 
 #. +> trunk5
@@ -2438,7 +2661,8 @@ msgstr "&നിലവിലുള്ള സെഷനുകള്‍ക്കു�
 #: core/tcpslavebase.cpp:298
 #, kde-format
 msgid ""
-"You are about to leave secure mode. Transmissions will no longer be encrypted.\n"
+"You are about to leave secure mode. Transmissions will no longer be "
+"encrypted.\n"
 "This means that a third party could observe your data in transit."
 msgstr ""
 
@@ -2465,8 +2689,10 @@ msgstr ""
 #: core/tcpslavebase.cpp:501
 #, kde-format
 msgid ""
-"You are about to enter secure mode. All transmissions will be encrypted unless otherwise noted.\n"
-"This means that no third party will be able to easily observe your data in transit."
+"You are about to enter secure mode. All transmissions will be encrypted "
+"unless otherwise noted.\n"
+"This means that no third party will be able to easily observe your data in "
+"transit."
 msgstr ""
 
 #. +> trunk5
@@ -2530,19 +2756,24 @@ msgstr "സര്‍വര്‍ ഉറപ്പാക്കല്‍"
 #. +> trunk5
 #: core/tcpslavebase.cpp:748 widgets/sslui.cpp:99
 #, kde-format
-msgid "Would you like to accept this certificate forever without being prompted?"
+msgid ""
+"Would you like to accept this certificate forever without being prompted?"
 msgstr ""
 
 #. +> trunk5
 #: core/tcpslavebase.cpp:864
 #, kde-format
-msgid "You have indicated that you wish to accept this certificate, but it is not issued to the server who is presenting it. Do you wish to continue loading?"
+msgid ""
+"You have indicated that you wish to accept this certificate, but it is not "
+"issued to the server who is presenting it. Do you wish to continue loading?"
 msgstr ""
 
 #. +> trunk5
 #: core/tcpslavebase.cpp:876
 #, kde-format
-msgid "SSL certificate is being rejected as requested. You can disable this in the KDE System Settings."
+msgid ""
+"SSL certificate is being rejected as requested. You can disable this in the "
+"KDE System Settings."
 msgstr ""
 
 #. +> trunk5
@@ -2949,9 +3180,10 @@ msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്�
 #: filewidgets/kfileplaceeditdialog.cpp:79
 #, kde-format
 msgid ""
-"<qt>This is the text that will appear in the Places panel.<br />"
-"<br />"
-"The label should consist of one or two words that will help you remember what this entry refers to. If you do not enter a label, it will be derived from the location's URL.</qt>"
+"<qt>This is the text that will appear in the Places panel.<br /><br />The "
+"label should consist of one or two words that will help you remember what "
+"this entry refers to. If you do not enter a label, it will be derived from "
+"the location's URL.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -2970,13 +3202,10 @@ msgstr ""
 #: filewidgets/kfileplaceeditdialog.cpp:91
 #, kde-format
 msgid ""
-"<qt>This is the location associated with the entry. Any valid URL may be used. For example:<br />"
-"<br />"
-"%1<br />"
-"http://www.kde.org<br />"
-"ftp://ftp.kde.org/pub/kde/stable<br />"
-"<br />"
-"By clicking on the button next to the text edit box you can browse to an appropriate URL.</qt>"
+"<qt>This is the location associated with the entry. Any valid URL may be "
+"used. For example:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp.kde."
+"org/pub/kde/stable<br /><br />By clicking on the button next to the text "
+"edit box you can browse to an appropriate URL.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -2989,9 +3218,8 @@ msgstr ""
 #: filewidgets/kfileplaceeditdialog.cpp:104
 #, kde-format
 msgid ""
-"<qt>This is the icon that will appear in the Places panel.<br />"
-"<br />"
-"Click on the button to select a different icon.</qt>"
+"<qt>This is the icon that will appear in the Places panel.<br /><br />Click "
+"on the button to select a different icon.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -3010,9 +3238,9 @@ msgstr "ഈ പ്രയോഗം ഉപയോഗിക്കുമ്പോള�
 #: filewidgets/kfileplaceeditdialog.cpp:128
 #, kde-format
 msgid ""
-"<qt>Select this setting if you want this entry to show only when using the current application (%1).<br />"
-"<br />"
-"If this setting is not selected, the entry will be available in all applications.</qt>"
+"<qt>Select this setting if you want this entry to show only when using the "
+"current application (%1).<br /><br />If this setting is not selected, the "
+"entry will be available in all applications.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -3265,16 +3493,20 @@ msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ�
 #. +> trunk5
 #: filewidgets/kfilewidget.cpp:292
 #, kde-format
-msgid "<qt>While typing in the text area, you may be presented with possible matches. This feature can be controlled by clicking with the right mouse button and selecting a preferred mode from the <b>Text Completion</b> menu.</qt>"
+msgid ""
+"<qt>While typing in the text area, you may be presented with possible "
+"matches. This feature can be controlled by clicking with the right mouse "
+"button and selecting a preferred mode from the <b>Text Completion</b> menu.</"
+"qt>"
 msgstr ""
 
 #. +> trunk5
 #: filewidgets/kfilewidget.cpp:414
 #, kde-format
 msgid ""
-"<qt>Click this button to enter the parent folder.<br />"
-"<br />"
-"For instance, if the current location is file:/home/konqi clicking this button will take you to file:/home.</qt>"
+"<qt>Click this button to enter the parent folder.<br /><br />For instance, "
+"if the current location is file:/home/konqi clicking this button will take "
+"you to file:/home.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -3323,16 +3555,11 @@ msgstr ""
 #: filewidgets/kfilewidget.cpp:444
 #, kde-format
 msgid ""
-"<qt>This is the preferences menu for the file dialog. Various options can be accessed from this menu including: "
-"<ul>"
-"<li>how files are sorted in the list</li>"
-"<li>types of view, including icon and list</li>"
-"<li>showing of hidden files</li>"
-"<li>the Places panel</li>"
-"<li>file previews</li>"
-"<li>separating folders from files</li>"
-"</ul>"
-"</qt>"
+"<qt>This is the preferences menu for the file dialog. Various options can be "
+"accessed from this menu including: <ul><li>how files are sorted in the list</"
+"li><li>types of view, including icon and list</li><li>showing of hidden "
+"files</li><li>the Places panel</li><li>file previews</li><li>separating "
+"folders from files</li></ul></qt>"
 msgstr ""
 
 #. +> trunk5
@@ -3381,8 +3608,12 @@ msgstr ""
 #. +> trunk5
 #: filewidgets/kfilewidget.cpp:982
 #, kde-format
-msgid "The selected URL uses an unsupported scheme. Please use the following scheme: %2"
-msgid_plural "The selected URL uses an unsupported scheme. Please use one of the following schemes: %2"
+msgid ""
+"The selected URL uses an unsupported scheme. Please use the following "
+"scheme: %2"
+msgid_plural ""
+"The selected URL uses an unsupported scheme. Please use one of the following "
+"schemes: %2"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -3395,7 +3626,10 @@ msgstr ""
 #. +> trunk5
 #: filewidgets/kfilewidget.cpp:1003
 #, kde-format
-msgid "More than one folder has been selected and this dialog does not accept folders, so it is not possible to decide which one to enter. Please select only one folder to list it."
+msgid ""
+"More than one folder has been selected and this dialog does not accept "
+"folders, so it is not possible to decide which one to enter. Please select "
+"only one folder to list it."
 msgstr ""
 
 #. +> trunk5
@@ -3407,7 +3641,9 @@ msgstr ""
 #. +> trunk5
 #: filewidgets/kfilewidget.cpp:1011
 #, kde-format
-msgid "At least one folder and one file has been selected. Selected files will be ignored and the selected folder will be listed"
+msgid ""
+"At least one folder and one file has been selected. Selected files will be "
+"ignored and the selected folder will be listed"
 msgstr ""
 
 #. +> trunk5
@@ -3437,7 +3673,9 @@ msgstr ""
 #. +> trunk5
 #: filewidgets/kfilewidget.cpp:1316
 #, kde-format
-msgid "This is the list of files to open. More than one file can be specified by listing several files, separated by spaces."
+msgid ""
+"This is the list of files to open. More than one file can be specified by "
+"listing several files, separated by spaces."
 msgstr ""
 
 #. +> trunk5
@@ -3530,16 +3768,17 @@ msgstr ""
 #: filewidgets/kfilewidget.cpp:2292
 #, kde-format
 msgid ""
-"This option enables some convenient features for saving files with extensions:<br />"
-"<ol>"
-"<li>Any extension specified in the <b>%1</b> text area will be updated if you change the file type to save in.<br />"
-"<br />"
-"</li>"
-"<li>If no extension is specified in the <b>%2</b> text area when you click <b>Save</b>, %3 will be added to the end of the filename (if the filename does not already exist). This extension is based on the file type that you have chosen to save in.<br />"
-"<br />"
-"If you do not want KDE to supply an extension for the filename, you can either turn this option off or you can suppress it by adding a period (.) to the end of the filename (the period will be automatically removed).</li>"
-"</ol>"
-"If unsure, keep this option enabled as it makes your files more manageable."
+"This option enables some convenient features for saving files with "
+"extensions:<br /><ol><li>Any extension specified in the <b>%1</b> text area "
+"will be updated if you change the file type to save in.<br /><br /></"
+"li><li>If no extension is specified in the <b>%2</b> text area when you "
+"click <b>Save</b>, %3 will be added to the end of the filename (if the "
+"filename does not already exist). This extension is based on the file type "
+"that you have chosen to save in.<br /><br />If you do not want KDE to supply "
+"an extension for the filename, you can either turn this option off or you "
+"can suppress it by adding a period (.) to the end of the filename (the "
+"period will be automatically removed).</li></ol>If unsure, keep this option "
+"enabled as it makes your files more manageable."
 msgstr ""
 
 #. +> trunk5
@@ -3552,9 +3791,10 @@ msgstr ""
 #: filewidgets/kfilewidget.cpp:2627
 #, kde-format
 msgid ""
-"<qt>This button allows you to bookmark specific locations. Click on this button to open the bookmark menu where you may add, edit or select a bookmark.<br />"
-"<br />"
-"These bookmarks are specific to the file dialog, but otherwise operate like bookmarks elsewhere in KDE.</qt>"
+"<qt>This button allows you to bookmark specific locations. Click on this "
+"button to open the bookmark menu where you may add, edit or select a "
+"bookmark.<br /><br />These bookmarks are specific to the file dialog, but "
+"otherwise operate like bookmarks elsewhere in KDE.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -3566,7 +3806,9 @@ msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്�
 #. +> trunk5
 #: filewidgets/kfilewidget.cpp:2771
 #, kde-format
-msgid "<qt>This is the file type selector. It is used to select the format that the file will be saved as.</qt>"
+msgid ""
+"<qt>This is the file type selector. It is used to select the format that the "
+"file will be saved as.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -3579,10 +3821,10 @@ msgstr ""
 #: filewidgets/kfilewidget.cpp:2774
 #, kde-format
 msgid ""
-"<qt>This is the filter to apply to the file list. File names that do not match the filter will not be shown."
-"<p>You may select from one of the preset filters in the drop down menu, or you may enter a custom filter directly into the text area.</p>"
-"<p>Wildcards such as * and ? are allowed.</p>"
-"</qt>"
+"<qt>This is the filter to apply to the file list. File names that do not "
+"match the filter will not be shown.<p>You may select from one of the preset "
+"filters in the drop down menu, or you may enter a custom filter directly "
+"into the text area.</p><p>Wildcards such as * and ? are allowed.</p></qt>"
 msgstr ""
 
 #. +> trunk5
@@ -3634,29 +3876,36 @@ msgstr "അസാധുവായ പ്രോക്സി സജ്ജീകര�
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Could not create a folder with the name <filename>%1</filename><nl/>"
-"because it is reserved for use by the operating system."
+"Could not create a folder with the name <filename>%1</filename><nl/>because "
+"it is reserved for use by the operating system."
 msgstr ""
 
 #. +> trunk5
 #: filewidgets/knewfilemenu.cpp:1060
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The name <filename>%1</filename> cannot be used because it is reserved for use by the operating system."
+msgid ""
+"The name <filename>%1</filename> cannot be used because it is reserved for "
+"use by the operating system."
 msgstr ""
 
 #. +> trunk5
 #: filewidgets/knewfilemenu.cpp:1068
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The name <filename>%1</filename> starts with a dot, so it will be hidden by default."
+msgid ""
+"The name <filename>%1</filename> starts with a dot, so it will be hidden by "
+"default."
 msgstr ""
 
 #. +> trunk5
 #: filewidgets/knewfilemenu.cpp:1075
 #, kde-kuit-format
 msgctxt "@info"
-msgid "The name <filename>%1</filename> starts with a space, which will result in it being shown before other items when sorting alphabetically, among other potential oddities."
+msgid ""
+"The name <filename>%1</filename> starts with a space, which will result in "
+"it being shown before other items when sorting alphabetically, among other "
+"potential oddities."
 msgstr ""
 
 #. +> trunk5
@@ -3686,7 +3935,9 @@ msgstr ""
 #. +> trunk5
 #: filewidgets/knewfilemenu.cpp:1129
 #, kde-format
-msgid "Starting a file or folder name with a tilde is not recommended because it may be confusing or dangerous when using the terminal to delete things."
+msgid ""
+"Starting a file or folder name with a tilde is not recommended because it "
+"may be confusing or dangerous when using the terminal to delete things."
 msgstr ""
 
 #. +> trunk5
@@ -3855,7 +4106,8 @@ msgstr ""
 #. +> trunk5
 #: gui/applicationlauncherjob.cpp:256
 #, kde-format
-msgid "Internal error: could not prompt the user for which application to start"
+msgid ""
+"Internal error: could not prompt the user for which application to start"
 msgstr ""
 
 #. +> trunk5
@@ -3909,19 +4161,24 @@ msgstr ""
 #. +> trunk5
 #: gui/openurljob.cpp:470
 #, kde-format
-msgid "The executable file \"%1\" is located on a remote filesystem. For safety reasons it will not be started."
+msgid ""
+"The executable file \"%1\" is located on a remote filesystem. For safety "
+"reasons it will not be started."
 msgstr ""
 
 #. +> trunk5
 #: gui/openurljob.cpp:514
 #, kde-format
-msgid "For security reasons, launching executables is not allowed in this context."
+msgid ""
+"For security reasons, launching executables is not allowed in this context."
 msgstr ""
 
 #. +> trunk5
 #: gui/openurljob.cpp:541
 #, kde-format
-msgid "The program \"%1\" needs to have executable permission before it can be launched."
+msgid ""
+"The program \"%1\" needs to have executable permission before it can be "
+"launched."
 msgstr ""
 
 #. +> trunk5
@@ -4195,7 +4452,9 @@ msgstr ""
 #: ioslaves/ftp/ftp.cpp:2606 ioslaves/http/http.cpp:5261
 #: ioslaves/http/http.cpp:5394
 #, kde-format
-msgid "You need to supply a username and a password for the proxy server listed below before you are allowed to access any sites."
+msgid ""
+"You need to supply a username and a password for the proxy server listed "
+"below before you are allowed to access any sites."
 msgstr ""
 
 #. +> trunk5
@@ -4233,9 +4492,7 @@ msgstr ""
 #. +> trunk5
 #: ioslaves/help/kio_help.cpp:219 ioslaves/help/kio_help.cpp:264
 #, fuzzy, kde-format
-msgid ""
-"The requested help file could not be parsed:<br />"
-"%1"
+msgid "The requested help file could not be parsed:<br />%1"
 msgstr "അപേക്ഷിച്ച സമ്പ്രദായത്തിനു് പിന്തുണയുണ്ടാകണമെന്നില്ല."
 
 #. +> trunk5
@@ -4375,7 +4632,9 @@ msgstr ""
 #: ioslaves/http/http.cpp:1663
 #, kde-format
 msgctxt "%1: request type, %2: url"
-msgid "An error occurred while attempting to %1, %2. A summary of the reasons is below."
+msgid ""
+"An error occurred while attempting to %1, %2. A summary of the reasons is "
+"below."
 msgstr ""
 
 #. +> trunk5
@@ -4388,15 +4647,19 @@ msgstr ""
 #. +> trunk5
 #: ioslaves/http/http.cpp:1692 ioslaves/http/http.cpp:1818
 #, kde-format
-msgid "A resource cannot be created at the destination until one or more intermediate collections (folders) have been created."
+msgid ""
+"A resource cannot be created at the destination until one or more "
+"intermediate collections (folders) have been created."
 msgstr ""
 
 #. +> trunk5
 #: ioslaves/http/http.cpp:1700
 #, kde-format
 msgid ""
-"The server was unable to maintain the liveness of the properties listed in the propertybehavior XML element\n"
-" or you attempted to overwrite a file while requesting that files are not overwritten.\n"
+"The server was unable to maintain the liveness of the properties listed in "
+"the propertybehavior XML element\n"
+" or you attempted to overwrite a file while requesting that files are not "
+"overwritten.\n"
 " %1"
 msgstr ""
 
@@ -4429,13 +4692,17 @@ msgstr ""
 #: ioslaves/http/http.cpp:1729 ioslaves/http/http.cpp:1832
 #, kde-format
 msgctxt "%1: request type"
-msgid "Unable to %1 because the destination server refuses to accept the file or folder."
+msgid ""
+"Unable to %1 because the destination server refuses to accept the file or "
+"folder."
 msgstr ""
 
 #. +> trunk5
 #: ioslaves/http/http.cpp:1736 ioslaves/http/http.cpp:1839
 #, kde-format
-msgid "The destination resource does not have sufficient space to record the state of the resource after the execution of this method."
+msgid ""
+"The destination resource does not have sufficient space to record the state "
+"of the resource after the execution of this method."
 msgstr ""
 
 #. +> trunk5
@@ -4469,8 +4736,9 @@ msgstr ""
 #, kde-format
 msgctxt "@info Security check on url being accessed"
 msgid ""
-"<p>You are about to log in to the site \"%1\" with the username \"%2\", but the website does not require authentication. This may be an attempt to trick you.</p>"
-"<p>Is \"%1\" the site you want to visit?</p>"
+"<p>You are about to log in to the site \"%1\" with the username \"%2\", but "
+"the website does not require authentication. This may be an attempt to trick "
+"you.</p><p>Is \"%1\" the site you want to visit?</p>"
 msgstr ""
 
 #. +> trunk5
@@ -4560,13 +4828,11 @@ msgstr ""
 #, kde-format
 msgctxt "%2 hostname, %3 optional cross domain suffix (translated below)"
 msgid ""
-"<p>You received a cookie from<br/>"
-"<b>%2%3</b><br/>"
-"Do you want to accept or reject this cookie?</p>"
+"<p>You received a cookie from<br/><b>%2%3</b><br/>Do you want to accept or "
+"reject this cookie?</p>"
 msgid_plural ""
-"<p>You received %1 cookies from<br/>"
-"<b>%2%3</b><br/>"
-"Do you want to accept or reject these cookies?</p>"
+"<p>You received %1 cookies from<br/><b>%2%3</b><br/>Do you want to accept or "
+"reject these cookies?</p>"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -4637,7 +4903,9 @@ msgstr ""
 #. +> trunk5
 #: ioslaves/http/kcookiejar/kcookiewin.cpp:162
 #, kde-format
-msgid "Select this option to only accept or reject this cookie. You will be prompted again if you receive another cookie."
+msgid ""
+"Select this option to only accept or reject this cookie. You will be "
+"prompted again if you receive another cookie."
 msgstr ""
 
 #. +> trunk5
@@ -4649,7 +4917,11 @@ msgstr ""
 #. +> trunk5
 #: ioslaves/http/kcookiejar/kcookiewin.cpp:168
 #, kde-format
-msgid "Select this option to accept or reject all cookies from this site. Choosing this option will add a new policy for the site this cookie originated from. This policy will be permanent until you manually change it from the System Settings."
+msgid ""
+"Select this option to accept or reject all cookies from this site. Choosing "
+"this option will add a new policy for the site this cookie originated from. "
+"This policy will be permanent until you manually change it from the System "
+"Settings."
 msgstr ""
 
 #. +> trunk5
@@ -4661,7 +4933,10 @@ msgstr ""
 #. +> trunk5
 #: ioslaves/http/kcookiejar/kcookiewin.cpp:176
 #, kde-format
-msgid "Select this option to accept/reject all cookies from anywhere. Choosing this option will change the global cookie policy for all cookies until you manually change it from the System Settings."
+msgid ""
+"Select this option to accept/reject all cookies from anywhere. Choosing this "
+"option will change the global cookie policy for all cookies until you "
+"manually change it from the System Settings."
 msgstr ""
 
 #. +> trunk5
@@ -4799,8 +5074,8 @@ msgstr "1 ദിവസം %2"
 #: ioslaves/trash/kcmtrash.cpp:207
 #, kde-format
 msgid ""
-"<para>KDE's wastebin is configured to use the <b>Finder</b>'s Trash.<br>"
-"</para>"
+"<para>KDE's wastebin is configured to use the <b>Finder</b>'s Trash.<br></"
+"para>"
 msgstr ""
 
 #. +> trunk5
@@ -4808,9 +5083,10 @@ msgstr ""
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<para>Emptying KDE's wastebin will remove only KDE's trash items, while<br>"
-"emptying the Trash through the Finder will delete everything.</para>"
-"<para>KDE's trash items will show up in a folder called KDE.trash, in the Trash can.</para>"
+"<para>Emptying KDE's wastebin will remove only KDE's trash items, "
+"while<br>emptying the Trash through the Finder will delete everything.</"
+"para><para>KDE's trash items will show up in a folder called KDE.trash, in "
+"the Trash can.</para>"
 msgstr ""
 
 #. +> trunk5
@@ -4823,7 +5099,11 @@ msgstr "ഫയലുകള്‍ വെട്ടിമാറ്റുക"
 #: ioslaves/trash/kcmtrash.cpp:248
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
-msgid "<para>Check this box to allow <emphasis strong='true'>automatic deletion</emphasis> of files that are older than the value specified. Leave this disabled to <emphasis strong='true'>not</emphasis> automatically delete any items after a certain timespan</para>"
+msgid ""
+"<para>Check this box to allow <emphasis strong='true'>automatic deletion</"
+"emphasis> of files that are older than the value specified. Leave this "
+"disabled to <emphasis strong='true'>not</emphasis> automatically delete any "
+"items after a certain timespan</para>"
 msgstr ""
 
 #. +> trunk5
@@ -4838,7 +5118,9 @@ msgstr[1] "%1 ദിവസങ്ങള്‍ %2"
 #: ioslaves/trash/kcmtrash.cpp:257
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
-msgid "<para>Set the number of days that files can remain in the trash. Any files older than this will be automatically deleted.</para>"
+msgid ""
+"<para>Set the number of days that files can remain in the trash. Any files "
+"older than this will be automatically deleted.</para>"
 msgstr ""
 
 #. +> trunk5
@@ -4857,7 +5139,9 @@ msgstr ""
 #: ioslaves/trash/kcmtrash.cpp:267
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
-msgid "<para>Check this box to limit the trash to the maximum amount of disk space that you specify below. Otherwise, it will be unlimited.</para>"
+msgid ""
+"<para>Check this box to limit the trash to the maximum amount of disk space "
+"that you specify below. Otherwise, it will be unlimited.</para>"
 msgstr ""
 
 #. +> trunk5
@@ -4870,14 +5154,18 @@ msgstr ""
 #: ioslaves/trash/kcmtrash.cpp:279
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
-msgid "<para>This is the maximum percent of disk space that will be used for the trash.</para>"
+msgid ""
+"<para>This is the maximum percent of disk space that will be used for the "
+"trash.</para>"
 msgstr ""
 
 #. +> trunk5
 #: ioslaves/trash/kcmtrash.cpp:284
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
-msgid "<para>This is the calculated amount of disk space that will be allowed for the trash, the maximum.</para>"
+msgid ""
+"<para>This is the calculated amount of disk space that will be allowed for "
+"the trash, the maximum.</para>"
 msgstr ""
 
 #. +> trunk5
@@ -4902,7 +5190,10 @@ msgstr ""
 #: ioslaves/trash/kcmtrash.cpp:293
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
-msgid "<para>When the size limit is reached, it will prefer to delete the type of files that you specify, first. If this is set to warn you, it will do so instead of automatically deleting files.</para>"
+msgid ""
+"<para>When the size limit is reached, it will prefer to delete the type of "
+"files that you specify, first. If this is set to warn you, it will do so "
+"instead of automatically deleting files.</para>"
 msgstr ""
 
 #. +> trunk5
@@ -4923,7 +5214,11 @@ msgstr "തെറ്റായ യുആര്‍എല്‍ %1."
 #. +> trunk5
 #: ioslaves/trash/kio_trash.cpp:115
 #, kde-format
-msgid "The directory %1 does not exist anymore, so it is not possible to restore this item to its original location. You can either recreate that directory and use the restore operation again, or drag the item anywhere else to restore it."
+msgid ""
+"The directory %1 does not exist anymore, so it is not possible to restore "
+"this item to its original location. You can either recreate that directory "
+"and use the restore operation again, or drag the item anywhere else to "
+"restore it."
 msgstr ""
 
 #. +> trunk5
@@ -4957,7 +5252,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "Helper program to handle the KDE trash can\n"
-"Note: to move files to the trash, do not use ktrash, but \"kioclient move 'url' trash:/\""
+"Note: to move files to the trash, do not use ktrash, but \"kioclient move "
+"'url' trash:/\""
 msgstr ""
 
 #. +> trunk5
@@ -4990,19 +5286,26 @@ msgstr ""
 #: kcms/kio/cache.cpp:98
 #, fuzzy, kde-format
 msgid ""
-"<h1>Cache</h1>"
-"<p>This module lets you configure your cache settings.</p>"
-"<p>This specific cache is an area on the disk where recently read web pages are stored. If you want to retrieve a web page again that you have recently read, it will not be downloaded from the Internet, but rather retrieved from the cache, which is a lot faster.</p>"
+"<h1>Cache</h1><p>This module lets you configure your cache settings.</"
+"p><p>This specific cache is an area on the disk where recently read web "
+"pages are stored. If you want to retrieve a web page again that you have "
+"recently read, it will not be downloaded from the Internet, but rather "
+"retrieved from the cache, which is a lot faster.</p>"
 msgstr ""
-"<h1>കാഷ്</h1>"
-"<p>ഈ മോഡ്യൂള്‍ നിങ്ങളെ കാഷ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കാന്‍ അനുവദിക്കും.</p>"
-"<p>അടുത്തയിടെ വായിച്ച വെബ്ബ് പേജുകള്‍ സൂക്ഷിക്കുന്ന കോണ്‍കററിലെ ഒരു ആന്തരിക മെമ്മറിയാണ് കാഷ്. അടുത്തയിടെ വായിച്ച ഒരു വെബ്ബ് പേജ് നിങ്ങള്‍ക്ക് തിരിച്ചെടുക്കണമെന്നുണ്ടെങ്കില്‍, അത് ഇന്റര്‍നെറ്റില്‍ നിന്നു ഡൌണ്‍ലോഡ് ചെയ്യുന്നതിനുപകരം വളരെ വേഗത്തില്‍ കാഷില്‍ നിന്നു തിരിച്ചെടുക്കുന്നു.</p>"
+"<h1>കാഷ്</h1><p>ഈ മോഡ്യൂള്‍ നിങ്ങളെ കാഷ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കാന്‍ അനുവദിക്കും.</"
+"p><p>അടുത്തയിടെ വായിച്ച വെബ്ബ് പേജുകള്‍ സൂക്ഷിക്കുന്ന കോണ്‍കററിലെ ഒരു ആന്തരിക മെമ്മറിയാണ് കാഷ്. "
+"അടുത്തയിടെ വായിച്ച ഒരു വെബ്ബ് പേജ് നിങ്ങള്‍ക്ക് തിരിച്ചെടുക്കണമെന്നുണ്ടെങ്കില്‍, അത് ഇന്റര്‍നെറ്റില്‍ "
+"നിന്നു ഡൌണ്‍ലോഡ് ചെയ്യുന്നതിനുപകരം വളരെ വേഗത്തില്‍ കാഷില്‍ നിന്നു തിരിച്ചെടുക്കുന്നു.</p>"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbUseCache)
 #. +> trunk5
 #: kcms/kio/cache.ui:17
 #, kde-format
-msgid "Check this box if you want the web pages you visit to be stored on your hard disk for quicker access. The stored pages will only be updated as needed instead of on every visit to that site. This is especially useful if you have a slow connection to the Internet."
+msgid ""
+"Check this box if you want the web pages you visit to be stored on your hard "
+"disk for quicker access. The stored pages will only be updated as needed "
+"instead of on every visit to that site. This is especially useful if you "
+"have a slow connection to the Internet."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbUseCache)
@@ -5024,7 +5327,9 @@ msgstr "നയം"
 #. +> trunk5
 #: kcms/kio/cache.ui:52
 #, kde-format
-msgid "Verify whether the cached web page is valid before attempting to fetch the web page again."
+msgid ""
+"Verify whether the cached web page is valid before attempting to fetch the "
+"web page again."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, rbVerifyCache)
@@ -5038,8 +5343,12 @@ msgstr "&കാഷ് പൊരുത്തപ്പെടുത്തിക്�
 #. +> trunk5
 #: kcms/kio/cache.ui:62
 #, kde-format
-msgid "Always use documents from the cache when available. You can still use the reload button to synchronize the cache with the remote host."
-msgstr "ലഭ്യമായിടത്തെല്ലാം കാഷില്‍ നിന്നുള്ള ഡോക്യുമെന്റുകള്‍ ഉപയോഗിക്കുക. ഇപ്പോഴും നിങ്ങള്‍ക്ക് റീലോഡ് ബട്ടണുപയോഗിച്ച് ദൂരെയുള്ള ഹോസ്റ്റും കാഷുമായി പൊരുത്തപ്പെടുത്താം."
+msgid ""
+"Always use documents from the cache when available. You can still use the "
+"reload button to synchronize the cache with the remote host."
+msgstr ""
+"ലഭ്യമായിടത്തെല്ലാം കാഷില്‍ നിന്നുള്ള ഡോക്യുമെന്റുകള്‍ ഉപയോഗിക്കുക. ഇപ്പോഴും നിങ്ങള്‍ക്ക് റീലോഡ് "
+"ബട്ടണുപയോഗിച്ച് ദൂരെയുള്ള ഹോസ്റ്റും കാഷുമായി പൊരുത്തപ്പെടുത്താം."
 
 #. i18n: ectx: property (text), widget (QRadioButton, rbCacheIfPossible)
 #. +> trunk5
@@ -5052,7 +5361,9 @@ msgstr "കാഷ് &സാധിക്കുന്നയിടത്തെല�
 #. +> trunk5
 #: kcms/kio/cache.ui:72
 #, kde-format
-msgid "Do not fetch web pages that are not already stored in the cache. Offline mode prevents you from viewing pages that you have not previously visited."
+msgid ""
+"Do not fetch web pages that are not already stored in the cache. Offline "
+"mode prevents you from viewing pages that you have not previously visited."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QRadioButton, rbOfflineMode)
@@ -5099,10 +5410,20 @@ msgstr "&നടത്തിപ്പു്"
 #: kcms/kio/kcookiesmain.cpp:82
 #, kde-format
 msgid ""
-"<h1>Cookies</h1>"
-"<p>Cookies contain information that KDE applications using the HTTP protocol (like Konqueror) store on your computer, initiated by a remote Internet server. This means that a web server can store information about you and your browsing activities on your machine for later use. You might consider this an invasion of privacy.</p>"
-"<p> However, cookies are useful in certain situations. For example, they are often used by Internet shops, so you can 'put things into a shopping basket'. Some sites require you have a browser that supports cookies.</p>"
-"<p> Because most people want a compromise between privacy and the benefits cookies offer, the HTTP kioslave offers you the ability to customize the way it handles cookies. So you might want to set the default policy to ask you whenever a server wants to set a cookie, allowing you to decide. For your favorite shopping web sites that you trust, you might want to set the policy to accept, then you can access the web sites without being prompted every time a cookie is received.</p>"
+"<h1>Cookies</h1><p>Cookies contain information that KDE applications using "
+"the HTTP protocol (like Konqueror) store on your computer, initiated by a "
+"remote Internet server. This means that a web server can store information "
+"about you and your browsing activities on your machine for later use. You "
+"might consider this an invasion of privacy.</p><p> However, cookies are "
+"useful in certain situations. For example, they are often used by Internet "
+"shops, so you can 'put things into a shopping basket'. Some sites require "
+"you have a browser that supports cookies.</p><p> Because most people want a "
+"compromise between privacy and the benefits cookies offer, the HTTP kioslave "
+"offers you the ability to customize the way it handles cookies. So you might "
+"want to set the default policy to ask you whenever a server wants to set a "
+"cookie, allowing you to decide. For your favorite shopping web sites that "
+"you trust, you might want to set the policy to accept, then you can access "
+"the web sites without being prompted every time a cookie is received.</p>"
 msgstr ""
 
 #. +> trunk5
@@ -5138,8 +5459,10 @@ msgstr "വിവരം വായിക്കുന്നതില്‍ പര�
 #. +> trunk5
 #: kcms/kio/kcookiesmanagement.cpp:223
 #, kde-format
-msgid "Unable to retrieve information about the cookies stored on your computer."
-msgstr "നിങ്ങളുടെ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിട്ടുള്ള കുക്കികളെക്കുറിച്ചുള്ള വിവരങ്ങള്‍ കണ്ടെത്താന്‍ സാധിച്ചില്ല."
+msgid ""
+"Unable to retrieve information about the cookies stored on your computer."
+msgstr ""
+"നിങ്ങളുടെ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിട്ടുള്ള കുക്കികളെക്കുറിച്ചുള്ള വിവരങ്ങള്‍ കണ്ടെത്താന്‍ സാധിച്ചില്ല."
 
 #. +> trunk5
 #: kcms/kio/kcookiesmanagement.cpp:311
@@ -5238,13 +5561,11 @@ msgstr "പുതിയ കുക്കി നയം"
 #: kcms/kio/kcookiespolicies.cpp:215
 #, kde-format
 msgid ""
-"<qt>A policy already exists for"
-"<center><b>%1</b></center>"
-"Do you want to replace it?</qt>"
+"<qt>A policy already exists for<center><b>%1</b></center>Do you want to "
+"replace it?</qt>"
 msgstr ""
-"<qt>"
-"<center><b>%1</b></center>"
-"എന്നതിനായി ഒരു നയം ഇപ്പോഴേയുണ്ട്. നിങ്ങള്‍ക്കിത് മാറ്റണോ?</qt>"
+"<qt><center><b>%1</b></center>എന്നതിനായി ഒരു നയം ഇപ്പോഴേയുണ്ട്. നിങ്ങള്‍ക്കിത് മാറ്റണോ?</"
+"qt>"
 
 #. +> trunk5
 #: kcms/kio/kcookiespolicies.cpp:218
@@ -5273,10 +5594,25 @@ msgstr ""
 #: kcms/kio/kcookiespolicies.cpp:428
 #, kde-format
 msgid ""
-"<h1>Cookies</h1>"
-"<p>Cookies contain information that KDE application using the HTTP protocol (like Konqueror) stores on your computer from a remote Internet server. This means that a web server can store information about you and your browsing activities on your machine for later use. You might consider this an invasion of privacy.</p>"
-"<p>However, cookies are useful in certain situations. For example, they are often used by Internet shops, so you can 'put things into a shopping basket'. Some sites require you have a browser that supports cookies.</p>"
-"<p>Because most people want a compromise between privacy and the benefits cookies offer, KDE offers you the ability to customize the way it handles cookies. You might, for example want to set KDE's default policy to ask you whenever a server wants to set a cookie or simply reject or accept everything. For example, you might choose to accept all cookies from your favorite shopping web site. For this all you have to do is either browse to that particular site and when you are presented with the cookie dialog box, click on <i> This domain </i> under the 'apply to' tab and choose accept or simply specify the name of the site in the <i> Domain Specific Policy </i> tab and set it to accept. This enables you to receive cookies from trusted web sites without being asked every time KDE receives a cookie.</p>"
+"<h1>Cookies</h1><p>Cookies contain information that KDE application using "
+"the HTTP protocol (like Konqueror) stores on your computer from a remote "
+"Internet server. This means that a web server can store information about "
+"you and your browsing activities on your machine for later use. You might "
+"consider this an invasion of privacy.</p><p>However, cookies are useful in "
+"certain situations. For example, they are often used by Internet shops, so "
+"you can 'put things into a shopping basket'. Some sites require you have a "
+"browser that supports cookies.</p><p>Because most people want a compromise "
+"between privacy and the benefits cookies offer, KDE offers you the ability "
+"to customize the way it handles cookies. You might, for example want to set "
+"KDE's default policy to ask you whenever a server wants to set a cookie or "
+"simply reject or accept everything. For example, you might choose to accept "
+"all cookies from your favorite shopping web site. For this all you have to "
+"do is either browse to that particular site and when you are presented with "
+"the cookie dialog box, click on <i> This domain </i> under the 'apply to' "
+"tab and choose accept or simply specify the name of the site in the <i> "
+"Domain Specific Policy </i> tab and set it to accept. This enables you to "
+"receive cookies from trusted web sites without being asked every time KDE "
+"receives a cookie.</p>"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, cbEnableCookies)
@@ -5285,10 +5621,10 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"<p>Enable cookie support. Normally you will want to have cookie support enabled and customize it to suit your privacy needs.</p>"
-"<p>\n"
-"Please note that disabling cookie support might make many web sites unbrowsable.</p>"
-"\n"
+"<p>Enable cookie support. Normally you will want to have cookie support "
+"enabled and customize it to suit your privacy needs.</p><p>\n"
+"Please note that disabling cookie support might make many web sites "
+"unbrowsable.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -5305,7 +5641,12 @@ msgstr "കുക്കികള്‍ &പ്രാവര്‍ത്തിക�
 #, kde-format
 msgid ""
 "<qt>\n"
-"Reject the so called third-party cookies. These are cookies that originate from a site other than the one you are currently browsing. For example, if you visit <b>www.foobar.com</b> while this option is on, only cookies that originate from www.foobar.com will be processed per your settings. Cookies from any other site will be rejected. This reduces the chances of site operators compiling a profile about your daily browsing habits.\n"
+"Reject the so called third-party cookies. These are cookies that originate "
+"from a site other than the one you are currently browsing. For example, if "
+"you visit <b>www.foobar.com</b> while this option is on, only cookies that "
+"originate from www.foobar.com will be processed per your settings. Cookies "
+"from any other site will be rejected. This reduces the chances of site "
+"operators compiling a profile about your daily browsing habits.\n"
 "</qt>"
 msgstr ""
 
@@ -5322,8 +5663,12 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>\n"
-"Automatically accept temporary cookies meant to expire at the end of the current session. Such cookies will not be stored in your computer's hard drive or storage device. Instead, they are deleted when you close all applications (e.g. your browser) that use them.</p>"
-"<p><u>NOTE</u> Checking this option overrides your default as well as site specific cookie policies for session cookies.</p>"
+"Automatically accept temporary cookies meant to expire at the end of the "
+"current session. Such cookies will not be stored in your computer's hard "
+"drive or storage device. Instead, they are deleted when you close all "
+"applications (e.g. your browser) that use them.</p><p><u>NOTE</u> Checking "
+"this option overrides your default as well as site specific cookie policies "
+"for session cookies.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbAutoAcceptSessionCookies)
@@ -5341,18 +5686,17 @@ msgid ""
 "<qt>\n"
 "Determines how cookies received from a remote machine will be handled: \n"
 "<ul>\n"
-"<li><b>Ask</b> will cause KDE to ask for your confirmation whenever a server wants to set a cookie.</li>"
-"\n"
-"<li><b>Accept</b> will cause cookies to be accepted without prompting you.</li>"
-"\n"
-"<li><b>Accept until end of session</b> will cause cookies to be accepted but they will expire at the end of the session.</li>"
-"\n"
-"<li><b>Reject</b> will cause the cookiejar to refuse all cookies it receives.</li>"
-"\n"
-"</ul>"
-"<p>\n"
-"<u>NOTE:</u> Domain specific policies, which can be set below, always take precedence over the default policy.</p>"
-"\n"
+"<li><b>Ask</b> will cause KDE to ask for your confirmation whenever a server "
+"wants to set a cookie.</li>\n"
+"<li><b>Accept</b> will cause cookies to be accepted without prompting you.</"
+"li>\n"
+"<li><b>Accept until end of session</b> will cause cookies to be accepted but "
+"they will expire at the end of the session.</li>\n"
+"<li><b>Reject</b> will cause the cookiejar to refuse all cookies it receives."
+"</li>\n"
+"</ul><p>\n"
+"<u>NOTE:</u> Domain specific policies, which can be set below, always take "
+"precedence over the default policy.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -5397,7 +5741,12 @@ msgstr "കുക്കികളെല്ലാം നിരാകരിക്�
 #, kde-format
 msgid ""
 "<qt>\n"
-"To add a new policy, simply click on the <b>Add...</b> button and supply the necessary information. To change an existing policy, use the <b>Change...</b> button and choose the new policy from the policy dialog box. Clicking on the <b>Delete</b> button will remove the currently selected policy causing the default policy setting to be used for that domain, whereas <b>Delete All</b> will remove all the site specific policies.\n"
+"To add a new policy, simply click on the <b>Add...</b> button and supply the "
+"necessary information. To change an existing policy, use the <b>Change...</"
+"b> button and choose the new policy from the policy dialog box. Clicking on "
+"the <b>Delete</b> button will remove the currently selected policy causing "
+"the default policy setting to be used for that domain, whereas <b>Delete "
+"All</b> will remove all the site specific policies.\n"
 "</qt>"
 msgstr ""
 
@@ -5428,7 +5777,8 @@ msgstr "തിരയുക"
 #, kde-format
 msgid ""
 "<qt>\n"
-"List of sites for which you have set a specific cookie policy. Specific policies override the default policy setting for these sites.\n"
+"List of sites for which you have set a specific cookie policy. Specific "
+"policies override the default policy setting for these sites.\n"
 "</qt>"
 msgstr ""
 
@@ -5499,7 +5849,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"Enter the host or domain to which this policy applies, e.g. <b>www.kde.org</b> or <b>.kde.org</b>.\n"
+"Enter the host or domain to which this policy applies, e.g. <b>www.kde.org</"
+"b> or <b>.kde.org</b>.\n"
 "</qt>"
 msgstr ""
 
@@ -5527,16 +5878,12 @@ msgid ""
 "<qt>\n"
 "Select the desired policy:\n"
 "<ul>\n"
-"<li><b>Accept</b> - Allows this site to set cookies</li>"
-"\n"
-"<li><b>Accept until end of session</b> - Allows this site to set cookies but they will expire at the end of the session.</li>"
-"\n"
-"<li><b>Reject</b> - Refuse all cookies sent from this site</li>"
-"\n"
-"<li><b>Ask</b> - Prompt when cookies are received from this site</li>"
-"\n"
-"</ul>"
-"\n"
+"<li><b>Accept</b> - Allows this site to set cookies</li>\n"
+"<li><b>Accept until end of session</b> - Allows this site to set cookies but "
+"they will expire at the end of the session.</li>\n"
+"<li><b>Reject</b> - Refuse all cookies sent from this site</li>\n"
+"<li><b>Ask</b> - Prompt when cookies are received from this site</li>\n"
+"</ul>\n"
 "</qt>"
 msgstr ""
 
@@ -5565,7 +5912,10 @@ msgstr "നിര്‍ജ്ജീവ എഫ്‌ടിപി പ്രാവ�
 #. +> trunk5
 #: kcms/kio/kio_ftprc.kcfg:11
 #, kde-format
-msgid "When FTP connections are passive the client connects to the server, instead of the other way round, so firewalls do not block the connection; old FTP servers may not support Passive FTP though."
+msgid ""
+"When FTP connections are passive the client connects to the server, instead "
+"of the other way round, so firewalls do not block the connection; old FTP "
+"servers may not support Passive FTP though."
 msgstr ""
 
 #. i18n: ectx: label, entry (MarkPartial), group (Global Options)
@@ -5581,17 +5931,22 @@ msgstr "ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയ
 #. +> trunk5
 #: kcms/kio/kio_ftprc.kcfg:17 kcms/kio/kioslave.kcfg:35
 #, kde-format
-msgid "While a file is being uploaded its extension is \".part\". When fully uploaded it is renamed to its real name."
+msgid ""
+"While a file is being uploaded its extension is \".part\". When fully "
+"uploaded it is renamed to its real name."
 msgstr ""
 
 #. +> trunk5
 #: kcms/kio/kproxydlg.cpp:519
 #, kde-format
 msgid ""
-"<h1>Proxy</h1>"
-"<p>A proxy server is an intermediate program that sits between your machine and the Internet and provides services such as web page caching and/or filtering.</p>"
-"<p>Caching proxy servers give you faster access to sites you have already visited by locally storing or caching the content of those pages; filtering proxy servers, on the other hand, provide the ability to block out requests for ads, spam, or anything else you want to block.</p>"
-"<p><u>Note:</u> Some proxy servers provide both services.</p>"
+"<h1>Proxy</h1><p>A proxy server is an intermediate program that sits between "
+"your machine and the Internet and provides services such as web page caching "
+"and/or filtering.</p><p>Caching proxy servers give you faster access to "
+"sites you have already visited by locally storing or caching the content of "
+"those pages; filtering proxy servers, on the other hand, provide the ability "
+"to block out requests for ads, spam, or anything else you want to block.</"
+"p><p><u>Note:</u> Some proxy servers provide both services.</p>"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QWidget, ProxyDialogUI)
@@ -5602,9 +5957,16 @@ msgid ""
 "<qt>\n"
 "Setup proxy configuration.\n"
 "<p>\n"
-"A proxy server is an intermediate machine that sits between your computer and the Internet and provides services such as web page caching and filtering. Caching proxy servers give you faster access to web sites you have already visited by locally storing or caching those pages; filtering proxy servers usually provide the ability to block out requests for ads, spam, or anything else you want to block.\n"
+"A proxy server is an intermediate machine that sits between your computer "
+"and the Internet and provides services such as web page caching and "
+"filtering. Caching proxy servers give you faster access to web sites you "
+"have already visited by locally storing or caching those pages; filtering "
+"proxy servers usually provide the ability to block out requests for ads, "
+"spam, or anything else you want to block.\n"
 "<p>\n"
-"If you are uncertain whether or not you need to use a proxy server to connect to the Internet, consult your Internet service provider's setup guide or your system administrator.\n"
+"If you are uncertain whether or not you need to use a proxy server to "
+"connect to the Internet, consult your Internet service provider's setup "
+"guide or your system administrator.\n"
 "</qt>"
 msgstr ""
 
@@ -5628,19 +5990,21 @@ msgstr "&പ്രോക്സി"
 #, fuzzy, kde-format
 msgid ""
 "<qt>\n"
-"Automatically detect and configure the proxy settings."
-"<p>\n"
-"Automatic detection is performed using the <b>Web Proxy Auto-Discovery Protocol (WPAD)</b>."
-"<p>\n"
-"<b>NOTE:</b> This option might not work properly or not work at all in some UNIX/Linux distributions. If you encounter a problem when using this option, please check the FAQ section at https://konqueror.org.\n"
+"Automatically detect and configure the proxy settings.<p>\n"
+"Automatic detection is performed using the <b>Web Proxy Auto-Discovery "
+"Protocol (WPAD)</b>.<p>\n"
+"<b>NOTE:</b> This option might not work properly or not work at all in some "
+"UNIX/Linux distributions. If you encounter a problem when using this option, "
+"please check the FAQ section at https://konqueror.org.\n"
 "</qt>"
 msgstr ""
 "<qt>\n"
-"തനിയെ പ്രോക്സി സജ്ജീകരണങ്ങള്‍ കണ്ടുപിടിക്കുകയും ക്രമീകരിക്കുകയും ചെയ്യുക."
-"<p>\n"
-"തനിയെ കണ്ടുപിടിത്തം <b>വെബ്ബ് പ്രോക്സി ഓട്ടോ-ഡിസ്കവറി പ്രോട്ടോക്കോള്‍ (WPAD)</b> ഉപയോഗിച്ച് നിര്‍വഹിക്കുന്നു."
-"<p>\n"
-"<b>കുറിപ്പ്:</b> ഈ ഐച്ഛികം ചില യൂണിക്സ്/ലിനക്സ് വിതരണങ്ങളില്‍ ശരിയായി പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ഒട്ടും പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ചെയ്തേക്കാം. ഈ ഐച്ഛികം ഉപയോഗിക്കുമ്പോള്‍ പ്രശ്നം നേരിടുകയാണെങ്കില്‍ http://konqueror.kde.org എന്നയിടത്തെ FAQ ഭാഗം നോക്കുക.\n"
+"തനിയെ പ്രോക്സി സജ്ജീകരണങ്ങള്‍ കണ്ടുപിടിക്കുകയും ക്രമീകരിക്കുകയും ചെയ്യുക.<p>\n"
+"തനിയെ കണ്ടുപിടിത്തം <b>വെബ്ബ് പ്രോക്സി ഓട്ടോ-ഡിസ്കവറി പ്രോട്ടോക്കോള്‍ (WPAD)</b> ഉപയോഗിച്ച് "
+"നിര്‍വഹിക്കുന്നു.<p>\n"
+"<b>കുറിപ്പ്:</b> ഈ ഐച്ഛികം ചില യൂണിക്സ്/ലിനക്സ് വിതരണങ്ങളില്‍ ശരിയായി പ്രവര്‍"
+"ത്തിക്കാതിരിക്കുകയോ ഒട്ടും പ്രവര്‍ത്തിക്കാതിരിക്കുകയോ ചെയ്തേക്കാം. ഈ ഐച്ഛികം ഉപയോഗിക്കുമ്പോള്‍ "
+"പ്രശ്നം നേരിടുകയാണെങ്കില്‍ http://konqueror.kde.org എന്നയിടത്തെ FAQ ഭാഗം നോക്കുക.\n"
 "</qt>"
 
 #. i18n: ectx: property (text), widget (QRadioButton, autoDiscoverProxyRadioButton)
@@ -5676,17 +6040,15 @@ msgstr "പ്രോക്സി ക്രമീകരണ സ്ക്രിപ�
 #: kcms/kio/kproxydlg.ui:117
 #, kde-format
 msgid ""
-"<qt>"
-"<p>Use proxy settings defined on the system.</p>"
-"\n"
-"<p>Some platforms offer system wide proxy configuration information and selecting this option allows you to use those settings.</p>"
-"\n"
-"<p>On Mac platforms</p>"
-"\n"
-"<p>On Windows platforms</p>"
-"\n"
-"<p>On Unix and Linux platforms, such system proxy settings are usually defined through environment variables. The following environment variables are detected and used when present: <b>HTTP_PROXY</b>, <b>HTTPS_PROXY</b>, <b>FTP_PROXY</b>, <b>NO_PROXY</b>.</p>"
-"\n"
+"<qt><p>Use proxy settings defined on the system.</p>\n"
+"<p>Some platforms offer system wide proxy configuration information and "
+"selecting this option allows you to use those settings.</p>\n"
+"<p>On Mac platforms</p>\n"
+"<p>On Windows platforms</p>\n"
+"<p>On Unix and Linux platforms, such system proxy settings are usually "
+"defined through environment variables. The following environment variables "
+"are detected and used when present: <b>HTTP_PROXY</b>, <b>HTTPS_PROXY</b>, "
+"<b>FTP_PROXY</b>, <b>NO_PROXY</b>.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -5702,8 +6064,10 @@ msgstr "ഇനി പറയുന്ന പ്രോക്സി ക്രമീ
 #: kcms/kio/kproxydlg.ui:127
 #, kde-format
 msgid ""
-"<qt>Attempt automatic discovery of the environment variables used for setting system wide proxy information."
-"<p> This feature works by searching for commonly used variable names such as HTTP_PROXY, FTP_PROXY and NO_PROXY.</qt>"
+"<qt>Attempt automatic discovery of the environment variables used for "
+"setting system wide proxy information.<p> This feature works by searching "
+"for commonly used variable names such as HTTP_PROXY, FTP_PROXY and NO_PROXY."
+"</qt>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, autoDetectButton)
@@ -5720,10 +6084,10 @@ msgstr "തനിയെ &കണ്ടുപിടിക്കുക"
 #, kde-format
 msgid ""
 "<qt>\n"
-"Enter the name of the environment variable, e.g. <b>HTTP_PROXY</b>, used to store the address of the HTTP proxy server."
-"<p>\n"
-"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt automatic discovery of this variable.</p>"
-"\n"
+"Enter the name of the environment variable, e.g. <b>HTTP_PROXY</b>, used to "
+"store the address of the HTTP proxy server.<p>\n"
+"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt "
+"automatic discovery of this variable.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -5742,10 +6106,10 @@ msgstr "&പ്രോക്സി"
 #, kde-format
 msgid ""
 "<qt>\n"
-"Enter the name of the environment variable, e.g. <b>HTTPS_PROXY</b>, used to store the address of the HTTPS proxy server."
-"<p>\n"
-"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt an automatic discovery of this variable.</p>"
-"\n"
+"Enter the name of the environment variable, e.g. <b>HTTPS_PROXY</b>, used to "
+"store the address of the HTTPS proxy server.<p>\n"
+"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt "
+"an automatic discovery of this variable.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -5764,10 +6128,10 @@ msgstr "&പ്രോക്സി"
 #, kde-format
 msgid ""
 "<qt>\n"
-"Enter the name of the environment variable, e.g. <b>FTP_PROXY</b>, used to store the address of the FTP proxy server."
-"<p>\n"
-"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt an automatic discovery of this variable.</p>"
-"\n"
+"Enter the name of the environment variable, e.g. <b>FTP_PROXY</b>, used to "
+"store the address of the FTP proxy server.<p>\n"
+"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt "
+"an automatic discovery of this variable.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -5785,10 +6149,10 @@ msgstr "&പ്രോക്സി"
 #, kde-format
 msgid ""
 "<qt>\n"
-"Enter the name of the environment variable, e.g. <b>SOCKS_PROXY</b>, used to store the address of the SOCKS proxy server."
-"<p>\n"
-"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt an automatic discovery of this variable.</p>"
-"\n"
+"Enter the name of the environment variable, e.g. <b>SOCKS_PROXY</b>, used to "
+"store the address of the SOCKS proxy server.<p>\n"
+"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt "
+"an automatic discovery of this variable.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -5805,9 +6169,10 @@ msgstr "&പ്രോക്സി"
 #: kcms/kio/kproxydlg.ui:285
 #, kde-format
 msgid ""
-"<qt>Enter the name of the environment variable, e.g. <b>SOCKS_PROXY</b>, used to store the address of the SOCKS proxy server."
-"<p>Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt an automatic discovery of this variable.</p>"
-"</qt>"
+"<qt>Enter the name of the environment variable, e.g. <b>SOCKS_PROXY</b>, "
+"used to store the address of the SOCKS proxy server.<p>Alternatively, you "
+"can click on the <b>\"Auto Detect\"</b> button to attempt an automatic "
+"discovery of this variable.</p></qt>"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, sysNoProxyLabel)
@@ -5817,9 +6182,10 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"Enter the environment variable, e.g. <b>NO_PROXY</b>, used to store the addresses of sites for which the proxy server should not be used."
-"<p>\n"
-"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt an automatic discovery of this variable.\n"
+"Enter the environment variable, e.g. <b>NO_PROXY</b>, used to store the "
+"addresses of sites for which the proxy server should not be used.<p>\n"
+"Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt "
+"an automatic discovery of this variable.\n"
 "</qt>"
 msgstr ""
 
@@ -5836,9 +6202,10 @@ msgstr "എ&ക്സപ്ഷനുകള്‍"
 #: kcms/kio/kproxydlg.ui:317
 #, kde-format
 msgid ""
-"<qt>Enter the environment variable, e.g. <b>NO_PROXY</b>, used to store the addresses of sites for which the above proxy settings should not be used."
-"<p>Alternatively, you can click on the <b>\"Auto Detect\"</b> button to attempt an automatic discovery of this variable.</p>"
-"</qt>"
+"<qt>Enter the environment variable, e.g. <b>NO_PROXY</b>, used to store the "
+"addresses of sites for which the above proxy settings should not be used."
+"<p>Alternatively, you can click on the <b>\"Auto Detect\"</b> button to "
+"attempt an automatic discovery of this variable.</p></qt>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, showEnvValueCheckBox)
@@ -5942,12 +6309,14 @@ msgstr "എച്ച്ടിടിപിഎസ് പ്രോക്സി സ�
 #, kde-format
 msgid ""
 "<qt>\n"
-"<p>Enter a comma separated list of hostnames or ip addresses that should be excluded from using the above proxy settings.</p>"
-"\n"
-"<p>If you want to exclude all hosts for a given domain, then simply enter the domain name preceded by a dot. For example, to exclude all hostnames for <i>kde.org</i>, enter <i>.kde.org</i>. Wildcard characters such as '*' or '?' are not supported and will have no effect.</p>"
-"\n"
-"<p>Additionally, you can also enter IP addresses, e.g. 127.0.0.1 and IP addresses with a subnet, e.g. 192.168.0.1/24.</p>"
-"\n"
+"<p>Enter a comma separated list of hostnames or ip addresses that should be "
+"excluded from using the above proxy settings.</p>\n"
+"<p>If you want to exclude all hosts for a given domain, then simply enter "
+"the domain name preceded by a dot. For example, to exclude all hostnames for "
+"<i>kde.org</i>, enter <i>.kde.org</i>. Wildcard characters such as '*' or "
+"'?' are not supported and will have no effect.</p>\n"
+"<p>Additionally, you can also enter IP addresses, e.g. 127.0.0.1 and IP "
+"addresses with a subnet, e.g. 192.168.0.1/24.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -5957,7 +6326,8 @@ msgstr ""
 #, fuzzy, kde-format
 msgid ""
 "<qt>\n"
-"Check this box if you want the above proxy settings to apply only to the addresses listed in the <i>Exceptions</i> list.</qt>"
+"Check this box if you want the above proxy settings to apply only to the "
+"addresses listed in the <i>Exceptions</i> list.</qt>"
 msgstr "പട്ടികയിലുള്ളവയ്ക്ക് പ്രോക്സി മാത്രം ഉപയോഗിക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, useReverseProxyCheckBox)
@@ -5970,7 +6340,9 @@ msgstr "പട്ടികയിലുള്ളവയ്ക്ക് പ്ര�
 #. +> trunk5
 #: kcms/kio/ksaveioconfig.cpp:211
 #, kde-format
-msgid "You have to restart the running applications for these changes to take effect."
+msgid ""
+"You have to restart the running applications for these changes to take "
+"effect."
 msgstr "ഈ മാറ്റങ്ങള്‍ ഫലവത്താകാന്‍ ഓടിക്കൊണ്ടിരിക്കുന്ന പ്രയോഗങ്ങള്‍ പുനരാരംഭിക്കേണ്ടിയിരിക്കുന്നു."
 
 #. +> trunk5
@@ -5995,8 +6367,12 @@ msgstr "ടൈമൌട്ട് മൂല്യങ്ങള്‍"
 #. +> trunk5
 #: kcms/kio/netpref.cpp:31
 #, kde-format
-msgid "Here you can set timeout values. You might want to tweak them if your connection is very slow. The maximum allowed value is 1 second."
-msgid_plural "Here you can set timeout values. You might want to tweak them if your connection is very slow. The maximum allowed value is %1 seconds."
+msgid ""
+"Here you can set timeout values. You might want to tweak them if your "
+"connection is very slow. The maximum allowed value is 1 second."
+msgid_plural ""
+"Here you can set timeout values. You might want to tweak them if your "
+"connection is very slow. The maximum allowed value is %1 seconds."
 msgstr[0] ""
 msgstr[1] ""
 
@@ -6049,9 +6425,14 @@ msgstr "&ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫ�
 #: kcms/kio/netpref.cpp:74
 #, fuzzy, kde-format
 msgid ""
-"<p>Marks partially uploaded files through SMB, SFTP and other protocols.</p>"
-"<p>When this option is enabled, partially uploaded files will have a \".part\" extension. This extension will be removed once the transfer is complete.</p>"
-msgstr "ഭാഗികമായി അപ്ലോഡ് ചെയ്ത എഫ്‌ടിപി ഫയലുകള്‍ അടയാളപ്പെടുത്തുക. ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുമ്പോള്‍ ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം പൂര്‍ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
+"<p>Marks partially uploaded files through SMB, SFTP and other protocols.</"
+"p><p>When this option is enabled, partially uploaded files will have a \"."
+"part\" extension. This extension will be removed once the transfer is "
+"complete.</p>"
+msgstr ""
+"ഭാഗികമായി അപ്ലോഡ് ചെയ്ത എഫ്‌ടിപി ഫയലുകള്‍ അടയാളപ്പെടുത്തുക. ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുമ്പോള്‍ "
+"ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം പൂര്‍"
+"ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
 
 #. +> trunk5
 #: kcms/kio/netpref.cpp:85
@@ -6068,23 +6449,33 @@ msgstr "&നിര്‍ജ്ജീവാവസ്ഥ (PASV) പ്രാവര
 #. +> trunk5
 #: kcms/kio/netpref.cpp:90
 #, kde-format
-msgid "Enables FTP's \"passive\" mode. This is required to allow FTP to work from behind firewalls."
-msgstr "എഫ്‌ടിപിയുടെ \"നിര്‍ജ്ജീവം\" (\"passive\") എന്ന അവസ്ഥ പ്രാവര്‍ത്തികമാക്കുന്നു. എഫ്‌ടിപി ഫയര്‍വാളുകളുടെ പിറകില്‍നിന്നു പ്രവര്‍ത്തിക്കാന്‍ ഇതാവശ്യമാണ്."
+msgid ""
+"Enables FTP's \"passive\" mode. This is required to allow FTP to work from "
+"behind firewalls."
+msgstr ""
+"എഫ്‌ടിപിയുടെ \"നിര്‍ജ്ജീവം\" (\"passive\") എന്ന അവസ്ഥ പ്രാവര്‍ത്തികമാക്കുന്നു. എഫ്‌ടിപി ഫയര്‍"
+"വാളുകളുടെ പിറകില്‍നിന്നു പ്രവര്‍ത്തിക്കാന്‍ ഇതാവശ്യമാണ്."
 
 #. +> trunk5
 #: kcms/kio/netpref.cpp:98
 #, kde-format
 msgid ""
-"<p>Marks partially uploaded FTP files.</p>"
-"<p>When this option is enabled, partially uploaded files will have a \".part\" extension. This extension will be removed once the transfer is complete.</p>"
-msgstr "ഭാഗികമായി അപ്ലോഡ് ചെയ്ത എഫ്‌ടിപി ഫയലുകള്‍ അടയാളപ്പെടുത്തുക. ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുമ്പോള്‍ ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം പൂര്‍ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
+"<p>Marks partially uploaded FTP files.</p><p>When this option is enabled, "
+"partially uploaded files will have a \".part\" extension. This extension "
+"will be removed once the transfer is complete.</p>"
+msgstr ""
+"ഭാഗികമായി അപ്ലോഡ് ചെയ്ത എഫ്‌ടിപി ഫയലുകള്‍ അടയാളപ്പെടുത്തുക. ഈ ഐച്ഛികം പ്രാവര്‍ത്തികമാക്കുമ്പോള്‍ "
+"ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ക്ക് ഒരു \".part\" എക്സ്റ്റന്‍ഷനുണ്ടാകും. ഈ എക്സ്റ്റന്‍ഷന്‍ മാറ്റം പൂര്‍"
+"ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
 
 #. +> trunk5
 #: kcms/kio/netpref.cpp:173
 #, kde-format
 msgid ""
-"<h1>Network Preferences</h1>"
-"Here you can define the behavior of KDE programs when using Internet and network connections. If you experience timeouts or use a modem to connect to the Internet, you might want to adjust these settings."
+"<h1>Network Preferences</h1>Here you can define the behavior of KDE programs "
+"when using Internet and network connections. If you experience timeouts or "
+"use a modem to connect to the Internet, you might want to adjust these "
+"settings."
 msgstr ""
 
 #. +> trunk5
@@ -6109,9 +6500,13 @@ msgstr "സഹജമായ അടയാളവാക്കു്:"
 #: kcms/kio/smbrodlg.cpp:160
 #, kde-format
 msgid ""
-"<h1>Windows Shares</h1>"
-"<p>Applications using the SMB kioslave (like Konqueror) are able to access shared Microsoft Windows file systems, if properly configured.</p>"
-"<p>You can specify here the credentials used to access the shared resources. Passwords will be stored locally, and scrambled so as to render them unreadable to the human eye. For security reasons, you may not want to do that, as entries with passwords are clearly indicated as such.</p>"
+"<h1>Windows Shares</h1><p>Applications using the SMB kioslave (like "
+"Konqueror) are able to access shared Microsoft Windows file systems, if "
+"properly configured.</p><p>You can specify here the credentials used to "
+"access the shared resources. Passwords will be stored locally, and scrambled "
+"so as to render them unreadable to the human eye. For security reasons, you "
+"may not want to do that, as entries with passwords are clearly indicated as "
+"such.</p>"
 msgstr ""
 
 #. +> trunk5
@@ -6132,17 +6527,11 @@ msgstr "തിരിച്ചറിയല്‍ മാറ്റം വരുത�
 #: kcms/kio/useragentdlg.cpp:183
 #, kde-format
 msgid ""
-"<qt>"
-"<center>Found an existing identification for<br/>"
-"<b>%1</b><br/>"
-"Do you want to replace it?</center>"
-"</qt>"
+"<qt><center>Found an existing identification for<br/><b>%1</b><br/>Do you "
+"want to replace it?</center></qt>"
 msgstr ""
-"<qt>"
-"<center><br/>"
-"<b>%1</b><br/>"
-"എന്നതിനായി നിലവിലുള്ള ഒരു തിരിച്ചറിയല്‍ കണ്ടെത്തി. നിങ്ങള്‍ക്കിത് മാറ്റണമെന്നുണ്ടോ?</center>"
-"</qt>"
+"<qt><center><br/><b>%1</b><br/>എന്നതിനായി നിലവിലുള്ള ഒരു തിരിച്ചറിയല്‍ കണ്ടെത്തി. "
+"നിങ്ങള്‍ക്കിത് മാറ്റണമെന്നുണ്ടോ?</center></qt>"
 
 #. +> trunk5
 #: kcms/kio/useragentdlg.cpp:188
@@ -6155,10 +6544,19 @@ msgstr "ഡ്യൂപ്ളിക്കേറ്റ് തിരിച്ച�
 #: kcms/kio/useragentdlg.cpp:360
 #, kde-format
 msgid ""
-"<h1>Browser Identification</h1>"
-"<p>The browser-identification module allows you to have full control over how KDE applications using the HTTP protocol (like Konqueror) will identify itself to web sites you browse.</p>"
-"<p>This ability to fake identification is necessary because some web sites do not display properly when they detect that they are not talking to current versions of either Netscape Navigator or Internet Explorer, even if the browser actually supports all the necessary features to render those pages properly. For such sites, you can use this feature to try to browse them. Please understand that this might not always work, since such sites might be using non-standard web protocols and or specifications.</p>"
-"<p><u>NOTE:</u> To obtain specific help on a particular section of the dialog box, simply click on the quick help button on the window title bar, then click on the section for which you are seeking help.</p>"
+"<h1>Browser Identification</h1><p>The browser-identification module allows "
+"you to have full control over how KDE applications using the HTTP protocol "
+"(like Konqueror) will identify itself to web sites you browse.</p><p>This "
+"ability to fake identification is necessary because some web sites do not "
+"display properly when they detect that they are not talking to current "
+"versions of either Netscape Navigator or Internet Explorer, even if the "
+"browser actually supports all the necessary features to render those pages "
+"properly. For such sites, you can use this feature to try to browse them. "
+"Please understand that this might not always work, since such sites might be "
+"using non-standard web protocols and or specifications.</p><p><u>NOTE:</u> "
+"To obtain specific help on a particular section of the dialog box, simply "
+"click on the quick help button on the window title bar, then click on the "
+"section for which you are seeking help.</p>"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QWidget, UserAgentUI)
@@ -6167,9 +6565,14 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"Here you can modify the default browser-identification text or set a site <code>(eg. www.kde.org)</code> or a domain <code>(eg. kde.org)</code> specific identification text."
-"<p>\n"
-"To add a new site-specific identification text, click the <code>New</code> button and supply the necessary information. To change an existing site-specific entry, click on the <code>Change</code> button. The <code>Delete</code> button will remove the selected site-specific identification text, causing the default setting to be used for that site or domain.\n"
+"Here you can modify the default browser-identification text or set a site "
+"<code>(eg. www.kde.org)</code> or a domain <code>(eg. kde.org)</code> "
+"specific identification text.<p>\n"
+"To add a new site-specific identification text, click the <code>New</code> "
+"button and supply the necessary information. To change an existing site-"
+"specific entry, click on the <code>Change</code> button. The <code>Delete</"
+"code> button will remove the selected site-specific identification text, "
+"causing the default setting to be used for that site or domain.\n"
 "</qt>"
 msgstr ""
 
@@ -6179,11 +6582,12 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"Send the browser identification to web sites."
-"<p>\n"
-"<u>NOTE:</u> Many sites rely on this information to display pages properly, hence, it is highly recommended that you do not totally disable this feature but rather customize it."
-"<p>\n"
-"By default, only minimal identification information is sent to remote sites. The identification text that will be sent is shown below.\n"
+"Send the browser identification to web sites.<p>\n"
+"<u>NOTE:</u> Many sites rely on this information to display pages properly, "
+"hence, it is highly recommended that you do not totally disable this feature "
+"but rather customize it.<p>\n"
+"By default, only minimal identification information is sent to remote sites. "
+"The identification text that will be sent is shown below.\n"
 "</qt>"
 msgstr ""
 
@@ -6198,8 +6602,12 @@ msgstr "തിരിച്ചറിയല്‍ &അയയ്ക്കുക"
 #. +> trunk5
 #: kcms/kio/useragentdlg.ui:43
 #, kde-format
-msgid "The browser identification text sent to the sites you visit. Use the provided options to customize it."
-msgstr "നിങ്ങള്‍ സന്ദര്‍ശിച്ച സൈറ്റുകളിലേക്കയച്ച ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലി. തന്നിരിക്കുന്ന ഐച്ഛികങ്ങളുപയോഗിച്ച് അത് ഇഷ്ടപ്രകാരമാക്കിയെടുക്കുക."
+msgid ""
+"The browser identification text sent to the sites you visit. Use the "
+"provided options to customize it."
+msgstr ""
+"നിങ്ങള്‍ സന്ദര്‍ശിച്ച സൈറ്റുകളിലേക്കയച്ച ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലി. തന്നിരിക്കുന്ന "
+"ഐച്ഛികങ്ങളുപയോഗിച്ച് അത് ഇഷ്ടപ്രകാരമാക്കിയെടുക്കുക."
 
 #. i18n: ectx: property (title), widget (QGroupBox, defaultIdGroupBox)
 #. +> trunk5
@@ -6212,15 +6620,21 @@ msgstr "സഹജമായ തിരിച്ചറിയല്‍"
 #. +> trunk5
 #: kcms/kio/useragentdlg.ui:58
 #, fuzzy, kde-format
-msgid "The browser identification text sent to the sites you visit. You can customize it using the options provided below."
-msgstr "നിങ്ങള്‍ സന്ദര്‍ശിച്ച സൈറ്റുകളിലേക്കയച്ച ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലി. തന്നിരിക്കുന്ന ഐച്ഛികങ്ങളുപയോഗിച്ച് അത് ഇഷ്ടപ്രകാരമാക്കിയെടുക്കുക."
+msgid ""
+"The browser identification text sent to the sites you visit. You can "
+"customize it using the options provided below."
+msgstr ""
+"നിങ്ങള്‍ സന്ദര്‍ശിച്ച സൈറ്റുകളിലേക്കയച്ച ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലി. തന്നിരിക്കുന്ന "
+"ഐച്ഛികങ്ങളുപയോഗിച്ച് അത് ഇഷ്ടപ്രകാരമാക്കിയെടുക്കുക."
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, osNameCheckBox)
 #. +> trunk5
 #: kcms/kio/useragentdlg.ui:71
 #, fuzzy, kde-format
-msgid "Includes your operating system's name in the browser identification text."
-msgstr "ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലിയില്‍ നിങ്ങളുടെ ഓപ്പറേറ്റിങ് സിസ്റ്റം പതിപ്പു് നംബര്‍ ഉള്‍പ്പെടുത്തുന്നു."
+msgid ""
+"Includes your operating system's name in the browser identification text."
+msgstr ""
+"ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലിയില്‍ നിങ്ങളുടെ ഓപ്പറേറ്റിങ് സിസ്റ്റം പതിപ്പു് നംബര്‍ ഉള്‍പ്പെടുത്തുന്നു."
 
 #. i18n: ectx: property (text), widget (QCheckBox, osNameCheckBox)
 #. +> trunk5
@@ -6233,8 +6647,11 @@ msgstr "ഓപ്പറേറ്റിങ് &സിസ്റ്റം പേര
 #. +> trunk5
 #: kcms/kio/useragentdlg.ui:102
 #, kde-format
-msgid "Includes your operating system's version number in the browser identification text."
-msgstr "ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലിയില്‍ നിങ്ങളുടെ ഓപ്പറേറ്റിങ് സിസ്റ്റം പതിപ്പു് നംബര്‍ ഉള്‍പ്പെടുത്തുന്നു."
+msgid ""
+"Includes your operating system's version number in the browser "
+"identification text."
+msgstr ""
+"ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലിയില്‍ നിങ്ങളുടെ ഓപ്പറേറ്റിങ് സിസ്റ്റം പതിപ്പു് നംബര്‍ ഉള്‍പ്പെടുത്തുന്നു."
 
 #. i18n: ectx: property (text), widget (QCheckBox, osVersionCheckBox)
 #. +> trunk5
@@ -6261,8 +6678,12 @@ msgstr "&യന്ത്രം (പ്രൊസസര്‍) തരം കൂട
 #. +> trunk5
 #: kcms/kio/useragentdlg.ui:127
 #, kde-format
-msgid "Includes your language settings in the browser identification text to obtain localized versions of the page."
-msgstr "ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലിയില്‍ താളിന്റെ പ്രാദേശികവല്‍ക്കരിച്ച പകര്‍പ്പുകള്‍ ലഭിക്കാനായി നിങ്ങളുടെ ഭാഷാസജ്ജീകരണങ്ങള്‍ ഉള്‍പ്പെടുത്തുന്നു"
+msgid ""
+"Includes your language settings in the browser identification text to obtain "
+"localized versions of the page."
+msgstr ""
+"ബ്രൌസര്‍ തിരിച്ചറിയല്‍ പദാവലിയില്‍ താളിന്റെ പ്രാദേശികവല്‍ക്കരിച്ച പകര്‍പ്പുകള്‍ ലഭിക്കാനായി "
+"നിങ്ങളുടെ ഭാഷാസജ്ജീകരണങ്ങള്‍ ഉള്‍പ്പെടുത്തുന്നു"
 
 #. i18n: ectx: property (text), widget (QCheckBox, languageCheckBox)
 #. +> trunk5
@@ -6334,10 +6755,13 @@ msgstr "തിരിച്ചറിയാനുതകുന്നവയെല്
 #, kde-format
 msgid ""
 "<qt>\n"
-"Enter the site or domain name where a fake browser identification should be used."
-"<p>\n"
-"<u>NOTE:</u> Wildcard syntax such as \\\"*,?\\\" is NOT allowed: instead, use the top level address of a site to make generic matches; for example, if you want all KDE sites to receive a fake browser identification, you would enter <code>kde.org</code> - the fake identity would then be sent to any KDE site that ends with <code>kde.org</code>.</p>"
-"\n"
+"Enter the site or domain name where a fake browser identification should be "
+"used.<p>\n"
+"<u>NOTE:</u> Wildcard syntax such as \\\"*,?\\\" is NOT allowed: instead, "
+"use the top level address of a site to make generic matches; for example, if "
+"you want all KDE sites to receive a fake browser identification, you would "
+"enter <code>kde.org</code> - the fake identity would then be sent to any KDE "
+"site that ends with <code>kde.org</code>.</p>\n"
 "</qt>"
 msgstr ""
 
@@ -6355,7 +6779,8 @@ msgstr "&ഇനിപ്പറയുന്ന സൈറ്റ് തിരയു
 #, kde-format
 msgid ""
 "<qt>\n"
-"Select the browser identification to use whenever contacting the site you specified above.\n"
+"Select the browser identification to use whenever contacting the site you "
+"specified above.\n"
 "</qt>"
 msgstr ""
 
@@ -6373,7 +6798,8 @@ msgstr "ഇനി പറയുന്ന തിരിച്ചറിയല്‍ 
 #, kde-format
 msgid ""
 "<qt>\n"
-"The actual browser identification text that will be sent to the remote machine.\n"
+"The actual browser identification text that will be sent to the remote "
+"machine.\n"
 "</qt>"
 msgstr ""
 
@@ -6400,10 +6826,13 @@ msgstr ""
 #: kcms/webshortcuts/main.cpp:37
 #, kde-format
 msgid ""
-"<h1>Enhanced Browsing</h1>"
-" In this module you can configure some enhanced browsing features of KDE. "
-"<h2>Web Search Keywords</h2>"
-"Web Search Keywords are a quick way of using Web search engines. For example, type \"duckduckgo:frobozz\" or \"dd:frobozz\" and your web browser will do a search on DuckDuckGo for \"frobozz\". Even easier: just press Alt+F2 (if you have not changed this keyboard shortcut) and enter the shortcut in the Run Command dialog."
+"<h1>Enhanced Browsing</h1> In this module you can configure some enhanced "
+"browsing features of KDE. <h2>Web Search Keywords</h2>Web Search Keywords "
+"are a quick way of using Web search engines. For example, type \"duckduckgo:"
+"frobozz\" or \"dd:frobozz\" and your web browser will do a search on "
+"DuckDuckGo for \"frobozz\". Even easier: just press Alt+F2 (if you have not "
+"changed this keyboard shortcut) and enter the shortcut in the Run Command "
+"dialog."
 msgstr ""
 
 #. +> trunk5
@@ -6657,8 +7086,9 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:tooltip"
 msgid ""
-"Check this box to select the highlighted web search keyword as preferred.<nl/>"
-"Preferred web search keywords are used in places where only a few select keywords can be shown at one time."
+"Check this box to select the highlighted web search keyword as preferred.<nl/"
+">Preferred web search keywords are used in places where only a few select "
+"keywords can be shown at one time."
 msgstr ""
 
 #. +> trunk5
@@ -6673,8 +7103,14 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
-"<para>In this module you can configure the web search keywords feature. Web search keywords allow you to quickly search or lookup words on the Internet. For example, to search for information about the KDE project using the Google engine, you simply type <emphasis>gg:KDE</emphasis> or <emphasis>google:KDE</emphasis>.</para>"
-"<para>If you select a default search engine, then you can search for normal words or phrases by simply typing them into the input widget of applications that have built-in support for such a feature, e.g Konqueror.</para>"
+"<para>In this module you can configure the web search keywords feature. Web "
+"search keywords allow you to quickly search or lookup words on the Internet. "
+"For example, to search for information about the KDE project using the "
+"Google engine, you simply type <emphasis>gg:KDE</emphasis> or "
+"<emphasis>google:KDE</emphasis>.</para><para>If you select a default search "
+"engine, then you can search for normal words or phrases by simply typing "
+"them into the input widget of applications that have built-in support for "
+"such a feature, e.g Konqueror.</para>"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, cbEnableShortcuts)
@@ -6682,11 +7118,13 @@ msgstr ""
 #: urifilters/ikws/ikwsopts_ui.ui:17
 #, kde-format
 msgid ""
-"<html><head/><body>"
-"<p>Enable or disable web search keywords. </p>"
-"<p>Web search keywords allow you to quickly access or search for information located online or on your hard drive. </p>"
-"<p>KDE comes with many predefined keywords. One such keyword can be used to perform a the Google (TM) search; to use it, you simply type the keyword 'gg' followed by the keyword delimiter and the search term, e.g. <span style=\" font-weight:600;\">gg:KDE</span>.</p>"
-"</body></html>"
+"<html><head/><body><p>Enable or disable web search keywords. </p><p>Web "
+"search keywords allow you to quickly access or search for information "
+"located online or on your hard drive. </p><p>KDE comes with many predefined "
+"keywords. One such keyword can be used to perform a the Google (TM) search; "
+"to use it, you simply type the keyword 'gg' followed by the keyword "
+"delimiter and the search term, e.g. <span style=\" font-weight:600;\">gg:"
+"KDE</span>.</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, cbEnableShortcuts)
@@ -6744,7 +7182,9 @@ msgstr "&നീക്കം ചെയ്യുക"
 #, kde-format
 msgid ""
 "<qt>\n"
-"Select the search engine to use for input boxes that provide automatic lookup services when you type in normal words and phrases instead of a URL. To disable this feature select <b>None</b> from the list.\n"
+"Select the search engine to use for input boxes that provide automatic "
+"lookup services when you type in normal words and phrases instead of a URL. "
+"To disable this feature select <b>None</b> from the list.\n"
 "</qt>"
 msgstr ""
 
@@ -6760,18 +7200,20 @@ msgstr "സഹജമായ അടയാളവാക്കു്:"
 #: urifilters/ikws/ikwsopts_ui.ui:166
 #, kde-format
 msgid ""
-"<html><head/><body>"
-"<p>Select a default web search keyword. </p>"
-"<p>This allows applications to automatically convert the typed word or phrase to web search keyword queries when they cannot be filtered into a proper URL. </p>"
-"<p>To disable this functionality select <span style=\" font-weight:600;\">None</span> from the list. </p>"
-"</body></html>"
+"<html><head/><body><p>Select a default web search keyword. </p><p>This "
+"allows applications to automatically convert the typed word or phrase to web "
+"search keyword queries when they cannot be filtered into a proper URL. </"
+"p><p>To disable this functionality select <span style=\" font-weight:600;"
+"\">None</span> from the list. </p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, lbDelimiter)
 #. +> trunk5
 #: urifilters/ikws/ikwsopts_ui.ui:182
 #, kde-format
-msgid "Choose the delimiter that separates the keyword from the phrase or word to be searched."
+msgid ""
+"Choose the delimiter that separates the keyword from the phrase or word to "
+"be searched."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lbDelimiter)
@@ -6844,7 +7286,9 @@ msgstr ""
 #. +> trunk5
 #: urifilters/ikws/searchproviderdlg.cpp:118
 #, kde-format
-msgid "The shortcut \"%1\" is already assigned to \"%2\". Please choose a different one."
+msgid ""
+"The shortcut \"%1\" is already assigned to \"%2\". Please choose a different "
+"one."
 msgstr ""
 
 #. +> trunk5
@@ -6867,7 +7311,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "The Shortcut URL does not contain a \\{...} placeholder for the user query.\n"
-"This means that the same page is always going to be visited, regardless of the text typed in with the shortcut."
+"This means that the same page is always going to be visited, regardless of "
+"the text typed in with the shortcut."
 msgstr ""
 
 #. +> trunk5
@@ -6900,14 +7345,17 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"Enter the URI that is used to perform a search on the search engine here.<br/>"
-"The whole text to be searched for can be specified as \\{@} or \\{0}.<br/>"
-"\n"
-"Recommended is \\{@}, since it removes all query variables (name=value) from the resulting string, whereas \\{0} will be substituted with the unmodified query string.<br/>"
-"You can use \\{1} ... \\{n} to specify certain words from the query and \\{name} to specify a value given by 'name=value' in the user query.<br/>"
-"In addition it is possible to specify multiple references (names, numbers and strings) at once (\\{name1,name2,...,\"string\"}).<br/>"
-"The first matching value (from the left) will be used as the substitution value for the resulting URI.<br/>"
-"A quoted string can be used as the default value if nothing matches from the left of the reference list.\n"
+"Enter the URI that is used to perform a search on the search engine here.<br/"
+">The whole text to be searched for can be specified as \\{@} or \\{0}.<br/>\n"
+"Recommended is \\{@}, since it removes all query variables (name=value) from "
+"the resulting string, whereas \\{0} will be substituted with the unmodified "
+"query string.<br/>You can use \\{1} ... \\{n} to specify certain words from "
+"the query and \\{name} to specify a value given by 'name=value' in the user "
+"query.<br/>In addition it is possible to specify multiple references (names, "
+"numbers and strings) at once (\\{name1,name2,...,\"string\"}).<br/>The first "
+"matching value (from the left) will be used as the substitution value for "
+"the resulting URI.<br/>A quoted string can be used as the default value if "
+"nothing matches from the left of the reference list.\n"
 "</qt>"
 msgstr ""
 
@@ -6935,7 +7383,9 @@ msgstr ""
 #, kde-format
 msgid ""
 "<qt>\n"
-"The shortcuts entered here can be used as a pseudo-URI scheme in KDE. For example, the shortcut <b>av</b> can be used as in <b>av</b>:<b>my search</b>\n"
+"The shortcuts entered here can be used as a pseudo-URI scheme in KDE. For "
+"example, the shortcut <b>av</b> can be used as in <b>av</b>:<b>my search</"
+"b>\n"
 "</qt>"
 msgstr ""
 
@@ -6946,9 +7396,8 @@ msgstr ""
 #: urifilters/ikws/searchproviderdlg_ui.ui:107
 #, kde-format
 msgid ""
-"<html><head/><body>"
-"<p>Enter the human-readable name of the web shortcut here.</p>"
-"</body></html>"
+"<html><head/><body><p>Enter the human-readable name of the web shortcut here."
+"</p></body></html>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lbShortcut)
@@ -7094,8 +7543,8 @@ msgstr ""
 #: widgets/checksumswidget.ui:17
 #, kde-format
 msgid ""
-"Copy and paste a checksum in the field below.<br/>"
-"A checksum is usually provided by the website you downloaded this file from."
+"Copy and paste a checksum in the field below.<br/>A checksum is usually "
+"provided by the website you downloaded this file from."
 msgstr ""
 
 #. i18n: MD5, SHA1, SHA256 and SHA512 are hashing algorithms
@@ -7219,7 +7668,8 @@ msgstr ""
 #. +> trunk5
 #: widgets/fileundomanager.cpp:120
 #, kde-format
-msgid "Undoing this operation requires root privileges. Do you want to continue?"
+msgid ""
+"Undoing this operation requires root privileges. Do you want to continue?"
 msgstr ""
 
 #. +> trunk5
@@ -7304,7 +7754,8 @@ msgstr ""
 #: widgets/fileundomanager.cpp:749
 #, kde-format
 msgid ""
-"The file %1 was copied from %2, but since then it has apparently been modified at %3.\n"
+"The file %1 was copied from %2, but since then it has apparently been "
+"modified at %3.\n"
 "Undoing the copy will delete the file, and all modifications will be lost.\n"
 "Are you sure you want to delete %4?"
 msgstr ""
@@ -7320,10 +7771,9 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Do you really want to permanently delete this item?<nl/>"
-"<filename>%1</filename><nl/>"
-"<nl/>"
-"<emphasis strong='true'>This action cannot be undone.</emphasis>"
+"Do you really want to permanently delete this item?<nl/><filename>%1</"
+"filename><nl/><nl/><emphasis strong='true'>This action cannot be undone.</"
+"emphasis>"
 msgstr ""
 
 #. +> trunk5
@@ -7338,13 +7788,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Do you really want to permanently delete this item?<nl/>"
-"<nl/>"
-"<emphasis strong='true'>This action cannot be undone.</emphasis>"
+"Do you really want to permanently delete this item?<nl/><nl/><emphasis "
+"strong='true'>This action cannot be undone.</emphasis>"
 msgid_plural ""
-"Do you really want to permanently delete these %1 items?<nl/>"
-"<nl/>"
-"<emphasis strong='true'>This action cannot be undone.</emphasis>"
+"Do you really want to permanently delete these %1 items?<nl/><nl/><emphasis "
+"strong='true'>This action cannot be undone.</emphasis>"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -7353,9 +7801,8 @@ msgstr[1] ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Do you want to permanently delete all items from the Trash?<nl/>"
-"<nl/>"
-"<emphasis strong='true'>This action cannot be undone.</emphasis>"
+"Do you want to permanently delete all items from the Trash?<nl/><nl/"
+"><emphasis strong='true'>This action cannot be undone.</emphasis>"
 msgstr ""
 
 #. +> trunk5
@@ -7370,8 +7817,8 @@ msgstr ""
 #, fuzzy, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"Do you really want to move this item to the Trash?<nl/>"
-"<filename>%1</filename>"
+"Do you really want to move this item to the Trash?<nl/><filename>%1</"
+"filename>"
 msgstr "നിങ്ങള്‍ക്കു് ഈ വസ്തു ചവറ്റുകുട്ടയിലേക്കു് നീക്കണമോ?"
 
 #. +> trunk5
@@ -7722,7 +8169,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kopenwithdialog.cpp:559
 #, kde-format
-msgid "<qt>Select the program that should be used to open <b>%1</b>. If the program is not listed, enter the name or click the browse button.</qt>"
+msgid ""
+"<qt>Select the program that should be used to open <b>%1</b>. If the program "
+"is not listed, enter the name or click the browse button.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -7734,16 +8183,15 @@ msgstr ""
 #. +> trunk5
 #: widgets/kopenwithdialog.cpp:588
 #, kde-format
-msgid ""
-"<qt>Select the program you want to use to open the file<br/>"
-"%1</qt>"
+msgid "<qt>Select the program you want to use to open the file<br/>%1</qt>"
 msgstr ""
 
 #. +> trunk5
 #: widgets/kopenwithdialog.cpp:590
 #, kde-format
 msgid "<qt>Select the program you want to use to open the file.</qt>"
-msgid_plural "<qt>Select the program you want to use to open the %1 files.</qt>"
+msgid_plural ""
+"<qt>Select the program you want to use to open the %1 files.</qt>"
 msgstr[0] ""
 msgstr[1] ""
 
@@ -7762,13 +8210,17 @@ msgstr ""
 #. +> trunk5
 #: widgets/kopenwithdialog.cpp:610
 #, kde-format
-msgid "<qt>Select the program for the file type: <b>%1</b>. If the program is not listed, enter the name or click the browse button.</qt>"
+msgid ""
+"<qt>Select the program for the file type: <b>%1</b>. If the program is not "
+"listed, enter the name or click the browse button.</qt>"
 msgstr ""
 
 #. +> trunk5
 #: widgets/kopenwithdialog.cpp:623
 #, kde-format
-msgid "<qt>Select a program. If the program is not listed, enter the name or click the browse button.</qt>"
+msgid ""
+"<qt>Select a program. If the program is not listed, enter the name or click "
+"the browse button.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -7783,9 +8235,11 @@ msgstr ""
 #: widgets/kopenwithdialog.cpp:693
 #, kde-format
 msgid ""
-"Following the command, you can have several place holders which will be replaced with the actual values when the actual program is run:\n"
+"Following the command, you can have several place holders which will be "
+"replaced with the actual values when the actual program is run:\n"
 "%f - a single file name\n"
-"%F - a list of files; use for applications that can open several local files at once\n"
+"%F - a list of files; use for applications that can open several local files "
+"at once\n"
 "%u - a single URL\n"
 "%U - a list of URLs\n"
 "%d - the directory of the file to open\n"
@@ -7824,7 +8278,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kopenwithdialog.cpp:958
 #, kde-format
-msgid "Could not extract executable name from '%1', please type a valid program name."
+msgid ""
+"Could not extract executable name from '%1', please type a valid program "
+"name."
 msgstr ""
 
 #. +> trunk5
@@ -7837,7 +8293,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopadvbase.ui:29
 #, kde-format
-msgctxt "@title:group Title of a group that lets the user choose options about the terminal when launching a program"
+msgctxt ""
+"@title:group Title of a group that lets the user choose options about the "
+"terminal when launching a program"
 msgid "Terminal"
 msgstr ""
 
@@ -7845,7 +8303,10 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopadvbase.ui:51
 #, kde-format
-msgid "Check this option if the application you want to run is a text mode application or if you want the information that is provided by the terminal emulator window."
+msgid ""
+"Check this option if the application you want to run is a text mode "
+"application or if you want the information that is provided by the terminal "
+"emulator window."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, terminalCheck)
@@ -7866,7 +8327,10 @@ msgstr "ലക്ഷ്യസ്ഥാനം"
 #. +> trunk5
 #: widgets/kpropertiesdesktopadvbase.ui:71
 #, kde-format
-msgid "Check this option if the text mode application offers relevant information on exit. Keeping the terminal emulator open allows you to retrieve this information."
+msgid ""
+"Check this option if the text mode application offers relevant information "
+"on exit. Keeping the terminal emulator open allows you to retrieve this "
+"information."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, terminalCloseCheck)
@@ -7880,7 +8344,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopadvbase.ui:87
 #, kde-format
-msgctxt "@title:group Title of a group that lets the user choose which user to use when launching a program"
+msgctxt ""
+"@title:group Title of a group that lets the user choose which user to use "
+"when launching a program"
 msgid "User"
 msgstr ""
 
@@ -7888,7 +8354,11 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopadvbase.ui:93
 #, kde-format
-msgid "Check this option if you want to run this application with a different user id. Every process has a different user id associated with it. This id code determines file access and other permissions. The password of the user is required to use this option."
+msgid ""
+"Check this option if you want to run this application with a different user "
+"id. Every process has a different user id associated with it. This id code "
+"determines file access and other permissions. The password of the user is "
+"required to use this option."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, suidCheck)
@@ -7937,7 +8407,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopadvbase.ui:158
 #, kde-format
-msgctxt "@title:group Title of a group that lets the user choose options regarding program startup"
+msgctxt ""
+"@title:group Title of a group that lets the user choose options regarding "
+"program startup"
 msgid "Startup"
 msgstr ""
 
@@ -7945,7 +8417,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopadvbase.ui:164
 #, kde-format
-msgid "Check this option if you want to make clear that your application has started. This visual feedback may appear as a busy cursor or in the taskbar."
+msgid ""
+"Check this option if you want to make clear that your application has "
+"started. This visual feedback may appear as a busy cursor or in the taskbar."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, startupInfoCheck)
@@ -7995,7 +8469,9 @@ msgstr "ലക്ഷ്യസ്ഥാനം"
 #. +> trunk5
 #: widgets/kpropertiesdesktopbase.ui:14 widgets/kpropertiesdesktopbase.ui:27
 #, kde-format
-msgid "Type the name you want to give to this application here. This application will appear under this name in the applications menu and in the panel."
+msgid ""
+"Type the name you want to give to this application here. This application "
+"will appear under this name in the applications menu and in the panel."
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, textLabel2)
@@ -8003,7 +8479,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopbase.ui:34 widgets/kpropertiesdesktopbase.ui:47
 #, kde-format
-msgid "Type the description of this application, based on its use, here. Examples: a dial up application (KPPP) would be \"Dial up tool\"."
+msgid ""
+"Type the description of this application, based on its use, here. Examples: "
+"a dial up application (KPPP) would be \"Dial up tool\"."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
@@ -8032,13 +8510,15 @@ msgstr ""
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, commandEdit)
 #. +> trunk5
 #: widgets/kpropertiesdesktopbase.ui:85 widgets/kpropertiesdesktopbase.ui:111
-#, kde-format, no-c-format
+#, no-c-format, kde-format
 msgid ""
 "Type the command to start this application here.\n"
 "\n"
-"Following the command, you can have several place holders which will be replaced with the actual values when the actual program is run:\n"
+"Following the command, you can have several place holders which will be "
+"replaced with the actual values when the actual program is run:\n"
 "%f - a single file name\n"
-"%F - a list of files; use for applications that can open several local files at once\n"
+"%F - a list of files; use for applications that can open several local files "
+"at once\n"
 "%u - a single URL\n"
 "%U - a list of URLs\n"
 "%d - the directory of the file to open\n"
@@ -8059,7 +8539,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopbase.ui:118
 #, kde-format
-msgid "Click here to browse your file system in order to find the desired executable."
+msgid ""
+"Click here to browse your file system in order to find the desired "
+"executable."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, browseButton)
@@ -8090,13 +8572,20 @@ msgstr ""
 #: widgets/kpropertiesdesktopbase.ui:157 widgets/kpropertiesdesktopbase.ui:178
 #, kde-format
 msgid ""
-"<qt>"
-"<p>This list should show the types of file that your application can handle. This list is organized by <u>mimetypes</u>.</p>"
-"\n"
-"<p>MIME, Multipurpose Internet (e)Mail Extension, is a standard protocol for identifying the type of data based on filename extensions and correspondent <u>mimetypes</u>. Example: the \"bmp\" part that comes after the dot in flower.bmp indicates that it is a specific kind of image, <u>image/x-bmp</u>. To know which application should open each type of file, the system should be informed about the abilities of each application to handle these extensions and mimetypes.</p>"
-"\n"
-"<p>If you want to associate this application with one or more mimetypes that are not in this list, click on the button <b>Add</b> below. If there are one or more filetypes that this application cannot handle, you may want to remove them from the list clicking on the button <b>Remove</b> below.</p>"
-"</qt>"
+"<qt><p>This list should show the types of file that your application can "
+"handle. This list is organized by <u>mimetypes</u>.</p>\n"
+"<p>MIME, Multipurpose Internet (e)Mail Extension, is a standard protocol for "
+"identifying the type of data based on filename extensions and correspondent "
+"<u>mimetypes</u>. Example: the \"bmp\" part that comes after the dot in "
+"flower.bmp indicates that it is a specific kind of image, <u>image/x-bmp</"
+"u>. To know which application should open each type of file, the system "
+"should be informed about the abilities of each application to handle these "
+"extensions and mimetypes.</p>\n"
+"<p>If you want to associate this application with one or more mimetypes that "
+"are not in this list, click on the button <b>Add</b> below. If there are one "
+"or more filetypes that this application cannot handle, you may want to "
+"remove them from the list clicking on the button <b>Remove</b> below.</p></"
+"qt>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, textLabel7)
@@ -8124,7 +8613,9 @@ msgstr "ലക്ഷ്യസ്ഥാനം"
 #. +> trunk5
 #: widgets/kpropertiesdesktopbase.ui:206
 #, kde-format
-msgid "Click on this button if you want to add a type of file (mimetype) that your application can handle."
+msgid ""
+"Click on this button if you want to add a type of file (mimetype) that your "
+"application can handle."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, addFiletypeButton)
@@ -8138,7 +8629,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopbase.ui:216
 #, kde-format
-msgid "If you want to remove a type of file (mimetype) that your application cannot handle, select the mimetype in the list above and click on this button."
+msgid ""
+"If you want to remove a type of file (mimetype) that your application cannot "
+"handle, select the mimetype in the list above and click on this button."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, delFiletypeButton)
@@ -8152,7 +8645,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdesktopbase.ui:242
 #, kde-format
-msgid "Click here to modify the way this application will run, launch feedback, D-Bus options or to run it as a different user."
+msgid ""
+"Click here to modify the way this application will run, launch feedback, D-"
+"Bus options or to run it as a different user."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, advancedButton)
@@ -8354,7 +8849,9 @@ msgstr ""
 #: widgets/kpropertiesdialog.cpp:1664 widgets/kpropertiesdialog.cpp:3245
 #: widgets/kpropertiesdialog.cpp:3544 widgets/kpropertiesdialog.cpp:3821
 #, kde-format
-msgid "<qt>Could not save properties. You do not have sufficient access to write to <b>%1</b>.</qt>"
+msgid ""
+"<qt>Could not save properties. You do not have sufficient access to write to "
+"<b>%1</b>.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -8459,7 +8956,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:1902
 #, kde-format
-msgid "Specifies the actions that all users, who are neither owner nor in the group, are allowed to do."
+msgid ""
+"Specifies the actions that all users, who are neither owner nor in the "
+"group, are allowed to do."
 msgstr ""
 
 #. +> trunk5
@@ -8477,13 +8976,18 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:1912
 #, kde-format
-msgid "Enable this option to allow only the folder's owner to delete or rename the contained files and folders. Other users can only add new files, which requires the 'Modify Content' permission."
+msgid ""
+"Enable this option to allow only the folder's owner to delete or rename the "
+"contained files and folders. Other users can only add new files, which "
+"requires the 'Modify Content' permission."
 msgstr ""
 
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:1916
 #, kde-format
-msgid "Enable this option to mark the file as executable. This only makes sense for programs and scripts. It is required when you want to execute them."
+msgid ""
+"Enable this option to mark the file as executable. This only makes sense for "
+"programs and scripts. It is required when you want to execute them."
 msgstr ""
 
 #. +> trunk5
@@ -8565,7 +9069,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2096
 #, kde-format
-msgid "This flag allows adding, renaming and deleting of files. Note that deleting and renaming can be limited using the Sticky flag."
+msgid ""
+"This flag allows adding, renaming and deleting of files. Note that deleting "
+"and renaming can be limited using the Sticky flag."
 msgstr ""
 
 #. +> trunk5
@@ -8614,13 +9120,17 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2122
 #, kde-format
-msgid "Special flag. Valid for the whole folder, the exact meaning of the flag can be seen in the right hand column."
+msgid ""
+"Special flag. Valid for the whole folder, the exact meaning of the flag can "
+"be seen in the right hand column."
 msgstr ""
 
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2125
 #, kde-format
-msgid "Special flag. The exact meaning of the flag can be seen in the right hand column."
+msgid ""
+"Special flag. The exact meaning of the flag can be seen in the right hand "
+"column."
 msgstr ""
 
 #. +> trunk5
@@ -8638,37 +9148,48 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2143
 #, kde-format
-msgid "If this flag is set, the owner of this folder will be the owner of all new files."
+msgid ""
+"If this flag is set, the owner of this folder will be the owner of all new "
+"files."
 msgstr ""
 
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2146
 #, kde-format
-msgid "If this file is an executable and the flag is set, it will be executed with the permissions of the owner."
+msgid ""
+"If this file is an executable and the flag is set, it will be executed with "
+"the permissions of the owner."
 msgstr ""
 
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2151
 #, kde-format
-msgid "If this flag is set, the group of this folder will be set for all new files."
+msgid ""
+"If this flag is set, the group of this folder will be set for all new files."
 msgstr ""
 
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2154
 #, kde-format
-msgid "If this file is an executable and the flag is set, it will be executed with the permissions of the group."
+msgid ""
+"If this file is an executable and the flag is set, it will be executed with "
+"the permissions of the group."
 msgstr ""
 
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2159
 #, kde-format
-msgid "If the Sticky flag is set on a folder, only the owner and root can delete or rename files. Otherwise everybody with write permissions can do this."
+msgid ""
+"If the Sticky flag is set on a folder, only the owner and root can delete or "
+"rename files. Otherwise everybody with write permissions can do this."
 msgstr ""
 
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:2163
 #, kde-format
-msgid "The Sticky flag on a file is ignored on Linux, but may be used on some systems"
+msgid ""
+"The Sticky flag on a file is ignored on Linux, but may be used on some "
+"systems"
 msgstr ""
 
 #. +> trunk5
@@ -8769,9 +9290,9 @@ msgstr ""
 #: widgets/kpropertiesdialog.cpp:3050
 #, kde-format
 msgid ""
-"<p>Checksums do not match.</p>"
-"This may be due to a faulty download. Try re-downloading the file.<br/>"
-"If the verification still fails, contact the source of the file."
+"<p>Checksums do not match.</p>This may be due to a faulty download. Try re-"
+"downloading the file.<br/>If the verification still fails, contact the "
+"source of the file."
 msgstr ""
 
 #. +> trunk5
@@ -8803,7 +9324,8 @@ msgstr ""
 #. +> trunk5
 #: widgets/kpropertiesdialog.cpp:3238 widgets/kpropertiesdialog.cpp:3811
 #, kde-format
-msgid "Could not save properties. Only entries on local file systems are supported."
+msgid ""
+"Could not save properties. Only entries on local file systems are supported."
 msgstr ""
 
 #. +> trunk5
@@ -8881,7 +9403,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/krun.cpp:442
 #, kde-format
-msgid "<qt>Unable to run the command specified. The file or folder <b>%1</b> does not exist.</qt>"
+msgid ""
+"<qt>Unable to run the command specified. The file or folder <b>%1</b> does "
+"not exist.</qt>"
 msgstr ""
 
 #. +> trunk5
@@ -8919,7 +9443,8 @@ msgstr ""
 #. +> trunk5
 #: widgets/ksslinfodialog.cpp:95
 #, kde-format
-msgid "The main part of this document is secured with SSL, but some parts are not."
+msgid ""
+"The main part of this document is secured with SSL, but some parts are not."
 msgstr ""
 
 #. +> trunk5
@@ -9020,7 +9545,9 @@ msgstr "%1 (%2)"
 #. +> trunk5
 #: widgets/paste.cpp:163
 #, kde-format
-msgid "The clipboard has changed since you used 'paste': the chosen data format is no longer applicable. Please copy again what you wanted to paste."
+msgid ""
+"The clipboard has changed since you used 'paste': the chosen data format is "
+"no longer applicable. Please copy again what you wanted to paste."
 msgstr ""
 
 #. +> trunk5
@@ -9116,14 +9643,18 @@ msgstr ""
 #: widgets/renamedialog.cpp:234
 #, kde-format
 msgid ""
-"When this is checked the button pressed will be applied to all subsequent folder conflicts for the remainder of the current job.\n"
-"Unless you press Skip you will still be prompted in case of a conflict with an existing file in the directory."
+"When this is checked the button pressed will be applied to all subsequent "
+"folder conflicts for the remainder of the current job.\n"
+"Unless you press Skip you will still be prompted in case of a conflict with "
+"an existing file in the directory."
 msgstr ""
 
 #. +> trunk5
 #: widgets/renamedialog.cpp:235
 #, kde-format
-msgid "When this is checked the button pressed will be applied to all subsequent conflicts for the remainder of the current job."
+msgid ""
+"When this is checked the button pressed will be applied to all subsequent "
+"conflicts for the remainder of the current job."
 msgstr ""
 
 #. +> trunk5
@@ -9167,8 +9698,10 @@ msgstr ""
 #: widgets/renamedialog.cpp:261
 #, kde-format
 msgid ""
-"Files and folders will be copied into the existing directory, alongside its existing contents.\n"
-"You will be prompted again in case of a conflict with an existing file in the directory."
+"Files and folders will be copied into the existing directory, alongside its "
+"existing contents.\n"
+"You will be prompted again in case of a conflict with an existing file in "
+"the directory."
 msgstr ""
 
 #. +> trunk5
@@ -9252,7 +9785,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/renamedialog.cpp:417
 #, kde-format
-msgid "The files are likely to be identical: they have the same size and their contents are the same at the beginning, middle and end."
+msgid ""
+"The files are likely to be identical: they have the same size and their "
+"contents are the same at the beginning, middle and end."
 msgstr ""
 
 #. +> trunk5
@@ -9310,7 +9845,9 @@ msgstr ""
 #. +> trunk5
 #: widgets/renamefiledialog.cpp:98
 #, fuzzy, kde-format
-msgctxt "This a template for new filenames, # is replaced by a number later, must be the end character"
+msgctxt ""
+"This a template for new filenames, # is replaced by a number later, must be "
+"the end character"
 msgid "New name #"
 msgstr "&പേരു് മാറ്റുക"
 

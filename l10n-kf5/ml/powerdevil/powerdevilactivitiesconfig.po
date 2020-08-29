@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-07-06 09:51+0200\n"
 "PO-Revision-Date: 2019-12-12 22:53+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +43,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "The activity service is not running.\n"
-"It is necessary to have the activity manager running to configure activity-specific power management behavior."
+"It is necessary to have the activity manager running to configure activity-"
+"specific power management behavior."
 msgstr ""
 
 #. +> trunk5
@@ -56,7 +58,8 @@ msgstr ""
 #, kde-format
 msgid ""
 "The Power Management Service appears not to be running.\n"
-"This can be solved by starting or scheduling it inside \"Startup and Shutdown\""
+"This can be solved by starting or scheduling it inside \"Startup and Shutdown"
+"\""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
