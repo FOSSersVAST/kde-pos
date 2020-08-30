@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-26 08:47+0200\n"
+"POT-Creation-Date: 2020-08-30 15:01+0200\n"
 "PO-Revision-Date: 2020-02-23 17:49+0000\n"
 "Last-Translator: amrithandh m <amrithanadhm@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -718,7 +718,7 @@ msgid "Global Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
 #. +> trunk5
-#: kcms/keys/kcm_keys.desktop:30 kcms/keys/package/metadata.desktop:18
+#: kcms/keys/kcm_keys.desktop:31 kcms/keys/package/metadata.desktop:19
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure Keyboard Shortcuts"
@@ -732,7 +732,7 @@ msgid "Global Keyboard Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/keys/kcm_keys.desktop:46
+#: kcms/keys/kcm_keys.desktop:48
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
