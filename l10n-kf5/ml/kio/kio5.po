@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmkio trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-30 14:59+0200\n"
+"POT-Creation-Date: 2020-11-16 08:55+0100\n"
 "PO-Revision-Date: 2020-08-28 18:16+0000\n"
 "Last-Translator: Subin Siby admin <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/kde/kiokio5/ml/>\n"
@@ -53,26 +53,26 @@ msgid "Unable to create io-slave: %1"
 msgstr "%1 ഐഒ സ്ലേവ് നിര്‍മ്മിക്കാന്‍ സാധ്യമല്ല"
 
 #. +> trunk5
-#: core/copyjob.cpp:1218 core/job_error.cpp:516
+#: core/copyjob.cpp:1226 core/job_error.cpp:516
 #, kde-format
 msgid "Folder Already Exists"
 msgstr "ഫോള്‍ഡര്‍ നിലവിലുണ്ടു്"
 
 #. +> trunk5
-#: core/copyjob.cpp:1496 core/copyjob.cpp:2041 core/filecopyjob.cpp:338
+#: core/copyjob.cpp:1504 core/copyjob.cpp:2048 core/filecopyjob.cpp:338
 #: core/job_error.cpp:506 widgets/paste.cpp:81
 #, kde-format
 msgid "File Already Exists"
 msgstr "ഫയല്‍ നിലവിലുണ്ടു്"
 
 #. +> trunk5
-#: core/copyjob.cpp:1496 core/copyjob.cpp:2041
+#: core/copyjob.cpp:1504 core/copyjob.cpp:2048
 #, kde-format
 msgid "Already Exists as Folder"
 msgstr "ഫോള്‍ഡറായി നിലവിലുണ്ടു്"
 
 #. +> trunk5
-#: core/copyjob.cpp:1625 ioslaves/trash/kio_trash.cpp:277
+#: core/copyjob.cpp:1632 ioslaves/trash/kio_trash.cpp:277
 #, fuzzy, kde-format
 msgid "Trash"
 msgstr "ചവറ്റുകുട്ട"
@@ -349,7 +349,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: core/job.cpp:300 ioslaves/file/file_unix.cpp:107
+#: core/job.cpp:300 ioslaves/file/file_unix.cpp:111
 #, fuzzy, kde-format
 msgid "Rename"
 msgstr "&പേരു് മാറ്റുക"
@@ -362,8 +362,8 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: core/job.cpp:305 filewidgets/knewfilemenu.cpp:518
-#: ioslaves/file/file_unix.cpp:111
+#: core/job.cpp:305 filewidgets/knewfilemenu.cpp:568
+#: ioslaves/file/file_unix.cpp:115
 #, kde-format
 msgid "Create Symlink"
 msgstr ""
@@ -2435,8 +2435,8 @@ msgid "Undocumented Error"
 msgstr ""
 
 #. +> trunk5
-#: core/kcoredirlister.cpp:384 gui/openurljob.cpp:154 widgets/krun.cpp:407
-#: widgets/paste.cpp:267 widgets/renamedialog.cpp:583
+#: core/kcoredirlister.cpp:374 gui/openurljob.cpp:155 widgets/krun.cpp:407
+#: widgets/paste.cpp:267 widgets/renamedialog.cpp:582
 #, kde-format
 msgid ""
 "Malformed URL\n"
@@ -2446,7 +2446,7 @@ msgstr ""
 "%1"
 
 #. +> trunk5
-#: core/kcoredirlister.cpp:389
+#: core/kcoredirlister.cpp:379
 #, kde-format
 msgid ""
 "URL cannot be listed\n"
@@ -2454,19 +2454,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: core/kfileitem.cpp:1296
+#: core/kfileitem.cpp:1295
 #, kde-format
 msgid "(Symbolic Link to %1)"
 msgstr ""
 
 #. +> trunk5
-#: core/kfileitem.cpp:1298
+#: core/kfileitem.cpp:1297
 #, kde-format
 msgid "(%1, Link to %2)"
 msgstr ""
 
 #. +> trunk5
-#: core/kfileitem.cpp:1301
+#: core/kfileitem.cpp:1300
 #, kde-format
 msgid " (Points to %1)"
 msgstr ""
@@ -2634,25 +2634,25 @@ msgid "&No"
 msgstr "&ഇല്ല"
 
 #. +> trunk5
-#: core/slaveinterface.cpp:414 core/tcpslavebase.cpp:739 widgets/sslui.cpp:66
+#: core/slaveinterface.cpp:413 core/tcpslavebase.cpp:739 widgets/sslui.cpp:66
 #, kde-format
 msgid "&Details"
 msgstr "&വിശദാംശങ്ങള്‍"
 
 #. +> trunk5
-#: core/slaveinterface.cpp:416 core/tcpslavebase.cpp:752 widgets/sslui.cpp:103
+#: core/slaveinterface.cpp:415 core/tcpslavebase.cpp:752 widgets/sslui.cpp:103
 #, kde-format
 msgid "&Forever"
 msgstr "&എന്നേക്കും"
 
 #. +> trunk5
-#: core/slaveinterface.cpp:420 core/tcpslavebase.cpp:739 widgets/sslui.cpp:67
+#: core/slaveinterface.cpp:419 core/tcpslavebase.cpp:739 widgets/sslui.cpp:67
 #, kde-format
 msgid "Co&ntinue"
 msgstr "തു&ടരുക"
 
 #. +> trunk5
-#: core/slaveinterface.cpp:422 core/tcpslavebase.cpp:753 widgets/sslui.cpp:104
+#: core/slaveinterface.cpp:421 core/tcpslavebase.cpp:753 widgets/sslui.cpp:104
 #, fuzzy, kde-format
 msgid "&Current Session only"
 msgstr "&നിലവിലുള്ള സെഷനുകള്‍ക്കു് മാത്രം"
@@ -2777,93 +2777,93 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:749
+#: filewidgets/kdiroperator.cpp:747
 #, kde-format
 msgid "A file or folder named %1 already exists."
 msgstr "%1 എന്ന പേരില്‍ ഒരു ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലുണ്ടു്."
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:752
+#: filewidgets/kdiroperator.cpp:750
 #, kde-format
 msgid "You do not have permission to create that folder."
 msgstr "നിങ്ങള്‍ക്കു് ആ ഫോള്‍ഡറുണ്ടാക്കുവാനുള്ള അനുമതിയില്ല."
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:767
+#: filewidgets/kdiroperator.cpp:765
 #, kde-format
 msgid "You did not select a file to delete."
 msgstr "വെട്ടിമാറ്റാനുള്ള ഫയല്‍ നിങ്ങള്‍ തിരഞ്ഞെടുത്തിട്ടില്ല."
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:768
+#: filewidgets/kdiroperator.cpp:766
 #, kde-format
 msgid "Nothing to Delete"
 msgstr "വെട്ടിമാറ്റാനൊന്നുമില്ല"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:810
+#: filewidgets/kdiroperator.cpp:808
 #, kde-format
 msgid "You did not select a file to trash."
 msgstr "ചവറ്റുകുട്ടയിലിടാനുള്ള ഫയല്‍ നിങ്ങള്‍ തിരഞ്ഞെടുത്തിട്ടില്ല."
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:811
+#: filewidgets/kdiroperator.cpp:809
 #, kde-format
 msgid "Nothing to Trash"
 msgstr "ചവറ്റുകുട്ടയിലിടാന്‍ ഒന്നുമില്ല"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1027 filewidgets/kdiroperator.cpp:1171
+#: filewidgets/kdiroperator.cpp:1044 filewidgets/kdiroperator.cpp:1188
 #, kde-format
 msgid "The specified folder does not exist or was not readable."
 msgstr "പറഞ്ഞിരിക്കുന്ന ഫോള്‍ഡര്‍ നിലവിലില്ല അല്ലെങ്കില്‍ ലഭ്യമല്ല."
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1964
+#: filewidgets/kdiroperator.cpp:1997
 #, kde-format
 msgid "Menu"
 msgstr "മെനു"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1968
+#: filewidgets/kdiroperator.cpp:2001
 #, kde-format
 msgid "Parent Folder"
 msgstr "പേരന്റ് ഫോള്‍ഡര്‍"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1972
+#: filewidgets/kdiroperator.cpp:2005
 #, kde-format
 msgctxt "@info"
 msgid "Go back"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1975
+#: filewidgets/kdiroperator.cpp:2008
 #, kde-format
 msgctxt "@info"
 msgid "Go forward"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1978
+#: filewidgets/kdiroperator.cpp:2011
 #, kde-format
 msgid "Home Folder"
 msgstr "ഹോം ഫോള്‍ഡര്‍"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1981
+#: filewidgets/kdiroperator.cpp:2014
 #, kde-format
 msgid "Reload"
 msgstr "വീണ്ടും ലഭ്യമാക്കുക"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1984
+#: filewidgets/kdiroperator.cpp:2017
 #, kde-format
 msgid "New Folder..."
 msgstr "പുതിയ ഫോള്‍ഡര്‍..."
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1992 widgets/jobuidelegate.cpp:278
+#: filewidgets/kdiroperator.cpp:2025 widgets/jobuidelegate.cpp:278
 #: widgets/jobuidelegate.cpp:279 widgets/jobuidelegate.cpp:287
 #: widgets/jobuidelegate.cpp:288
 #, kde-format
@@ -2871,198 +2871,198 @@ msgid "Move to Trash"
 msgstr "ചവറ്റുകുട്ടയിലേക്കു് നീക്കുക"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:1998
+#: filewidgets/kdiroperator.cpp:2031
 #, kde-format
 msgid "Delete"
 msgstr "വെട്ടിമാറ്റുക"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2005
+#: filewidgets/kdiroperator.cpp:2038
 #, kde-format
 msgid "Sorting"
 msgstr "ക്രമത്തിലാക്കുക"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2010
+#: filewidgets/kdiroperator.cpp:2043
 #, fuzzy, kde-format
 msgid "Sort by Name"
 msgstr "സൈറ്റിന്റെ പേരു്"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2014
+#: filewidgets/kdiroperator.cpp:2047
 #, fuzzy, kde-format
 msgid "Sort by Size"
 msgstr "ലഘുകാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2018
+#: filewidgets/kdiroperator.cpp:2051
 #, fuzzy, kde-format
 msgid "Sort by Date"
 msgstr "തീയതിയനുസരിച്ചു്"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2022
+#: filewidgets/kdiroperator.cpp:2055
 #, fuzzy, kde-format
 msgid "Sort by Type"
 msgstr "തരമനുസരിച്ചു്"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2029
+#: filewidgets/kdiroperator.cpp:2062
 #, kde-format
 msgid "Ascending"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2036
+#: filewidgets/kdiroperator.cpp:2069
 #, kde-format
 msgid "Descending"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2043
+#: filewidgets/kdiroperator.cpp:2076
 #, kde-format
 msgid "Folders First"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2048
+#: filewidgets/kdiroperator.cpp:2081
 #, fuzzy, kde-format
 msgid "Icons View"
 msgstr "ലഘുകാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2053
+#: filewidgets/kdiroperator.cpp:2086
 #, fuzzy, kde-format
 msgid "Compact View"
 msgstr "ലഘുകാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2058
+#: filewidgets/kdiroperator.cpp:2091
 #, fuzzy, kde-format
 msgid "Details View"
 msgstr "വിശദമായ കാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2075
+#: filewidgets/kdiroperator.cpp:2108
 #, kde-format
 msgid "Icon Position"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2078
+#: filewidgets/kdiroperator.cpp:2111
 #, kde-format
 msgid "Next to File Name"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2082
+#: filewidgets/kdiroperator.cpp:2115
 #, kde-format
 msgid "Above File Name"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2094
+#: filewidgets/kdiroperator.cpp:2127
 #, kde-format
 msgid "Short View"
 msgstr "ലഘുകാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2099
+#: filewidgets/kdiroperator.cpp:2132
 #, kde-format
 msgid "Detailed View"
 msgstr "വിശദമായ കാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2104
+#: filewidgets/kdiroperator.cpp:2137
 #, fuzzy, kde-format
 msgid "Tree View"
 msgstr "വിശദമായ കാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2109
+#: filewidgets/kdiroperator.cpp:2142
 #, fuzzy, kde-format
 msgid "Detailed Tree View"
 msgstr "വിശദമായ കാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2120
+#: filewidgets/kdiroperator.cpp:2153
 #, kde-format
 msgid "Allow Expansion in Details View"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2124
+#: filewidgets/kdiroperator.cpp:2157
 #, kde-format
 msgid "Show Hidden Files"
 msgstr "അദൃശ്യമായ ഫയലുകള്‍ കാണിക്കുക"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2129
+#: filewidgets/kdiroperator.cpp:2162
 #, fuzzy, kde-format
 msgid "Show Preview Panel"
 msgstr "അച്ചടിക്കുന്നതിനുമുമ്പ് കണ്ടുനോക്കുക"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2136
+#: filewidgets/kdiroperator.cpp:2169
 #, kde-format
 msgid "Show Preview"
 msgstr "അച്ചടിക്കുന്നതിനുമുമ്പ് കണ്ടുനോക്കുക"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2141
+#: filewidgets/kdiroperator.cpp:2174
 #, kde-format
 msgid "Open Containing Folder"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2146 filewidgets/kfileplacesview.cpp:828
+#: filewidgets/kdiroperator.cpp:2179 filewidgets/kfileplacesview.cpp:828
 #, kde-format
 msgid "Properties"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2153
+#: filewidgets/kdiroperator.cpp:2186
 #, kde-format
 msgid "&View"
 msgstr "കാഴ്ച (&V)"
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2248 filewidgets/kdiroperator.cpp:2260
+#: filewidgets/kdiroperator.cpp:2284 filewidgets/kdiroperator.cpp:2296
 #, kde-format
 msgctxt "Sort descending"
 msgid "Z-A"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2249 filewidgets/kdiroperator.cpp:2261
+#: filewidgets/kdiroperator.cpp:2285 filewidgets/kdiroperator.cpp:2297
 #, kde-format
 msgctxt "Sort ascending"
 msgid "A-Z"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2252
+#: filewidgets/kdiroperator.cpp:2288
 #, kde-format
 msgctxt "Sort descending"
 msgid "Newest First"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2253
+#: filewidgets/kdiroperator.cpp:2289
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Oldest First"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2256
+#: filewidgets/kdiroperator.cpp:2292
 #, kde-format
 msgctxt "Sort descending"
 msgid "Largest First"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kdiroperator.cpp:2257
+#: filewidgets/kdiroperator.cpp:2293
 #, kde-format
 msgctxt "Sort ascending"
 msgid "Smallest First"
@@ -3140,7 +3140,7 @@ msgid "Move Here"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilefiltercombo.cpp:25 filewidgets/kfilewidget.cpp:1855
+#: filewidgets/kfilefiltercombo.cpp:25 filewidgets/kfilewidget.cpp:1921
 #, kde-format
 msgid "*|All Files"
 msgstr ""
@@ -3165,19 +3165,19 @@ msgid "All Files"
 msgstr "ഫയലുകള്‍ ലഭ്യമല്ല"
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:68
+#: filewidgets/kfileplaceeditdialog.cpp:67
 #, fuzzy, kde-format
 msgid "Add Places Entry"
 msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക"
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:70
+#: filewidgets/kfileplaceeditdialog.cpp:69
 #, kde-format
 msgid "Edit Places Entry"
 msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക"
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:79
+#: filewidgets/kfileplaceeditdialog.cpp:78
 #, kde-format
 msgid ""
 "<qt>This is the text that will appear in the Places panel.<br /><br />The "
@@ -3187,19 +3187,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:85
+#: filewidgets/kfileplaceeditdialog.cpp:84
 #, kde-format
 msgid "L&abel:"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:87
+#: filewidgets/kfileplaceeditdialog.cpp:86
 #, kde-format
 msgid "Enter descriptive label here"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:91
+#: filewidgets/kfileplaceeditdialog.cpp:90
 #, kde-format
 msgid ""
 "<qt>This is the location associated with the entry. Any valid URL may be "
@@ -3209,13 +3209,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:97
+#: filewidgets/kfileplaceeditdialog.cpp:96
 #, kde-format
 msgid "&Location:"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:104
+#: filewidgets/kfileplaceeditdialog.cpp:103
 #, kde-format
 msgid ""
 "<qt>This is the icon that will appear in the Places panel.<br /><br />Click "
@@ -3223,19 +3223,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:107
+#: filewidgets/kfileplaceeditdialog.cpp:106
 #, kde-format
 msgid "Choose an &icon:"
 msgstr "ഒരു &ചിഹ്നം തിരഞ്ഞെടുക്കുക:"
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:126
+#: filewidgets/kfileplaceeditdialog.cpp:125
 #, kde-format
 msgid "&Only show when using this application (%1)"
 msgstr "ഈ പ്രയോഗം ഉപയോഗിക്കുമ്പോള്‍ &മാത്രം കാണിക്കുക (%1)"
 
 #. +> trunk5
-#: filewidgets/kfileplaceeditdialog.cpp:128
+#: filewidgets/kfileplaceeditdialog.cpp:127
 #, kde-format
 msgid ""
 "<qt>Select this setting if you want this entry to show only when using the "
@@ -3244,99 +3244,99 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesitem.cpp:122
+#: filewidgets/kfileplacesitem.cpp:134
 #, fuzzy, kde-format
 msgctxt "@item"
 msgid "Places"
 msgstr "മാറ്റുക"
 
 #. +> trunk5
-#: filewidgets/kfileplacesitem.cpp:125
+#: filewidgets/kfileplacesitem.cpp:137
 #, fuzzy, kde-format
 msgctxt "@item"
 msgid "Remote"
 msgstr "&എടുത്തുമാറ്റുക"
 
 #. +> trunk5
-#: filewidgets/kfileplacesitem.cpp:128
+#: filewidgets/kfileplacesitem.cpp:140
 #, kde-format
 msgctxt "@item The place group section name for recent dynamic lists"
 msgid "Recent"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesitem.cpp:131
+#: filewidgets/kfileplacesitem.cpp:143
 #, fuzzy, kde-format
 msgctxt "@item"
 msgid "Search For"
 msgstr "തിരയുക"
 
 #. +> trunk5
-#: filewidgets/kfileplacesitem.cpp:134
+#: filewidgets/kfileplacesitem.cpp:146
 #, fuzzy, kde-format
 msgctxt "@item"
 msgid "Devices"
 msgstr "ഡിവൈസ്"
 
 #. +> trunk5
-#: filewidgets/kfileplacesitem.cpp:137
+#: filewidgets/kfileplacesitem.cpp:149
 #, kde-format
 msgctxt "@item"
 msgid "Removable Devices"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesitem.cpp:140
+#: filewidgets/kfileplacesitem.cpp:152
 #, kde-format
 msgctxt "@item"
 msgid "Tags"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:173
+#: filewidgets/kfileplacesmodel.cpp:172
 #, kde-format
 msgid "All tags"
 msgstr ""
 
 #. i18nc call is made later, with this context, so the two must match.
-#. createSystemBookmark actually does nothing with its second argument, the context,
+#. createSystemBookmark actually does nothing with its second argument, the context.
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:290
+#: filewidgets/kfileplacesmodel.cpp:292
 #, fuzzy, kde-format
 msgctxt "KFile System Bookmarks"
 msgid "Home"
 msgstr "ഹോം"
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:297
+#: filewidgets/kfileplacesmodel.cpp:299
 #, kde-format
 msgctxt "KFile System Bookmarks"
 msgid "Desktop"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:302 filewidgets/kfileplacesmodel.cpp:410
+#: filewidgets/kfileplacesmodel.cpp:304 filewidgets/kfileplacesmodel.cpp:449
 #, kde-format
 msgctxt "KFile System Bookmarks"
 msgid "Documents"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:307
+#: filewidgets/kfileplacesmodel.cpp:309
 #, kde-format
 msgctxt "KFile System Bookmarks"
 msgid "Downloads"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:311
+#: filewidgets/kfileplacesmodel.cpp:312
 #, fuzzy, kde-format
 msgctxt "KFile System Bookmarks"
 msgid "Network"
 msgstr "നെറ്റ്‌വര്‍ക്ക്"
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:314
+#: filewidgets/kfileplacesmodel.cpp:315
 #, fuzzy, kde-format
 msgctxt "KFile System Bookmarks"
 msgid "Trash"
@@ -3344,91 +3344,105 @@ msgstr "ചവറ്റുകുട്ട"
 
 #. +> trunk5
 #: filewidgets/kfileplacesmodel.cpp:374
-#, fuzzy, kde-format
-msgctxt "KFile System Bookmarks"
-msgid "Recent Files"
-msgstr "ഫയലുകള്‍ വെട്ടിമാറ്റുക"
-
-#. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:378
-#, fuzzy, kde-format
-msgctxt "KFile System Bookmarks"
-msgid "Recent Locations"
-msgstr "ശരിയായ തിരിച്ചറിയല്‍:"
-
-#. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:402
 #, kde-format
 msgctxt "KFile System Bookmarks"
-msgid "Modified Today"
+msgid "Music"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:405
+#: filewidgets/kfileplacesmodel.cpp:379
 #, kde-format
 msgctxt "KFile System Bookmarks"
-msgid "Modified Yesterday"
+msgid "Pictures"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:413
-#, kde-format
-msgctxt "KFile System Bookmarks"
-msgid "Images"
-msgstr ""
-
-#. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:416
-#, fuzzy, kde-format
-msgctxt "KFile System Bookmarks"
-msgid "Audio"
-msgstr "ഫയലുകള്‍ ലഭ്യമല്ല"
-
-#. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:419
+#: filewidgets/kfileplacesmodel.cpp:386 filewidgets/kfileplacesmodel.cpp:458
 #, kde-format
 msgctxt "KFile System Bookmarks"
 msgid "Videos"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:1311
+#: filewidgets/kfileplacesmodel.cpp:413
+#, fuzzy, kde-format
+msgctxt "KFile System Bookmarks"
+msgid "Recent Files"
+msgstr "ഫയലുകള്‍ വെട്ടിമാറ്റുക"
+
+#. +> trunk5
+#: filewidgets/kfileplacesmodel.cpp:417
+#, fuzzy, kde-format
+msgctxt "KFile System Bookmarks"
+msgid "Recent Locations"
+msgstr "ശരിയായ തിരിച്ചറിയല്‍:"
+
+#. +> trunk5
+#: filewidgets/kfileplacesmodel.cpp:441
+#, kde-format
+msgctxt "KFile System Bookmarks"
+msgid "Modified Today"
+msgstr ""
+
+#. +> trunk5
+#: filewidgets/kfileplacesmodel.cpp:444
+#, kde-format
+msgctxt "KFile System Bookmarks"
+msgid "Modified Yesterday"
+msgstr ""
+
+#. +> trunk5
+#: filewidgets/kfileplacesmodel.cpp:452
+#, kde-format
+msgctxt "KFile System Bookmarks"
+msgid "Images"
+msgstr ""
+
+#. +> trunk5
+#: filewidgets/kfileplacesmodel.cpp:455
+#, fuzzy, kde-format
+msgctxt "KFile System Bookmarks"
+msgid "Audio"
+msgstr "ഫയലുകള്‍ ലഭ്യമല്ല"
+
+#. +> trunk5
+#: filewidgets/kfileplacesmodel.cpp:1355
 #, fuzzy, kde-format
 msgid "&Release '%1'"
 msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ്യുക"
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:1313
+#: filewidgets/kfileplacesmodel.cpp:1357
 #, kde-format
 msgid "&Safely Remove '%1'"
 msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ്യുക"
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:1316
+#: filewidgets/kfileplacesmodel.cpp:1360
 #, kde-format
 msgid "&Unmount '%1'"
 msgstr "'%1' &അണ്‍മൌണ്ടു് ചെയ്യുക"
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:1337
+#: filewidgets/kfileplacesmodel.cpp:1381
 #, kde-format
 msgid "&Eject '%1'"
 msgstr "'%1' &പുറത്തെടുക്കുക"
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:1371
+#: filewidgets/kfileplacesmodel.cpp:1415
 #, kde-format
 msgid "The device '%1' is not a disk and cannot be ejected."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:1407
+#: filewidgets/kfileplacesmodel.cpp:1451
 #, kde-format
 msgid "An error occurred while accessing '%1', the system responded: %2"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfileplacesmodel.cpp:1411
+#: filewidgets/kfileplacesmodel.cpp:1455
 #, kde-format
 msgid "An error occurred while accessing '%1'"
 msgstr "'%1' ലഭ്യമാക്കുമ്പോള്‍ ഒരു പിശകു് സംഭവിച്ചിരിക്കുന്നു"
@@ -3491,7 +3505,7 @@ msgid "&Remove Entry '%1'"
 msgstr "'%1' &സുരക്ഷിതമായി നീക്കം ചെയ്യുക"
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:292
+#: filewidgets/kfilewidget.cpp:304
 #, kde-format
 msgid ""
 "<qt>While typing in the text area, you may be presented with possible "
@@ -3501,7 +3515,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:414
+#: filewidgets/kfilewidget.cpp:427
 #, kde-format
 msgid ""
 "<qt>Click this button to enter the parent folder.<br /><br />For instance, "
@@ -3510,49 +3524,49 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:418
+#: filewidgets/kfilewidget.cpp:431
 #, kde-format
 msgid "Click this button to move backwards one step in the browsing history."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:419
+#: filewidgets/kfilewidget.cpp:432
 #, kde-format
 msgid "Click this button to move forward one step in the browsing history."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:421
+#: filewidgets/kfilewidget.cpp:434
 #, kde-format
 msgid "Click this button to reload the contents of the current location."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:423
+#: filewidgets/kfilewidget.cpp:436
 #, kde-format
 msgid "Click this button to create a new folder."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:429
+#: filewidgets/kfilewidget.cpp:442
 #, kde-format
 msgid "Show Places Panel"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:436
+#: filewidgets/kfilewidget.cpp:449
 #, kde-format
 msgid "Show Bookmarks Button"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:442
+#: filewidgets/kfilewidget.cpp:455
 #, kde-format
 msgid "Options"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:444
+#: filewidgets/kfilewidget.cpp:457
 #, kde-format
 msgid ""
 "<qt>This is the preferences menu for the file dialog. Various options can be "
@@ -3563,50 +3577,50 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:483
+#: filewidgets/kfilewidget.cpp:496
 #, kde-format
 msgid "Zoom out"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:485
+#: filewidgets/kfilewidget.cpp:498
 #, kde-format
 msgid "Zoom in"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, nameLabel)
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:524 widgets/kpropertiesdesktopbase.ui:17
+#: filewidgets/kfilewidget.cpp:537 widgets/kpropertiesdesktopbase.ui:17
 #, kde-format
 msgid "&Name:"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:806
+#: filewidgets/kfilewidget.cpp:828
 #, fuzzy, kde-format
 msgid "You can only select one file"
 msgstr "%1 ഫയല്‍ വെട്ടിമാറ്റുവാനായില്ല."
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:807
+#: filewidgets/kfilewidget.cpp:829
 #, kde-format
 msgid "More than one file provided"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:974
+#: filewidgets/kfilewidget.cpp:997
 #, fuzzy, kde-format
 msgid "You can only select local files"
 msgstr "ചവറ്റുകുട്ടയിലിടാനുള്ള ഫയല്‍ നിങ്ങള്‍ തിരഞ്ഞെടുത്തിട്ടില്ല."
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:975
+#: filewidgets/kfilewidget.cpp:998
 #, kde-format
 msgid "Remote files not accepted"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:982
+#: filewidgets/kfilewidget.cpp:1005
 #, kde-format
 msgid ""
 "The selected URL uses an unsupported scheme. Please use the following "
@@ -3618,13 +3632,13 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:988
+#: filewidgets/kfilewidget.cpp:1011
 #, kde-format
 msgid "Unsupported URL scheme"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1003
+#: filewidgets/kfilewidget.cpp:1026
 #, kde-format
 msgid ""
 "More than one folder has been selected and this dialog does not accept "
@@ -3633,13 +3647,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1003
+#: filewidgets/kfilewidget.cpp:1026
 #, kde-format
 msgid "More than one folder provided"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1011
+#: filewidgets/kfilewidget.cpp:1034
 #, kde-format
 msgid ""
 "At least one folder and one file has been selected. Selected files will be "
@@ -3647,31 +3661,31 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1011
+#: filewidgets/kfilewidget.cpp:1034
 #, fuzzy, kde-format
 msgid "Files and folders selected"
 msgstr "പ്രതീക്ഷിച്ചതു് ഒരു ഫോള്‍ഡറായിരുന്നു, എന്നാല്‍ %1 ഒരു ഫയലാണു്."
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1029
+#: filewidgets/kfilewidget.cpp:1052
 #, kde-format
 msgid "The file \"%1\" could not be found"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1029
+#: filewidgets/kfilewidget.cpp:1052
 #, kde-format
 msgid "Cannot open file"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1313
+#: filewidgets/kfilewidget.cpp:1350
 #, kde-format
 msgid "This is the name to save the file as."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1316
+#: filewidgets/kfilewidget.cpp:1353
 #, kde-format
 msgid ""
 "This is the list of files to open. More than one file can be specified by "
@@ -3679,93 +3693,93 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1321
+#: filewidgets/kfilewidget.cpp:1358
 #, kde-format
 msgid "This is the name of the file to open."
 msgstr "ഇതാണു് തുറക്കുവാനുള്ള ഫയല്‍."
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1335
+#: filewidgets/kfilewidget.cpp:1372
 #, kde-format
 msgctxt "@title:window"
 msgid "Places"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1547
+#: filewidgets/kfilewidget.cpp:1584
 #, kde-format
 msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1548
+#: filewidgets/kfilewidget.cpp:1585
 #, fuzzy, kde-format
 msgid "Overwrite File?"
 msgstr "എല്ലാം മാറ്റി&യെഴുതുക"
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1742
+#: filewidgets/kfilewidget.cpp:1808
 #, kde-format
 msgid "You can only select local files."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1743
+#: filewidgets/kfilewidget.cpp:1809
 #, kde-format
 msgid "Remote Files Not Accepted"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:1853
+#: filewidgets/kfilewidget.cpp:1919
 #, kde-format
 msgid "*|All Folders"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2017 widgets/executablefileopendialog.cpp:30
-#: widgets/kfileitemactions.cpp:628
+#: filewidgets/kfilewidget.cpp:2083 widgets/executablefileopendialog.cpp:30
+#: widgets/kfileitemactions.cpp:506
 #, kde-format
 msgid "&Open"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2112
+#: filewidgets/kfilewidget.cpp:2194
 #, kde-format
 msgid "Icon size: %1 pixels (standard size)"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2115
+#: filewidgets/kfilewidget.cpp:2197
 #, kde-format
 msgid "Icon size: %1 pixels"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2275
+#: filewidgets/kfilewidget.cpp:2357
 #, kde-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2276
+#: filewidgets/kfilewidget.cpp:2358
 #, kde-format
 msgid "the extension <b>%1</b>"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2282
+#: filewidgets/kfilewidget.cpp:2364
 #, kde-format
 msgid "Automatically select filename e&xtension"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2283
+#: filewidgets/kfilewidget.cpp:2365
 #, kde-format
 msgid "a suitable extension"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2292
+#: filewidgets/kfilewidget.cpp:2374
 #, kde-format
 msgid ""
 "This option enables some convenient features for saving files with "
@@ -3782,13 +3796,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2623
+#: filewidgets/kfilewidget.cpp:2705
 #, kde-format
 msgid "Bookmarks"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2627
+#: filewidgets/kfilewidget.cpp:2709
 #, kde-format
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this "
@@ -3798,13 +3812,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2770
+#: filewidgets/kfilewidget.cpp:2852
 #, fuzzy, kde-format
 msgid "&File type:"
 msgstr "സ്ഥലങ്ങള്‍ക്കുള്ള എന്‍ട്രിയില്‍ മാറ്റം വരുത്തുക"
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2771
+#: filewidgets/kfilewidget.cpp:2853
 #, kde-format
 msgid ""
 "<qt>This is the file type selector. It is used to select the format that the "
@@ -3812,13 +3826,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2773
+#: filewidgets/kfilewidget.cpp:2855
 #, kde-format
 msgid "&Filter:"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kfilewidget.cpp:2774
+#: filewidgets/kfilewidget.cpp:2856
 #, kde-format
 msgid ""
 "<qt>This is the filter to apply to the file list. File names that do not "
@@ -3828,51 +3842,51 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:379
+#: filewidgets/knewfilemenu.cpp:451
 #, kde-format
 msgid "Sorry"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:388
+#: filewidgets/knewfilemenu.cpp:460
 #, fuzzy, kde-format
 msgid "<qt>The template file <b>%1</b> does not exist.</qt>"
 msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:515 filewidgets/knewfilemenu.cpp:596
+#: filewidgets/knewfilemenu.cpp:565 filewidgets/knewfilemenu.cpp:646
 #, kde-format
 msgid "File name:"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:600
+#: filewidgets/knewfilemenu.cpp:650
 #, fuzzy, kde-format
 msgid "Create link to URL"
 msgstr "വിശദമായ കാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:646 filewidgets/knewfilemenu.cpp:703
+#: filewidgets/knewfilemenu.cpp:696 filewidgets/knewfilemenu.cpp:753
 #, kde-format
 msgctxt "@item:inmenu Create New"
 msgid "%1"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:842
+#: filewidgets/knewfilemenu.cpp:887
 #, kde-format
 msgctxt "@action:button"
 msgid "Enter a Different Name"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:846
+#: filewidgets/knewfilemenu.cpp:891
 #, fuzzy, kde-format
 msgid "Invalid Directory Name"
 msgstr "അസാധുവായ പ്രോക്സി സജ്ജീകരണം"
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:855
+#: filewidgets/knewfilemenu.cpp:900
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3881,7 +3895,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1060
+#: filewidgets/knewfilemenu.cpp:1111
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3890,7 +3904,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1068
+#: filewidgets/knewfilemenu.cpp:1119
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3899,7 +3913,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1075
+#: filewidgets/knewfilemenu.cpp:1126
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
@@ -3909,31 +3923,31 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1092
+#: filewidgets/knewfilemenu.cpp:1143
 #, kde-format
 msgid "Using slashes in folder names will create sub-folders, like so:"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1102
+#: filewidgets/knewfilemenu.cpp:1153
 #, kde-format
 msgid "Using slashes in folder names will create sub-folders."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1114
+#: filewidgets/knewfilemenu.cpp:1165
 #, kde-format
 msgid "Slashes cannot be used in file and folder names."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1120
+#: filewidgets/knewfilemenu.cpp:1171
 #, kde-format
 msgid "Backslashes cannot be used in file and folder names."
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1129
+#: filewidgets/knewfilemenu.cpp:1180
 #, kde-format
 msgid ""
 "Starting a file or folder name with a tilde is not recommended because it "
@@ -3941,33 +3955,47 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1202
+#: filewidgets/knewfilemenu.cpp:1228
+#, fuzzy, kde-kuit-format
+msgctxt "@info"
+msgid "A directory with name <filename>%1</filename> already exists."
+msgstr "'%1' എന്ന പേരില്‍ പഴയൊരു വസ്തു നിലവിലുണ്ടു്."
+
+#. +> trunk5
+#: filewidgets/knewfilemenu.cpp:1230
+#, fuzzy, kde-kuit-format
+msgctxt "@info"
+msgid "A file with name <filename>%1</filename> already exists."
+msgstr "%1 എന്ന പേരില്‍ ഫയല്‍ നിലവിലുണ്ടു്."
+
+#. +> trunk5
+#: filewidgets/knewfilemenu.cpp:1300
 #, fuzzy, kde-format
 msgid "Create New"
 msgstr "വിശദമായ കാഴ്ച"
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1216
+#: filewidgets/knewfilemenu.cpp:1314
 #, fuzzy, kde-format
 msgid "Link to Device"
 msgstr "ഡിവൈസ്"
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1268
+#: filewidgets/knewfilemenu.cpp:1359
 #, fuzzy, kde-format
 msgctxt "Default name for a new folder"
 msgid "New Folder"
 msgstr "പുതിയ ഫോള്‍ഡര്‍"
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1279
+#: filewidgets/knewfilemenu.cpp:1378
 #, kde-format
 msgctxt "@title:window"
 msgid "New Folder"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/knewfilemenu.cpp:1289
+#: filewidgets/knewfilemenu.cpp:1380
 #, fuzzy, kde-format
 msgid "Create new folder in %1:"
 msgstr ""
@@ -3985,7 +4013,7 @@ msgstr "ഡസ്ക്ടോപ്പ് ഓഫ് ലൈന്‍ ആകുന
 #. i18n: ectx: property (text), widget (QPushButton, sha256CopyButton)
 #. i18n: ectx: property (text), widget (QPushButton, sha512CopyButton)
 #. +> trunk5
-#: filewidgets/kurlnavigator.cpp:449 widgets/checksumswidget.ui:118
+#: filewidgets/kurlnavigator.cpp:458 widgets/checksumswidget.ui:118
 #: widgets/checksumswidget.ui:156 widgets/checksumswidget.ui:194
 #: widgets/checksumswidget.ui:232
 #, kde-format
@@ -3994,37 +4022,37 @@ msgstr "പകര്‍ത്തുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, pasteButton)
 #. +> trunk5
-#: filewidgets/kurlnavigator.cpp:453 widgets/checksumswidget.ui:39
+#: filewidgets/kurlnavigator.cpp:462 widgets/checksumswidget.ui:39
 #, kde-format
 msgid "Paste"
 msgstr "ഒട്ടിക്കുക"
 
 #. +> trunk5
-#: filewidgets/kurlnavigator.cpp:464
+#: filewidgets/kurlnavigator.cpp:473
 #, kde-format
 msgid "Open %1 in tab"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kurlnavigator.cpp:472
+#: filewidgets/kurlnavigator.cpp:481
 #, kde-format
 msgid "Edit"
 msgstr "മാറ്റം വരുത്തുക"
 
 #. +> trunk5
-#: filewidgets/kurlnavigator.cpp:475
+#: filewidgets/kurlnavigator.cpp:484
 #, kde-format
 msgid "Navigate"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kurlnavigator.cpp:490
+#: filewidgets/kurlnavigator.cpp:499
 #, kde-format
 msgid "Show Full Path"
 msgstr ""
 
 #. +> trunk5
-#: filewidgets/kurlnavigator.cpp:738
+#: filewidgets/kurlnavigator.cpp:747
 #, kde-format
 msgid "Custom Path"
 msgstr ""
@@ -4076,7 +4104,7 @@ msgid "Click to Edit Location"
 msgstr "സ്ഥാനത്തില്‍ മാറ്റം വരുത്തുന്നതിനായി ക്ലിക്കു് ചെയ്യുക"
 
 #. +> trunk5
-#: gui/applicationlauncherjob.cpp:107 gui/kprocessrunner.cpp:151
+#: gui/applicationlauncherjob.cpp:107 gui/kprocessrunner.cpp:159
 #, kde-format
 msgid "You are not authorized to execute this file."
 msgstr ""
@@ -4097,7 +4125,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: gui/applicationlauncherjob.cpp:250 gui/openurljob.cpp:730
+#: gui/applicationlauncherjob.cpp:250 gui/openurljob.cpp:744
 #: widgets/krun.cpp:198
 #, kde-format
 msgid "You are not authorized to select an application to open this file."
@@ -4129,7 +4157,7 @@ msgid "Icon file too big, download aborted"
 msgstr ""
 
 #. +> trunk5
-#: gui/kprocessrunner.cpp:61
+#: gui/kprocessrunner.cpp:66
 #, kde-format
 msgid ""
 "The desktop entry file\n"
@@ -4138,19 +4166,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: gui/kprocessrunner.cpp:175
+#: gui/kprocessrunner.cpp:183
 #, kde-format
 msgid "Launching %1"
 msgstr ""
 
 #. +> trunk5
-#: gui/openurljob.cpp:168
+#: gui/openurljob.cpp:169
 #, kde-format
 msgid "Failed to open %1"
 msgstr ""
 
 #. +> trunk5
-#: gui/openurljob.cpp:416 widgets/kdesktopfileactions.cpp:127
+#: gui/openurljob.cpp:417 widgets/kdesktopfileactions.cpp:127
 #, kde-format
 msgid ""
 "The desktop entry file\n"
@@ -4159,7 +4187,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: gui/openurljob.cpp:470
+#: gui/openurljob.cpp:486
 #, kde-format
 msgid ""
 "The executable file \"%1\" is located on a remote filesystem. For safety "
@@ -4167,14 +4195,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: gui/openurljob.cpp:514
+#: gui/openurljob.cpp:529
 #, kde-format
 msgid ""
 "For security reasons, launching executables is not allowed in this context."
 msgstr ""
 
 #. +> trunk5
-#: gui/openurljob.cpp:541
+#: gui/openurljob.cpp:556
 #, kde-format
 msgid ""
 "The program \"%1\" needs to have executable permission before it can be "
@@ -4182,7 +4210,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: gui/openurljob.cpp:552
+#: gui/openurljob.cpp:567
 #, fuzzy, kde-format
 msgid ""
 "Unable to make file \"%1\" executable.\n"
@@ -4190,31 +4218,31 @@ msgid ""
 msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
 #. +> trunk5
-#: gui/openurljob.cpp:640 widgets/kdesktopfileactions.cpp:60
+#: gui/openurljob.cpp:655 widgets/kdesktopfileactions.cpp:60
 #, kde-format
 msgid "The desktop entry file %1 has no Type=... entry."
 msgstr ""
 
 #. +> trunk5
-#: gui/openurljob.cpp:741
+#: gui/openurljob.cpp:755
 #, kde-format
 msgid "Failed to open the file."
 msgstr ""
 
 #. +> trunk5
-#: gui/openurljob.cpp:775
+#: gui/openurljob.cpp:789
 #, kde-format
 msgid "The program \"%1\" could not be launched."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file.cpp:174
+#: ioslaves/file/file.cpp:171
 #, kde-format
 msgid "Setting ACL for %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file.cpp:713
+#: ioslaves/file/file.cpp:711
 #, kde-format
 msgid ""
 "Could not change permissions for\n"
@@ -4222,127 +4250,127 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file.cpp:818
+#: ioslaves/file/file.cpp:816
 #, kde-format
 msgid "No Media inserted or Media not recognized."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file.cpp:827 ioslaves/file/file.cpp:1021
+#: ioslaves/file/file.cpp:825 ioslaves/file/file.cpp:1019
 #, kde-format
 msgid "\"vold\" is not running."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file.cpp:858
+#: ioslaves/file/file.cpp:856
 #, kde-format
 msgid "Could not find program \"mount\""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file.cpp:927
+#: ioslaves/file/file.cpp:925
 #, fuzzy, kde-format
 msgid "mounting is not supported by wince."
 msgstr "%1-ലേക്ക് എഴുതുന്നതിനെ പിന്താങ്ങുന്നില്ല."
 
 #. +> trunk5
-#: ioslaves/file/file.cpp:1032
+#: ioslaves/file/file.cpp:1030
 #, kde-format
 msgid "Could not find program \"umount\""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file.cpp:1047
+#: ioslaves/file/file.cpp:1045
 #, fuzzy, kde-format
 msgid "unmounting is not supported by wince."
 msgstr "%1-ലേക്ക് എഴുതുന്നതിനെ പിന്താങ്ങുന്നില്ല."
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:83
+#: ioslaves/file/file_unix.cpp:87
 #, kde-format
 msgid "Change File Permissions"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:84
+#: ioslaves/file/file_unix.cpp:88
 #, kde-format
 msgid "New Permissions: %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:87
+#: ioslaves/file/file_unix.cpp:91
 #, kde-format
 msgid "Change File Owner"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:88
+#: ioslaves/file/file_unix.cpp:92
 #, kde-format
 msgid "New Owner: UID=%1, GID=%2"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:91
+#: ioslaves/file/file_unix.cpp:95
 #, fuzzy, kde-format
 msgid "Remove File"
 msgstr "ഫയലുകള്‍ വെട്ടിമാറ്റുക"
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:94
+#: ioslaves/file/file_unix.cpp:98
 #, fuzzy, kde-format
 msgid "Remove Directory"
 msgstr "ഡയറക്ടറി"
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:97
+#: ioslaves/file/file_unix.cpp:101
 #, fuzzy, kde-format
 msgid "Create Directory"
 msgstr "ഡയറക്ടി ഉണ്ടാക്കുന്നു"
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:98
+#: ioslaves/file/file_unix.cpp:102
 #, kde-format
 msgid "Directory Permissions: %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:101
+#: ioslaves/file/file_unix.cpp:105
 #, fuzzy, kde-format
 msgid "Open File"
 msgstr "1 ഫയല്‍"
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:104
+#: ioslaves/file/file_unix.cpp:108
 #, fuzzy, kde-format
 msgid "Open Directory"
 msgstr "ഡയറക്ടറി"
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:108
+#: ioslaves/file/file_unix.cpp:112
 #, kde-format
 msgid "New Filename: %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:112
+#: ioslaves/file/file_unix.cpp:116
 #, kde-format
 msgid "Target: %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:115
+#: ioslaves/file/file_unix.cpp:119
 #, kde-format
 msgid "Change Timestamp"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:118
+#: ioslaves/file/file_unix.cpp:122
 #, fuzzy, kde-format
 msgid "Unknown Action"
 msgstr "അപരിചിതമായ ഹോസ്റ്റ്"
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:122
+#: ioslaves/file/file_unix.cpp:126
 #, kde-format
 msgid ""
 "Action: %1\n"
@@ -4351,25 +4379,25 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:705
+#: ioslaves/file/file_unix.cpp:821
 #, kde-format
 msgid "Cannot copy file from %1 to %2. (Errno: %3)"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:939
+#: ioslaves/file/file_unix.cpp:1062
 #, kde-format
 msgid "No media in device for %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:1222
+#: ioslaves/file/file_unix.cpp:1345
 #, kde-format
 msgid "Could not get user id for given user name %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/file/file_unix.cpp:1235
+#: ioslaves/file/file_unix.cpp:1358
 #, kde-format
 msgid "Could not get group id for given group name %1"
 msgstr ""
@@ -4411,13 +4439,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/ftp/ftp.cpp:562 ioslaves/http/http.cpp:5380
+#: ioslaves/ftp/ftp.cpp:562 ioslaves/http/http.cpp:5379
 #, kde-format
 msgid "You need to supply a username and a password to access this site."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/ftp/ftp.cpp:564 ioslaves/http/http.cpp:5382
+#: ioslaves/ftp/ftp.cpp:564 ioslaves/http/http.cpp:5381
 #, kde-format
 msgid "Site:"
 msgstr ""
@@ -4449,8 +4477,8 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/ftp/ftp.cpp:2606 ioslaves/http/http.cpp:5261
-#: ioslaves/http/http.cpp:5394
+#: ioslaves/ftp/ftp.cpp:2606 ioslaves/http/http.cpp:5260
+#: ioslaves/http/http.cpp:5393
 #, kde-format
 msgid ""
 "You need to supply a username and a password for the proxy server listed "
@@ -4458,15 +4486,15 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/ftp/ftp.cpp:2610 ioslaves/http/http.cpp:5265
-#: ioslaves/http/http.cpp:5397
+#: ioslaves/ftp/ftp.cpp:2610 ioslaves/http/http.cpp:5264
+#: ioslaves/http/http.cpp:5396
 #, kde-format
 msgid "Proxy:"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/ftp/ftp.cpp:2613 ioslaves/http/http.cpp:5268
-#: ioslaves/http/http.cpp:5414
+#: ioslaves/ftp/ftp.cpp:2613 ioslaves/http/http.cpp:5267
+#: ioslaves/http/http.cpp:5413
 #, kde-format
 msgid "Proxy Authentication Failed."
 msgstr ""
@@ -4520,116 +4548,116 @@ msgid "Could not find filename %1 in %2."
 msgstr "%1 ഫയല്‍ ലഭ്യമാക്കുവാന്‍ സാധ്യമായില്ല."
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:592
+#: ioslaves/http/http.cpp:591
 #, kde-format
 msgid "No host specified."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1567
+#: ioslaves/http/http.cpp:1566
 #, kde-format
 msgid "Otherwise, the request would have succeeded."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1571
+#: ioslaves/http/http.cpp:1570
 #, kde-format
 msgctxt "request type"
 msgid "retrieve property values"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1574
+#: ioslaves/http/http.cpp:1573
 #, kde-format
 msgctxt "request type"
 msgid "set property values"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1577
+#: ioslaves/http/http.cpp:1576
 #, kde-format
 msgctxt "request type"
 msgid "create the requested folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1580
+#: ioslaves/http/http.cpp:1579
 #, kde-format
 msgctxt "request type"
 msgid "copy the specified file or folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1583
+#: ioslaves/http/http.cpp:1582
 #, kde-format
 msgctxt "request type"
 msgid "move the specified file or folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1586
+#: ioslaves/http/http.cpp:1585
 #, kde-format
 msgctxt "request type"
 msgid "search in the specified folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1589
+#: ioslaves/http/http.cpp:1588
 #, kde-format
 msgctxt "request type"
 msgid "lock the specified file or folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1592
+#: ioslaves/http/http.cpp:1591
 #, kde-format
 msgctxt "request type"
 msgid "unlock the specified file or folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1595
+#: ioslaves/http/http.cpp:1594
 #, kde-format
 msgctxt "request type"
 msgid "delete the specified file or folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1598
+#: ioslaves/http/http.cpp:1597
 #, kde-format
 msgctxt "request type"
 msgid "query the server's capabilities"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1601
+#: ioslaves/http/http.cpp:1600
 #, kde-format
 msgctxt "request type"
 msgid "retrieve the contents of the specified file or folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1604
+#: ioslaves/http/http.cpp:1603
 #, kde-format
 msgctxt "request type"
 msgid "run a report in the specified folder"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1615
+#: ioslaves/http/http.cpp:1614
 #, fuzzy, kde-format
 msgctxt "%1: code, %2: request type"
 msgid "An unexpected error (%1) occurred while attempting to %2."
 msgstr "'%1' ലഭ്യമാക്കുമ്പോള്‍ ഒരു പിശകു് സംഭവിച്ചിരിക്കുന്നു"
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1622
+#: ioslaves/http/http.cpp:1621
 #, kde-format
 msgid "The server does not support the WebDAV protocol."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1663
+#: ioslaves/http/http.cpp:1662
 #, kde-format
 msgctxt "%1: request type, %2: url"
 msgid ""
@@ -4638,14 +4666,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1679 ioslaves/http/http.cpp:1812
+#: ioslaves/http/http.cpp:1678 ioslaves/http/http.cpp:1811
 #, kde-format
 msgctxt "%1: request type"
 msgid "Access was denied while attempting to %1."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1692 ioslaves/http/http.cpp:1818
+#: ioslaves/http/http.cpp:1691 ioslaves/http/http.cpp:1817
 #, kde-format
 msgid ""
 "A resource cannot be created at the destination until one or more "
@@ -4653,7 +4681,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1700
+#: ioslaves/http/http.cpp:1699
 #, kde-format
 msgid ""
 "The server was unable to maintain the liveness of the properties listed in "
@@ -4664,32 +4692,32 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1708
+#: ioslaves/http/http.cpp:1707
 #, kde-format
 msgid "The requested lock could not be granted. %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1714
+#: ioslaves/http/http.cpp:1713
 #, kde-format
 msgid "The server does not support the request type of the body."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1719 ioslaves/http/http.cpp:1826
+#: ioslaves/http/http.cpp:1718 ioslaves/http/http.cpp:1825
 #, kde-format
 msgctxt "%1: request type"
 msgid "Unable to %1 because the resource is locked."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1723
+#: ioslaves/http/http.cpp:1722
 #, kde-format
 msgid "This action was prevented by another error."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1729 ioslaves/http/http.cpp:1832
+#: ioslaves/http/http.cpp:1728 ioslaves/http/http.cpp:1831
 #, kde-format
 msgctxt "%1: request type"
 msgid ""
@@ -4698,7 +4726,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1736 ioslaves/http/http.cpp:1839
+#: ioslaves/http/http.cpp:1735 ioslaves/http/http.cpp:1838
 #, kde-format
 msgid ""
 "The destination resource does not have sufficient space to record the state "
@@ -4706,33 +4734,33 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1790
+#: ioslaves/http/http.cpp:1789
 #, kde-format
 msgid "The resource cannot be deleted."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1803
+#: ioslaves/http/http.cpp:1802
 #, kde-format
 msgctxt "request type"
 msgid "upload %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:1853
+#: ioslaves/http/http.cpp:1852
 #, kde-format
 msgctxt "%1: response code, %2: request type"
 msgid "An unexpected error (%1) occurred while attempting to %2."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:2679
+#: ioslaves/http/http.cpp:2678
 #, kde-format
 msgid "%1 contacted. Waiting for reply..."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:3023
+#: ioslaves/http/http.cpp:3022
 #, kde-format
 msgctxt "@info Security check on url being accessed"
 msgid ""
@@ -4742,50 +4770,50 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:3029
+#: ioslaves/http/http.cpp:3028
 #, kde-format
 msgctxt "@title:window"
 msgid "Confirm Website Access"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:3118
+#: ioslaves/http/http.cpp:3117
 #, kde-format
 msgid "Server processing request, please wait..."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:3844 ioslaves/http/http.cpp:3902
+#: ioslaves/http/http.cpp:3843 ioslaves/http/http.cpp:3901
 #, kde-format
 msgid "Sending data to %1"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:4357
+#: ioslaves/http/http.cpp:4356
 #, kde-format
 msgid "Retrieving %1 from %2..."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:5266 ioslaves/http/http.cpp:5503
+#: ioslaves/http/http.cpp:5265 ioslaves/http/http.cpp:5502
 #, kde-format
 msgid "<b>%1</b> at <b>%2</b>"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:5413
+#: ioslaves/http/http.cpp:5412
 #, kde-format
 msgid "Authentication Failed."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:5544
+#: ioslaves/http/http.cpp:5543
 #, kde-format
 msgid "Authorization failed."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/http.cpp:5561
+#: ioslaves/http/http.cpp:5560
 #, kde-format
 msgid "Unknown Authorization method."
 msgstr ""
@@ -4797,14 +4825,14 @@ msgid "Receiving corrupt data."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookieserver.cpp:49
-#: ioslaves/http/kcookiejar/kcookieserver.cpp:58
+#: ioslaves/http/kcookiejar/kcookieserver.cpp:47
+#: ioslaves/http/kcookiejar/kcookieserver.cpp:56
 #, kde-format
 msgid "Cannot Save Cookies"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookieserver.cpp:49
+#: ioslaves/http/kcookiejar/kcookieserver.cpp:47
 #, fuzzy, kde-format
 msgid "Could not remove %1, check permissions"
 msgstr ""
@@ -4812,19 +4840,19 @@ msgstr ""
 "ദയവായി അനുമതികള്‍ പരിശോധിക്കുക."
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookieserver.cpp:58
+#: ioslaves/http/kcookiejar/kcookieserver.cpp:56
 #, fuzzy, kde-format
 msgid "Could not create directory %1"
 msgstr "%1 തുറക്കുവാന്‍ സാധ്യമായില്ല."
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:49
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:46
 #, kde-format
 msgid "Cookie Alert"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:74
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:71
 #, kde-format
 msgctxt "%2 hostname, %3 optional cross domain suffix (translated below)"
 msgid ""
@@ -4837,7 +4865,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:82
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:79
 #, kde-format
 msgctxt "@item:intext cross domain cookie"
 msgid " [Cross Domain]"
@@ -4845,63 +4873,63 @@ msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, detailsGroupBox)
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:95
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:361
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:92
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:358
 #: kcms/kio/kcookiesmanagement.ui:97
 #, kde-format
 msgid "Details"
 msgstr "വിശദാംശങ്ങള്‍"
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:98
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:95
 #, kde-format
 msgid "See or modify the cookie information"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:103
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:100
 #, kde-format
 msgid "Accept for this &session"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:106
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:103
 #, kde-format
 msgid "Accept cookie(s) until the end of the current session"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:116
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:113
 #, kde-format
 msgid "&Accept"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:119
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:116
 #, kde-format
 msgid "&Reject"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:155
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:152
 #, kde-format
 msgid "Apply Choice To"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:158
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:155
 #, kde-format
 msgid "&Only this cookie"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:158
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:155
 #, kde-format
 msgid "&Only these cookies"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:162
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:159
 #, kde-format
 msgid ""
 "Select this option to only accept or reject this cookie. You will be "
@@ -4909,13 +4937,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:165
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:162
 #, kde-format
 msgid "All cookies from this do&main"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:168
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:165
 #, kde-format
 msgid ""
 "Select this option to accept or reject all cookies from this site. Choosing "
@@ -4925,13 +4953,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:173
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:170
 #, kde-format
 msgid "All &cookies"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:176
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:173
 #, kde-format
 msgid ""
 "Select this option to accept/reject all cookies from anywhere. Choosing this "
@@ -4940,14 +4968,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:244
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:241
 #, kde-format
 msgid "Cookie Details"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, nameLabel)
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:249
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:246
 #: kcms/kio/kcookiesmanagement.ui:106
 #, kde-format
 msgid "Name:"
@@ -4955,7 +4983,7 @@ msgstr "പേരു്:"
 
 #. i18n: ectx: property (text), widget (QLabel, valueLabel)
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:257
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:254
 #: kcms/kio/kcookiesmanagement.ui:129
 #, kde-format
 msgid "Value:"
@@ -4963,7 +4991,7 @@ msgstr "മൂല്യം:"
 
 #. i18n: ectx: property (text), widget (QLabel, expiresLabel)
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:264
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:261
 #: kcms/kio/kcookiesmanagement.ui:198
 #, kde-format
 msgid "Expires:"
@@ -4971,7 +4999,7 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, patchLabel)
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:271
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:268
 #: kcms/kio/kcookiesmanagement.ui:175
 #, kde-format
 msgid "Path:"
@@ -4979,63 +5007,63 @@ msgstr "വഴി:"
 
 #. i18n: ectx: property (text), widget (QLabel, domainLabel)
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:278
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:275
 #: kcms/kio/kcookiesmanagement.ui:152
 #, kde-format
 msgid "Domain:"
 msgstr "ഡൊമെയ്നു്:"
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:285
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:282
 #, kde-format
 msgid "Exposure:"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:293
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:290
 #, kde-format
 msgctxt "Next cookie"
 msgid "&Next >>"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:298
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:295
 #, kde-format
 msgid "Show details of the next cookie"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:326
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:323
 #, kde-format
 msgid "Not specified"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:335
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:332
 #, kde-format
 msgid "End of Session"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:340
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:337
 #, kde-format
 msgid "Secure servers only"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:342
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:339
 #, kde-format
 msgid "Secure servers, page scripts"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:346
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:343
 #, kde-format
 msgid "Servers"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/http/kcookiejar/kcookiewin.cpp:348
+#: ioslaves/http/kcookiejar/kcookiewin.cpp:345
 #, kde-format
 msgid "Servers, page scripts"
 msgstr ""
@@ -5065,13 +5093,13 @@ msgid "You do not have permission to access the %1 protocol."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:143
+#: ioslaves/trash/kcmtrash.cpp:142
 #, fuzzy, kde-format
 msgid " days"
 msgstr "1 ദിവസം %2"
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:207
+#: ioslaves/trash/kcmtrash.cpp:206
 #, kde-format
 msgid ""
 "<para>KDE's wastebin is configured to use the <b>Finder</b>'s Trash.<br></"
@@ -5079,7 +5107,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:209
+#: ioslaves/trash/kcmtrash.cpp:208
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -5090,13 +5118,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:246
+#: ioslaves/trash/kcmtrash.cpp:245
 #, fuzzy, kde-format
 msgid "Delete files older than"
 msgstr "ഫയലുകള്‍ വെട്ടിമാറ്റുക"
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:248
+#: ioslaves/trash/kcmtrash.cpp:247
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -5107,7 +5135,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:255
+#: ioslaves/trash/kcmtrash.cpp:254
 #, fuzzy, kde-format
 msgid " day"
 msgid_plural " days"
@@ -5115,7 +5143,7 @@ msgstr[0] "1 ദിവസം %2"
 msgstr[1] "%1 ദിവസങ്ങള്‍ %2"
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:257
+#: ioslaves/trash/kcmtrash.cpp:256
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -5124,19 +5152,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:261
+#: ioslaves/trash/kcmtrash.cpp:260
 #, kde-format
 msgid "Cleanup:"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:265
+#: ioslaves/trash/kcmtrash.cpp:264
 #, kde-format
 msgid "Limit to"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:267
+#: ioslaves/trash/kcmtrash.cpp:266
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -5145,13 +5173,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:270 widgets/kpropertiesdialog.cpp:1069
+#: ioslaves/trash/kcmtrash.cpp:269 widgets/kpropertiesdialog.cpp:1089
 #, kde-format
 msgid "Size:"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:279
+#: ioslaves/trash/kcmtrash.cpp:278
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -5160,7 +5188,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:284
+#: ioslaves/trash/kcmtrash.cpp:283
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -5169,25 +5197,25 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:289
+#: ioslaves/trash/kcmtrash.cpp:288
 #, kde-format
 msgid "Show a Warning"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:290
+#: ioslaves/trash/kcmtrash.cpp:289
 #, kde-format
 msgid "Delete Oldest Files From Trash"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:291
+#: ioslaves/trash/kcmtrash.cpp:290
 #, kde-format
 msgid "Delete Biggest Files From Trash"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:293
+#: ioslaves/trash/kcmtrash.cpp:292
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -5197,7 +5225,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/kcmtrash.cpp:295
+#: ioslaves/trash/kcmtrash.cpp:294
 #, fuzzy, kde-format
 msgid "Full Trash:"
 msgstr "ചവറ്റുകുട്ട"
@@ -5257,25 +5285,25 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/ktrash.cpp:30
+#: ioslaves/trash/ktrash.cpp:31
 #, kde-format
 msgid "Empty the contents of the trash"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/ktrash.cpp:31
+#: ioslaves/trash/ktrash.cpp:33
 #, kde-format
 msgid "Restore a trashed file to its original location"
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/trashimpl.cpp:1405
+#: ioslaves/trash/trashimpl.cpp:1390
 #, kde-format
 msgid "The file is too large to be trashed."
 msgstr ""
 
 #. +> trunk5
-#: ioslaves/trash/trashimpl.cpp:1411
+#: ioslaves/trash/trashimpl.cpp:1396
 #, kde-format
 msgid ""
 "The trash has reached its maximum size!\n"
@@ -5283,7 +5311,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: kcms/kio/cache.cpp:98
+#: kcms/kio/cache.cpp:100
 #, fuzzy, kde-format
 msgid ""
 "<h1>Cache</h1><p>This module lets you configure your cache settings.</"
@@ -5427,37 +5455,37 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: kcms/kio/kcookiesmanagement.cpp:123 kcms/kio/kcookiesmanagement.cpp:139
+#: kcms/kio/kcookiesmanagement.cpp:129 kcms/kio/kcookiesmanagement.cpp:145
 #, kde-format
 msgid "D-Bus Communication Error"
 msgstr "D-Bus ആശയവിനിമയ തെറ്റ്"
 
 #. +> trunk5
-#: kcms/kio/kcookiesmanagement.cpp:124
+#: kcms/kio/kcookiesmanagement.cpp:130
 #, kde-format
 msgid "Unable to delete all the cookies as requested."
 msgstr "ആവശ്യപ്പെട്ടതുപോലെ എല്ലാ കുക്കികളും നീക്കം ചെയ്യാന്‍ കഴിഞ്ഞില്ല."
 
 #. +> trunk5
-#: kcms/kio/kcookiesmanagement.cpp:140
+#: kcms/kio/kcookiesmanagement.cpp:146
 #, kde-format
 msgid "Unable to delete cookies as requested."
 msgstr "ആവശ്യപ്പെട്ടതുപോലെ കുക്കികള്‍ നീക്കം ചെയ്യാന്‍ കഴിഞ്ഞില്ല."
 
 #. +> trunk5
-#: kcms/kio/kcookiesmanagement.cpp:212
+#: kcms/kio/kcookiesmanagement.cpp:218
 #, fuzzy, kde-format
 msgid "<h1>Cookie Management Quick Help</h1>"
 msgstr "<h1>കുക്കികളുടെ പാലനത്തിനായുള്ള ദ്രുതസഹായം</h1>"
 
 #. +> trunk5
-#: kcms/kio/kcookiesmanagement.cpp:222
+#: kcms/kio/kcookiesmanagement.cpp:228
 #, kde-format
 msgid "Information Lookup Failure"
 msgstr "വിവരം വായിക്കുന്നതില്‍ പരാജയം"
 
 #. +> trunk5
-#: kcms/kio/kcookiesmanagement.cpp:223
+#: kcms/kio/kcookiesmanagement.cpp:229
 #, kde-format
 msgid ""
 "Unable to retrieve information about the cookies stored on your computer."
@@ -5465,13 +5493,13 @@ msgstr ""
 "നിങ്ങളുടെ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിട്ടുള്ള കുക്കികളെക്കുറിച്ചുള്ള വിവരങ്ങള്‍ കണ്ടെത്താന്‍ സാധിച്ചില്ല."
 
 #. +> trunk5
-#: kcms/kio/kcookiesmanagement.cpp:311
+#: kcms/kio/kcookiesmanagement.cpp:317
 #, kde-format
 msgid "End of session"
 msgstr "സെഷനിന്റെ അന്ത്യം"
 
 #. +> trunk5
-#: kcms/kio/kcookiesmanagement.cpp:319
+#: kcms/kio/kcookiesmanagement.cpp:325
 #, kde-format
 msgid "Yes"
 msgstr "അതെ"
@@ -5575,7 +5603,7 @@ msgid "Duplicate Policy"
 msgstr "ഡ്യൂപ്ളിക്കേറ്റ് നയം"
 
 #. +> trunk5
-#: kcms/kio/kcookiespolicies.cpp:219 kcms/kio/useragentdlg.cpp:189
+#: kcms/kio/kcookiespolicies.cpp:219 kcms/kio/useragentdlg.cpp:174
 #, kde-format
 msgid "Replace"
 msgstr "മാറ്റുക"
@@ -5937,7 +5965,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: kcms/kio/kproxydlg.cpp:519
+#: kcms/kio/kproxydlg.cpp:521
 #, kde-format
 msgid ""
 "<h1>Proxy</h1><p>A proxy server is an intermediate program that sits between "
@@ -6416,7 +6444,7 @@ msgid "Global Options"
 msgstr "എഫ്‌ടിപി ഐച്ഛികങ്ങള്‍"
 
 #. +> trunk5
-#: kcms/kio/netpref.cpp:73 kcms/kio/netpref.cpp:97
+#: kcms/kio/netpref.cpp:73 kcms/kio/netpref.cpp:110
 #, kde-format
 msgid "Mark &partially uploaded files"
 msgstr "&ഭാഗികമായി അപ്ലോഡ് ചെയ്ത ഫയലുകള്‍ അടയാളപ്പെടുത്തുക"
@@ -6435,19 +6463,35 @@ msgstr ""
 "ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
 
 #. +> trunk5
-#: kcms/kio/netpref.cpp:85
+#: kcms/kio/netpref.cpp:92
+#, kde-format
+msgid " byte"
+msgid_plural " bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk5
+#: kcms/kio/netpref.cpp:95
+#, kde-format
+msgctxt "@label:spinbox"
+msgid ""
+"If cancelled, automatically delete partially uploaded files smaller than:"
+msgstr ""
+
+#. +> trunk5
+#: kcms/kio/netpref.cpp:98
 #, kde-format
 msgid "FTP Options"
 msgstr "എഫ്‌ടിപി ഐച്ഛികങ്ങള്‍"
 
 #. +> trunk5
-#: kcms/kio/netpref.cpp:89
+#: kcms/kio/netpref.cpp:102
 #, kde-format
 msgid "Enable passive &mode (PASV)"
 msgstr "&നിര്‍ജ്ജീവാവസ്ഥ (PASV) പ്രാവര്‍ത്തികമാക്കുക"
 
 #. +> trunk5
-#: kcms/kio/netpref.cpp:90
+#: kcms/kio/netpref.cpp:103
 #, kde-format
 msgid ""
 "Enables FTP's \"passive\" mode. This is required to allow FTP to work from "
@@ -6457,7 +6501,7 @@ msgstr ""
 "വാളുകളുടെ പിറകില്‍നിന്നു പ്രവര്‍ത്തിക്കാന്‍ ഇതാവശ്യമാണ്."
 
 #. +> trunk5
-#: kcms/kio/netpref.cpp:98
+#: kcms/kio/netpref.cpp:111
 #, kde-format
 msgid ""
 "<p>Marks partially uploaded FTP files.</p><p>When this option is enabled, "
@@ -6469,7 +6513,7 @@ msgstr ""
 "ത്തിയാകുന്നതോടെ നീക്കം ചെയ്യപ്പെടും."
 
 #. +> trunk5
-#: kcms/kio/netpref.cpp:173
+#: kcms/kio/netpref.cpp:189
 #, kde-format
 msgid ""
 "<h1>Network Preferences</h1>Here you can define the behavior of KDE programs "
@@ -6510,21 +6554,21 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: kcms/kio/useragentdlg.cpp:69
+#: kcms/kio/useragentdlg.cpp:79
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Add Identification"
 msgstr "തിരിച്ചറിയല്‍ കൂട്ടിച്ചേര്‍ക്കുക"
 
 #. +> trunk5
-#: kcms/kio/useragentdlg.cpp:135
+#: kcms/kio/useragentdlg.cpp:120
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Modify Identification"
 msgstr "തിരിച്ചറിയല്‍ മാറ്റം വരുത്തുക"
 
 #. +> trunk5
-#: kcms/kio/useragentdlg.cpp:183
+#: kcms/kio/useragentdlg.cpp:168
 #, kde-format
 msgid ""
 "<qt><center>Found an existing identification for<br/><b>%1</b><br/>Do you "
@@ -6534,14 +6578,14 @@ msgstr ""
 "നിങ്ങള്‍ക്കിത് മാറ്റണമെന്നുണ്ടോ?</center></qt>"
 
 #. +> trunk5
-#: kcms/kio/useragentdlg.cpp:188
+#: kcms/kio/useragentdlg.cpp:173
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Duplicate Identification"
 msgstr "ഡ്യൂപ്ളിക്കേറ്റ് തിരിച്ചറിയല്‍"
 
 #. +> trunk5
-#: kcms/kio/useragentdlg.cpp:360
+#: kcms/kio/useragentdlg.cpp:340
 #, kde-format
 msgid ""
 "<h1>Browser Identification</h1><p>The browser-identification module allows "
@@ -6836,7 +6880,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: kioexec/kioexecd.cpp:86
+#: kioexec/kioexecd.cpp:85
 #, kde-format
 msgid ""
 "The file %1\n"
@@ -6844,19 +6888,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: kioexec/kioexecd.cpp:87 kioexec/main.cpp:233 kioexec/main.cpp:238
+#: kioexec/kioexecd.cpp:86 kioexec/main.cpp:233 kioexec/main.cpp:238
 #, kde-format
 msgid "File Changed"
 msgstr ""
 
 #. +> trunk5
-#: kioexec/kioexecd.cpp:87 kioexec/main.cpp:238
+#: kioexec/kioexecd.cpp:86 kioexec/main.cpp:238
 #, fuzzy, kde-format
 msgid "Upload"
 msgstr "വീണ്ടും ലഭ്യമാക്കുക"
 
 #. +> trunk5
-#: kioexec/kioexecd.cpp:87 kioexec/main.cpp:238
+#: kioexec/kioexecd.cpp:86 kioexec/main.cpp:238
 #, kde-format
 msgid "Do Not Upload"
 msgstr ""
@@ -6964,25 +7008,25 @@ msgid "Oswald Buddenhagen"
 msgstr ""
 
 #. +> trunk5
-#: kioexec/main.cpp:285
+#: kioexec/main.cpp:286
 #, kde-format
 msgid "Treat URLs as local files and delete them afterwards"
 msgstr ""
 
 #. +> trunk5
-#: kioexec/main.cpp:286
+#: kioexec/main.cpp:288
 #, kde-format
 msgid "Suggested file name for the downloaded file"
 msgstr ""
 
 #. +> trunk5
-#: kioexec/main.cpp:287
+#: kioexec/main.cpp:290
 #, kde-format
 msgid "Command to execute"
 msgstr ""
 
 #. +> trunk5
-#: kioexec/main.cpp:288
+#: kioexec/main.cpp:291
 #, kde-format
 msgid "URL(s) or local file(s) used for 'command'"
 msgstr ""
@@ -7008,7 +7052,7 @@ msgid "Could not download the proxy configuration script"
 msgstr ""
 
 #. +> trunk5
-#: kpac/proxyscout.cpp:227
+#: kpac/proxyscout.cpp:226
 #, kde-format
 msgid ""
 "The proxy configuration script is invalid:\n"
@@ -7016,7 +7060,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: kpac/proxyscout.cpp:344
+#: kpac/proxyscout.cpp:343
 #, kde-format
 msgid ""
 "The proxy configuration script returned an error:\n"
@@ -7024,38 +7068,38 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: kpac/script.cpp:672
+#: kpac/script.cpp:671
 #, kde-format
 msgid "Could not find 'FindProxyForURL' or 'FindProxyForURLEx'"
 msgstr ""
 
 #. +> trunk5
-#: kpac/script.cpp:690
+#: kpac/script.cpp:689
 #, kde-format
 msgid "Got an invalid reply when calling %1 -> %2"
 msgstr ""
 
 #. +> trunk5
-#: kpasswdserver/kpasswdserver.cpp:527
+#: kpasswdserver/kpasswdserver.cpp:529
 #, fuzzy, kde-format
 msgid "Do you want to retry?"
 msgstr "നിങ്ങള്‍ക്കു് ഈ വസ്തു വെട്ടിമാറ്റണമോ?"
 
 #. +> trunk5
-#: kpasswdserver/kpasswdserver.cpp:532
+#: kpasswdserver/kpasswdserver.cpp:534
 #, fuzzy, kde-format
 msgid "Retry Authentication"
 msgstr "സര്‍വര്‍ ഉറപ്പാക്കല്‍"
 
 #. +> trunk5
-#: kpasswdserver/kpasswdserver.cpp:536
+#: kpasswdserver/kpasswdserver.cpp:538
 #, kde-format
 msgctxt "@action:button filter-continue"
 msgid "Retry"
 msgstr ""
 
 #. +> trunk5
-#: kpasswdserver/kpasswdserver.cpp:797
+#: kpasswdserver/kpasswdserver.cpp:799
 #, fuzzy, kde-format
 msgid "Authentication Dialog"
 msgstr "സര്‍വര്‍ ഉറപ്പാക്കല്‍"
@@ -7259,7 +7303,7 @@ msgid "No search providers were found."
 msgstr ""
 
 #. +> trunk5
-#: urifilters/ikws/kurisearchfilter.cpp:81
+#: urifilters/ikws/kurisearchfilter.cpp:80
 #, kde-format
 msgid "Search F&ilters"
 msgstr ""
@@ -7429,25 +7473,25 @@ msgid "Insert query placeholder"
 msgstr ""
 
 #. +> trunk5
-#: urifilters/shorturi/kshorturifilter.cpp:251
+#: urifilters/shorturi/kshorturifilter.cpp:250
 #, fuzzy, kde-format
 msgid "<qt><b>%1</b> does not have a home folder.</qt>"
 msgstr "%1 ഫയല്‍ അല്ലെങ്കില്‍ ഫോള്‍ഡര്‍ നിലവിലില്ല."
 
 #. +> trunk5
-#: urifilters/shorturi/kshorturifilter.cpp:253
+#: urifilters/shorturi/kshorturifilter.cpp:252
 #, kde-format
 msgid "<qt>There is no user called <b>%1</b>.</qt>"
 msgstr ""
 
 #. +> trunk5
-#: widgets/accessmanager.cpp:201
+#: widgets/accessmanager.cpp:200
 #, kde-format
 msgid "Blocked request."
 msgstr ""
 
 #. +> trunk5
-#: widgets/accessmanager.cpp:274
+#: widgets/accessmanager.cpp:273
 #, fuzzy, kde-format
 msgid "Unknown HTTP verb."
 msgstr ""
@@ -7601,7 +7645,7 @@ msgstr ""
 #. +> trunk5
 #: widgets/checksumswidget.ui:95 widgets/checksumswidget.ui:133
 #: widgets/checksumswidget.ui:171 widgets/checksumswidget.ui:209
-#: widgets/kpropertiesdialog.cpp:1087
+#: widgets/kpropertiesdialog.cpp:1107
 #, kde-format
 msgid "Calculate"
 msgstr ""
@@ -7624,19 +7668,19 @@ msgid "C&ancel"
 msgstr ""
 
 #. +> trunk5
-#: widgets/dropjob.cpp:332
+#: widgets/dropjob.cpp:336
 #, kde-format
 msgid "&Move Here"
 msgstr ""
 
 #. +> trunk5
-#: widgets/dropjob.cpp:338
+#: widgets/dropjob.cpp:342
 #, kde-format
 msgid "&Copy Here"
 msgstr ""
 
 #. +> trunk5
-#: widgets/dropjob.cpp:344
+#: widgets/dropjob.cpp:348
 #, kde-format
 msgid "&Link Here"
 msgstr ""
@@ -7919,7 +7963,7 @@ msgid "Owning Group"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kacleditwidget.cpp:438 widgets/kpropertiesdialog.cpp:2137
+#: widgets/kacleditwidget.cpp:438 widgets/kpropertiesdialog.cpp:2157
 #, kde-format
 msgid "Others"
 msgstr ""
@@ -8043,96 +8087,96 @@ msgid "Unmount"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kdirmodel.cpp:1173
+#: widgets/kdirmodel.cpp:1176
 #, kde-format
 msgctxt "@title:column"
 msgid "Name"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kdirmodel.cpp:1175
+#: widgets/kdirmodel.cpp:1178
 #, kde-format
 msgctxt "@title:column"
 msgid "Size"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kdirmodel.cpp:1177
+#: widgets/kdirmodel.cpp:1180
 #, kde-format
 msgctxt "@title:column"
 msgid "Date"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kdirmodel.cpp:1179
+#: widgets/kdirmodel.cpp:1182
 #, kde-format
 msgctxt "@title:column"
 msgid "Permissions"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kdirmodel.cpp:1181
+#: widgets/kdirmodel.cpp:1184
 #, kde-format
 msgctxt "@title:column"
 msgid "Owner"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kdirmodel.cpp:1183
+#: widgets/kdirmodel.cpp:1186
 #, kde-format
 msgctxt "@title:column"
 msgid "Group"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kdirmodel.cpp:1185
+#: widgets/kdirmodel.cpp:1188
 #, kde-format
 msgctxt "@title:column"
 msgid "Type"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kfileitemactions.cpp:416
+#: widgets/kfileitemactions.cpp:305
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Actions"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kfileitemactions.cpp:617
+#: widgets/kfileitemactions.cpp:495
 #, kde-format
 msgid "&Open with %1"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kfileitemactions.cpp:649
+#: widgets/kfileitemactions.cpp:527
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kfileitemactions.cpp:668
+#: widgets/kfileitemactions.cpp:545
 #, kde-format
 msgctxt "@action:inmenu Open With"
 msgid "&Other Application..."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kfileitemactions.cpp:670 widgets/kfileitemactions.cpp:681
+#: widgets/kfileitemactions.cpp:547 widgets/kfileitemactions.cpp:558
 #, kde-format
 msgctxt "@title:menu"
 msgid "&Open With..."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kfileitemactions.cpp:798
+#: widgets/kfileitemactions.cpp:674
 #, kde-format
 msgid "Open &with %1"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kfileitemactions.cpp:800
+#: widgets/kfileitemactions.cpp:676
 #, kde-format
 msgctxt "@item:inmenu Open With, %1 is application name"
 msgid "%1"
@@ -8672,137 +8716,144 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:838
+#: widgets/kpropertiesdialog.cpp:428
+#, kde-format
+msgctxt "@title:tab"
+msgid "Share"
+msgstr ""
+
+#. +> trunk5
+#: widgets/kpropertiesdialog.cpp:858
 #, kde-format
 msgctxt "@title:tab File properties"
 msgid "&General"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1013
+#: widgets/kpropertiesdialog.cpp:1033
 #, kde-format
 msgid "Type:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1033
+#: widgets/kpropertiesdialog.cpp:1053
 #, fuzzy, kde-format
 msgid "Create New File Type"
 msgstr "വിശദമായ കാഴ്ച"
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1035
+#: widgets/kpropertiesdialog.cpp:1055
 #, kde-format
 msgid "File Type Options"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1046
+#: widgets/kpropertiesdialog.cpp:1066
 #, kde-format
 msgid "Contents:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1054 widgets/kurlrequesterdialog.cpp:43
+#: widgets/kpropertiesdialog.cpp:1074 widgets/kurlrequesterdialog.cpp:43
 #, kde-format
 msgid "Location:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1088
+#: widgets/kpropertiesdialog.cpp:1108
 #, kde-format
 msgid "Stop"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1100
+#: widgets/kpropertiesdialog.cpp:1120
 #, kde-format
 msgid "Explore in Filelight"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1110 widgets/kpropertiesdialog.cpp:1397
+#: widgets/kpropertiesdialog.cpp:1130 widgets/kpropertiesdialog.cpp:1417
 #, kde-format
 msgid "Refresh"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1118
+#: widgets/kpropertiesdialog.cpp:1138
 #, kde-format
 msgid "Points to:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1137
+#: widgets/kpropertiesdialog.cpp:1157
 #, fuzzy, kde-format
 msgid "Invalid link target"
 msgstr "അസാധുവായ എന്‍ട്രി"
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1176
+#: widgets/kpropertiesdialog.cpp:1196
 #, fuzzy, kde-format
 msgid "%1:"
 msgstr "%1 (%2)"
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1191
+#: widgets/kpropertiesdialog.cpp:1211
 #, kde-format
 msgid "Created:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1201
+#: widgets/kpropertiesdialog.cpp:1221
 #, kde-format
 msgid "Modified:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1211
+#: widgets/kpropertiesdialog.cpp:1231
 #, kde-format
 msgid "Accessed:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1229
+#: widgets/kpropertiesdialog.cpp:1249
 #, kde-format
 msgid "File System:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1237
+#: widgets/kpropertiesdialog.cpp:1257
 #, kde-format
 msgid "Mounted on:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1244
+#: widgets/kpropertiesdialog.cpp:1264
 #, kde-format
 msgid "Mounted from:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1253 widgets/kpropertiesdialog.cpp:3367
+#: widgets/kpropertiesdialog.cpp:1273 widgets/kpropertiesdialog.cpp:3387
 #, kde-format
 msgctxt "Amount of used and available space on this device or partition"
 msgid "Free space:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1257 widgets/kpropertiesdialog.cpp:1363
+#: widgets/kpropertiesdialog.cpp:1277 widgets/kpropertiesdialog.cpp:1383
 #, fuzzy, kde-format
 msgctxt "@info:status"
 msgid "Unknown size"
 msgstr "അപരിചിതമായ ഹോസ്റ്റ്"
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1356 widgets/kpropertiesdialog.cpp:3499
+#: widgets/kpropertiesdialog.cpp:1376 widgets/kpropertiesdialog.cpp:3519
 #, kde-format
 msgctxt "Available space out of total partition size (percent used)"
 msgid "%1 free of %2 (%3% used)"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1374
+#: widgets/kpropertiesdialog.cpp:1394
 #, kde-format
 msgid ""
 "Calculating... %1 (%2)\n"
@@ -8810,7 +8861,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1377 widgets/kpropertiesdialog.cpp:1392
+#: widgets/kpropertiesdialog.cpp:1397 widgets/kpropertiesdialog.cpp:1412
 #, kde-format
 msgid "1 file"
 msgid_plural "%1 files"
@@ -8818,7 +8869,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1378 widgets/kpropertiesdialog.cpp:1393
+#: widgets/kpropertiesdialog.cpp:1398 widgets/kpropertiesdialog.cpp:1413
 #, kde-format
 msgid "1 sub-folder"
 msgid_plural "%1 sub-folders"
@@ -8826,26 +8877,26 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1406
+#: widgets/kpropertiesdialog.cpp:1426
 #, kde-format
 msgid "Calculating..."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1431
+#: widgets/kpropertiesdialog.cpp:1451
 #, kde-format
 msgid "At least %1"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1481
+#: widgets/kpropertiesdialog.cpp:1501
 #, kde-format
 msgid "The new file name is empty."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1664 widgets/kpropertiesdialog.cpp:3245
-#: widgets/kpropertiesdialog.cpp:3544 widgets/kpropertiesdialog.cpp:3821
+#: widgets/kpropertiesdialog.cpp:1684 widgets/kpropertiesdialog.cpp:3265
+#: widgets/kpropertiesdialog.cpp:3564 widgets/kpropertiesdialog.cpp:3841
 #, kde-format
 msgid ""
 "<qt>Could not save properties. You do not have sufficient access to write to "
@@ -8853,62 +8904,62 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1740 widgets/kpropertiesdialog.cpp:1746
-#: widgets/kpropertiesdialog.cpp:1753
+#: widgets/kpropertiesdialog.cpp:1760 widgets/kpropertiesdialog.cpp:1766
+#: widgets/kpropertiesdialog.cpp:1773
 #, kde-format
 msgid "No Access"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1741
+#: widgets/kpropertiesdialog.cpp:1761
 #, kde-format
 msgid "Can Only View"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1742
+#: widgets/kpropertiesdialog.cpp:1762
 #, kde-format
 msgid "Can View & Modify"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1747
+#: widgets/kpropertiesdialog.cpp:1767
 #, kde-format
 msgid "Can Only View Content"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1748
+#: widgets/kpropertiesdialog.cpp:1768
 #, kde-format
 msgid "Can View & Modify Content"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1754
+#: widgets/kpropertiesdialog.cpp:1774
 #, kde-format
 msgid "Can Only View/Read Content"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1755
+#: widgets/kpropertiesdialog.cpp:1775
 #, kde-format
 msgid "Can View/Read & Modify/Write"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1849
+#: widgets/kpropertiesdialog.cpp:1869
 #, kde-format
 msgid "&Permissions"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1861 widgets/kpropertiesdialog.cpp:2070
+#: widgets/kpropertiesdialog.cpp:1881 widgets/kpropertiesdialog.cpp:2090
 #, kde-format
 msgid "Access Permissions"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1869
+#: widgets/kpropertiesdialog.cpp:1889
 #, kde-format
 msgid "This file is a link and does not have permissions."
 msgid_plural "All files are links and do not have permissions."
@@ -8916,43 +8967,43 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1873
+#: widgets/kpropertiesdialog.cpp:1893
 #, kde-format
 msgid "Only the owner can change permissions."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1877
+#: widgets/kpropertiesdialog.cpp:1897
 #, kde-format
 msgid "O&wner:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1884
+#: widgets/kpropertiesdialog.cpp:1904
 #, kde-format
 msgid "Specifies the actions that the owner is allowed to do."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1886
+#: widgets/kpropertiesdialog.cpp:1906
 #, kde-format
 msgid "Gro&up:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1893
+#: widgets/kpropertiesdialog.cpp:1913
 #, kde-format
 msgid "Specifies the actions that the members of the group are allowed to do."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1895
+#: widgets/kpropertiesdialog.cpp:1915
 #, kde-format
 msgid "O&thers:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1902
+#: widgets/kpropertiesdialog.cpp:1922
 #, kde-format
 msgid ""
 "Specifies the actions that all users, who are neither owner nor in the "
@@ -8960,19 +9011,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1907
+#: widgets/kpropertiesdialog.cpp:1927
 #, kde-format
 msgid "Only own&er can rename and delete folder content"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1908
+#: widgets/kpropertiesdialog.cpp:1928
 #, kde-format
 msgid "Is &executable"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1912
+#: widgets/kpropertiesdialog.cpp:1932
 #, kde-format
 msgid ""
 "Enable this option to allow only the folder's owner to delete or rename the "
@@ -8981,7 +9032,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1916
+#: widgets/kpropertiesdialog.cpp:1936
 #, kde-format
 msgid ""
 "Enable this option to mark the file as executable. This only makes sense for "
@@ -8989,49 +9040,49 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1923
+#: widgets/kpropertiesdialog.cpp:1943
 #, kde-format
 msgid "A&dvanced Permissions"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1932
+#: widgets/kpropertiesdialog.cpp:1952
 #, kde-format
 msgid "Ownership"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1939
+#: widgets/kpropertiesdialog.cpp:1959
 #, kde-format
 msgid "User:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:1982
+#: widgets/kpropertiesdialog.cpp:2002
 #, kde-format
 msgid "Group:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2019
+#: widgets/kpropertiesdialog.cpp:2039
 #, kde-format
 msgid "Apply changes to all subfolders and their contents"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2061
+#: widgets/kpropertiesdialog.cpp:2081
 #, kde-format
 msgid "Advanced Permissions"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2078
+#: widgets/kpropertiesdialog.cpp:2098
 #, kde-format
 msgid "Class"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2085
+#: widgets/kpropertiesdialog.cpp:2105
 #, kde-format
 msgid ""
 "Show\n"
@@ -9039,25 +9090,25 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2086
+#: widgets/kpropertiesdialog.cpp:2106
 #, kde-format
 msgid "This flag allows viewing the content of the folder."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2088
+#: widgets/kpropertiesdialog.cpp:2108
 #, kde-format
 msgid "Read"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2089
+#: widgets/kpropertiesdialog.cpp:2109
 #, kde-format
 msgid "The Read flag allows viewing the content of the file."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2095
+#: widgets/kpropertiesdialog.cpp:2115
 #, kde-format
 msgid ""
 "Write\n"
@@ -9065,7 +9116,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2096
+#: widgets/kpropertiesdialog.cpp:2116
 #, kde-format
 msgid ""
 "This flag allows adding, renaming and deleting of files. Note that deleting "
@@ -9073,50 +9124,50 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2099
+#: widgets/kpropertiesdialog.cpp:2119
 #, kde-format
 msgid "Write"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2100
+#: widgets/kpropertiesdialog.cpp:2120
 #, kde-format
 msgid "The Write flag allows modifying the content of the file."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2106
+#: widgets/kpropertiesdialog.cpp:2126
 #, kde-format
 msgctxt "Enter folder"
 msgid "Enter"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2107
+#: widgets/kpropertiesdialog.cpp:2127
 #, kde-format
 msgid "Enable this flag to allow entering the folder."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2109
+#: widgets/kpropertiesdialog.cpp:2129
 #, kde-format
 msgid "Exec"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2110
+#: widgets/kpropertiesdialog.cpp:2130
 #, kde-format
 msgid "Enable this flag to allow executing the file as a program."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2118
+#: widgets/kpropertiesdialog.cpp:2138
 #, kde-format
 msgid "Special"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2122
+#: widgets/kpropertiesdialog.cpp:2142
 #, kde-format
 msgid ""
 "Special flag. Valid for the whole folder, the exact meaning of the flag can "
@@ -9124,7 +9175,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2125
+#: widgets/kpropertiesdialog.cpp:2145
 #, kde-format
 msgid ""
 "Special flag. The exact meaning of the flag can be seen in the right hand "
@@ -9132,19 +9183,19 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2129
+#: widgets/kpropertiesdialog.cpp:2149
 #, kde-format
 msgid "User"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2133
+#: widgets/kpropertiesdialog.cpp:2153
 #, kde-format
 msgid "Group"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2143
+#: widgets/kpropertiesdialog.cpp:2163
 #, kde-format
 msgid ""
 "If this flag is set, the owner of this folder will be the owner of all new "
@@ -9152,7 +9203,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2146
+#: widgets/kpropertiesdialog.cpp:2166
 #, kde-format
 msgid ""
 "If this file is an executable and the flag is set, it will be executed with "
@@ -9160,14 +9211,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2151
+#: widgets/kpropertiesdialog.cpp:2171
 #, kde-format
 msgid ""
 "If this flag is set, the group of this folder will be set for all new files."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2154
+#: widgets/kpropertiesdialog.cpp:2174
 #, kde-format
 msgid ""
 "If this file is an executable and the flag is set, it will be executed with "
@@ -9175,7 +9226,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2159
+#: widgets/kpropertiesdialog.cpp:2179
 #, kde-format
 msgid ""
 "If the Sticky flag is set on a folder, only the owner and root can delete or "
@@ -9183,7 +9234,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2163
+#: widgets/kpropertiesdialog.cpp:2183
 #, kde-format
 msgid ""
 "The Sticky flag on a file is ignored on Linux, but may be used on some "
@@ -9191,38 +9242,38 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2228
+#: widgets/kpropertiesdialog.cpp:2248
 #, kde-format
 msgid "Set UID"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2232
+#: widgets/kpropertiesdialog.cpp:2252
 #, kde-format
 msgid "Set GID"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2236
+#: widgets/kpropertiesdialog.cpp:2256
 #, kde-format
 msgctxt "File permission"
 msgid "Sticky"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2356
+#: widgets/kpropertiesdialog.cpp:2376
 #, kde-format
 msgid "Link"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2375
+#: widgets/kpropertiesdialog.cpp:2395
 #, kde-format
 msgid "Varying (No Change)"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2488
+#: widgets/kpropertiesdialog.cpp:2508
 #, kde-format
 msgid "This file uses advanced permissions"
 msgid_plural "These files use advanced permissions."
@@ -9230,7 +9281,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2509
+#: widgets/kpropertiesdialog.cpp:2529
 #, kde-format
 msgid "This folder uses advanced permissions."
 msgid_plural "These folders use advanced permissions."
@@ -9238,54 +9289,54 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2524
+#: widgets/kpropertiesdialog.cpp:2544
 #, kde-format
 msgid "These files use advanced permissions."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2764
+#: widgets/kpropertiesdialog.cpp:2784
 #, kde-format
 msgctxt "@title:tab"
 msgid "C&hecksums"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:2832 widgets/kpropertiesdialog.cpp:2843
-#: widgets/kpropertiesdialog.cpp:2854 widgets/kpropertiesdialog.cpp:2865
+#: widgets/kpropertiesdialog.cpp:2852 widgets/kpropertiesdialog.cpp:2863
+#: widgets/kpropertiesdialog.cpp:2874 widgets/kpropertiesdialog.cpp:2885
 #, kde-format
 msgctxt "@action:button"
 msgid "Calculating..."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3022
+#: widgets/kpropertiesdialog.cpp:3042
 #, kde-format
 msgid "Invalid checksum."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3025
+#: widgets/kpropertiesdialog.cpp:3045
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "The given input is not a valid MD5, SHA1 or SHA256 checksum."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3036
+#: widgets/kpropertiesdialog.cpp:3056
 #, kde-format
 msgid "Checksums match."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3039
+#: widgets/kpropertiesdialog.cpp:3059
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "The computed checksum and the expected checksum match."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3050
+#: widgets/kpropertiesdialog.cpp:3070
 #, kde-format
 msgid ""
 "<p>Checksums do not match.</p>This may be due to a faulty download. Try re-"
@@ -9294,106 +9345,106 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3055
+#: widgets/kpropertiesdialog.cpp:3075
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "The computed checksum and the expected checksum differ."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3063
+#: widgets/kpropertiesdialog.cpp:3083
 #, kde-format
 msgctxt "notify the user about a computation in the background"
 msgid "Verifying checksum..."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3151
+#: widgets/kpropertiesdialog.cpp:3171
 #, kde-format
 msgid "U&RL"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3158
+#: widgets/kpropertiesdialog.cpp:3178
 #, kde-format
 msgid "URL:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3238 widgets/kpropertiesdialog.cpp:3811
+#: widgets/kpropertiesdialog.cpp:3258 widgets/kpropertiesdialog.cpp:3831
 #, kde-format
 msgid ""
 "Could not save properties. Only entries on local file systems are supported."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3304
+#: widgets/kpropertiesdialog.cpp:3324
 #, kde-format
 msgid "De&vice"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3331
+#: widgets/kpropertiesdialog.cpp:3351
 #, kde-format
 msgid "Device (/dev/fd0):"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3332
+#: widgets/kpropertiesdialog.cpp:3352
 #, kde-format
 msgid "Device:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3345
+#: widgets/kpropertiesdialog.cpp:3365
 #, kde-format
 msgid "Read only"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3349
+#: widgets/kpropertiesdialog.cpp:3369
 #, kde-format
 msgid "File system:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3357
+#: widgets/kpropertiesdialog.cpp:3377
 #, kde-format
 msgid "Mount point (/mnt/floppy):"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3358
+#: widgets/kpropertiesdialog.cpp:3378
 #, kde-format
 msgid "Mount point:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3603
+#: widgets/kpropertiesdialog.cpp:3623
 #, kde-format
 msgid "&Application"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3748
+#: widgets/kpropertiesdialog.cpp:3768
 #, kde-format
 msgid "Add File Type for %1"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3749
+#: widgets/kpropertiesdialog.cpp:3769
 #, kde-format
 msgid "Select one or more file types to add:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3890
+#: widgets/kpropertiesdialog.cpp:3910
 #, kde-format
 msgid "Only executables on local file systems are supported."
 msgstr ""
 
 #. +> trunk5
-#: widgets/kpropertiesdialog.cpp:3904
+#: widgets/kpropertiesdialog.cpp:3924
 #, kde-format
 msgid "Advanced Options for %1"
 msgstr ""
@@ -9413,59 +9464,59 @@ msgid "Could not find any application or handler for %1"
 msgstr "%1-നുള്ള ഉടമസ്ഥാവകാശം മാറ്റുവാന്‍ സാധ്യമായില്ല."
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:42
+#: widgets/ksslinfodialog.cpp:41
 #, kde-format
 msgid "KDE SSL Information"
 msgstr ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:54
+#: widgets/ksslinfodialog.cpp:53
 #, kde-format
 msgctxt "The receiver of the SSL certificate"
 msgid "Subject"
 msgstr ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:55
+#: widgets/ksslinfodialog.cpp:54
 #, kde-format
 msgctxt "The authority that issued the SSL certificate"
 msgid "Issuer"
 msgstr ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:91
+#: widgets/ksslinfodialog.cpp:90
 #, kde-format
 msgid "Current connection is secured with SSL."
 msgstr ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:95
+#: widgets/ksslinfodialog.cpp:94
 #, kde-format
 msgid ""
 "The main part of this document is secured with SSL, but some parts are not."
 msgstr ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:102
+#: widgets/ksslinfodialog.cpp:101
 #, kde-format
 msgid "Some of this document is secured with SSL, but the main part is not."
 msgstr ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:107
+#: widgets/ksslinfodialog.cpp:106
 #, kde-format
 msgid "Current connection is not secured with SSL."
 msgstr ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:177
+#: widgets/ksslinfodialog.cpp:176
 #, fuzzy, kde-format
 msgctxt "%1, using %2 bits of a %3 bit key"
 msgid "%1, %2 %3"
 msgstr "%1 (%2, %3)"
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:179
+#: widgets/ksslinfodialog.cpp:178
 #, kde-format
 msgctxt "Part of: %1, using %2 bits of a %3 bit key"
 msgid "using %1 bit"
@@ -9474,7 +9525,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:181
+#: widgets/ksslinfodialog.cpp:180
 #, kde-format
 msgctxt "Part of: %1, using %2 bits of a %3 bit key"
 msgid "of a %1 bit key"
@@ -9483,21 +9534,21 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:198
+#: widgets/ksslinfodialog.cpp:197
 #, kde-format
 msgctxt "The certificate is not trusted"
 msgid "NO, there were errors:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:204
+#: widgets/ksslinfodialog.cpp:203
 #, fuzzy, kde-format
 msgctxt "The certificate is trusted"
 msgid "Yes"
 msgstr "&ഉവ്വു്"
 
 #. +> trunk5
-#: widgets/ksslinfodialog.cpp:208
+#: widgets/ksslinfodialog.cpp:207
 #, fuzzy, kde-format
 msgctxt "%1 is the effective date of the certificate, %2 is the expiry date"
 msgid "%1 to %2"
@@ -9620,25 +9671,25 @@ msgid "Filename for dropped contents:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:64 widgets/renamedialog.cpp:380
+#: widgets/renamedialog.cpp:63 widgets/renamedialog.cpp:379
 #, kde-format
 msgid "Date: %1"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:70 widgets/renamedialog.cpp:398
+#: widgets/renamedialog.cpp:69 widgets/renamedialog.cpp:397
 #, kde-format
 msgid "Size: %1"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:233
+#: widgets/renamedialog.cpp:232
 #, kde-format
 msgid "Appl&y to All"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:234
+#: widgets/renamedialog.cpp:233
 #, kde-format
 msgid ""
 "When this is checked the button pressed will be applied to all subsequent "
@@ -9648,7 +9699,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:235
+#: widgets/renamedialog.cpp:234
 #, kde-format
 msgid ""
 "When this is checked the button pressed will be applied to all subsequent "
@@ -9656,44 +9707,44 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:240
+#: widgets/renamedialog.cpp:239
 #, kde-format
 msgid "&Rename"
 msgstr "&പേരു് മാറ്റുക"
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:242
+#: widgets/renamedialog.cpp:241
 #, kde-format
 msgid "Suggest New &Name"
 msgstr "പുതിയ &പേരു് നിര്‍ദ്ദേശിക്കുക"
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:248
+#: widgets/renamedialog.cpp:247
 #, kde-format
 msgid "&Skip"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:249
+#: widgets/renamedialog.cpp:248
 #, kde-format
 msgid "Do not copy or move this folder, skip to the next item instead"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:250
+#: widgets/renamedialog.cpp:249
 #, kde-format
 msgid "Do not copy or move this file, skip to the next item instead"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:259
+#: widgets/renamedialog.cpp:258
 #, kde-format
 msgctxt "Write files into an existing folder"
 msgid "&Write Into"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:261
+#: widgets/renamedialog.cpp:260
 #, kde-format
 msgid ""
 "Files and folders will be copied into the existing directory, alongside its "
@@ -9703,13 +9754,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:267
+#: widgets/renamedialog.cpp:266
 #, kde-format
 msgid "&Resume"
 msgstr "&വീണ്ടും ആരംഭിക്കുക"
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:276
+#: widgets/renamedialog.cpp:275
 #, kde-format
 msgid ""
 "This action would overwrite '%1' with itself.\n"
@@ -9719,13 +9770,13 @@ msgstr ""
 "ദയവായി ഫയലിനു് പുതിയ പേരു് നല്‍കുക:"
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:281
+#: widgets/renamedialog.cpp:280
 #, kde-format
 msgid "C&ontinue"
 msgstr "തു&ടരുക"
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:341
+#: widgets/renamedialog.cpp:340
 #, fuzzy, kde-format
 msgid "This action will overwrite the destination."
 msgstr ""
@@ -9733,55 +9784,55 @@ msgstr ""
 "ദയവായി ഫയലിനു് പുതിയ പേരു് നല്‍കുക:"
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:347
+#: widgets/renamedialog.cpp:346
 #, fuzzy, kde-format
 msgid "Source"
 msgstr "ശ്രോതസ്സ്"
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:349
+#: widgets/renamedialog.cpp:348
 #, fuzzy, kde-format
 msgid "Destination"
 msgstr "ലക്ഷ്യസ്ഥാനം"
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:371
+#: widgets/renamedialog.cpp:370
 #, kde-format
 msgid "Differences"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:391
+#: widgets/renamedialog.cpp:390
 #, kde-format
 msgid "The destination is <b>smaller by %1</b>"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:394
+#: widgets/renamedialog.cpp:393
 #, kde-format
 msgid "The destination is <b>bigger by %1</b>"
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:408
+#: widgets/renamedialog.cpp:407
 #, kde-format
 msgid "The files are identical."
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:409
+#: widgets/renamedialog.cpp:408
 #, kde-format
 msgid "The files seem identical."
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:410
+#: widgets/renamedialog.cpp:409
 #, kde-format
 msgid "The files are different."
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:417
+#: widgets/renamedialog.cpp:416
 #, kde-format
 msgid ""
 "The files are likely to be identical: they have the same size and their "
@@ -9789,25 +9840,25 @@ msgid ""
 msgstr ""
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:436
+#: widgets/renamedialog.cpp:435
 #, kde-format
 msgid "An older item named '%1' already exists."
 msgstr "'%1' എന്ന പേരില്‍ പഴയൊരു വസ്തു നിലവിലുണ്ടു്."
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:438
+#: widgets/renamedialog.cpp:437
 #, kde-format
 msgid "A similar file named '%1' already exists."
 msgstr "'%1' എന്ന പേരില്‍ മറ്റൊരു വസ്തു നിലവിലുണ്ടു്."
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:440
+#: widgets/renamedialog.cpp:439
 #, fuzzy, kde-format
 msgid "A more recent item named '%1' already exists."
 msgstr "'%1' എന്ന പേരില്‍ പഴയൊരു വസ്തു നിലവിലുണ്ടു്."
 
 #. +> trunk5
-#: widgets/renamedialog.cpp:453
+#: widgets/renamedialog.cpp:452
 #, fuzzy, kde-format
 msgid "Rename:"
 msgstr "&പേരു് മാറ്റുക"
@@ -9866,25 +9917,25 @@ msgid "# will be replaced by ascending numbers starting with:"
 msgstr ""
 
 #. +> trunk5
-#: widgets/skipdialog.cpp:27
+#: widgets/skipdialog.cpp:26
 #, kde-format
 msgid "Information"
 msgstr "വിവരം"
 
 #. +> trunk5
-#: widgets/skipdialog.cpp:37
+#: widgets/skipdialog.cpp:36
 #, kde-format
 msgid "Retry"
 msgstr ""
 
 #. +> trunk5
-#: widgets/skipdialog.cpp:42
+#: widgets/skipdialog.cpp:41
 #, kde-format
 msgid "Skip"
 msgstr ""
 
 #. +> trunk5
-#: widgets/skipdialog.cpp:46
+#: widgets/skipdialog.cpp:45
 #, kde-format
 msgid "Skip All"
 msgstr ""

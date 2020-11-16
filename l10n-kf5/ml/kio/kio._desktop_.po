@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-29 13:24+0200\n"
+"POT-Creation-Date: 2020-11-10 12:41+0100\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -28,7 +28,7 @@ msgid "Execute action as root."
 msgstr ""
 
 #. +> trunk5
-#: src/ioslaves/file/kauth/file.actions:37
+#: src/ioslaves/file/kauth/file.actions:40
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -40,7 +40,7 @@ msgid "HTTP Cache Cleaner"
 msgstr ""
 
 #. +> trunk5
-#: src/ioslaves/http/http_cache_cleaner.desktop:57
+#: src/ioslaves/http/http_cache_cleaner.desktop:59
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr ""
@@ -79,7 +79,7 @@ msgstr "സേവനങ്ങള്‍"
 
 #. +> trunk5
 #: src/ioslaves/trash/kcmtrash.desktop:1
-#: src/ioslaves/trash/kcmtrash.desktop:174
+#: src/ioslaves/trash/kcmtrash.desktop:173
 msgctxt "Name"
 msgid "Trash"
 msgstr "ചവറ്റുകുട്ട"
@@ -91,26 +91,26 @@ msgid "This service allows configuration of the trash."
 msgstr "ട്രാഷ് ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിയ്ക്കുന്നു."
 
 #. +> trunk5
-#: src/ioslaves/trash/kcmtrash.desktop:256
+#: src/ioslaves/trash/kcmtrash.desktop:255
 msgctxt "Comment"
 msgid "Configure trash settings"
 msgstr "ട്രാഷ് സജ്ജീകരണങ്ങള്‍ ക്രമീകരിക്കുക"
 
 #. +> trunk5
-#: src/ioslaves/trash/kcmtrash.desktop:337
+#: src/ioslaves/trash/kcmtrash.desktop:336
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr "ചവറ്റുകുട്ട"
 
 #. +> trunk5
-#: src/kcms/kio/cache.desktop:15
+#: src/kcms/kio/cache.desktop:14
 msgctxt "Name"
 msgid "Cache"
 msgstr "കാഷ്"
 
 #. +> trunk5
-#: src/kcms/kio/cache.desktop:104
+#: src/kcms/kio/cache.desktop:103
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure web cache settings"
@@ -123,32 +123,32 @@ msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
 
 #. +> trunk5
-#: src/kcms/kio/cookies.desktop:15
+#: src/kcms/kio/cookies.desktop:14
 #, fuzzy
 msgctxt "Name"
 msgid "Cookies"
 msgstr "കുക്കികള്‍"
 
 #. +> trunk5
-#: src/kcms/kio/cookies.desktop:62
+#: src/kcms/kio/cookies.desktop:63
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr "കുക്കികള്‍ പ്രവര്‍ത്തിയ്ക്കുന്ന രീതി ക്രമീകരിയ്ക്കുക"
 
 #. +> trunk5
-#: src/kcms/kio/cookies.desktop:148
+#: src/kcms/kio/cookies.desktop:150
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
 
 #. +> trunk5
-#: src/kcms/kio/netpref.desktop:15
+#: src/kcms/kio/netpref.desktop:14
 msgctxt "Name"
 msgid "Connection Preferences"
 msgstr "കണക്ഷന്‍ മുന്‍ഗണനകള്‍"
 
 #. +> trunk5
-#: src/kcms/kio/netpref.desktop:100
+#: src/kcms/kio/netpref.desktop:99
 msgctxt "Comment"
 msgid "Configure generic network preferences, like timeout values"
 msgstr ""
@@ -156,43 +156,43 @@ msgstr ""
 "ക്രമീകരിയ്ക്കുക"
 
 #. +> trunk5
-#: src/kcms/kio/netpref.desktop:185
+#: src/kcms/kio/netpref.desktop:184
 msgctxt "X-KDE-Keywords"
 msgid "timeout,iopref,netpref,network preferences,ftp"
 msgstr ""
 
 #. +> trunk5
-#: src/kcms/kio/proxy.desktop:15
+#: src/kcms/kio/proxy.desktop:14
 msgctxt "Name"
 msgid "Proxy"
 msgstr "പ്രോക്സി"
 
 #. +> trunk5
-#: src/kcms/kio/proxy.desktop:103
+#: src/kcms/kio/proxy.desktop:102
 msgctxt "Comment"
 msgid "Configure the proxy servers used"
 msgstr "ഉപയോഗിച്ചിരിയ്ക്കുന്ന പ്രോക്സി സെര്‍വറുകള്‍ ക്രമീകരിയ്ക്കുക"
 
 #. +> trunk5
-#: src/kcms/kio/proxy.desktop:191
+#: src/kcms/kio/proxy.desktop:190
 msgctxt "X-KDE-Keywords"
 msgid "Proxy,Proxy server,Firewall,Squid"
 msgstr ""
 
 #. +> trunk5
-#: src/kcms/kio/smb.desktop:13
+#: src/kcms/kio/smb.desktop:12
 msgctxt "Name"
 msgid "Windows Shares"
 msgstr "വിന്‍ഡോസില്‍ പങ്കിട്ടവ"
 
 #. +> trunk5
-#: src/kcms/kio/smb.desktop:99
+#: src/kcms/kio/smb.desktop:98
 msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
 #. +> trunk5
-#: src/kcms/kio/smb.desktop:138
+#: src/kcms/kio/smb.desktop:140
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -471,39 +471,39 @@ msgid "UADescription (Wget 1.11.4)"
 msgstr "യുഎവിവരണം (ഡബ്ലിയുഗെറ്റ് 1.11.4)"
 
 #. +> trunk5
-#: src/kcms/kio/useragent.desktop:14
+#: src/kcms/kio/useragent.desktop:13
 msgctxt "Name"
 msgid "Browser Identification"
 msgstr "ബ്രൌസര്‍ തിരിച്ചറിയല്‍"
 
 #. +> trunk5
-#: src/kcms/kio/useragent.desktop:99
+#: src/kcms/kio/useragent.desktop:98
 msgctxt "Comment"
 msgid "Configure the User Agent exposed by the HTTP kioslave"
 msgstr ""
 
 #. +> trunk5
-#: src/kcms/kio/useragent.desktop:139
+#: src/kcms/kio/useragent.desktop:140
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
 
 #. +> trunk5
-#: src/kcms/webshortcuts/webshortcuts.desktop:14
+#: src/kcms/webshortcuts/webshortcuts.desktop:13
 #, fuzzy
 msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr "തെരച്ചില്‍ കീവാക്കുകളുടെ അരിപ്പകള്‍"
 
 #. +> trunk5
-#: src/kcms/webshortcuts/webshortcuts.desktop:28
+#: src/kcms/webshortcuts/webshortcuts.desktop:41
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "വെബിലെ അടുത്തുപയോഗിച്ച താളുകള്‍ക്കുള്ള സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
 
 #. +> trunk5
-#: src/kcms/webshortcuts/webshortcuts.desktop:42
+#: src/kcms/webshortcuts/webshortcuts.desktop:69
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -518,37 +518,37 @@ msgid "Network Proxy Configuration"
 msgstr "നെപ്പോമുക്ക്/സ്ട്രിഗി സെര്‍വര്‍ ക്രമീകരണം"
 
 #. +> trunk5
-#: src/kpac/proxyscout.notifyrc:55
+#: src/kpac/proxyscout.notifyrc:56
 msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr ""
 
 #. +> trunk5
-#: src/kpac/proxyscout.notifyrc:105
+#: src/kpac/proxyscout.notifyrc:107
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr ""
 
 #. +> trunk5
-#: src/kpac/proxyscout.notifyrc:159
+#: src/kpac/proxyscout.notifyrc:162
 msgctxt "Name"
 msgid "Script Download Error"
 msgstr ""
 
 #. +> trunk5
-#: src/kpac/proxyscout.notifyrc:209
+#: src/kpac/proxyscout.notifyrc:213
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr ""
 
 #. +> trunk5
-#: src/kpac/proxyscout.notifyrc:264
+#: src/kpac/proxyscout.notifyrc:269
 msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr ""
 
 #. +> trunk5
-#: src/kpac/proxyscout.notifyrc:312
+#: src/kpac/proxyscout.notifyrc:318
 #, fuzzy
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
@@ -586,7 +586,7 @@ msgid "Basic Link to File or Directory..."
 msgstr "ഫയല്‍, തട്ടു് മുതലായവയിലേക്കുള്ള ലളിതമായ ലിങ്ക്"
 
 #. +> trunk5
-#: src/new_file_templates/linkPath.desktop:34
+#: src/new_file_templates/linkPath.desktop:37
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr "ഫയല്‍ അല്ലെങ്കില്‍‍ തട്ടിലേയ്ക്കുള്ള വഴി നല്‍കുക:"
@@ -598,7 +598,7 @@ msgid "Link to Application..."
 msgstr "പ്രയോഗത്തിലേക്കുള്ള കണ്ണി..."
 
 #. +> trunk5
-#: src/new_file_templates/linkProgram.desktop:83
+#: src/new_file_templates/linkProgram.desktop:84
 msgctxt "Comment"
 msgid "New Link to Application"
 msgstr "പുതിയ പ്രയോഗത്തിലേക്കുള്ള കണ്ണി..."
@@ -717,7 +717,7 @@ msgid "Arch Linux Package Search"
 msgstr "ഡെബിയന്‍ പാക്കേജുകള്‍ക്കുള്ള തെരയുക"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:46
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:48
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
@@ -731,7 +731,7 @@ msgid "ArchWiki"
 msgstr "വിക്കിയ"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:27
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:35
 #, fuzzy
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -805,7 +805,7 @@ msgid "KDE Bugs"
 msgstr "കെഡിഇ ഫോറങ്ങള്‍"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/bug.desktop:24
+#: src/urifilters/ikws/searchproviders/bug.desktop:33
 #, fuzzy
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -946,7 +946,7 @@ msgid "Debian Package Search"
 msgstr "ഡെബിയന്‍ പാക്കേജുകള്‍ക്കുള്ള തെരയുക"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/deb.desktop:92
+#: src/urifilters/ikws/searchproviders/deb.desktop:93
 #, fuzzy
 msgctxt "Query"
 msgid "https://packages.debian.org/\\\\{@}"
@@ -959,7 +959,7 @@ msgid "DeepL"
 msgstr ""
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/deepl.desktop:22
+#: src/urifilters/ikws/searchproviders/deepl.desktop:32
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
@@ -1050,7 +1050,7 @@ msgid "Ecosia search engine"
 msgstr "എക്കോഷ്യ തെരച്ചില്‍ എഞ്ചിന്‍"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/ecosia.desktop:74
+#: src/urifilters/ikws/searchproviders/ecosia.desktop:75
 #, fuzzy
 msgctxt "Query"
 msgid "https://ecosia.org/search.php?q=\\\\{@}&meta=normal"
@@ -1069,7 +1069,7 @@ msgid "WordReference.com Translation: English to Spanish"
 msgstr "WordReference.com പരിഭാഷ: ഇംഗ്ലീഷില്‍ നിന്നും സ്പാനിഷിലേയ്ക്കു്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/en2es.desktop:93
+#: src/urifilters/ikws/searchproviders/en2es.desktop:94
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/translation.asp?tranword=\\\\{@}"
@@ -1082,7 +1082,7 @@ msgid "WordReference.com Translation: English to French"
 msgstr "WordReference.com പരിഭാഷ: ഇംഗ്ലീഷില്‍ നിന്നും ഫ്രഞ്ചിലേയ്ക്കു്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/en2fr.desktop:93
+#: src/urifilters/ikws/searchproviders/en2fr.desktop:94
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.wordreference.com/fr/Translation.asp?enfr=\\\\{@}"
@@ -1095,7 +1095,7 @@ msgid "WordReference.com Translation: English to Italian"
 msgstr "WordReference.com പരിഭാഷ: ഇംഗ്ലീഷില്‍ നിന്നും ഇറ്റാലിയനിലേയ്ക്കു്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/en2it.desktop:93
+#: src/urifilters/ikws/searchproviders/en2it.desktop:94
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.wordreference.com/it/translation.asp?enit=\\\\{@}"
@@ -1108,7 +1108,7 @@ msgid "WordReference.com Translation: Spanish to English"
 msgstr "WordReference.com പരിഭാഷ: സ്പാനിഷില്‍ നിന്നും ഇംഗ്ലീഷിലേയ്ക്കു്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/es2en.desktop:93
+#: src/urifilters/ikws/searchproviders/es2en.desktop:94
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.wordreference.com/es/en/translation.asp?spen=\\\\{@}"
@@ -1194,7 +1194,7 @@ msgid "WordReference.com Translation: French to English"
 msgstr "WordReference.com പരിഭാഷ: ഫ്രഞ്ചില്‍ നിന്നും ഇംഗ്ലീഷിലേയ്ക്കു്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/fr2en.desktop:93
+#: src/urifilters/ikws/searchproviders/fr2en.desktop:94
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.wordreference.com/fr/en/translation.asp?fren=\\\\{@}"
@@ -1208,7 +1208,7 @@ msgid "Freecode"
 msgstr "ഗ്രീസ്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/freecode.desktop:60
+#: src/urifilters/ikws/searchproviders/freecode.desktop:61
 #, fuzzy
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
@@ -1259,7 +1259,7 @@ msgid "GitLab"
 msgstr ""
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:40
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:43
 #, fuzzy
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
@@ -1285,7 +1285,7 @@ msgid "Google Advanced Search"
 msgstr "ഗൂഗിളില്‍ തിരയുക"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/google_advanced.desktop:95
+#: src/urifilters/ikws/searchproviders/google_advanced.desktop:96
 #, fuzzy
 msgctxt "Query"
 msgid ""
@@ -1368,7 +1368,7 @@ msgid "Google Maps"
 msgstr "ഗൂഗിള്‍ കൂട്ടങ്ങള്‍"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/google_maps.desktop:74
+#: src/urifilters/ikws/searchproviders/google_maps.desktop:73
 #, fuzzy
 msgctxt "Query"
 msgid "https://maps.google.com/maps?q=\\\\{@}&ie=UTF8&iwloc=addr"
@@ -1408,7 +1408,7 @@ msgid "Google Shopping"
 msgstr "യാഹൂ ഷോപ്പിങ്ങ്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:59
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:60
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
@@ -1422,7 +1422,7 @@ msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr "കറ്റാലന്‍ ഭാഷയുടെ മഹത്തായ നിഘണ്ടു (ഗ്രാന്‍ എന്‍സൈക്ലോപീഡിയ കറ്റാലാന)"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/grec.desktop:48
+#: src/urifilters/ikws/searchproviders/grec.desktop:49
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
@@ -1434,7 +1434,7 @@ msgid "HyperDictionary.com"
 msgstr "HyperDictionary.com"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:96
+#: src/urifilters/ikws/searchproviders/hyperdictionary.desktop:97
 msgctxt "Query"
 msgid "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
 msgstr "http://www.hyperdictionary.com/search.aspx?define=\\\\{@}"
@@ -1510,7 +1510,7 @@ msgid "WordReference.com Translation: Italian to English"
 msgstr "WordReference.com പരിഭാഷ: ഇറ്റാലിയനില്‍ നിന്നും ഇംഗ്ലീഷിലേയ്ക്കു്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/it2en.desktop:93
+#: src/urifilters/ikws/searchproviders/it2en.desktop:94
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.wordreference.com/it/en/translation.asp?iten=\\\\{@}"
@@ -1553,7 +1553,7 @@ msgid "KDE API Documentation"
 msgstr "കെഡിഇ എപിഐ വിവരണം"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/kde.desktop:96
+#: src/urifilters/ikws/searchproviders/kde.desktop:97
 #, fuzzy
 msgctxt "Query"
 msgid "https://api.kde.org/classmapper.php?class=\\\\{@}"
@@ -1566,7 +1566,7 @@ msgid "KDE App Search"
 msgstr "കെഡിഇയുടെ പ്രയോഗങ്ങള്‍ക്കുള്ള തെരച്ചില്‍"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/kde_apps.desktop:95
+#: src/urifilters/ikws/searchproviders/kde_apps.desktop:96
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.kde-apps.org/content/search.php?search=Search&name=\\\\{@}"
@@ -1579,7 +1579,7 @@ msgid "KDE Forums"
 msgstr "കെഡിഇ ഫോറങ്ങള്‍"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/kde_forums.desktop:74
+#: src/urifilters/ikws/searchproviders/kde_forums.desktop:75
 #, fuzzy
 msgctxt "Query"
 msgid ""
@@ -1609,7 +1609,7 @@ msgid "KDE TechBase"
 msgstr "കെഡിഇ ടെക്ക്ബേസ്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:73
+#: src/urifilters/ikws/searchproviders/kde_techbase.desktop:74
 #, fuzzy
 msgctxt "Query"
 msgid "https://techbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1622,7 +1622,7 @@ msgid "KDE UserBase"
 msgstr "കെഡിഇ യൂസര്‍ബേസ്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:74
+#: src/urifilters/ikws/searchproviders/kde_userbase.desktop:75
 #, fuzzy
 msgctxt "Query"
 msgid "https://userbase.kde.org/Special:Search?search=\\\\{@}&fulltext=Search"
@@ -1877,7 +1877,7 @@ msgid "Qt4 Documentation"
 msgstr "ക്യട്ടി3-നു് ഓണ്‍ലൈനായുള്ള സഹായക്കുറിപ്പുകള്‍"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/qt4.desktop:60
+#: src/urifilters/ikws/searchproviders/qt4.desktop:62
 #, fuzzy
 msgctxt "Query"
 msgid "https://doc.qt.io/archives/qt-4.8/search-results.html?q=\\\\{@}"
@@ -1890,7 +1890,7 @@ msgid "Qwant"
 msgstr ""
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/qwant.desktop:48
+#: src/urifilters/ikws/searchproviders/qwant.desktop:50
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
@@ -1904,7 +1904,7 @@ msgid "Qwant Images"
 msgstr "യാഹൂ ചിത്രങ്ങള്‍"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:47
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:48
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
@@ -1917,7 +1917,7 @@ msgid "Qwant News"
 msgstr ""
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:47
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:48
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
@@ -1931,7 +1931,7 @@ msgid "Qwant Shopping"
 msgstr "യാഹൂ ഷോപ്പിങ്ങ്"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:47
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:48
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
@@ -1944,7 +1944,7 @@ msgid "Qwant Social"
 msgstr ""
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:47
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:48
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
@@ -1958,7 +1958,7 @@ msgid "Qwant Videos"
 msgstr "യാഹൂ വീഡിയോ"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:48
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:49
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
@@ -1985,7 +1985,7 @@ msgid "Dictionary of the Galician Academy (RAG)"
 msgstr "സ്പാനിഷ് അക്കാദമിയുടെ (RAE) നിഘണ്ടു"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/rag.desktop:57
+#: src/urifilters/ikws/searchproviders/rag.desktop:58
 msgctxt "Query"
 msgid "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
 msgstr ""
@@ -2037,7 +2037,7 @@ msgid "Soundcloud"
 msgstr "ശബ്ദം"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:46
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:47
 #, fuzzy
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"

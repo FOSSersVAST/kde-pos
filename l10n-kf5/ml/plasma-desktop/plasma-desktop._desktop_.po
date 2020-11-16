@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-30 15:01+0200\n"
+"POT-Creation-Date: 2020-11-15 11:38+0100\n"
 "PO-Revision-Date: 2020-02-23 17:49+0000\n"
 "Last-Translator: amrithandh m <amrithanadhm@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -28,7 +28,7 @@ msgid "Icons-only Task Manager"
 msgstr "ചിഹ്നങ്ങൾക്കായുള്ള ടാസ്ക് മാനേജര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: applets/icontasks/metadata.desktop:52
+#: applets/icontasks/metadata.desktop:53
 #: applets/taskmanager/package/metadata.desktop:84
 msgctxt "Comment"
 msgid "Switch between running applications"
@@ -41,7 +41,7 @@ msgid "Application Menu"
 msgstr "പ്രയോഗസൂചിക"
 
 #. +> trunk5 stable5 plasma5lts
-#: applets/kicker/package/metadata.desktop:55
+#: applets/kicker/package/metadata.desktop:56
 msgctxt "Comment"
 msgid "A launcher based on cascading popup menus"
 msgstr ""
@@ -71,13 +71,13 @@ msgid "Input Method Panel"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: applets/kimpanel/package/metadata.desktop:45
+#: applets/kimpanel/package/metadata.desktop:47
 msgctxt "Comment"
 msgid "A generic input method panel"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: applets/kimpanel/package/metadata.desktop:86
+#: applets/kimpanel/package/metadata.desktop:89
 msgctxt "Keywords"
 msgid "Input;IM;"
 msgstr ""
@@ -89,7 +89,7 @@ msgid "Minimize all Windows"
 msgstr "എല്ലാ ജാലകങ്ങളും ചെറുതാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: applets/minimizeall/package/metadata.desktop:38
+#: applets/minimizeall/package/metadata.desktop:39
 msgctxt "Comment"
 msgid "Shows the desktop by minimizing all windows"
 msgstr ""
@@ -108,7 +108,7 @@ msgstr "വര്‍ച്ചുവല്‍ പണിയിടങ്ങള്�
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/showActivityManager/package/metadata.desktop:2
-#: kcms/activities/kcm_activities.desktop:15
+#: kcms/activities/kcm_activities.desktop:14
 msgctxt "Name"
 msgid "Activities"
 msgstr "പ്രവര്‍ത്തികള്‍"
@@ -127,7 +127,7 @@ msgid "Show Desktop"
 msgstr "പണിയിടം കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: applets/showdesktop/package/metadata.desktop:38
+#: applets/showdesktop/package/metadata.desktop:39
 msgctxt "Comment"
 msgid "Show the Plasma desktop"
 msgstr "പ്ലാസ്മ പണിയിടം കാണിക്കുക"
@@ -164,7 +164,7 @@ msgstr "തുറന്ന ജാലകങ്ങളുടെ പട്ടിക 
 
 #. +> trunk5 stable5 plasma5lts
 #: containments/desktop/package/metadata.desktop:2
-#: desktoppackage/metadata.desktop:48
+#: desktoppackage/metadata.desktop:49
 msgctxt "Name"
 msgid "Desktop"
 msgstr "പണിയിടം"
@@ -183,7 +183,7 @@ msgid "Folder View"
 msgstr "അക്ഷരസഞ്ചയദര്‍ശിനി"
 
 #. +> trunk5 stable5 plasma5lts
-#: containments/folder/metadata.desktop:49
+#: containments/folder/metadata.desktop:50
 msgctxt "Comment"
 msgid "Display the contents of folders"
 msgstr ""
@@ -217,6 +217,13 @@ msgid "Desktop view furniture"
 msgstr "പണിയിടം വലുതാക്കാന്‍"
 
 #. +> trunk5 stable5 plasma5lts
+#: kaccess/kaccess.desktop:3 kcms/access/kcm_access.desktop:13
+#: kcms/access/package/metadata.desktop:2
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "പ്രാപ്യത"
+
+#. +> stable5 plasma5lts
 #: kaccess/kaccess.desktop:3
 msgctxt "Name"
 msgid "KDE Accessibility Tool"
@@ -348,20 +355,15 @@ msgctxt "Comment"
 msgid "Mouse keys has been enabled or disabled"
 msgstr "മൌസ് കീ പ്രവര്‍ത്തന സജ്ജം അല്ല്ലെങ്കില്‍ പ്രവര്‍ത്തനരഹിതം ആക്കിയിരിക്കുന്നു"
 
-#. +> trunk5 stable5 plasma5lts
-#: kcms/access/kcmaccess.desktop:14
-msgctxt "Name"
-msgid "Accessibility"
-msgstr "പ്രാപ്യത"
-
-#. +> trunk5 stable5 plasma5lts
-#: kcms/access/kcmaccess.desktop:109
+#. +> trunk5
+#: kcms/access/kcm_access.desktop:108 kcms/access/package/metadata.desktop:96
+#, fuzzy
 msgctxt "Comment"
-msgid "Accessibility Options"
+msgid "Configure Accessibility Options"
 msgstr "പ്രാപ്യതാസാധ്യതകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/access/kcmaccess.desktop:160
+#: kcms/access/kcm_access.desktop:126
 msgctxt "X-KDE-Keywords"
 msgid ""
 "access,accessibility,deaf,impaired,hearing,hearing loss,bell,audible bell,"
@@ -371,34 +373,31 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/activities/kcm_activities.desktop:77
+#: kcms/activities/kcm_activities.desktop:76
 msgctxt "Comment"
 msgid "Activities help you to focus on a specific task"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/autostart/autostart.desktop:14
 #: kcms/autostart/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Autostart"
 msgstr "ഓട്ടോസ്റ്റാര്‍ട്ട്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/autostart/autostart.desktop:105
 #: kcms/autostart/package/metadata.desktop:92
 msgctxt "Comment"
 msgid "Automatically Started Applications"
 msgstr "താനേ തുടങ്ങിയ പ്രയോഗങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/autostart/autostart.desktop:155
-#: kcms/autostart/package/metadata.desktop:150
+#: kcms/autostart/package/metadata.desktop:151
 msgctxt "X-KDE-Keywords"
 msgid "Autostart Manager,autostart,startup,system startup,plasma start,cron"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/baloo/kcm_baloofile.desktop:15
+#: kcms/baloo/kcm_baloofile.desktop:14
 msgctxt "Name"
 msgid "File Search"
 msgstr "ഫയൽ തിരയുക"
@@ -410,7 +409,7 @@ msgid "Configure File Search"
 msgstr "ഫയൽ തിരച്ചിൽ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/baloo/kcm_baloofile.desktop:111
+#: kcms/baloo/kcm_baloofile.desktop:112
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo"
 msgstr ""
@@ -422,19 +421,19 @@ msgid "Search"
 msgstr "തിരയുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/baloo/package/metadata.desktop:36
+#: kcms/baloo/package/metadata.desktop:37
 msgctxt "Comment"
 msgid "Configure the File Indexer"
 msgstr "ഫയൽ സൂചിക ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/componentchooser/componentchooser.desktop:14
+#: kcms/componentchooser/componentchooser.desktop:13
 msgctxt "Name"
 msgid "Default Applications"
 msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/componentchooser/componentchooser.desktop:100
+#: kcms/componentchooser/componentchooser.desktop:99
 #, fuzzy
 msgctxt "Comment"
 msgid "Default Applications"
@@ -473,7 +472,7 @@ msgid "File Manager"
 msgstr "ടാസ്ക് മാനേജര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:55
+#: kcms/componentchooser/componentservices/kcm_filemanager.desktop:56
 msgctxt "Comment"
 msgid ""
 "Here you can configure your default file manager. The entries in the K menu "
@@ -518,13 +517,13 @@ msgstr ""
 "അനുകരണം തുടങ്ങാന്‍ ആവശ്യമുള്ള എല്ലാ കെഡിഇ പ്രയോഗങ്ങളും ഇതു് മാനിയ്ക്കണം."
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/dateandtime/clock.desktop:16
+#: kcms/dateandtime/clock.desktop:15
 msgctxt "Name"
 msgid "Date & Time"
 msgstr "തീയതിയും സമയവും"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/dateandtime/clock.desktop:110
+#: kcms/dateandtime/clock.desktop:109
 #, fuzzy
 msgctxt "Comment"
 msgid "Date and Time"
@@ -556,7 +555,7 @@ msgid "System policies prevent you from saving the date/time settings."
 msgstr "സിസ്റ്റത്തിലെ നയങ്ങള്‍ തിയ്യതി/സമയം ക്രമീകരിയ്ക്കുന്നതില്‍ നിന്നും നിങ്ങളെ തടയുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/desktoppaths/desktoppath.desktop:13
+#: kcms/desktoppaths/desktoppath.desktop:12
 #, fuzzy
 msgctxt "Name"
 msgid "Locations"
@@ -568,8 +567,16 @@ msgctxt "Comment"
 msgid "Location for Personal Files"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
-#: kcms/desktoppaths/desktoppath.desktop:104
+#. +> trunk5
+#: kcms/desktoppaths/desktoppath.desktop:105
+msgctxt "X-KDE-Keywords"
+msgid ""
+"konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
+"downloads,music,documents,movies,pictures"
+msgstr ""
+
+#. +> stable5 plasma5lts
+#: kcms/desktoppaths/desktoppath.desktop:106
 msgctxt "X-KDE-Keywords"
 msgid ""
 "konqueror,dolphin,files,filemanager,path, paths,desktop,directories,"
@@ -577,7 +584,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/formats/formats.desktop:14
+#: kcms/formats/formats.desktop:13
 msgctxt "Name"
 msgid "Formats"
 msgstr ""
@@ -589,7 +596,7 @@ msgid "Numeric, Currency and Time Formats"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/formats/formats.desktop:111
+#: kcms/formats/formats.desktop:113
 msgctxt "X-KDE-Keywords"
 msgid ""
 "language,translation,number format,locale,Country,charsets,character sets,"
@@ -599,14 +606,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/hardware/joystick/joystick.desktop:17
+#: kcms/hardware/joystick/joystick.desktop:15
 #, fuzzy
 msgctxt "Comment"
 msgid "Calibrate Game Controller"
 msgstr "തീയതിയും സമയവും നിയന്ത്രിയ്ക്കുന്ന ഭാഗം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/hardware/joystick/joystick.desktop:50
+#: kcms/hardware/joystick/joystick.desktop:49
 #, fuzzy
 msgctxt "Name"
 msgid "Game Controller"
@@ -619,13 +626,13 @@ msgid "joystick,gamepad,controller"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/input/mouse.desktop:16 kcms/mouse/mouse.desktop:16
+#: kcms/input/mouse.desktop:15 kcms/mouse/mouse.desktop:15
 msgctxt "Name"
 msgid "Mouse"
 msgstr "മൌസ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/input/mouse.desktop:110 kcms/mouse/mouse.desktop:110
+#: kcms/input/mouse.desktop:109 kcms/mouse/mouse.desktop:109
 msgctxt "Comment"
 msgid "Mouse Controls"
 msgstr ""
@@ -642,46 +649,46 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/kded/kcmkded.desktop:14 kcms/kded/package/metadata.desktop:2
+#: kcms/kded/kcmkded.desktop:13 kcms/kded/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Background Services"
 msgstr ""
 
 #. +> plasma5lts
-#: kcms/kded/kcmkded.desktop:60
+#: kcms/kded/kcmkded.desktop:61
 msgctxt "Comment"
 msgid "Background Services"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kcms/kded/kcmkded.desktop:61 kcms/kded/package/metadata.desktop:49
+#: kcms/kded/kcmkded.desktop:61 kcms/kded/package/metadata.desktop:50
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure background services"
 msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/kded/kcmkded.desktop:92
+#: kcms/kded/kcmkded.desktop:94
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "KDED,Daemon,Services"
 msgstr "ഡോള്‍ഫിന്‍ സേവനങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/keyboard/kcm_keyboard.desktop:17
+#: kcms/keyboard/kcm_keyboard.desktop:16
 msgctxt "Name"
 msgid "Keyboard"
 msgstr "കീബോര്‍ഡ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/keyboard/kcm_keyboard.desktop:110
+#: kcms/keyboard/kcm_keyboard.desktop:109
 #, fuzzy
 msgctxt "Comment"
 msgid "Keyboard Hardware and Layout"
 msgstr "കീബോര്‍ഡ് വിന്യാസം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/keyboard/kcm_keyboard.desktop:159
+#: kcms/keyboard/kcm_keyboard.desktop:160
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keyboard,Keyboard repeat,Click volume,Input Devices,repeat,volume,NumLock,"
@@ -703,36 +710,22 @@ msgctxt "Comment"
 msgid "Enables switching keyboard layout through shortcuts or system tray"
 msgstr ""
 
-#. +> trunk5
-#: kcms/keys/kcm_keys.desktop:14 kcms/keys/package/metadata.desktop:2
+#. +> trunk5 stable5
+#: kcms/keys/kcm_keys.desktop:13 kcms/keys/package/metadata.desktop:2
 #, fuzzy
 msgctxt "Name"
 msgid "Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
-#. +> stable5 plasma5lts
-#: kcms/keys/kcm_keys.desktop:14 kcms/keys/package/metadata.desktop:2
-#, fuzzy
-msgctxt "Name"
-msgid "Global Shortcuts"
-msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
-
-#. +> trunk5
-#: kcms/keys/kcm_keys.desktop:31 kcms/keys/package/metadata.desktop:19
+#. +> trunk5 stable5
+#: kcms/keys/kcm_keys.desktop:45 kcms/keys/package/metadata.desktop:34
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure Keyboard Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
-#. +> stable5 plasma5lts
-#: kcms/keys/kcm_keys.desktop:58 kcms/keys/package/metadata.desktop:46
-#, fuzzy
-msgctxt "Comment"
-msgid "Global Keyboard Shortcuts"
-msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
-
 #. +> trunk5 stable5 plasma5lts
-#: kcms/keys/kcm_keys.desktop:48
+#: kcms/keys/kcm_keys.desktop:76
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
@@ -740,26 +733,26 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/ksmserver/kcmsmserver.desktop:14
+#: kcms/ksmserver/kcmsmserver.desktop:13
 #, fuzzy
 msgctxt "Name"
 msgid "Desktop Session"
 msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/ksmserver/kcmsmserver.desktop:63
+#: kcms/ksmserver/kcmsmserver.desktop:64
 msgctxt "Comment"
 msgid "Desktop Session Login and Logout"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/ksmserver/kcmsmserver.desktop:109
+#: kcms/ksmserver/kcmsmserver.desktop:111
 msgctxt "X-KDE-Keywords"
 msgid "ksmserver,session,logout,confirmation,save,restore,efi,uefi,bios"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/ksplash/kcm_splashscreen.desktop:15
+#: kcms/ksplash/kcm_splashscreen.desktop:14
 #: kcms/ksplash/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Splash Screen"
@@ -767,14 +760,14 @@ msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/ksplash/kcm_splashscreen.desktop:65
-#: kcms/ksplash/package/metadata.desktop:52
+#: kcms/ksplash/package/metadata.desktop:53
 #, fuzzy
 msgctxt "Comment"
 msgid "Choose splash screen theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/ksplash/kcm_splashscreen.desktop:101
+#: kcms/ksplash/kcm_splashscreen.desktop:102
 msgctxt "X-KDE-Keywords"
 msgid "splash screen,splash theme,startup"
 msgstr ""
@@ -786,14 +779,14 @@ msgid "Splash Screens"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/launch/kcm_launchfeedback.desktop:14
+#: kcms/launch/kcm_launchfeedback.desktop:13
 #: kcms/launch/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Launch Feedback"
 msgstr "അഭിപ്രായങ്ങള്‍ ലഭ്യമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/launch/kcm_launchfeedback.desktop:102
+#: kcms/launch/kcm_launchfeedback.desktop:101
 #: kcms/launch/package/metadata.desktop:90
 #, fuzzy
 msgctxt "Comment"
@@ -820,27 +813,27 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/nightcolor/kcm_nightcolor.desktop:16
+#: kcms/nightcolor/kcm_nightcolor.desktop:15
 #: kcms/nightcolor/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Night Color"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/nightcolor/kcm_nightcolor.desktop:56
-#: kcms/nightcolor/package/metadata.desktop:42
+#: kcms/nightcolor/kcm_nightcolor.desktop:57
+#: kcms/nightcolor/package/metadata.desktop:44
 msgctxt "Comment"
 msgid "Adjust color temperature at night to reduce eye strain"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/nightcolor/kcm_nightcolor.desktop:97
+#: kcms/nightcolor/kcm_nightcolor.desktop:99
 msgctxt "X-KDE-Keywords"
 msgid "kwin,window,manager,night,colors,redshift,eyes"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/notifications/kcm_notifications.desktop:14
+#: kcms/notifications/kcm_notifications.desktop:13
 #: kcms/notifications/package/metadata.desktop:2
 #, fuzzy
 msgctxt "Name"
@@ -849,20 +842,20 @@ msgstr "അറിയിപ്പുകള്‍ കൈകാര്യം ചെ�
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/notifications/kcm_notifications.desktop:65
-#: kcms/notifications/package/metadata.desktop:53
+#: kcms/notifications/package/metadata.desktop:54
 #, fuzzy
 msgctxt "Comment"
 msgid "Event Notifications and Actions"
 msgstr "സിസ്റ്റത്തിന്റെ മണിയ്ക്കുള്ള ക്രമീകരണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/qtquicksettings/qtquicksettings.desktop:14
+#: kcms/qtquicksettings/qtquicksettings.desktop:11
 msgctxt "Name"
 msgid "Plasma Renderer"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/runners/kcm_plasmasearch.desktop:13
+#: kcms/runners/kcm_plasmasearch.desktop:12
 msgctxt "Name"
 msgid "KRunner"
 msgstr ""
@@ -875,7 +868,7 @@ msgid "Configure Search Bar"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/runners/kcm_plasmasearch.desktop:90
+#: kcms/runners/kcm_plasmasearch.desktop:91
 msgctxt "X-KDE-Keywords"
 msgid "Search, File, Baloo, Runner, krunner"
 msgstr ""
@@ -1127,13 +1120,13 @@ msgid "File Path"
 msgstr "ഫയല്‍ വഴി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/solid_actions/solid-actions.desktop:13
+#: kcms/solid_actions/solid-actions.desktop:12
 msgctxt "Name"
 msgid "Device Actions"
 msgstr "ഉപകരണത്തിനുള്ള പ്രവൃത്തികള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/solid_actions/solid-actions.desktop:85
+#: kcms/solid_actions/solid-actions.desktop:84
 #, fuzzy
 msgctxt "Comment"
 msgid "Manage actions available to the user when connecting new devices"
@@ -1142,7 +1135,7 @@ msgstr ""
 "ചെയ്യാനുള്ള ക്രമീകരണായുധം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/solid_actions/solid-actions.desktop:139
+#: kcms/solid_actions/solid-actions.desktop:138
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "Solid Devices Actions"
@@ -1155,7 +1148,7 @@ msgid "Solid Device Type"
 msgstr "സോളിഡ് ഉപകരണതരം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/spellchecking/spellchecking.desktop:14
+#: kcms/spellchecking/spellchecking.desktop:13
 msgctxt "Name"
 msgid "Spell Check"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധക"
@@ -1167,7 +1160,7 @@ msgid "Spell Checker Dictionaries and Options"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/spellchecking/spellchecking.desktop:113
+#: kcms/spellchecking/spellchecking.desktop:114
 msgctxt "X-KDE-Keywords"
 msgid "Spell"
 msgstr ""
@@ -1185,14 +1178,14 @@ msgid "Shows current touchpad state"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/applet/qml/metadata.desktop:47
+#: kcms/touchpad/applet/qml/metadata.desktop:48
 msgctxt "Keywords"
 msgid "Touchpad"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/applet/qml/metadata.desktop:91
-#: kcms/touchpad/kcm/kcm_touchpad.desktop:16
+#: kcms/touchpad/applet/qml/metadata.desktop:94
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:15
 #: kcms/touchpad/kded/kcm_touchpad.notifyrc:2
 #: kcms/touchpad/kded/kded_touchpad.desktop:9
 msgctxt "Name"
@@ -1200,87 +1193,87 @@ msgid "Touchpad"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/kcm/kcm_touchpad.desktop:61
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:62
 #, fuzzy
 msgctxt "Comment"
 msgid "Touchpad settings"
 msgstr "മൌസിന്റെ സജ്ജീകരണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/kcm/kcm_touchpad.desktop:106
+#: kcms/touchpad/kcm/kcm_touchpad.desktop:108
 msgctxt "X-KDE-Keywords"
 msgid "Touchpad,Synaptics"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:48
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:50
 msgctxt "Comment"
 msgid "Touchpad"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:95
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:99
 msgctxt "Name"
 msgid "Touchpad was disabled"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:138
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:143
 msgctxt "Comment"
 msgid "Touchpad was disabled because mouse is detected"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:185
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:191
 msgctxt "Name"
 msgid "Touchpad was enabled"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/kded/kcm_touchpad.notifyrc:228
+#: kcms/touchpad/kded/kcm_touchpad.notifyrc:235
 msgctxt "Comment"
 msgid "Touchpad was enabled because the mouse was unplugged"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/touchpad/kded/kded_touchpad.desktop:54
+#: kcms/touchpad/kded/kded_touchpad.desktop:56
 msgctxt "Comment"
 msgid "Enables or disables touchpad"
 msgstr ""
 
-#. +> trunk5
-#: kcms/users/kcm_users.desktop:10
+#. +> trunk5 stable5
+#: kcms/users/kcm_users.desktop:9
 msgctxt "Name"
 msgid "Users"
 msgstr ""
 
-#. +> trunk5
-#: kcms/users/kcm_users.desktop:34
+#. +> trunk5 stable5
+#: kcms/users/kcm_users.desktop:41
 #, fuzzy
 msgctxt "Comment"
 msgid "Manage user accounts"
 msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍."
 
-#. +> trunk5
-#: kcms/users/kcm_users.desktop:58
+#. +> trunk5 stable5
+#: kcms/users/kcm_users.desktop:72
 msgctxt "X-KDE-Keywords"
 msgid "user,account"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: kcms/users/package/metadata.desktop:2
 msgctxt "Name"
 msgid "User Accounts"
 msgstr ""
 
-#. +> trunk5
-#: kcms/users/package/metadata.desktop:26
+#. +> trunk5 stable5
+#: kcms/users/package/metadata.desktop:33
 msgctxt "Comment"
 msgid "Manage users"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/workspaceoptions/kcm_workspace.desktop:11
+#: kcms/workspaceoptions/kcm_workspace.desktop:10
 #: kcms/workspaceoptions/package/metadata.desktop:2
 msgctxt "Name"
 msgid "General Behavior"
@@ -1288,14 +1281,14 @@ msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/workspaceoptions/kcm_workspace.desktop:47
-#: kcms/workspaceoptions/package/metadata.desktop:38
+#: kcms/workspaceoptions/package/metadata.desktop:39
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure general workspace behavior"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/workspaceoptions/kcm_workspace.desktop:82
+#: kcms/workspaceoptions/kcm_workspace.desktop:83
 msgctxt "X-KDE-Keywords"
 msgid ""
 "plasma,workspace,shell,formfactor,dashboard,tooltips,informational tips,"
@@ -1322,7 +1315,7 @@ msgid "Application Menu Bar"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
 
 #. +> trunk5 stable5 plasma5lts
-#: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:45
+#: layout-templates/org.kde.plasma.desktop.appmenubar/metadata.desktop:46
 msgctxt "Comment"
 msgid "Panel containing the global menu applet"
 msgstr ""
@@ -1335,7 +1328,7 @@ msgid "Default Panel"
 msgstr "സഹജമായ പ്രയോഗങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:52
+#: layout-templates/org.kde.plasma.desktop.defaultPanel/metadata.desktop:53
 msgctxt "Comment"
 msgid ""
 "Default panel featuring application launcher, task manager and system tray"
@@ -1355,7 +1348,7 @@ msgid "KWin"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: runners/kwin/plasma-runner-kwin.desktop:44
+#: runners/kwin/plasma-runner-kwin.desktop:45
 #, fuzzy
 msgctxt "Comment"
 msgid "Interact with the Plasma Compositor"
@@ -1374,7 +1367,7 @@ msgid "Interact with the Plasma desktop shell"
 msgstr "പ്ലാസ്മ പണിയിട ഷെല്ലുമായി പരസ്പരവിനിമയം നടത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:9
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:8
 msgctxt "X-KDE-Keywords"
 msgid "Mount,Removable,Devices,Automatic"
 msgstr ""
@@ -1387,7 +1380,7 @@ msgid "Removable Devices"
 msgstr "നീക്കം ചെയ്യാവുന്ന"
 
 #. +> trunk5 stable5 plasma5lts
-#: solid-device-automounter/kcm/device_automounter_kcm.desktop:96
+#: solid-device-automounter/kcm/device_automounter_kcm.desktop:97
 msgctxt "Comment"
 msgid "Configure automatic handling of removable storage media"
 msgstr ""
@@ -1399,7 +1392,7 @@ msgid "Removable Device Automounter"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: solid-device-automounter/kded/device_automounter.desktop:52
+#: solid-device-automounter/kded/device_automounter.desktop:53
 msgctxt "Comment"
 msgid "Automatically mounts devices as needed"
 msgstr ""
@@ -1412,7 +1405,7 @@ msgid "Declarative Toolbox"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: toolboxes/desktoptoolbox/metadata.desktop:48
+#: toolboxes/desktoptoolbox/metadata.desktop:49
 msgctxt "Comment"
 msgid "Manage Plasma"
 msgstr ""
@@ -1425,7 +1418,7 @@ msgid "Panel Toolbox"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: toolboxes/paneltoolbox/metadata.desktop:53
+#: toolboxes/paneltoolbox/metadata.desktop:54
 msgctxt "Comment"
 msgid "Manage Plasma panel"
 msgstr "പ്ലാസ്മയുടെ സഹായക്കുറിപ്പു്"
@@ -1445,56 +1438,62 @@ msgid "Panel toolbox"
 msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
 
 #. +> stable5 plasma5lts
+#: kcms/access/kcmaccess.desktop:109
+msgctxt "Comment"
+msgid "Accessibility Options"
+msgstr "പ്രാപ്യതാസാധ്യതകൾ"
+
+#. +> plasma5lts
 #: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:2
 msgctxt "Name"
 msgid "DataEngine for Kimpanel"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:40
+#. +> plasma5lts
+#: dataengines/kimpanel/plasma-dataengine-kimpanel.desktop:41
 msgctxt "Comment"
 msgid "DataEngine for Kimpanel"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/colors/colorschemes.knsrc:2
 #, fuzzy
 msgctxt "Name"
 msgid "Color Schemes"
 msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:2
 msgctxt "GenericName"
 msgid "Color scheme editor"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:42
+#. +> plasma5lts
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:43
 msgctxt "Name"
 msgid "KColorSchemeEditor"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:83
+#. +> plasma5lts
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:85
 msgctxt "Comment"
 msgid "Plasma color scheme editor"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/colors/kcm_colors.desktop:14 kcms/colors/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Colors"
 msgstr "നിറങ്ങള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/colors/kcm_colors.desktop:107 kcms/colors/package/metadata.desktop:94
 #, fuzzy
 msgctxt "Comment"
 msgid "Choose color scheme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/colors/kcm_colors.desktop:144
 msgctxt "X-KDE-Keywords"
 msgid ""
@@ -1502,7 +1501,7 @@ msgid ""
 "theme"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/cursortheme/kcm_cursortheme.desktop:13
 #: kcms/cursortheme/package/metadata.desktop:2
 #: kcms/cursortheme/xcursor/xcursor.knsrc:2
@@ -1511,77 +1510,77 @@ msgctxt "Name"
 msgid "Cursors"
 msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 
-#. +> stable5 plasma5lts
-#: kcms/cursortheme/kcm_cursortheme.desktop:57
-#: kcms/cursortheme/package/metadata.desktop:45
+#. +> plasma5lts
+#: kcms/cursortheme/kcm_cursortheme.desktop:58
+#: kcms/cursortheme/package/metadata.desktop:46
 #, fuzzy
 msgctxt "Comment"
 msgid "Choose mouse cursor theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
-#. +> stable5 plasma5lts
-#: kcms/cursortheme/kcm_cursortheme.desktop:92
+#. +> plasma5lts
+#: kcms/cursortheme/kcm_cursortheme.desktop:93
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
 "Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:13
 #: kcms/desktoptheme/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Plasma Style"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:47
 #, fuzzy
 msgctxt "Comment"
 msgid "Choose Plasma style"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:81
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "Desktop Theme,Plasma Theme"
 msgstr "പണിയിട പ്രമേയം വിവരങ്ങള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/desktoptheme/package/metadata.desktop:36
 #, fuzzy
 msgctxt "Comment"
 msgid "Choose Plasma theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/desktoptheme/plasma-themes.knsrc:2
 msgctxt "Name"
 msgid "Plasma Styles"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/emoticons/emoticons.desktop:13 kcms/emoticons/emoticons.knsrc:2
 msgctxt "Name"
 msgid "Emoticons"
 msgstr "വികാരചിഹ്നങ്ങള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/emoticons/emoticons.desktop:97
 #, fuzzy
 msgctxt "Comment"
 msgid "Choose emoticon theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/emoticons/emoticons.desktop:132
 #, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid "Emoticons"
 msgstr "വികാരചിഹ്നങ്ങള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/fonts/kcm_fonts.desktop:14 kcms/fonts/package/metadata.desktop:2
 #: kcms/kfontinst/kcmfontinst/kfontinst.knsrc:2
 #: kcms/kfontinst/kio/fonts.desktop:5
@@ -1589,14 +1588,14 @@ msgctxt "Name"
 msgid "Fonts"
 msgstr "അക്ഷരസഞ്ചയങ്ങള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/fonts/kcm_fonts.desktop:107 kcms/fonts/package/metadata.desktop:95
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure user interface fonts"
 msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/fonts/kcm_fonts.desktop:143
 msgctxt "X-KDE-Keywords"
 msgid ""
@@ -1605,95 +1604,109 @@ msgid ""
 "toolbar fonts,character,general fonts"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/icons/icons.knsrc:2 kcms/icons/kcm_icons.desktop:14
 #: kcms/icons/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Icons"
 msgstr "ചിഹ്നങ്ങള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/icons/kcm_icons.desktop:107 kcms/icons/package/metadata.desktop:94
 #, fuzzy
 msgctxt "Comment"
 msgid "Choose icon theme"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/icons/kcm_icons.desktop:142
 msgctxt "X-KDE-Keywords"
 msgid "icons,effects,size,hicolor,locolor"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
+#: kcms/keys/keys.desktop:14
+#, fuzzy
+msgctxt "Name"
+msgid "Global Shortcuts"
+msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
+
+#. +> plasma5lts
+#: kcms/keys/keys.desktop:59
+#, fuzzy
+msgctxt "Comment"
+msgid "Global Keyboard Shortcuts"
+msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
+
+#. +> plasma5lts
 #: kcms/kfontinst/apps/installfont.desktop:7
 msgctxt "Name"
 msgid "Install..."
 msgstr "ഇന്‍‌സ്റ്റോള്‍ ചെയ്യുക..."
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/apps/org.kde.kfontview.desktop:2
 msgctxt "Name"
 msgid "KFontView"
 msgstr "കെഫോണ്ട്‌വ്യൂ"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/apps/org.kde.kfontview.desktop:97
 msgctxt "GenericName"
 msgid "Font Viewer"
 msgstr "അക്ഷരസഞ്ചയദര്‍ശിനി"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/dbus/fontinst.actions:2
 msgctxt "Name"
 msgid "Font Installer"
 msgstr "അക്ഷരസഞ്ചയ ഇന്‍സ്റ്റാളര്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/dbus/fontinst.actions:96
 msgctxt "Name"
 msgid "Manage system-wide fonts."
 msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ നോക്കിനടത്തല്‍."
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/dbus/fontinst.actions:163
 msgctxt "Description"
 msgid "Modifying the system-wide font configuration requires privileges."
 msgstr "സിസ്റ്റത്തിനു് മുഴുവനായുള്ള അക്ഷരസഞ്ചയങ്ങളുടെ ക്രമീകരിണം മാറ്റാന്‍ അനുവാദം ആവശ്യമാണ്."
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:14
 #, fuzzy
 msgctxt "Name"
 msgid "Font Management"
 msgstr "ഫയല്‍ നടത്തിപ്പ്"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:73
 #, fuzzy
 msgctxt "Comment"
 msgid "Install, manage and preview fonts"
 msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക, നോക്കി നടത്തുക അല്ലെങ്കില്‍ കണ്ടുനോക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:109
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/thumbnail/fontthumbnail.desktop:3
 msgctxt "Name"
 msgid "Font Files"
 msgstr "അക്ഷരസഞ്ചയ ഫയലുകള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/kfontinst/viewpart/kfontviewpart.desktop:2
 msgctxt "Name"
 msgid "Font Viewer"
 msgstr "അക്ഷരസഞ്ചയദര്‍ശിനി"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:14
 #: kcms/lookandfeel/package/metadata.desktop:2
 #, fuzzy
@@ -1701,7 +1714,7 @@ msgctxt "Name"
 msgid "Global Theme"
 msgstr "കര്‍സര്‍ ഫയലുകള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:49
 #: kcms/lookandfeel/package/metadata.desktop:37
 #, fuzzy
@@ -1709,68 +1722,68 @@ msgctxt "Comment"
 msgid "Choose global look and feel"
 msgstr "പണിയിട പ്രമേയത്തിന്റെ ഓരോ ഇനവും വെവ്വേറെ തെരഞ്ഞെടുക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/lookandfeel/kcm_lookandfeel.desktop:82
 msgctxt "X-KDE-Keywords"
 msgid "theme, look, feel"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/lookandfeel/lookandfeel.knsrc:2
 #, fuzzy
 msgctxt "Name"
 msgid "Global Themes"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/standard_actions/standard_actions.desktop:14
 #, fuzzy
 msgctxt "Name"
 msgid "Standard Shortcuts"
 msgstr "ആഗോളമായ കീബോര്‍ഡിലെ കുറക്കുവഴികള്‍"
 
-#. +> stable5 plasma5lts
-#: kcms/standard_actions/standard_actions.desktop:58
+#. +> plasma5lts
+#: kcms/standard_actions/standard_actions.desktop:59
 #, fuzzy
 msgctxt "Comment"
 msgid "Standard Keyboard Shortcuts for Applications"
 msgstr "കീബോര്‍ഡിലെ സ്റ്റാന്‍ഡേര്‍ഡ് കുറക്കുവഴികള്‍"
 
-#. +> stable5 plasma5lts
-#: kcms/standard_actions/standard_actions.desktop:105
+#. +> plasma5lts
+#: kcms/standard_actions/standard_actions.desktop:107
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Keys,Global key bindings,Key scheme,Key bindings,shortcuts,application "
 "shortcuts"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/style/gtk2_themes.knsrc:2
 msgctxt "Name"
 msgid "GTK 2.x Themes"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/style/gtk3_themes.knsrc:2
 msgctxt "Name"
 msgid "GTK 3.x Themes"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/style/kcm_style.desktop:16 kcms/style/package/metadata.desktop:2
 #, fuzzy
 msgctxt "Name"
 msgid "Application Style"
 msgstr "പ്രയോഗവിക്ഷേപിണി"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/style/kcm_style.desktop:52 kcms/style/package/metadata.desktop:38
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure application style and behavior"
 msgstr "അക്ഷരത്തെറ്റു് പരിശോധന പൂര്‍ത്തിയായി"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcms/style/kcm_style.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid ""

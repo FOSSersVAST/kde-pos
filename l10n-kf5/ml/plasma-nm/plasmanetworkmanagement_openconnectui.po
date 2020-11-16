@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-14 23:09+0200\n"
+"POT-Creation-Date: 2020-10-27 08:52+0100\n"
 "PO-Revision-Date: 2018-12-18 03:26+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,26 +19,26 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: openconnectauth.cpp:308
+#: openconnectauth.cpp:310
 #, kde-format
 msgid "Failed to initialize software token: %1"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: openconnectauth.cpp:361
+#: openconnectauth.cpp:363
 #, kde-format
 msgid "Contacting host, please wait..."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: openconnectauth.cpp:586
+#: openconnectauth.cpp:589
 #, kde-format
 msgctxt "Verb, to proceed with login"
 msgid "Login"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: openconnectauth.cpp:643
+#: openconnectauth.cpp:647
 #, kde-format
 msgid ""
 "Check failed for certificate from VPN server \"%1\".\n"
@@ -47,7 +47,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: openconnectauth.cpp:742
+#: openconnectauth.cpp:746
 #, kde-format
 msgid "Connection attempt was unsuccessful."
 msgstr ""
@@ -163,7 +163,7 @@ msgstr ""
 #. i18n: ectx: property (filter), widget (KUrlRequester, leUserCert)
 #. i18n: ectx: property (filter), widget (KUrlRequester, leUserPrivateKey)
 #. +> trunk5 stable5 plasma5lts
-#: openconnectprop.ui:61 openconnectprop.ui:155 openconnectprop.ui:172
+#: openconnectprop.ui:61 openconnectprop.ui:207 openconnectprop.ui:224
 #, kde-format
 msgid "*.pem *.crt *.key"
 msgstr ""
@@ -217,44 +217,93 @@ msgstr ""
 msgid "PAN Global Protect"
 msgstr ""
 
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#. +> trunk5
+#: openconnectprop.ui:136
+#, kde-format
+msgid "Reported OS:"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#. +> trunk5
+#: openconnectprop.ui:155
+#, kde-format
+msgid "GNU/Linux"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#. +> trunk5
+#: openconnectprop.ui:160
+#, kde-format
+msgid "GNU/Linux 64-bit"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#. +> trunk5
+#: openconnectprop.ui:165
+#, kde-format
+msgid "Windows"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#. +> trunk5
+#: openconnectprop.ui:170
+#, kde-format
+msgid "Mac OS X"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#. +> trunk5
+#: openconnectprop.ui:175
+#, kde-format
+msgid "Android"
+msgstr ""
+
+#. i18n: ectx: property (text), item, widget (QComboBox, cmbReportedOs)
+#. +> trunk5
+#: openconnectprop.ui:180
+#, kde-format
+msgid "Apple iOS"
+msgstr ""
+
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
 #. +> trunk5 stable5 plasma5lts
-#: openconnectprop.ui:139
+#: openconnectprop.ui:191
 #, kde-format
 msgid "Certificate Authentication"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_5)
 #. +> trunk5 stable5 plasma5lts
-#: openconnectprop.ui:145
+#: openconnectprop.ui:197
 #, kde-format
 msgid "User Certificate:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_6)
 #. +> trunk5 stable5 plasma5lts
-#: openconnectprop.ui:162
+#: openconnectprop.ui:214
 #, kde-format
 msgid "Private Key:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkUseFsid)
 #. +> trunk5 stable5 plasma5lts
-#: openconnectprop.ui:179
+#: openconnectprop.ui:231
 #, kde-format
 msgid "Use FSID for key passphrase"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, preventInvalidCert)
 #. +> trunk5 stable5 plasma5lts
-#: openconnectprop.ui:186
+#: openconnectprop.ui:238
 #, kde-format
 msgid "Prevent user from manually accepting invalid certificates"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, buTokens)
 #. +> trunk5 stable5 plasma5lts
-#: openconnectprop.ui:212
+#: openconnectprop.ui:264
 #, kde-format
 msgid "Token Authentication"
 msgstr ""

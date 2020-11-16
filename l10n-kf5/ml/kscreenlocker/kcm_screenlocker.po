@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreenlocker\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-02 08:43+0200\n"
+"POT-Creation-Date: 2020-10-25 14:57+0100\n"
 "PO-Revision-Date: 2018-08-16 09:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,37 +18,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr ""
 
-#. +> trunk5
-#: kcm.cpp:51
+#. +> trunk5 stable5
+#: kcm.cpp:49
 #, kde-format
 msgid "Screen Locking"
 msgstr ""
 
-#. +> trunk5
-#: kcm.cpp:53
+#. +> trunk5 stable5
+#: kcm.cpp:51
 #, kde-format
 msgid "Martin Gräßlin"
 msgstr ""
 
-#. +> trunk5
-#: kcm.cpp:54
+#. +> trunk5 stable5
+#: kcm.cpp:52
 #, kde-format
 msgid "Kevin Ottens"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcm.cpp:55
 #, kde-format
 msgctxt "Spinbox suffix"
@@ -57,7 +57,7 @@ msgid_plural " minutes"
 msgstr[0] ""
 msgstr[1] ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcm.cpp:57
 #, kde-format
 msgctxt "Spinbox suffix"
@@ -66,33 +66,33 @@ msgid_plural " seconds"
 msgstr[0] ""
 msgstr[1] ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/Appearance.qml:30
 #, kde-format
 msgctxt "@title"
 msgid "Appearance"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/Appearance.qml:43
 #, kde-format
 msgid "Wallpaper type:"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:39
 #, kde-format
 msgid "Lock screen automatically:"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:41
 #, kde-format
 msgctxt "First part of sentence \"Automatically after X minutes\""
 msgid "After"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:49
 #, kde-format
 msgid "%1 minute"
@@ -100,21 +100,21 @@ msgid_plural "%1 minutes"
 msgstr[0] ""
 msgstr[1] ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:59
 #, kde-format
 msgctxt "@option:check"
 msgid "After waking from sleep"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:69
 #, kde-format
 msgctxt "@label:spinbox"
 msgid "Allow unlocking without password for:"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:74
 #, kde-format
 msgid "%1 second"
@@ -128,13 +128,13 @@ msgstr[1] ""
 msgid "Keyboard shortcut:"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:98
 #, kde-format
 msgid "Appearance:"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:99
 #, kde-format
 msgctxt "@action:button"
@@ -142,71 +142,71 @@ msgid "Configure..."
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_1)
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcm.ui:19
 #, kde-format
 msgid "Activation"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_1)
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcm.ui:28
 #, kde-format
 msgid "Lock screen:"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_Autolock)
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcm.ui:40
 #, kde-format
 msgid "Automatically after:"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, kcfg_LockOnResume)
-#. +> stable5 plasma5lts
-#: kcm.ui:62
+#. +> plasma5lts
+#: kcm.ui:59
 #, kde-format
 msgid "Lock screen when waking up from suspension"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_LockOnResume)
-#. +> stable5 plasma5lts
-#: kcm.ui:65
+#. +> plasma5lts
+#: kcm.ui:62
 #, kde-format
 msgid "After waking from sleep"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
-#. +> stable5 plasma5lts
-#: kcm.ui:72
+#. +> plasma5lts
+#: kcm.ui:69
 #, kde-format
 msgid "Allow unlocking without password for:"
 msgstr ""
 
 #. i18n: ectx: property (specialValueText), widget (KPluralHandlingSpinBox, kcfg_LockGrace)
-#. +> stable5 plasma5lts
-#: kcm.ui:82
+#. +> plasma5lts
+#: kcm.ui:79
 #, kde-format
 msgid "Immediately"
 msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label_3)
-#. +> stable5 plasma5lts
-#: kcm.ui:95
+#. +> plasma5lts
+#: kcm.ui:92
 #, kde-format
 msgid "The global keyboard shortcut to lock the screen."
 msgstr ""
 
 #. i18n: ectx: attribute (title), widget (QWidget, tab_2)
-#. +> stable5 plasma5lts
-#: kcm.ui:109
+#. +> plasma5lts
+#: kcm.ui:106
 #, kde-format
 msgid "Appearance"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
-#. +> stable5 plasma5lts
-#: kcm.ui:144
+#. +> plasma5lts
+#: kcm.ui:141
 #, kde-format
 msgid "Wallpaper &type:"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-28 09:37+0200\n"
+"POT-Creation-Date: 2020-11-15 11:36+0100\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/DiscoverObject.cpp:177
+#: discover/DiscoverObject.cpp:151
 #, kde-format
 msgid "No application back-ends found, please report to your distribution."
 msgstr ""
@@ -27,13 +27,13 @@ msgstr ""
 "ചെയ്യുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/DiscoverObject.cpp:260
+#: discover/DiscoverObject.cpp:234
 #, kde-format
 msgid "Could not find category '%1'"
 msgstr "'%1' വിഭാഗം കണ്ടെത്താൻ കഴിഞ്ഞില്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/DiscoverObject.cpp:294
+#: discover/DiscoverObject.cpp:268
 #, kde-format
 msgid ""
 "Cannot interact with flatpak resources without the flatpak backend %1. "
@@ -43,211 +43,241 @@ msgstr ""
 "അത് ഇൻസ്റ്റാൾ ചെയ്യുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/DiscoverObject.cpp:297 discover/DiscoverObject.cpp:324
+#: discover/DiscoverObject.cpp:271 discover/DiscoverObject.cpp:298
 #, kde-format
 msgid "Couldn't open %1"
 msgstr "%1 തുറക്കാൻ കഴിഞ്ഞില്ല"
 
-#. +> trunk5
-#: discover/main.cpp:46
+#. +> trunk5 stable5
+#: discover/main.cpp:33
 #, fuzzy, kde-format
 msgid "Directly open the specified application by its appstream:// URI."
 msgstr "നിർദ്ദിഷ്ട ആപ്ലിക്കേഷന്റെ പാക്കേജ് നാമം ഉപയോഗിച്ച് നേരിട്ട് തുറക്കുക."
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: discover/main.cpp:46
 #, kde-format
 msgid "Directly open the specified application by its package name."
 msgstr "നിർദ്ദിഷ്ട ആപ്ലിക്കേഷന്റെ പാക്കേജ് നാമം ഉപയോഗിച്ച് നേരിട്ട് തുറക്കുക."
 
-#. +> trunk5
-#: discover/main.cpp:47
+#. +> trunk5 stable5
+#: discover/main.cpp:34
 #, fuzzy, kde-format
 msgid "Open with a search for programs that can deal with the given mimetype."
 msgstr "തന്നിരിക്കുന്ന മൈംറ്റൈപ്പ് കൈകാര്യം ചെയ്യാൻ കഴിയുന്ന ഒരു ആപ്പ് ഉപയോഗിച്ച് തുറക്കുക."
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: discover/main.cpp:47
 #, kde-format
 msgid "Open with a program that can deal with the given mimetype."
 msgstr "തന്നിരിക്കുന്ന മൈംറ്റൈപ്പ് കൈകാര്യം ചെയ്യാൻ കഴിയുന്ന ഒരു ആപ്പ് ഉപയോഗിച്ച് തുറക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:48
+#: discover/main.cpp:35
 #, kde-format
 msgid "Display a list of entries with a category."
 msgstr "ഒരു തരം വിഭാഗമുള്ള ഇനങ്ങളുടെ പട്ടിക പ്രദർശിപ്പിക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:49
+#: discover/main.cpp:36
 #, kde-format
 msgid "Open Discover in a said mode. Modes correspond to the toolbar buttons."
 msgstr "പറഞ്ഞ രീതിയിൽ ഡിസ്കവർ തുറക്കുക. ഉപകരണപ്പട്ടയിലെ ബട്ടണുകളുമായി മോഡുകൾ യോജിക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:50
+#: discover/main.cpp:37
 #, kde-format
 msgid "List all the available modes."
 msgstr "ലഭ്യമായ എല്ലാ രീതികളും പട്ടികപ്പെടുത്തുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:51
+#: discover/main.cpp:38
 #, kde-format
 msgid "Compact Mode (auto/compact/full)."
 msgstr "കോം‌പാക്റ്റ് രീതി (യാന്ത്രികം / കോം‌പാക്റ്റ് / പൂർണ്ണം)."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:52
+#: discover/main.cpp:39
 #, kde-format
 msgid "Local package file to install"
 msgstr "ഇൻസ്റ്റാൾ ചെയ്യാനുള്ള തദ്ദേശ പാക്കേജ് ഫയൽ"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:53
+#: discover/main.cpp:40
 #, kde-format
 msgid "List all the available backends."
 msgstr "ലഭ്യമായ എല്ലാ ബാക്കെൻഡുകളും പ്രദര്‍ഷിപ്പിക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:54
+#: discover/main.cpp:41
 #, kde-format
 msgid "Search string."
 msgstr "സ്ട്രിംഗ് തിരയുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:55
+#: discover/main.cpp:42
 #, kde-format
 msgid "Lists the available options for user feedback"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:57
+#: discover/main.cpp:44
 #, kde-format
 msgid "Supports appstream: url scheme"
 msgstr "ആപ്സ്ട്രീം പിന്തുണയ്ക്കുന്നു: url പദ്ധതി"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:103 discover/qml/DiscoverWindow.qml:51
+#: discover/main.cpp:92 discover/qml/DiscoverWindow.qml:51
 #, kde-format
 msgid "Discover"
 msgstr "ഡിസ്കവർ "
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:103
+#: discover/main.cpp:92
 #, kde-format
 msgid "An application explorer"
 msgstr "ഒരു ആപ്ലിക്കേഷൻ പരിവേക്ഷക"
 
-#. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:104
+#. +> trunk5 stable5
+#: discover/main.cpp:93
+#, fuzzy, kde-format
+msgid "© 2010-2020 Plasma Development Team"
+msgstr "© 2010-2019 പ്ലാസ്മ വികസന ടീം"
+
+#. +> plasma5lts
+#: discover/main.cpp:107
 #, kde-format
 msgid "© 2010-2019 Plasma Development Team"
 msgstr "© 2010-2019 പ്ലാസ്മ വികസന ടീം"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:105
+#: discover/main.cpp:94
 #, kde-format
 msgid "Aleix Pol Gonzalez"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:106
+#. +> trunk5 stable5
+#: discover/main.cpp:95
 #, kde-format
-msgid "Jonathan Thomas"
-msgstr "ജോനാഥൻ  തോമസ് "
+msgid "Nate Graham"
+msgstr ""
+
+#. +> trunk5 stable5
+#: discover/main.cpp:95
+#, kde-format
+msgid "Quality Assurance, Design and Usability"
+msgstr ""
+
+#. +> trunk5 stable5
+#: discover/main.cpp:96
+#, kde-format
+msgid "Dan Leinir Turthra Jensen"
+msgstr ""
+
+#. +> trunk5 stable5
+#: discover/main.cpp:96
+#, kde-format
+msgid "KNewStuff"
+msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:111
+#: discover/main.cpp:101
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "നിസരി കെ കെ,പ്രേയസ് പ്രതാപ് "
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:112
+#: discover/main.cpp:102
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "nisarikoolath@gmail.com,preyasprathap@yahoo.com"
 
+#. +> plasma5lts
+#: discover/main.cpp:109
+#, kde-format
+msgid "Jonathan Thomas"
+msgstr "ജോനാഥൻ  തോമസ് "
+
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:124
+#: discover/main.cpp:114
 #, kde-format
 msgid "Available backends:\n"
 msgstr "ലഭ്യമായ ബാക്കെൻഡുകൾ:\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/main.cpp:162
+#: discover/main.cpp:152
 #, kde-format
 msgid "Available modes:\n"
 msgstr "ലഭ്യമായ രീതികൾ:\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/AddonsView.qml:16 discover/qml/ApplicationPage.qml:213
+#: discover/qml/AddonsView.qml:18 discover/qml/ApplicationPage.qml:201
 #, kde-format
 msgid "Addons"
 msgstr "ആഡോണുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/AddonsView.qml:65
+#: discover/qml/AddonsView.qml:67
 #, kde-format
 msgid "More..."
 msgstr "കൂടുതൽ..."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/AddonsView.qml:74
+#: discover/qml/AddonsView.qml:76
 #, kde-format
 msgid "Apply Changes"
 msgstr "മാറ്റങ്ങൾ വരുത്തു"
 
-#. +> stable5 plasma5lts
-#: discover/qml/AddonsView.qml:77
+#. +> plasma5lts
+#: discover/qml/AddonsView.qml:80
 #, kde-format
 msgid "Discard"
 msgstr "ഉപേക്ഷിക്കുക"
 
-#. +> trunk5
-#: discover/qml/AddonsView.qml:81
+#. +> trunk5 stable5
+#: discover/qml/AddonsView.qml:83
 #, kde-format
 msgid "Reset"
 msgstr ""
 
-#. +> trunk5
-#: discover/qml/AddSourceDialog.qml:33
+#. +> trunk5 stable5
+#: discover/qml/AddSourceDialog.qml:20
 #, fuzzy, kde-format
 msgid "Add New %1 Repository"
 msgstr "ഒരു പുതിയ %1 സംഭരണി കൂട്ടിച്ചേര്‍ക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: discover/qml/AddSourceDialog.qml:49
 #, kde-format
 msgid "Add a new %1 repository"
 msgstr "ഒരു പുതിയ %1 സംഭരണി കൂട്ടിച്ചേര്‍ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/AddSourceDialog.qml:70
+#: discover/qml/AddSourceDialog.qml:58
 #, kde-format
 msgid "Add"
 msgstr "കൂട്ടിച്ചേര്‍ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/AddSourceDialog.qml:82 discover/qml/DiscoverWindow.qml:236
+#: discover/qml/AddSourceDialog.qml:70 discover/qml/DiscoverWindow.qml:236
 #: discover/qml/InstallApplicationButton.qml:33
-#: discover/qml/SourcesPage.qml:138 discover/qml/UpdatesPage.qml:106
+#: discover/qml/SourcesPage.qml:140 discover/qml/UpdatesPage.qml:140
 #, kde-format
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationDelegate.qml:89
+#: discover/qml/ApplicationDelegate.qml:76
 #, kde-format
 msgctxt "Part of a string like this: '<app name> - <category>'"
 msgid "- %1"
 msgstr "- %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationDelegate.qml:113
-#: discover/qml/ApplicationPage.qml:146
+#: discover/qml/ApplicationDelegate.qml:100
+#: discover/qml/ApplicationPage.qml:134
 #, kde-format
 msgid "%1 rating"
 msgid_plural "%1 ratings"
@@ -255,37 +285,45 @@ msgstr[0] "%1 റേറ്റിംഗ്"
 msgstr[1] "%1 റേറ്റിംഗുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationDelegate.qml:113
-#: discover/qml/ApplicationPage.qml:146
+#: discover/qml/ApplicationDelegate.qml:100
+#: discover/qml/ApplicationPage.qml:134
 #, kde-format
 msgid "No ratings yet"
 msgstr "ഇതുവരെ റേറ്റിംഗുകളൊന്നുമില്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:71
+#: discover/qml/ApplicationPage.qml:59
 #, kde-format
 msgid "Sources"
 msgstr "ഉറവിടങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:82
+#: discover/qml/ApplicationPage.qml:70
 #, kde-format
 msgid "%1 - %2"
 msgstr "%1 - %2"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:185
+#: discover/qml/ApplicationPage.qml:173
 #, kde-format
 msgid "What's New"
 msgstr "പുതിയത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:225
+#: discover/qml/ApplicationPage.qml:210
 #, kde-format
 msgid "Reviews"
 msgstr "അവലോകനങ്ങൾ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5 stable5
+#: discover/qml/ApplicationPage.qml:245
+#, fuzzy, kde-format
+msgid "Show %1 Review..."
+msgid_plural "Show All %1 Reviews..."
+msgstr[0] "%1 വിശകലനം കാണിക്കുക..."
+msgstr[1] "%1 വിശകലനങ്ങള്‍ കാണിക്കുക..."
+
+#. +> plasma5lts
 #: discover/qml/ApplicationPage.qml:233
 #, kde-format
 msgid "Show %1 review..."
@@ -293,35 +331,35 @@ msgid_plural "Show all %1 reviews..."
 msgstr[0] "%1 വിശകലനം കാണിക്കുക..."
 msgstr[1] "%1 വിശകലനങ്ങള്‍ കാണിക്കുക..."
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5 stable5
+#: discover/qml/ApplicationPage.qml:257
+#, fuzzy, kde-format
+msgid "Write a Review"
+msgstr "ഒരു അവലോകനം എഴുതുക!"
+
+#. +> plasma5lts
 #: discover/qml/ApplicationPage.qml:265
 #, kde-format
 msgid "Write a review!"
 msgstr "ഒരു അവലോകനം എഴുതുക!"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5 stable5
+#: discover/qml/ApplicationPage.qml:257
+#, fuzzy, kde-format
+msgid "Install to Write a Review"
+msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
+
+#. +> plasma5lts
 #: discover/qml/ApplicationPage.qml:267
 #, kde-format
 msgid "Be the first to write a review!"
 msgstr "ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
-
-#. +> trunk5 stable5
-#: discover/qml/ApplicationPage.qml:272
-#, fuzzy, kde-format
-msgid "Install to write a review!"
-msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
 
 #. +> plasma5lts
 #: discover/qml/ApplicationPage.qml:272
 #, kde-format
 msgid "Install this app to write a review!"
 msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
-
-#. +> trunk5 stable5
-#: discover/qml/ApplicationPage.qml:274
-#, fuzzy, kde-format
-msgid "Install and be the first to write a review!"
-msgstr "ഈ ആപ്പ് ഇൻസ്റ്റാളുചെയ്‌ത് ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
 #. +> plasma5lts
 #: discover/qml/ApplicationPage.qml:274
@@ -330,64 +368,58 @@ msgid "Install this app and be the first to write a review!"
 msgstr "ഈ ആപ്പ് ഇൻസ്റ്റാളുചെയ്‌ത് ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:311
+#: discover/qml/ApplicationPage.qml:286
 #, kde-format
 msgid "Category:"
 msgstr "വിഭാഗം:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:328
+#: discover/qml/ApplicationPage.qml:303
 #, kde-format
 msgid "%1, released on %2"
 msgstr "%2 ന് പുറത്തിറങ്ങിയ %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:335
+#: discover/qml/ApplicationPage.qml:310
 #, kde-format
 msgid "Version:"
 msgstr "പതിപ്പ്:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:344
+#: discover/qml/ApplicationPage.qml:319
 #, kde-format
 msgid "Author:"
 msgstr "രചയിതാവ്:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:353
+#: discover/qml/ApplicationPage.qml:328
 #, kde-format
 msgid "Size:"
 msgstr "വലുപ്പം:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:362
+#: discover/qml/ApplicationPage.qml:337
 #, kde-format
 msgid "Source:"
 msgstr "ഉറവിടം:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:371
+#: discover/qml/ApplicationPage.qml:346
 #, kde-format
 msgid "License:"
 msgstr "ലൈസൻസ്:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationPage.qml:378
+#: discover/qml/ApplicationPage.qml:353
 #, kde-format
 msgid "See full license terms"
 msgstr "എല്ലാ ലൈസൻസ് നിബന്ധനകളും കാണുക"
 
 #. +> trunk5 stable5
-#: discover/qml/ApplicationPage.qml:389
+#: discover/qml/ApplicationPage.qml:364
 #, kde-format
 msgid "Documentation:"
 msgstr ""
-
-#. +> plasma5lts
-#: discover/qml/ApplicationPage.qml:389
-#, kde-format
-msgid "Homepage:"
-msgstr "ഹോം‌പേജ്:"
 
 #. +> plasma5lts
 #: discover/qml/ApplicationPage.qml:405
@@ -396,40 +428,46 @@ msgid "Donate:"
 msgstr "സംഭാവനചെയ്യുക:"
 
 #. +> trunk5 stable5
-#: discover/qml/ApplicationPage.qml:390
+#: discover/qml/ApplicationPage.qml:365
 #, kde-format
 msgid "Read the user guide"
 msgstr ""
+
+#. +> trunk5 stable5
+#: discover/qml/ApplicationPage.qml:373
+#, kde-format
+msgid "Get involved:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: discover/qml/ApplicationPage.qml:374
+#, kde-format
+msgid "Visit the app's website"
+msgstr ""
+
+#. +> trunk5 stable5
+#: discover/qml/ApplicationPage.qml:382
+#, kde-format
+msgid "Make a donation"
+msgstr ""
+
+#. +> plasma5lts
+#: discover/qml/ApplicationPage.qml:389
+#, kde-format
+msgid "Homepage:"
+msgstr "ഹോം‌പേജ്:"
+
+#. +> trunk5 stable5
+#: discover/qml/ApplicationPage.qml:390
+#, fuzzy, kde-format
+msgid "Report a problem"
+msgstr "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക:"
 
 #. +> plasma5lts
 #: discover/qml/ApplicationPage.qml:397
 #, kde-format
 msgid "User Guide:"
 msgstr "ഉപയോക്തൃ സഹായി:"
-
-#. +> trunk5 stable5
-#: discover/qml/ApplicationPage.qml:398
-#, kde-format
-msgid "Get involved:"
-msgstr ""
-
-#. +> trunk5 stable5
-#: discover/qml/ApplicationPage.qml:399
-#, kde-format
-msgid "Visit the app's website"
-msgstr ""
-
-#. +> trunk5 stable5
-#: discover/qml/ApplicationPage.qml:407
-#, kde-format
-msgid "Make a donation"
-msgstr ""
-
-#. +> trunk5 stable5
-#: discover/qml/ApplicationPage.qml:415
-#, fuzzy, kde-format
-msgid "Report a problem"
-msgstr "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക:"
 
 #. +> plasma5lts
 #: discover/qml/ApplicationPage.qml:413
@@ -438,43 +476,43 @@ msgid "Report a Problem:"
 msgstr "ഒരു പ്രശ്നം രേഖപ്പെടുത്തുക:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationsListPage.qml:58
+#: discover/qml/ApplicationsListPage.qml:45
 #, kde-format
 msgid "Search: %1"
 msgstr "തിരയുക: %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationsListPage.qml:77
+#: discover/qml/ApplicationsListPage.qml:64
 #, kde-format
 msgid "Sort: %1"
 msgstr "അടുക്കുക: %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationsListPage.qml:80
+#: discover/qml/ApplicationsListPage.qml:67
 #, kde-format
 msgid "Name"
 msgstr "പേര്"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationsListPage.qml:89
+#: discover/qml/ApplicationsListPage.qml:76
 #, kde-format
 msgid "Rating"
 msgstr "റേറ്റിംഗ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationsListPage.qml:98
+#: discover/qml/ApplicationsListPage.qml:85
 #, kde-format
 msgid "Size"
 msgstr "വലുപ്പം"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationsListPage.qml:107
+#: discover/qml/ApplicationsListPage.qml:94
 #, kde-format
 msgid "Release Date"
 msgstr "പ്രകാശന തീയതി"
 
 #. +> trunk5 stable5
-#: discover/qml/ApplicationsListPage.qml:151
+#: discover/qml/ApplicationsListPage.qml:138
 #, fuzzy, kde-format
 msgid "Sorry, nothing found"
 msgstr "ക്ഷമിക്കണം, ഒന്നും കണ്ടെത്തിയില്ല ..."
@@ -486,32 +524,32 @@ msgid "Sorry, nothing found..."
 msgstr "ക്ഷമിക്കണം, ഒന്നും കണ്ടെത്തിയില്ല ..."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ApplicationsListPage.qml:165
+#: discover/qml/ApplicationsListPage.qml:152
 #, kde-format
 msgid "Still looking..."
 msgstr "ഇപ്പോഴും നോക്കികൊണ്ടിരിക്കുന്നു..."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/BrowsingPage.qml:31
+#: discover/qml/BrowsingPage.qml:18
 #, kde-format
 msgid "Featured"
 msgstr "തിരഞ്ഞെടുത്തത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/BrowsingPage.qml:54 discover/qml/LoadingPage.qml:7
+#: discover/qml/BrowsingPage.qml:41 discover/qml/LoadingPage.qml:7
 #, kde-format
 msgid "Loading..."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/BrowsingPage.qml:71
+#: discover/qml/BrowsingPage.qml:58
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Unable to load applications.<nl/>Please verify Internet connectivity."
 msgstr "അപ്ലിക്കേഷനുകൾ ലോഡുചെയ്യാനായില്ല.<nl/>ഇന്റർനെറ്റ് കണക്റ്റിവിറ്റി സ്ഥിരീകരിക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/DiscoverDrawer.qml:118
+#: discover/qml/DiscoverDrawer.qml:103
 #, kde-format
 msgid "Return to the Featured page"
 msgstr "തിരഞ്ഞെടുത്ത താളിലേക്ക് മടങ്ങുക"
@@ -589,22 +627,22 @@ msgstr ""
 msgid "Unable to find resource: %1"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
-#: discover/qml/DiscoverWindow.qml:223 discover/qml/SourcesPage.qml:128
-#, kde-format
-msgid "Proceed"
-msgstr ""
-
-#. +> stable5 plasma5lts
-#: discover/qml/DiscoverWindow.qml:224
+#. +> plasma5lts
+#: discover/qml/DiscoverWindow.qml:219
 #, kde-format
 msgid "Show all"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: discover/qml/DiscoverWindow.qml:224
+#. +> plasma5lts
+#: discover/qml/DiscoverWindow.qml:219
 #, kde-format
 msgid "Hide"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: discover/qml/DiscoverWindow.qml:223 discover/qml/SourcesPage.qml:130
+#, kde-format
+msgid "Proceed"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -678,13 +716,13 @@ msgid "Remove"
 msgstr "ഒഴിവാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/navigation.js:32
+#: discover/qml/navigation.js:19
 #, kde-format
 msgid "Resources for '%1'"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/navigation.js:56
+#: discover/qml/navigation.js:43
 #, kde-format
 msgid "Extensions..."
 msgstr ""
@@ -716,19 +754,19 @@ msgid "%1 - %2"
 msgstr ""
 
 #. +> trunk5 stable5
-#: discover/qml/ReviewDelegate.qml:77
+#: discover/qml/ReviewDelegate.qml:64
 #, fuzzy, kde-format
 msgid "Version: %1"
 msgstr "പതിപ്പ്:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDelegate.qml:100
+#: discover/qml/ReviewDelegate.qml:87
 #, kde-format
 msgid "unknown reviewer"
 msgstr ""
 
 #. +> trunk5 stable5
-#: discover/qml/ReviewDelegate.qml:101
+#: discover/qml/ReviewDelegate.qml:88
 #, kde-format
 msgid "<b>%1</b> by %2"
 msgstr ""
@@ -740,7 +778,7 @@ msgid "<b>%1</b> by %2 | Version: %3"
 msgstr ""
 
 #. +> trunk5 stable5
-#: discover/qml/ReviewDelegate.qml:101
+#: discover/qml/ReviewDelegate.qml:88
 #, kde-format
 msgid "Comment by %1"
 msgstr ""
@@ -752,117 +790,117 @@ msgid "Comment by %1 | Version: %2"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDelegate.qml:150
+#: discover/qml/ReviewDelegate.qml:137
 #, kde-format
 msgid "Votes: %1 out of %2"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDelegate.qml:158
+#: discover/qml/ReviewDelegate.qml:145
 #, kde-format
 msgid "Useful?"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDelegate.qml:170
+#: discover/qml/ReviewDelegate.qml:157
 #, kde-format
 msgctxt "Keep this string as short as humanly possible"
 msgid "Yes"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDelegate.qml:186
+#: discover/qml/ReviewDelegate.qml:173
 #, kde-format
 msgctxt "Keep this string as short as humanly possible"
 msgid "No"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:22
+#: discover/qml/ReviewDialog.qml:23
 #, fuzzy, kde-format
 msgid "Reviewing %1"
 msgstr "അവലോകനങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:34
+#: discover/qml/ReviewDialog.qml:35
 #, kde-format
 msgid "Rating:"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:38
+#: discover/qml/ReviewDialog.qml:39
 #, fuzzy, kde-format
 msgid "Name:"
 msgstr "പേര്"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:46
+#: discover/qml/ReviewDialog.qml:47
 #, kde-format
 msgid "Title:"
 msgstr "തലക്കെട്ട്:"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:65
+#: discover/qml/ReviewDialog.qml:66
 #, kde-format
 msgid "Enter a rating"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:66
+#: discover/qml/ReviewDialog.qml:67
 #, fuzzy, kde-format
 msgid "Write the title"
 msgstr "ഒരു അവലോകനം എഴുതുക!"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:67
+#: discover/qml/ReviewDialog.qml:68
 #, fuzzy, kde-format
 msgid "Write the review"
 msgstr "ഒരു അവലോകനം എഴുതുക!"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:68
+#: discover/qml/ReviewDialog.qml:69
 #, kde-format
 msgid "Keep writing..."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:69
+#: discover/qml/ReviewDialog.qml:70
 #, kde-format
 msgid "Too long!"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewDialog.qml:83
+#: discover/qml/ReviewDialog.qml:84
 #, kde-format
 msgid "Submit review"
 msgstr ""
 
 #. +> trunk5 stable5
-#: discover/qml/ReviewsPage.qml:55
+#: discover/qml/ReviewsPage.qml:43
 #, fuzzy, kde-format
 msgid "Reviews for %1"
 msgstr "അവലോകനങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewsPage.qml:66
+#: discover/qml/ReviewsPage.qml:54
 #, fuzzy, kde-format
 msgid "Write a Review..."
 msgstr "ഒരു അവലോകനം എഴുതുക!"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/ReviewsPage.qml:71
+#: discover/qml/ReviewsPage.qml:59
 #, fuzzy, kde-format
 msgid "Install this app to write a review"
 msgstr "അവലോകനം എഴുതാൻ ഈ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുക!"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/SearchField.qml:41
+#: discover/qml/SearchField.qml:27
 #, kde-format
 msgid "Search..."
 msgstr "തിരയുക..."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/SearchField.qml:41
+#: discover/qml/SearchField.qml:27
 #, kde-format
 msgid "Search in '%1'..."
 msgstr ""
@@ -885,32 +923,50 @@ msgstr ""
 msgid "Make default"
 msgstr ""
 
+#. +> trunk5
+#: discover/qml/SourcesPage.qml:170
+#, kde-format
+msgid "Increase priority"
+msgstr ""
+
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/SourcesPage.qml:172
+#: discover/qml/SourcesPage.qml:176
 #, kde-format
 msgid "Failed to increase '%1' preference"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
-#: discover/qml/SourcesPage.qml:182
+#. +> trunk5
+#: discover/qml/SourcesPage.qml:181
 #, kde-format
-msgid "Failed to decrease '%1' preference"
+msgid "Decrease priority"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: discover/qml/SourcesPage.qml:187
 #, kde-format
+msgid "Failed to decrease '%1' preference"
+msgstr ""
+
+#. +> stable5 plasma5lts
+#: discover/qml/SourcesPage.qml:189
+#, kde-format
 msgid "Delete the origin"
 msgstr ""
 
+#. +> trunk5
+#: discover/qml/SourcesPage.qml:192
+#, fuzzy, kde-format
+msgid "Remove repository"
+msgstr "ഒരു പുതിയ %1 സംഭരണി കൂട്ടിച്ചേര്‍ക്കുക"
+
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/SourcesPage.qml:198
+#: discover/qml/SourcesPage.qml:203
 #, kde-format
 msgid "Show contents"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/SourcesPage.qml:237
+#: discover/qml/SourcesPage.qml:242
 #, kde-format
 msgid "Missing Backends"
 msgstr ""
@@ -922,37 +978,37 @@ msgid "Updates"
 msgstr ""
 
 #. +> trunk5 stable5
-#: discover/qml/UpdatesPage.qml:39
+#: discover/qml/UpdatesPage.qml:41
 #, kde-format
 msgid "Update Issue"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:52
+#: discover/qml/UpdatesPage.qml:54
 #, kde-format
 msgid "OK"
 msgstr "ശെരി"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:75
+#: discover/qml/UpdatesPage.qml:77
 #, kde-format
 msgid "Update Selected"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:75
+#: discover/qml/UpdatesPage.qml:77
 #, kde-format
 msgid "Update All"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:125
+#: discover/qml/UpdatesPage.qml:119
 #, kde-format
 msgid "All updates selected (%1)"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:125
+#: discover/qml/UpdatesPage.qml:119
 #, kde-format
 msgid "%1/%2 update selected (%3)"
 msgid_plural "%1/%2 updates selected (%3)"
@@ -960,81 +1016,85 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:183
+#: discover/qml/UpdatesPage.qml:189
 #, kde-format
 msgid "Restart"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:263
+#: discover/qml/UpdatesPage.qml:269
 #, kde-format
 msgid "%1"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:276
+#: discover/qml/UpdatesPage.qml:282
 #, kde-format
 msgid "Update to version %1"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:286
+#: discover/qml/UpdatesPage.qml:292
 #, kde-format
 msgctxt "Do not translate or alter \\x9C"
 msgid "%1 → %2%1 → %2%2"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:299
+#: discover/qml/UpdatesPage.qml:305
 #, kde-format
 msgid "Installing"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:330
+#: discover/qml/UpdatesPage.qml:336
 #, kde-format
 msgid "More Information..."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:358
+#: discover/qml/UpdatesPage.qml:364
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "Fetching updates..."
 msgstr "അപ്‌ഡേറ്റുകൾ നേടുന്നു..."
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:371
+#: discover/qml/UpdatesPage.qml:377
 #, kde-format
 msgctxt "@info"
 msgid "Updates"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:377
+#: discover/qml/UpdatesPage.qml:383
 #, kde-format
 msgctxt "@info"
 msgid "The system requires a restart to apply updates"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:382 discover/qml/UpdatesPage.qml:388
-#: discover/qml/UpdatesPage.qml:394
+#: discover/qml/UpdatesPage.qml:388 discover/qml/UpdatesPage.qml:394
+#: discover/qml/UpdatesPage.qml:400
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "Up to date"
 msgstr "കാലികമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:400
+#: discover/qml/UpdatesPage.qml:406
 #, kde-format
 msgctxt "@info"
 msgid "Should check for updates"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/qml/UpdatesPage.qml:406
+#: discover/qml/UpdatesPage.qml:412
 #, kde-format
 msgctxt "@info"
 msgid "It is unknown when the last check for updates was"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Install and be the first to write a review!"
+#~ msgstr "ഈ ആപ്പ് ഇൻസ്റ്റാളുചെയ്‌ത് ഒരു അവലോകനം എഴുതുന്ന ആദ്യത്തെയാളാകൂ!"

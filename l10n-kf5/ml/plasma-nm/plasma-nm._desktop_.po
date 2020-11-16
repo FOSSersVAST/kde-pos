@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-29 13:26+0200\n"
+"POT-Creation-Date: 2020-11-11 10:13+0100\n"
 "PO-Revision-Date: 2020-06-19 21:06+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,13 +20,13 @@ msgid "Networks"
 msgstr "ശൃംഖലകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: applet/metadata.desktop:51
+#: applet/metadata.desktop:52
 msgctxt "Comment"
 msgid "Network status and control"
 msgstr "ശൃംഖല നിലയും നിയന്ത്രണവും"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcm/kcm_networkmanagement.desktop:11
+#: kcm/kcm_networkmanagement.desktop:10
 msgctxt "Name"
 msgid "Connections"
 msgstr "ബന്ധങ്ങള്‍"
@@ -38,7 +38,7 @@ msgid "Edit your Network Connections"
 msgstr "നിങ്ങളുടെ നെറ്റ്‌വർക്ക് ബന്ധങ്ങള്‍ എഡിറ്റുചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcm/kcm_networkmanagement.desktop:100
+#: kcm/kcm_networkmanagement.desktop:101
 msgctxt "X-KDE-Keywords"
 msgid "network,wifi,ethernet,mobile,broadband,vpn,internet,traffic"
 msgstr "ശൃംഖല,വൈഫൈ,ഈതര്‍നെറ്റ്,മൊബൈൽ,ബ്രോഡ്‌ബാൻഡ്,വിപിഎൻ,ഇന്റർനെറ്റ്,ട്രാഫിക്"
@@ -50,12 +50,12 @@ msgid "Plasma Network Management module"
 msgstr "പ്ലാസ്മ ശൃംഖല നടത്തിപ്പ്‌ മൊഡ്യൂൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: kded/networkmanagement.desktop:35
+#: kded/networkmanagement.desktop:36
 msgctxt "Comment"
 msgid "Provides secrets to the NetworkManager daemon"
 msgstr "നെറ്റ്‌വർക്ക് മാനേജർ ഡീമണിന് രഹസ്യങ്ങൾ നൽകുന്നു "
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: kded/networkmanagement.notifyrc:3
 #, fuzzy
 msgctxt "Name"
@@ -63,220 +63,226 @@ msgid "Network Management"
 msgstr "ശൃംഖല നടത്തിപ്പ്‌"
 
 #. +> trunk5 stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:20
+#: kded/networkmanagement.notifyrc:34
 msgctxt "Comment"
 msgid "Network management"
 msgstr "ശൃംഖല നടത്തിപ്പ്‌"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kded/networkmanagement.notifyrc:3
 msgctxt "Name"
 msgid "Network management"
 msgstr "ശൃംഖല നടത്തിപ്പ്‌"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:70
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:85
 #, fuzzy
 msgctxt "Name"
 msgid "Connection Activated"
 msgstr "ബന്ധം സജീവമാക്കി"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:90
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:119
 #, fuzzy
 msgctxt "Name"
 msgid "Connection Deactivated"
 msgstr "ബന്ധം നിർജ്ജീവമാക്കി"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:101
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:103
 msgctxt "Name"
 msgid "Connection activated"
 msgstr "ബന്ധം സജീവമാക്കി"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:153
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:156
 msgctxt "Name"
 msgid "Connection deactivated"
 msgstr "ബന്ധം നിർജ്ജീവമാക്കി"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:110
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:153
 #, fuzzy
 msgctxt "Name"
 msgid "Connection Added"
 msgstr "ബന്ധം ചേർത്തു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:205
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:209
 msgctxt "Name"
 msgid "Connection added"
 msgstr "ബന്ധം ചേർത്തു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:129
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:186
 #, fuzzy
 msgctxt "Name"
 msgid "Connection Removed"
 msgstr "ബന്ധം നീക്കംചെയ്‌തു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:256
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:261
 msgctxt "Name"
 msgid "Connection removed"
 msgstr "ബന്ധം നീക്കംചെയ്‌തു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:148
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:219
 #, fuzzy
 msgctxt "Name"
 msgid "Connection Updated"
 msgstr "ബന്ധം പുതുക്കി"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:307
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:313
 msgctxt "Name"
 msgid "Connection updated"
 msgstr "ബന്ധം പുതുക്കി"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:167
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:252
 #, fuzzy
 msgctxt "Name"
 msgid "Device Failed"
 msgstr "ഉപകരണം പരാജയപ്പെട്ടു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:358
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:365
 msgctxt "Name"
 msgid "Device failed"
 msgstr "ഉപകരണം പരാജയപ്പെട്ടു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:186
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:285
 #, fuzzy
 msgctxt "Name"
 msgid "Failed to Activate Connection"
 msgstr "ബന്ധം സജീവമാക്കുന്നത് പരാജയപ്പെട്ടു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:205
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:318
 #, fuzzy
 msgctxt "Name"
 msgid "Failed to Add Connection"
 msgstr "ബന്ധം കൂട്ടിച്ചേര്‍ക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:459
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:466
 msgctxt "Name"
 msgid "Failed to add connection"
 msgstr "ബന്ധം കൂട്ടിച്ചേര്‍ക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:224
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:351
 #, fuzzy
 msgctxt "Name"
 msgid "Failed to Deactivate Connection"
 msgstr "ബന്ധം നിർജ്ജീവമാക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:408
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:415
 msgctxt "Name"
 msgid "Failed to activate connection"
 msgstr "ബന്ധം സജീവമാക്കുന്നത് പരാജയപ്പെട്ടു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:510
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:517
 msgctxt "Name"
 msgid "Failed to deactivate connection"
 msgstr "ബന്ധം നിർജ്ജീവമാക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:243
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:384
 #, fuzzy
 msgctxt "Name"
 msgid "Failed to Remove Connection"
 msgstr "ബന്ധം വിഛേദിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:561
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:568
 msgctxt "Name"
 msgid "Failed to remove connection"
 msgstr "ബന്ധം വിഛേദിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:262
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:417
 #, fuzzy
 msgctxt "Name"
 msgid "Failed to Get Secrets"
 msgstr "രഹസ്യങ്ങൾ കിട്ടുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:612
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:619
 msgctxt "Name"
 msgid "Failed to get secrets"
 msgstr "രഹസ്യങ്ങൾ കിട്ടുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:281
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:450
 #, fuzzy
 msgctxt "Name"
 msgid "Failed to Update Connection"
 msgstr "ബന്ധം പുതുക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:663
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:670
 msgctxt "Name"
 msgid "Failed to update connection"
 msgstr "ബന്ധം പുതുക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:300
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:483
 #, fuzzy
 msgctxt "Name"
 msgid "Missing VPN Plugin"
 msgstr "വി.പി.എൻ പ്ലഗ്ഗിൻ കാണുന്നില്ല"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:714
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:721
 msgctxt "Name"
 msgid "Missing VPN plugin"
 msgstr "വി.പി.എൻ പ്ലഗ്ഗിൻ കാണുന്നില്ല"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:319
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:515
 #, fuzzy
 msgctxt "Name"
 msgid "No Longer Connected to a Network"
 msgstr "ഒരു ശൃംഖലയുമായി നിലവിൽ ബന്ധപ്പെടുത്തിയിട്ടില്ല"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:765
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:772
 msgctxt "Name"
 msgid "No longer connected to a network"
 msgstr "ഒരു ശൃംഖലയുമായി നിലവിൽ ബന്ധപ്പെടുത്തിയിട്ടില്ല"
 
-#. +> trunk5
-#: kded/networkmanagement.notifyrc:338
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:547
 msgctxt "Name"
 msgid "Captive Portal Detected"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:810
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:818
 msgctxt "Name"
 msgid "Captive portal detected"
 msgstr ""
 
 #. +> trunk5
-#: kded/networkmanagement.notifyrc:358
+#: kded/networkmanagement.notifyrc:581
+msgctxt "Name"
+msgid "Limited Connectivity"
+msgstr ""
+
+#. +> trunk5 stable5
+#: kded/networkmanagement.notifyrc:606
 #, fuzzy
 msgctxt "Name"
 msgid "Failed to Create Hotspot"
 msgstr "ഹോട്ട്സ്പോട്ട് നിർമ്മിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
-#. +> stable5 plasma5lts
-#: kded/networkmanagement.notifyrc:852
+#. +> plasma5lts
+#: kded/networkmanagement.notifyrc:861
 msgctxt "Name"
 msgid "Failed to create hotspot"
 msgstr "ഹോട്ട്സ്പോട്ട് നിർമ്മിക്കുന്നതിൽ പരാജയപ്പെട്ടു "
@@ -300,14 +306,14 @@ msgid "Mobile broadband"
 msgstr "മൊബൈൽ ബ്രോഡ്ബാൻഡ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: mobile/broadband/mobilebroadbandsettings.desktop:37
-#: mobile/broadband/package/metadata.desktop:37
+#: mobile/broadband/mobilebroadbandsettings.desktop:38
+#: mobile/broadband/package/metadata.desktop:38
 msgctxt "Comment"
 msgid "Mobile broadband setting"
 msgstr "മൊബൈൽ ബ്രോഡ്ബാൻഡ് സജ്ജീകരണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: mobile/broadband/mobilebroadbandsettings.desktop:83
+#: mobile/broadband/mobilebroadbandsettings.desktop:86
 msgctxt "X-KDE-Keywords"
 msgid "mobile,data,network"
 msgstr "മൊബൈൽ,ഡാറ്റ,ശൃംഖല"
@@ -325,7 +331,7 @@ msgid "Hotspot"
 msgstr ""
 
 #. +> trunk5 stable5
-#: mobile/hotspot/package/metadata.desktop:29
+#: mobile/hotspot/package/metadata.desktop:34
 msgctxt "Comment"
 msgid "Wi-Fi Hotspots"
 msgstr ""
@@ -337,19 +343,19 @@ msgid "Wi-Fi"
 msgstr "വൈ-ഫൈ"
 
 #. +> trunk5 stable5 plasma5lts
-#: mobile/wifi/package/metadata.desktop:38 mobile/wifi/wifisettings.desktop:38
+#: mobile/wifi/package/metadata.desktop:39 mobile/wifi/wifisettings.desktop:39
 msgctxt "Comment"
 msgid "Wireless network setting"
 msgstr "വയർലെസ് ശൃംഖല സജ്ജീകരണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: mobile/wifi/wifisettings.desktop:85
+#: mobile/wifi/wifisettings.desktop:87
 msgctxt "X-KDE-Keywords"
 msgid "wifi,network"
 msgstr "വൈഫൈ,ശൃംഖല"
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:16
+#: vpn/fortisslvpn/plasmanetworkmanagement_fortisslvpnui.desktop:15
 msgctxt "Name"
 msgid "Fortinet SSLVPN (fortisslvpn)"
 msgstr "Fortinet SSLVPN (fortisslvpn)"
@@ -361,7 +367,7 @@ msgid "Fortinet SSLVPN virtual private networks"
 msgstr "Fortinet SSLVPN (fortisslvpn) സാങ്കല്പിക സ്വകാര്യ ശൃംഖലകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:16
+#: vpn/iodine/plasmanetworkmanagement_iodineui.desktop:15
 msgctxt "Name"
 msgid "Iodine DNS tunnel (iodine)"
 msgstr "Iodine DNS tunnel (iodine)"
@@ -373,7 +379,7 @@ msgid "Tunnel connections via DNS"
 msgstr "ഡി.എൻ.എസ് വഴിയുള്ള ട്ടണൽ ബന്ധങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:16
+#: vpn/l2tp/plasmanetworkmanagement_l2tpui.desktop:15
 msgctxt "Name"
 msgid "Layer 2 Tunneling Protocol (L2TP)"
 msgstr "Layer 2 Tunneling Protocol (L2TP)"
@@ -385,7 +391,7 @@ msgid "Compatible with L2TP VPN servers"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:17
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_globalprotectui.desktop:16
 msgctxt "Name"
 msgid "PAN Global Protect (openconnect)"
 msgstr "പാൻ ആഗോള സംരക്ഷണം (ഓപ്പൺകണക്റ്റ്)"
@@ -397,7 +403,7 @@ msgid "Compatible with PAN GlobalProtect SSL VPN"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:17
+#: vpn/openconnect/plasmanetworkmanagement_openconnect_juniperui.desktop:16
 msgctxt "Name"
 msgid "Juniper SSL VPN / Pulse Connect Secure (openconnect)"
 msgstr ""
@@ -409,7 +415,7 @@ msgid "Compatible with Juniper SSL VPN and Pulse Connect Secure"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:17
+#: vpn/openconnect/plasmanetworkmanagement_openconnectui.desktop:16
 msgctxt "Name"
 msgid "Cisco AnyConnect Compatible VPN (openconnect)"
 msgstr ""
@@ -421,7 +427,7 @@ msgid "Compatible with Cisco AnyConnect SSL VPN"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:16
+#: vpn/openswan/plasmanetworkmanagement_openswanui.desktop:15
 msgctxt "Name"
 msgid "IPsec based VPN (openswan)"
 msgstr ""
@@ -434,19 +440,19 @@ msgid "IPsec, IKEv1, IKEv2 based VPN"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:16
+#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:15
 msgctxt "Name"
 msgid "OpenVPN"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:65
+#: vpn/openvpn/plasmanetworkmanagement_openvpnui.desktop:64
 msgctxt "Comment"
 msgid "Compatible with the OpenVPN server"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/pptp/plasmanetworkmanagement_pptpui.desktop:16
+#: vpn/pptp/plasmanetworkmanagement_pptpui.desktop:15
 msgctxt "Name"
 msgid "Point-to-Point Tunneling Protocol (PPTP)"
 msgstr ""
@@ -458,7 +464,7 @@ msgid "Compatible with Microsoft and other PPTP VPN servers"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:16
+#: vpn/ssh/plasmanetworkmanagement_sshui.desktop:15
 msgctxt "Name"
 msgid "SSH"
 msgstr ""
@@ -470,7 +476,7 @@ msgid "Compatible with the SSH server"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:16
+#: vpn/sstp/plasmanetworkmanagement_sstpui.desktop:15
 msgctxt "Name"
 msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr ""
@@ -482,13 +488,13 @@ msgid "Compatible with Microsoft and other SSTP VPN servers"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:16
+#: vpn/strongswan/plasmanetworkmanagement_strongswanui.desktop:15
 msgctxt "Name"
 msgid "IPsec based VPN (strongswan)"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:16
+#: vpn/vpnc/plasmanetworkmanagement_vpncui.desktop:15
 msgctxt "Name"
 msgid "Cisco Compatible VPN (vpnc)"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kfindpart\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-13 10:15+0200\n"
+"POT-Creation-Date: 2020-10-25 14:56+0100\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -644,7 +644,7 @@ msgstr[0] "വര്‍ഷങ്ങള്‍"
 msgstr[1] "വര്‍ഷങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: kquery.cpp:603
+#: kquery.cpp:602
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Error while using locate"

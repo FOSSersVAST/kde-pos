@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-03 09:05+0200\n"
+"POT-Creation-Date: 2020-11-09 11:58+0100\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -115,34 +115,34 @@ msgid "Process finished in Non-Focused Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
 #. +> trunk5 stable5
-#: desktop/konsole.notifyrc:768
+#: desktop/konsole.notifyrc:772
 #, fuzzy
 msgctxt "Comment"
 msgid "Process finished in a non-focused monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
 #. +> trunk5 stable5
-#: desktop/konsole.notifyrc:795
+#: desktop/konsole.notifyrc:803
 #, fuzzy
 msgctxt "Name"
 msgid "Process finished in Monitored Session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
 #. +> trunk5 stable5
-#: desktop/konsole.notifyrc:820
+#: desktop/konsole.notifyrc:832
 #, fuzzy
 msgctxt "Comment"
 msgid "Process finished in a monitored session"
 msgstr "നിരീക്ഷിച്ചുകൊണ്ടിരിയ്ക്കുന്ന സെഷനില്‍ നിശബ്ദത"
 
 #. +> trunk5 stable5
-#: desktop/konsole.notifyrc:848
+#: desktop/konsole.notifyrc:864
 msgctxt "Name"
 msgid "Session Finished With Non-Zero Status"
 msgstr "ശൂന്യമല്ലാത്തൊരു ഫലത്തോടെ സെഷന്‍ പുറത്തുകടന്നിരിയ്ക്കുന്നു"
 
 #. +> trunk5 stable5
-#: desktop/konsole.notifyrc:932
+#: desktop/konsole.notifyrc:948
 msgctxt "Comment"
 msgid "A session has exited with non-zero status"
 msgstr "ശൂന്യമല്ലാത്തൊരു ഫലത്തോടെ സെഷന്‍ പുറത്തുകടന്നിരിയ്ക്കുന്നു"

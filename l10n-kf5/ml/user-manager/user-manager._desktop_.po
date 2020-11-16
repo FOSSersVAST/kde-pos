@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 10:16+0200\n"
+"POT-Creation-Date: 2020-10-19 11:05+0200\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -13,20 +13,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> plasma5lts
 #: src/user_manager.desktop:13
 msgctxt "Name"
 msgid "User Manager"
 msgstr "ഉപയോക്താവിനെ കൈകാര്യം ചെയ്യുന്നയാൾ"
 
-#. +> trunk5 stable5 plasma5lts
-#: src/user_manager.desktop:65
+#. +> plasma5lts
+#: src/user_manager.desktop:64
 msgctxt "Comment"
 msgid "Add, remove or edit system users"
 msgstr "സിസ്റ്റം ഉപയോക്താക്കളെ ചേർക്കുകയോ ഒഴിവാക്കുകയോ തിരുത്തുകയോ ചെയ്യുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: src/user_manager.desktop:116
+#. +> plasma5lts
+#: src/user_manager.desktop:114
 msgctxt "X-KDE-Keywords"
 msgid "users,system,administration"
 msgstr "ഉപയോക്താവ്,സിസ്റ്റം,പരിപാലനം"

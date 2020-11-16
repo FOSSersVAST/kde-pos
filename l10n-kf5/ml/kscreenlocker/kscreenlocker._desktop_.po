@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-03 09:12+0200\n"
+"POT-Creation-Date: 2020-10-25 14:57+0100\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,7 +20,7 @@ msgid "Password dialog"
 msgstr "രഹസ്യവാക്ക് ചതുരം"
 
 #. +> trunk5 stable5 plasma5lts
-#: greeter/themes/org.kde.passworddialog/metadata.desktop:48
+#: greeter/themes/org.kde.passworddialog/metadata.desktop:49
 msgctxt "Comment"
 msgid ""
 "Screen locker that provides a password dialog and an interface to switch the "
@@ -30,19 +30,19 @@ msgstr ""
 "പൂട്ട്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcm/package/metadata.desktop:2 kcm/screenlocker.desktop:13
+#: kcm/package/metadata.desktop:2 kcm/screenlocker.desktop:12
 msgctxt "Name"
 msgid "Screen Locking"
 msgstr "സ്ക്രീൻ പുട്ടുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcm/package/metadata.desktop:48 kcm/screenlocker.desktop:58
+#: kcm/package/metadata.desktop:49 kcm/screenlocker.desktop:58
 msgctxt "Comment"
 msgid "Configure screen locking"
 msgstr "സ്ക്രീൻ പൂട്ടൽ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcm/screenlocker.desktop:92
+#: kcm/screenlocker.desktop:93
 msgctxt "X-KDE-Keywords"
 msgid "lock,resume, screensaver, screenlock"
 msgstr "പൂട്ടുക,തുടരുക,സ്ക്രീൻ സംരക്ഷണം, സ്ക്രീൻ പൂട്ടൽ"
@@ -54,25 +54,25 @@ msgid "Screen Saver"
 msgstr "സ്ക്രീൻ സംരക്ഷണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kscreenlocker.notifyrc:50
+#: kscreenlocker.notifyrc:51
 msgctxt "Name"
 msgid "Screen locked"
 msgstr "സ്ക്രീൻ പൂട്ടിയിരിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: kscreenlocker.notifyrc:96
+#: kscreenlocker.notifyrc:98
 msgctxt "Comment"
 msgid "The screen has been locked"
 msgstr "ഈ സ്ക്രീൻ പൂട്ടിയിട്ടിരിക്കുകയാണ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kscreenlocker.notifyrc:144
+#: kscreenlocker.notifyrc:147
 msgctxt "Name"
 msgid "Screen unlocked"
 msgstr "സ്ക്രീൻ തുറന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: kscreenlocker.notifyrc:190
+#: kscreenlocker.notifyrc:194
 msgctxt "Comment"
 msgid "The screen has been unlocked"
 msgstr "ഈ സ്ക്രീൻ തുറക്കപ്പെട്ടിരിക്കുന്നു"

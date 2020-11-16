@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-nm\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-13 10:45+0200\n"
+"POT-Creation-Date: 2020-11-11 10:13+0100\n"
 "PO-Revision-Date: 2019-12-29 06:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -55,13 +55,13 @@ msgid "Details"
 msgstr "വിശദാംശങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: contents/ui/ConnectionItem.qml:271
+#: contents/ui/ConnectionItem.qml:270
 #, kde-format
 msgid "Connected, ⬇ %1/s, ⬆ %2/s"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/ConnectionItem.qml:275
+#: contents/ui/ConnectionItem.qml:274
 #, kde-format
 msgid "Connected"
 msgstr "ബന്ധിപ്പിച്ചു"
@@ -134,63 +134,70 @@ msgstr ""
 msgid "No available connections"
 msgstr "ലഭ്യമായ ബന്ധങ്ങള്‍"
 
-#. +> trunk5
-#: contents/ui/Toolbar.qml:84
+#. +> trunk5 stable5
+#: contents/ui/Toolbar.qml:80
 #, kde-format
 msgid "Enable Wi-Fi"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: contents/ui/Toolbar.qml:78
+#. +> plasma5lts
+#: contents/ui/Toolbar.qml:76
 #, kde-format
 msgid "Enable wireless"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/Toolbar.qml:100
+#: contents/ui/Toolbar.qml:96
 #, kde-format
 msgid "Enable mobile network"
 msgstr "മൊബൈൽ ശൃംഖല പ്രവര്‍ത്തനസജ്ജമാക്കുക"
 
-#. +> stable5 plasma5lts
-#: contents/ui/Toolbar.qml:108
+#. +> plasma5lts
+#: contents/ui/Toolbar.qml:106
 #, kde-format
 msgid "Enable airplane mode"
 msgstr ""
 
-#. +> trunk5
-#: contents/ui/Toolbar.qml:140
+#. +> trunk5 stable5
+#: contents/ui/Toolbar.qml:136
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Disable airplane mode<nl/><nl/>This will enable Wi-Fi and Bluetooth"
 msgstr ""
 
-#. +> trunk5
-#: contents/ui/Toolbar.qml:141
+#. +> trunk5 stable5
+#: contents/ui/Toolbar.qml:137
 #, kde-kuit-format
 msgctxt "@info"
 msgid "Enable airplane mode<nl/><nl/>This will disable Wi-Fi and Bluetooth"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/Toolbar.qml:155
+#: contents/ui/Toolbar.qml:149
 #, kde-format
 msgid "Hotspot"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/Toolbar.qml:176 contents/ui/Toolbar.qml:187
+#: contents/ui/Toolbar.qml:170 contents/ui/Toolbar.qml:181
 #, kde-format
 msgid "Disable Hotspot"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/Toolbar.qml:181 contents/ui/Toolbar.qml:187
+#: contents/ui/Toolbar.qml:175 contents/ui/Toolbar.qml:181
 #, kde-format
 msgid "Create Hotspot"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
+#: contents/ui/Toolbar.qml:193
+#, kde-format
+msgctxt "text field placeholder text"
+msgid "Search..."
+msgstr "തിരയുക..."
+
+#. +> stable5 plasma5lts
 #: contents/ui/Toolbar.qml:199
 #, kde-format
 msgctxt "button tooltip"
@@ -198,35 +205,28 @@ msgid "Search the connections"
 msgstr "ബന്ധങ്ങള്‍ തിരയുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/Toolbar.qml:211
+#: contents/ui/Toolbar.qml:208
 #, kde-format
 msgid "Configure network connections..."
 msgstr "ശൃംഖലയുടെ ബന്ധങ്ങള്‍ ക്രമീകരിക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/Toolbar.qml:231
-#, kde-format
-msgctxt "text field placeholder text"
-msgid "Search..."
-msgstr "തിരയുക..."
-
-#. +> trunk5 stable5 plasma5lts
-#: contents/ui/TrafficMonitor.qml:47 contents/ui/TrafficMonitor.qml:105
+#: contents/ui/TrafficMonitor.qml:50 contents/ui/TrafficMonitor.qml:114
 #, kde-format
 msgid "/s"
 msgstr "/s"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/TrafficMonitor.qml:71
-#, kde-format
-msgid "Download"
-msgstr "ഡൗൺലോഡ്"
-
-#. +> trunk5 stable5 plasma5lts
-#: contents/ui/TrafficMonitor.qml:76
+#: contents/ui/TrafficMonitor.qml:96
 #, kde-format
 msgid "Upload"
 msgstr "അപ്‌ലോഡ്"
+
+#. +> trunk5 stable5 plasma5lts
+#: contents/ui/TrafficMonitor.qml:96
+#, kde-format
+msgid "Download"
+msgstr "ഡൗൺലോഡ്"
 
 #. +> plasma5lts
 #: contents/ui/Header.qml:47

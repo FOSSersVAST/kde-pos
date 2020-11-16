@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-19 10:15+0200\n"
+"POT-Creation-Date: 2020-10-25 14:57+0100\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -14,19 +14,19 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcm/kcm_kscreen.desktop:11 plasmoid/package/metadata.desktop:2
+#: kcm/kcm_kscreen.desktop:10 plasmoid/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Display Configuration"
 msgstr "ക്രമീകരണങ്ങൾ പ്രദർശിപ്പിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcm/kcm_kscreen.desktop:53 kcm/package/metadata.desktop:45
+#: kcm/kcm_kscreen.desktop:52 kcm/package/metadata.desktop:46
 msgctxt "Comment"
 msgid "Manage and configure monitors and displays"
 msgstr "മോണിറ്ററുകളും ഡിസ്പ്ലേയും കൈകാര്യം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcm/kcm_kscreen.desktop:101
+#: kcm/kcm_kscreen.desktop:100
 msgctxt "X-KDE-Keywords"
 msgid ""
 "display,monitor,scale,scaling,resolution,orientation,outputs,screen,refresh"

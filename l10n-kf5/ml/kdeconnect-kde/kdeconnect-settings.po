@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-19 09:15+0200\n"
+"POT-Creation-Date: 2020-11-12 09:04+0100\n"
 "PO-Revision-Date: 2020-01-28 02:48+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -30,19 +30,19 @@ msgid "Your emails"
 msgstr "vivekkj2004@gmail.com"
 
 #. +> trunk5 stable5
-#: main.cpp:21 main.cpp:23
+#: main.cpp:24 main.cpp:26
 #, kde-format
 msgid "KDE Connect Settings"
 msgstr "കെ.ഡി.ഇ കണക്ട് സജ്ജീകരണങ്ങൾ"
 
 #. +> trunk5 stable5
-#: main.cpp:25
+#: main.cpp:28
 #, kde-format
 msgid "(C) 2018-2020 Nicolas Fella"
 msgstr "(C) 2018-2020 നിക്കോളാസ് ഫെല്ല"
 
 #. +> trunk5 stable5
-#: main.cpp:29
+#: main.cpp:32
 #, kde-format
 msgid "Arguments for the config module"
 msgstr ""

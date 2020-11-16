@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kscreenlocker\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-21 10:37+0200\n"
+"POT-Creation-Date: 2020-11-12 09:06+0100\n"
 "PO-Revision-Date: 2018-08-16 09:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,13 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -71,52 +71,52 @@ msgid "Lock Session"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: ksldapp.cpp:413
+#: ksldapp.cpp:422
 #, kde-format
 msgid "Screen locked"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: ksldapp.cpp:573
+#: ksldapp.cpp:582
 #, kde-format
 msgid "Screen unlocked"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: logind.cpp:199
+#: logind.cpp:200
 #, kde-format
 msgid "Screen Locker"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: logind.cpp:200
+#: logind.cpp:201
 #, kde-format
 msgid "Ensuring that the screen gets locked before going to sleep"
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Daemon)
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcfg/kscreenlockersettings.kcfg:10
 #, kde-format
 msgid "Screen lock enabled"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Daemon)
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcfg/kscreenlockersettings.kcfg:11
 #, kde-format
 msgid "Sets whether the screen will be locked after the specified time."
 msgstr ""
 
 #. i18n: ectx: label, entry, group (Daemon)
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcfg/kscreenlockersettings.kcfg:16
 #, kde-format
 msgid "Screen saver timeout"
 msgstr ""
 
 #. i18n: ectx: whatsthis, entry, group (Daemon)
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: kcfg/kscreenlockersettings.kcfg:17
 #, kde-format
 msgid "Sets the minutes after which the screen is locked."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-28 09:37+0200\n"
+"POT-Creation-Date: 2020-11-12 09:04+0100\n"
 "PO-Revision-Date: 2020-03-22 10:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -70,7 +70,7 @@ msgid "Reply"
 msgstr "മറുപടി നല്കുക"
 
 #. +> trunk5 stable5
-#: notifications/sendreplydialog.cpp:27
+#: notifications/sendreplydialog.cpp:28
 #, kde-format
 msgid "Send"
 msgstr "അയക്കുക"
@@ -144,13 +144,13 @@ msgstr ""
 msgid "Ping!"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:38
 #, kde-format
 msgid "Shutdown"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: runcommand/runcommand_config.cpp:39
 #, kde-format
 msgid "Reboot"
@@ -212,7 +212,7 @@ msgid "Command"
 msgstr "ആജ്ഞ"
 
 #. +> trunk5 stable5
-#: screensaver-inhibit/screensaverinhibitplugin.cpp:29
+#: screensaver-inhibit/screensaverinhibitplugin.cpp:25
 #, kde-format
 msgid "Phone is connected"
 msgstr "ഫോൺ ബന്ധപ്പെടുത്തിയിരിക്കുന്നു"
@@ -362,13 +362,13 @@ msgid "Cannot handle SFTP protocol. Apologies for the inconvenience"
 msgstr ""
 
 #. +> trunk5 stable5
-#: sftp/sftpplugin.cpp:139
+#: sftp/sftpplugin.cpp:142
 #, kde-format
 msgid "All files"
 msgstr "എല്ലാ ഫയലുകളും"
 
 #. +> trunk5 stable5
-#: sftp/sftpplugin.cpp:140
+#: sftp/sftpplugin.cpp:143
 #, kde-format
 msgid "Camera pictures"
 msgstr "ക്യാമറ ചിത്രങ്ങൾ"

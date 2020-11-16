@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-10 10:32+0200\n"
+"POT-Creation-Date: 2020-10-18 10:46+0200\n"
 "PO-Revision-Date: 2020-03-04 02:49+0000\n"
 "Last-Translator: Kannan V M <kannan@disroot.org>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -22,13 +22,13 @@ msgid "KDE Connect"
 msgstr "കെ.ഡി.ഇ കണക്റ്റ്"
 
 #. +> trunk5 stable5
-#: app/org.kde.kdeconnect.app.desktop:46
+#: app/org.kde.kdeconnect.app.desktop:48
 msgctxt "GenericName"
 msgid "Device Synchronization"
 msgstr ""
 
 #. +> trunk5 stable5
-#: app/org.kde.kdeconnect.app.desktop:86
+#: app/org.kde.kdeconnect.app.desktop:90
 msgctxt "Comment"
 msgid "Make all your devices one"
 msgstr ""
@@ -46,13 +46,13 @@ msgid "Open on connected device via KDE Connect"
 msgstr ""
 
 #. +> trunk5 stable5
-#: data/org.kde.kdeconnect_open.desktop:32
+#: data/org.kde.kdeconnect_open.desktop:36
 msgctxt "Name"
 msgid "Open on connected device via KDE Connect"
 msgstr ""
 
 #. +> trunk5 stable5
-#: data/org.kde.kdeconnect_open.desktop:62
+#: data/org.kde.kdeconnect_open.desktop:70
 msgctxt "Comment"
 msgid "Open on a connected device using KDE Connect"
 msgstr ""
@@ -64,25 +64,25 @@ msgid "KDE Connect Indicator"
 msgstr ""
 
 #. +> trunk5 stable5
-#: indicator/org.kde.kdeconnect.nonplasma.desktop:39
+#: indicator/org.kde.kdeconnect.nonplasma.desktop:41
 msgctxt "Comment"
 msgid "Display information about your devices"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kcm/kcm_kdeconnect.desktop:58
+#: kcm/kcm_kdeconnect.desktop:60
 msgctxt "Comment"
 msgid "Connect and sync your devices"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kcm/kcm_kdeconnect.desktop:99
+#: kcm/kcm_kdeconnect.desktop:104
 msgctxt "X-KDE-Keywords"
 msgid "Network,Android,Devices"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plasmoid/package/metadata.desktop:46
+#: plasmoid/package/metadata.desktop:48
 msgctxt "Comment"
 msgid "Show notifications from your devices using KDE Connect"
 msgstr ""
@@ -94,79 +94,79 @@ msgid "Find This Device plugin settings"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:47
+#: plugins/kdeconnect.notifyrc:49
 msgctxt "Comment"
 msgid "Notifications from your devices"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:91
+#: plugins/kdeconnect.notifyrc:94
 msgctxt "Name"
 msgid "Pairing Request"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:133
+#: plugins/kdeconnect.notifyrc:138
 msgctxt "Comment"
 msgid "Pairing request received from a device"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:175
+#: plugins/kdeconnect.notifyrc:182
 msgctxt "Name"
 msgid "Incoming Call"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:217
+#: plugins/kdeconnect.notifyrc:226
 msgctxt "Comment"
 msgid "Someone is calling you"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:263
+#: plugins/kdeconnect.notifyrc:273
 msgctxt "Name"
 msgid "Missed Call"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:304
+#: plugins/kdeconnect.notifyrc:317
 msgctxt "Comment"
 msgid "You have a missed call"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:350
+#: plugins/kdeconnect.notifyrc:365
 msgctxt "Name"
 msgid "Battery Low"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:390
+#: plugins/kdeconnect.notifyrc:407
 msgctxt "Comment"
 msgid "Your battery is in low state"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:436
+#: plugins/kdeconnect.notifyrc:455
 msgctxt "Name"
 msgid "Ping Received"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:477
+#: plugins/kdeconnect.notifyrc:499
 msgctxt "Comment"
 msgid "Ping received"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:523
+#: plugins/kdeconnect.notifyrc:547
 msgctxt "Name"
 msgid "Generic Notification"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect.notifyrc:564
+#: plugins/kdeconnect.notifyrc:591
 msgctxt "Comment"
 msgid "Notification received"
 msgstr ""
@@ -208,7 +208,7 @@ msgid " Find my device"
 msgstr ""
 
 #. +> trunk5 stable5
-#: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:31
+#: runners/findmyphone/plasma-runner-kdeconnect-findmyphone.desktop:35
 msgctxt "Comment"
 msgid "Ring connected devices"
 msgstr ""
@@ -220,7 +220,7 @@ msgid "Run command"
 msgstr ""
 
 #. +> trunk5 stable5
-#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:31
+#: runners/remotecommands/plasma-runner-kdeconnect-remotecommands.desktop:35
 msgctxt "Comment"
 msgid "Run commands on connected devices"
 msgstr ""
@@ -232,7 +232,7 @@ msgid "KDE Connect Settings"
 msgstr ""
 
 #. +> trunk5 stable5
-#: settings/org.kde.kdeconnect.settings.desktop:46
+#: settings/org.kde.kdeconnect.settings.desktop:49
 msgctxt "GenericName"
 msgid "Connect and sync your devices"
 msgstr ""
@@ -244,13 +244,13 @@ msgid "KDE Connect SMS"
 msgstr ""
 
 #. +> trunk5 stable5
-#: smsapp/org.kde.kdeconnect.sms.desktop:34
+#: smsapp/org.kde.kdeconnect.sms.desktop:38
 msgctxt "GenericName"
 msgid "SMS"
 msgstr ""
 
 #. +> trunk5 stable5
-#: smsapp/org.kde.kdeconnect.sms.desktop:66
+#: smsapp/org.kde.kdeconnect.sms.desktop:74
 msgctxt "Comment"
 msgid "Text Messaging"
 msgstr ""

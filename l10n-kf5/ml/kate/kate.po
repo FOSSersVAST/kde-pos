@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kate\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-19 09:28+0200\n"
+"POT-Creation-Date: 2020-11-09 11:57+0100\n"
 "PO-Revision-Date: 2020-03-17 11:50+0000\n"
 "Last-Translator: amrithandh m <amrithanadhm@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -81,84 +81,65 @@ msgstr "സെഷനുകള്‍ (&i)"
 msgid "&Settings"
 msgstr "സജ്ജീകരണങ്ങള്‍ (&S)"
 
-#. i18n: ectx: Menu (help)
-#. +> trunk5 stable5
-#: data/kateui.rc:112
-#, kde-format
-msgid "&Help"
-msgstr "സഹായം (&H)"
-
 #. i18n: ectx: ToolBar (mainToolBar)
 #. +> trunk5 stable5
-#: data/kateui.rc:117
+#: data/kateui.rc:113
 #, kde-format
 msgid "Main Toolbar"
 msgstr "പ്രധാന ഉപകരണപ്പട്ട"
 
 #. i18n: ectx: Menu (viewspace_popup_statusbar)
 #. +> trunk5 stable5
-#: data/kateui.rc:147
+#: data/kateui.rc:143
 #, kde-format
 msgid "&Status Bar Items"
 msgstr "സ്ഥിതിവിവര ബാറിലെ ഇനങ്ങൾ (&S)"
 
 #. +> trunk5 stable5
-#: kateapp.cpp:245 kateapp.cpp:366
+#: kateapp.cpp:231 kateapp.cpp:352
 #, kde-format
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
 msgstr "ഫയൽ '%1' തുറക്കാൻ കഴിഞ്ഞില്ല: ഇത് ഒരു സാധാരണ ഫയലല്ല, ഇത് ഒരു ഫോൾഡറാണ്."
 
 #. +> trunk5 stable5
-#: katecolorschemechooser.cpp:62
+#: katecolorschemechooser.cpp:45
 #, fuzzy, kde-format
 msgid "&Color Scheme"
 msgstr "നിറങ്ങളുടെ  പ്രമേയം (&C)"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:59
+#: kateconfigdialog.cpp:42
 #, kde-format
 msgid "Configure"
 msgstr "ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:68
+#: kateconfigdialog.cpp:73 katemdi.cpp:531
 #, kde-format
-msgid "Application"
-msgstr "ആപ്ലിക്കേഷൻ"
+msgid "Behavior"
+msgstr "സ്വഭാവം"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:70
-#, kde-format
-msgid "Application Options"
-msgstr "ആപ്ലിക്കേഷൻ സാധ്യതകൾ"
+#: kateconfigdialog.cpp:74
+#, fuzzy, kde-format
+msgid "Behavior Options"
+msgstr "സ്വഭാവം"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:77
-#, kde-format
-msgid "General"
-msgstr "പൊതുവായത്"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:78
-#, kde-format
-msgid "General Options"
-msgstr "പൊതുവായ സാധ്യതകൾ"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:86
+#: kateconfigdialog.cpp:81
 #, kde-format
 msgid "&Behavior"
 msgstr "പെരുമാറ്റം (&B)"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:91
+#: kateconfigdialog.cpp:86
 #, kde-format
 msgid "Wa&rn about files modified by foreign processes"
 msgstr "വിദേശ പ്രക്രിയകൾ പരിഷ്‌ക്കരിച്ച ഫയലുകളെക്കുറിച്ച് മുന്നറിയിപ്പ് നൽകുക (&R)"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:94
+#: kateconfigdialog.cpp:89
 #, kde-format
 msgid ""
 "If enabled, when Kate receives focus you will be asked what to do with files "
@@ -171,61 +152,110 @@ msgstr ""
 "പരിഷ്‌ക്കരിച്ച ഒരു ഫയൽ സംരക്ഷിക്കാൻ ശ്രമിക്കുമ്പോൾ മാത്രം എന്തുചെയ്യണമെന്ന് നിങ്ങളോട് ചോദിക്കും."
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:103
+#: kateconfigdialog.cpp:100 katemainwindow.cpp:252
 #, kde-format
-msgid "Close Kate entirely when the last file is closed"
-msgstr "അവസാന ഫയൽ അടയ്‌ക്കുമ്പോൾ കേറ്റ് പൂർണ്ണമായും അടയ്‌ക്കുക"
+msgid "&Quick Open"
+msgstr "പെട്ടന്ന് തുറക്കുക (&Q)"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:106
+#: kateconfigdialog.cpp:105
 #, kde-format
-msgid ""
-"If enabled, Kate will shutdown when the last file being edited is closed, "
-"otherwise a blank page will open so that you can start a new file."
+msgid "&Match Mode:"
 msgstr ""
-"പ്രവർത്തനക്ഷമമാക്കിയിട്ടുണ്ടെങ്കിൽ, അവസാനമായി ചിട്ടപെടുത്തിയ ഫയൽ അടയ്‌ക്കുമ്പോൾ കേറ്റ് പ്രവര്‍"
-"ത്തനരഹിതമാക്കും, അല്ലാത്തപക്ഷം ഒരു ശൂന്യ താള്‍ തുറക്കുന്നതിനാൽ നിങ്ങൾക്ക് ഒരു പുതിയ ഫയൽ "
-"ആരംഭിക്കാൻ കഴിയും."
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:114
+#: kateconfigdialog.cpp:110 katemwmodonhddialog.cpp:89
 #, kde-format
-msgid "Meta-Information"
-msgstr "മെറ്റാ-വിവരങ്ങൾ"
+msgid "Filename"
+msgstr "ഫയല്‍പേര്"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:120
+#: kateconfigdialog.cpp:111
 #, kde-format
-msgid "Keep &meta-information past sessions"
-msgstr "കഴിഞ്ഞ സെഷനുകളിൽ മെറ്റാ-വിവരങ്ങൾ സൂക്ഷിക്കുക (&M)"
+msgid "Filepath"
+msgstr "ഫയല്‍സ്ഥലം"
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:118
+#, kde-format
+msgid "&List Mode:"
+msgstr "പട്ടിക രീതി (&L):"
 
 #. +> trunk5 stable5
 #: kateconfigdialog.cpp:123
 #, kde-format
-msgid ""
-"Check this if you want document configuration like for example bookmarks to "
-"be saved past editor sessions. The configuration will be restored if the "
-"document has not changed when reopened."
-msgstr ""
-"കഴിഞ്ഞ എഡിറ്റർ സെഷനുകളിൽ ഓര്‍മ്മക്കുറിപ്പു് സംരക്ഷിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെങ്കിൽ ഇത് "
-"പരിശോധിക്കുക. വീണ്ടും തുറക്കുമ്പോൾ കുറിപ്പ്/ഡോക്യുമെന്റ് മാറ്റിയിട്ടില്ലെങ്കിൽ ക്രമീകരണം "
-"പുനഃസ്ഥാപിക്കപ്പെടും."
+msgid "Current Project Files"
+msgstr "നിലവിലുള്ള പദ്ധതിയുടെ ഫയലുകള്‍"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:135
+#: kateconfigdialog.cpp:124
 #, kde-format
-msgid "&Delete unused meta-information after:"
-msgstr "ശേഷം ഉപയോഗമില്ലാത്ത മെറ്റാ-വിവരങ്ങൾ കളയുക (&D)"
+msgid "All Projects Files"
+msgstr "എല്ലാ പദ്ധതി ഫയലുകളും"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:139
+#: kateconfigdialog.cpp:132
+#, fuzzy, kde-format
+msgid "&Tabs"
+msgstr "ടാബുകള്‍ കാണിക്കുക (&T)"
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:136
+#, kde-format
+msgid "&Limit number of tabs:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:142
+#, kde-format
+msgid "Unlimited"
+msgstr ""
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:147
+#, kde-format
+msgid "&Show close button"
+msgstr ""
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:149
+#, kde-format
+msgid "When checked each tab will display a close button."
+msgstr ""
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:153
+#, kde-format
+msgid "&Expand tabs"
+msgstr ""
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:155
+#, kde-format
+msgid "When checked tabs take as much size as possible."
+msgstr ""
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:170
+#, fuzzy, kde-format
+msgid "Session"
+msgstr "സെഷനുകൾ"
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:171
+#, kde-format
+msgid "Session Management"
+msgstr "സെഷന് നടത്തിപ്പ്‌"
+
+#. +> trunk5 stable5
+#: kateconfigdialog.cpp:182
 #, kde-format
 msgctxt "The special case of 'Delete unused meta-information after'"
 msgid "(never)"
 msgstr "(ഒരിക്കലും വേണ്ട )"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:140
+#: kateconfigdialog.cpp:183
 #, kde-format
 msgctxt "The suffix of 'Delete unused meta-information after'"
 msgid " day"
@@ -234,116 +264,50 @@ msgstr[0] " ദിവസം"
 msgstr[1] " ദിവസങ്ങൾ"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:151 katemainwindow.cpp:262
-#, kde-format
-msgid "&Quick Open"
-msgstr "പെട്ടന്ന് തുറക്കുക (&Q)"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:156
-#, kde-format
-msgid "&Match Mode:"
-msgstr ""
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:161 katemwmodonhddialog.cpp:94
-#, kde-format
-msgid "Filename"
-msgstr "ഫയല്‍പേര്"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:162
-#, kde-format
-msgid "Filepath"
-msgstr "ഫയല്‍സ്ഥലം"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:169
-#, kde-format
-msgid "&List Mode:"
-msgstr "പട്ടിക രീതി (&L):"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:174
-#, kde-format
-msgid "Current Project Files"
-msgstr "നിലവിലുള്ള പദ്ധതിയുടെ ഫയലുകള്‍"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:175
-#, kde-format
-msgid "All Projects Files"
-msgstr "എല്ലാ പദ്ധതി ഫയലുകളും"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:187
-#, kde-format
-msgid "Sessions"
-msgstr "സെഷനുകൾ"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:188
-#, kde-format
-msgid "Session Management"
-msgstr "സെഷന് നടത്തിപ്പ്‌"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:224
+#: kateconfigdialog.cpp:222
 #, kde-format
 msgid "Plugins"
 msgstr "സംയോജകങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:225
+#: kateconfigdialog.cpp:223
 #, kde-format
 msgid "Plugin Manager"
 msgstr "സംയോജക കാര്യസ്ഥന്‍"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:248 kateconfigdialog.cpp:249
+#: kateconfigdialog.cpp:241 kateconfigdialog.cpp:242
 #, kde-format
 msgid "User Feedback"
 msgstr "ഉപയോക്താവിൻെറ അഭിപ്രായം"
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:254
-#, kde-format
-msgid "Editor Component"
-msgstr "എഡിറ്റർ ഘടകം"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:256
-#, kde-format
-msgid "Editor Component Options"
-msgstr "എഡിറ്റർ ഘടകത്തിന്റെ ഓപ്ഷനുകൾ"
-
-#. +> trunk5 stable5
-#: kateconfigdialog.cpp:469
+#: kateconfigdialog.cpp:443
 #, kde-format
 msgid ""
 "You have unsaved changes. Do you want to apply the changes or discard them?"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateconfigdialog.cpp:469
+#: kateconfigdialog.cpp:443
 #, kde-format
 msgid "Warning"
 msgstr "മുന്നറിയിപ്പ്"
 
 #. +> trunk5 stable5
-#: kateconfigplugindialogpage.cpp:78
+#: kateconfigplugindialogpage.cpp:66
 #, kde-format
 msgid "Name"
 msgstr "പേര്"
 
 #. +> trunk5 stable5
-#: kateconfigplugindialogpage.cpp:78
+#: kateconfigplugindialogpage.cpp:66
 #, kde-format
 msgid "Description"
 msgstr "വിവരണം"
 
 #. +> trunk5 stable5
-#: kateconfigplugindialogpage.cpp:80
+#: kateconfigplugindialogpage.cpp:68
 #, kde-format
 msgid ""
 "Here you can see all available Kate plugins. Those with a check mark are "
@@ -353,7 +317,7 @@ msgstr ""
 "അവ അടുത്തതവണ കേറ്റ് തുറക്കുമ്പോൾ സ്വതേ ലോഡുചെയ്യപ്പെടും."
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:240
+#: katedocmanager.cpp:224
 #, kde-format
 msgid ""
 "The supposedly temporary file %1 has been modified. Do you want to delete it "
@@ -361,13 +325,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:243
+#: katedocmanager.cpp:227
 #, kde-format
 msgid "Delete File?"
 msgstr "ഫയല്‍ കളയട്ടെ?"
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:348
+#: katedocmanager.cpp:332
 #, kde-format
 msgid ""
 "<p>The document '%1' has been modified, but not saved.</p><p>Do you want to "
@@ -377,151 +341,151 @@ msgstr ""
 "ചെയ്യണോ അതോ കളയണോ?</p>"
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:351
+#: katedocmanager.cpp:335
 #, kde-format
 msgid "Close Document"
 msgstr "പ്രമാണം അടയ്ക്കുക"
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:360
+#: katedocmanager.cpp:344
 #, kde-format
 msgid "Save As"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:378 katemainwindow.cpp:524
+#: katedocmanager.cpp:362 katemainwindow.cpp:510
 #, kde-format
 msgid "New file opened while trying to close Kate, closing aborted."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:378 katemainwindow.cpp:524
+#: katedocmanager.cpp:362 katemainwindow.cpp:510
 #, kde-format
 msgid "Closing Aborted"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:453
+#: katedocmanager.cpp:437
 #, kde-format
 msgid "Starting Up"
 msgstr "തുടങ്ങുന്നു"
 
 #. +> trunk5 stable5
-#: katedocmanager.cpp:454
+#: katedocmanager.cpp:438
 #, kde-format
 msgid "Reopening files from the last session..."
 msgstr "തൊട്ട് മുൻപത്തെ സെഷനിൽ നിന്നും ഫയലുകള്‍ തുറക്കുന്നു..."
 
 #. +> trunk5 stable5
-#: katefileactions.cpp:78
+#: katefileactions.cpp:64
 #, kde-format
 msgid "Rename file"
 msgstr "ഫയല്‍ പുനഃനാമകരണം ചെയ്യുക"
 
 #. +> trunk5 stable5
-#: katefileactions.cpp:79
+#: katefileactions.cpp:65
 #, kde-format
 msgid "New file name"
 msgstr "ഫയലിന്റെ പുതിയ പേര്"
 
 #. +> trunk5 stable5
-#: katefileactions.cpp:110
+#: katefileactions.cpp:96
 #, kde-format
 msgid "File \"%1\" could not be moved to \"%2\""
 msgstr "ഫയല്‍ \"%1\", \"%2\"വിലേക്ക് മാറ്റുവാൻ സാധിച്ചില്ല"
 
 #. +> trunk5 stable5
-#: katefileactions.cpp:131
+#: katefileactions.cpp:117
 #, kde-format
 msgid "Do you really want to delete file \"%1\"?"
 msgstr "താങ്കൾ \"%1\" പ്രമാണം കളയുന്നത് തീര്‍ച്ചപ്പെടുത്തിയോ?"
 
 #. +> trunk5 stable5
-#: katefileactions.cpp:131
+#: katefileactions.cpp:117
 #, kde-format
 msgid "Delete file"
 msgstr "പ്രമാണം കളയുക"
 
 #. +> trunk5 stable5
-#: katefileactions.cpp:144
+#: katefileactions.cpp:130
 #, kde-format
 msgid "File \"%1\" could not be deleted."
 msgstr "ഫയല്‍ \"%1\" കളയാന്‍ സാധിച്ചില്ല."
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:231
+#: katemainwindow.cpp:221
 #, kde-format
 msgid "Use this command to show or hide the view's statusbar"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:234
+#: katemainwindow.cpp:224
 #, kde-format
 msgid "Show &Tabs"
 msgstr "ടാബുകള്‍ കാണിക്കുക (&T)"
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:237
+#: katemainwindow.cpp:227
 #, kde-format
 msgid "Use this command to show or hide the tabs for the views"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:239
+#: katemainwindow.cpp:229
 #, kde-format
 msgid "Sho&w Path in Titlebar"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:242
+#: katemainwindow.cpp:232
 #, kde-format
 msgid "Show the complete document path in the window caption"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:248
+#: katemainwindow.cpp:238
 #, kde-format
 msgid "&Previous Tab"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:249
+#: katemainwindow.cpp:239
 #, kde-format
 msgid "Focus the previous tab."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:254
+#: katemainwindow.cpp:244
 #, kde-format
 msgid "&Next Tab"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:255
+#: katemainwindow.cpp:245
 #, kde-format
 msgid "Focus the next tab."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:265
+#: katemainwindow.cpp:255
 #, kde-format
 msgid "Open a form to quick open documents."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:297
+#: katemainwindow.cpp:287
 #, kde-format
 msgid "Create a new document"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:298
+#: katemainwindow.cpp:288
 #, kde-format
 msgid "Open an existing document for editing"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:303
+#: katemainwindow.cpp:293
 #, kde-format
 msgid ""
 "This lists files which you have opened recently, and allows you to easily "
@@ -529,105 +493,105 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:307
+#: katemainwindow.cpp:297
 #, kde-format
 msgid "Save A&ll"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:310
+#: katemainwindow.cpp:300
 #, kde-format
 msgid "Save all open, modified documents to disk."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:313
+#: katemainwindow.cpp:303
 #, kde-format
 msgid "&Reload All"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:315
+#: katemainwindow.cpp:305
 #, kde-format
 msgid "Reload all open documents."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:319
+#: katemainwindow.cpp:309
 #, kde-format
 msgid "Copy File &Path"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:324 katemainwindow.cpp:333
+#: katemainwindow.cpp:314 katemainwindow.cpp:323
 #, kde-format
 msgid "Copies the file path of the current file to clipboard."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:328
+#: katemainwindow.cpp:318
 #, kde-format
 msgid "&Open Containing Folder"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:337
+#: katemainwindow.cpp:327
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Rename..."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:342
+#: katemainwindow.cpp:332
 #, kde-format
 msgid "Renames the file belonging to the current document."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:346
+#: katemainwindow.cpp:336
 #, kde-format
 msgctxt "@action:inmenu"
 msgid "Delete"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:351 katemainwindow.cpp:360
+#: katemainwindow.cpp:341 katemainwindow.cpp:350
 #, kde-format
 msgid "Deletes the file belonging to the current document."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:355
+#: katemainwindow.cpp:345
 #, kde-format
 msgid "Properties"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:363 katemainwindow.cpp:364
+#: katemainwindow.cpp:353 katemainwindow.cpp:354
 #, kde-format
 msgid "Compare"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:364
+#: katemainwindow.cpp:354
 #, kde-format
 msgid "Use the Tabbar context menu to compare two documents"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:365
+#: katemainwindow.cpp:355
 #, kde-format
 msgid "Shows a hint how to compare documents."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:368
+#: katemainwindow.cpp:358
 #, kde-format
 msgid "Close Orphaned"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:370
+#: katemainwindow.cpp:360
 #, kde-format
 msgid ""
 "Close all documents in the file list that could not be reopened, because "
@@ -635,61 +599,61 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:374
+#: katemainwindow.cpp:364
 #, kde-format
 msgid "Close the current document."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:377
+#: katemainwindow.cpp:367
 #, kde-format
 msgid "Close Other"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:379
+#: katemainwindow.cpp:369
 #, kde-format
 msgid "Close other open documents."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:382
+#: katemainwindow.cpp:372
 #, kde-format
 msgid "Clos&e All"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:384
+#: katemainwindow.cpp:374
 #, kde-format
 msgid "Close all open documents."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:389
+#: katemainwindow.cpp:379
 #, kde-format
 msgid "Close this window"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:393
+#: katemainwindow.cpp:383
 #, kde-format
 msgid "&New Window"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:395
+#: katemainwindow.cpp:385
 #, kde-format
 msgid "Create a new Kate view (a new window with the same document list)."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:401
+#: katemainwindow.cpp:391
 #, kde-format
 msgid "Open W&ith"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:403
+#: katemainwindow.cpp:393
 #, kde-format
 msgid ""
 "Open the current document using another application registered for its file "
@@ -697,87 +661,81 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:408
+#: katemainwindow.cpp:398
 #, kde-format
 msgid "Configure the application's keyboard shortcut assignments."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:411
+#: katemainwindow.cpp:401
 #, kde-format
 msgid "Configure which items should appear in the toolbar(s)."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:414
+#: katemainwindow.cpp:404
 #, kde-format
 msgid ""
 "Configure various aspects of this application and the editing component."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:418
+#: katemainwindow.cpp:408
 #, kde-format
 msgid "&Plugins Handbook"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:420
+#: katemainwindow.cpp:410
 #, kde-format
 msgid "This shows help files for various available plugins."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:424
-#, kde-format
-msgid "&About Editor Component"
-msgstr ""
+#: katemainwindow.cpp:428
+#, fuzzy, kde-format
+msgctxt "Menu entry Session->New Session"
+msgid "&New Session"
+msgstr "സെഷനുകൾ"
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:442
-#, kde-format
-msgctxt "Menu entry Session->New"
-msgid "&New"
-msgstr ""
-
-#. +> trunk5 stable5
-#: katemainwindow.cpp:447
+#: katemainwindow.cpp:433
 #, kde-format
 msgid "&Save Session"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:451
+#: katemainwindow.cpp:437
 #, kde-format
 msgid "Save Session &As..."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:455
+#: katemainwindow.cpp:441
 #, kde-format
 msgid "&Manage Sessions..."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:460
+#: katemainwindow.cpp:446
 #, kde-format
 msgid "&Quick Open Session"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:468
+#: katemainwindow.cpp:454
 #, kde-format
 msgid "This will close all open documents. Are you sure you want to continue?"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:468
+#: katemainwindow.cpp:454
 #, kde-format
 msgid "Close all documents"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:479
+#: katemainwindow.cpp:465
 #, kde-format
 msgid ""
 "This will close all open documents beside the current one. Are you sure you "
@@ -785,26 +743,26 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:480
+#: katemainwindow.cpp:466
 #, kde-format
 msgid "Close all documents beside current one"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:657
+#: katemainwindow.cpp:643
 #, kde-format
 msgid ""
 "This will hide the menu bar completely. You can show it again by typing %1."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:660
+#: katemainwindow.cpp:646
 #, kde-format
 msgid "Hide menu bar"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:784
+#: katemainwindow.cpp:770
 #, kde-format
 msgid ""
 "You dropped the directory %1 into Kate. Do you want to load all files "
@@ -812,109 +770,103 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:787
+#: katemainwindow.cpp:773
 #, kde-format
 msgid "Load files recursively?"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:914
+#: katemainwindow.cpp:900
 #, kde-format
 msgid "&Other..."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:937
+#: katemainwindow.cpp:923
 #, kde-format
 msgid "Application '%1' not found."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:937
+#: katemainwindow.cpp:923
 #, kde-format
 msgid "Application not found"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemainwindow.cpp:1042
+#: katemainwindow.cpp:1030
 #, kde-format
 msgid " [read only]"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:115
+#: katemdi.cpp:100
 #, kde-format
 msgid "Tool &Views"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:117
+#: katemdi.cpp:102
 #, kde-format
 msgid "Show Side&bars"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:163
+#: katemdi.cpp:148
 #, kde-format
 msgid "Show %1"
 msgstr "%1 കാണിക്കുക"
 
 #. +> trunk5 stable5
-#: katemdi.cpp:542
+#: katemdi.cpp:527
 #, kde-format
 msgid "Configure ..."
 msgstr "ക്രമീകരിക്കുക ..."
 
 #. +> trunk5 stable5
-#: katemdi.cpp:546
-#, kde-format
-msgid "Behavior"
-msgstr "സ്വഭാവം"
-
-#. +> trunk5 stable5
-#: katemdi.cpp:548
+#: katemdi.cpp:533
 #, kde-format
 msgid "Make Non-Persistent"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:548
+#: katemdi.cpp:533
 #, kde-format
 msgid "Make Persistent"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:550
+#: katemdi.cpp:535
 #, kde-format
 msgid "Move To"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:553
+#: katemdi.cpp:538
 #, kde-format
 msgid "Left Sidebar"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:557
+#: katemdi.cpp:542
 #, kde-format
 msgid "Right Sidebar"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:561
+#: katemdi.cpp:546
 #, kde-format
 msgid "Top Sidebar"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:565
+#: katemdi.cpp:550
 #, kde-format
 msgid "Bottom Sidebar"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemdi.cpp:896
+#: katemdi.cpp:881
 #, kde-format
 msgid ""
 "<qt>You are about to hide the sidebars. With hidden sidebars it is not "
@@ -925,13 +877,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:68
+#: katemwmodonhddialog.cpp:63
 #, kde-format
 msgid "Documents Modified on Disk"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:84
+#: katemwmodonhddialog.cpp:79
 #, kde-format
 msgid ""
 "<qt>The documents listed below have changed on disk.<p>Select one or more at "
@@ -939,37 +891,37 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:94
+#: katemwmodonhddialog.cpp:89
 #, kde-format
 msgid "Status on Disk"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:99
+#: katemwmodonhddialog.cpp:94
 #, kde-format
 msgid "Modified"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:99
+#: katemwmodonhddialog.cpp:94
 #, kde-format
 msgid "Created"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:99
+#: katemwmodonhddialog.cpp:94
 #, kde-format
 msgid "Deleted"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:113
+#: katemwmodonhddialog.cpp:108
 #, kde-format
 msgid "&View Difference"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:115
+#: katemwmodonhddialog.cpp:110
 #, kde-format
 msgid ""
 "Calculates the difference between the editor contents and the disk file for "
@@ -978,37 +930,37 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:125
+#: katemwmodonhddialog.cpp:120
 #, kde-format
 msgid "&Ignore Changes"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:126
+#: katemwmodonhddialog.cpp:121
 #, kde-format
 msgid "Remove modified flag from selected documents"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:132
+#: katemwmodonhddialog.cpp:127
 #, kde-format
 msgid "Overwrite selected documents, discarding disk changes"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:136
+#: katemwmodonhddialog.cpp:131
 #, kde-format
 msgid "&Reload"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:138
+#: katemwmodonhddialog.cpp:133
 #, kde-format
 msgid "Reload selected documents from disk"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:199
+#: katemwmodonhddialog.cpp:194
 #, kde-format
 msgid ""
 "Could not save the document \n"
@@ -1016,7 +968,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:306
+#: katemwmodonhddialog.cpp:301
 #, kde-format
 msgid ""
 "The diff command failed. Please make sure that diff(1) is installed and in "
@@ -1024,43 +976,43 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:308
+#: katemwmodonhddialog.cpp:303
 #, kde-format
 msgid "Error Creating Diff"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:315
+#: katemwmodonhddialog.cpp:310
 #, kde-format
 msgid "Ignoring amount of white space changed, the files are identical."
 msgstr ""
 
 #. +> trunk5 stable5
-#: katemwmodonhddialog.cpp:315
+#: katemwmodonhddialog.cpp:310
 #, kde-format
 msgid "Diff Output"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katequickopen.cpp:65
+#: katequickopen.cpp:52
 #, kde-format
 msgid "Quick Open Search"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katesavemodifieddialog.cpp:89
+#: katesavemodifieddialog.cpp:77
 #, kde-format
 msgid "Save As (%1)"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katesavemodifieddialog.cpp:139
+#: katesavemodifieddialog.cpp:127
 #, kde-format
 msgid "Save Documents"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katesavemodifieddialog.cpp:147
+#: katesavemodifieddialog.cpp:135
 #, kde-format
 msgid ""
 "<qt>The following documents have been modified. Do you want to save them "
@@ -1068,25 +1020,25 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: katesavemodifieddialog.cpp:154
+#: katesavemodifieddialog.cpp:142
 #, kde-format
 msgid "Documents"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katesavemodifieddialog.cpp:154
+#: katesavemodifieddialog.cpp:142
 #, kde-format
 msgid "Location"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katesavemodifieddialog.cpp:164
+#: katesavemodifieddialog.cpp:152
 #, kde-format
 msgid "Se&lect All"
 msgstr ""
 
 #. +> trunk5 stable5
-#: katesavemodifieddialog.cpp:237
+#: katesavemodifieddialog.cpp:225
 #, kde-format
 msgid ""
 "Data you requested to be saved could not be written. Please choose how you "
@@ -1094,157 +1046,157 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:126
+#: kateviewmanager.cpp:114
 #, kde-format
 msgid "Split Ve&rtical"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:130
+#: kateviewmanager.cpp:118
 #, kde-format
 msgid "Split the currently active view vertically into two views."
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:134
+#: kateviewmanager.cpp:122
 #, kde-format
 msgid "Split &Horizontal"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:138
+#: kateviewmanager.cpp:126
 #, kde-format
 msgid "Split the currently active view horizontally into two views."
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:142
+#: kateviewmanager.cpp:130
 #, kde-format
 msgid "Cl&ose Current View"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:146
+#: kateviewmanager.cpp:134
 #, kde-format
 msgid "Close the currently active split view"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:150
+#: kateviewmanager.cpp:138
 #, kde-format
 msgid "Close Inactive Views"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:153
+#: kateviewmanager.cpp:141
 #, kde-format
 msgid "Close every view but the active one"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:157
+#: kateviewmanager.cpp:145
 #, kde-format
 msgid "Hide Inactive Views"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:161
+#: kateviewmanager.cpp:149
 #, kde-format
 msgid "Hide every view but the active one"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:164
+#: kateviewmanager.cpp:152
 #, kde-format
 msgid "Toggle Orientation"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:167
+#: kateviewmanager.cpp:155
 #, kde-format
 msgid "Toggles the orientation of the current split view"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:170
+#: kateviewmanager.cpp:158
 #, kde-format
 msgid "Next Split View"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:174
+#: kateviewmanager.cpp:162
 #, kde-format
 msgid "Make the next split view the active one."
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:177
+#: kateviewmanager.cpp:165
 #, kde-format
 msgid "Previous Split View"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:181
+#: kateviewmanager.cpp:169
 #, kde-format
 msgid "Make the previous split view the active one."
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:184
+#: kateviewmanager.cpp:172
 #, kde-format
 msgid "Move Splitter Right"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:187
+#: kateviewmanager.cpp:175
 #, kde-format
 msgid "Move the splitter of the current view to the right"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:190
+#: kateviewmanager.cpp:178
 #, kde-format
 msgid "Move Splitter Left"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:193
+#: kateviewmanager.cpp:181
 #, kde-format
 msgid "Move the splitter of the current view to the left"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:196
+#: kateviewmanager.cpp:184
 #, kde-format
 msgid "Move Splitter Up"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:199
+#: kateviewmanager.cpp:187
 #, kde-format
 msgid "Move the splitter of the current view up"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:202
+#: kateviewmanager.cpp:190
 #, kde-format
 msgid "Move Splitter Down"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:205
+#: kateviewmanager.cpp:193
 #, kde-format
 msgid "Move the splitter of the current view down"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:235 kateviewmanager.cpp:237
+#: kateviewmanager.cpp:223 kateviewmanager.cpp:225
 #, kde-format
 msgid "Open File"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:255
+#: kateviewmanager.cpp:243
 #, kde-format
 msgid ""
 "<p>You are attempting to open one or more large files:</p><ul>%1</ul><p>Do "
@@ -1253,32 +1205,32 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewmanager.cpp:257
+#: kateviewmanager.cpp:245
 #, kde-format
 msgid "Opening Large File"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:79
+#: kateviewspace.cpp:67
 #, kde-format
 msgctxt "indicator for more documents"
 msgid "+%1"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:84 kateviewspace.cpp:137
+#: kateviewspace.cpp:72 kateviewspace.cpp:125
 #, kde-format
 msgid "Click here to switch to the Quick Open view."
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:97
+#: kateviewspace.cpp:85
 #, kde-format
 msgid "Control view space splitting"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:138
+#: kateviewspace.cpp:126
 #, kde-format
 msgid ""
 "Currently, there is one more document open. To see all open documents, "
@@ -1290,433 +1242,433 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:459
+#: kateviewspace.cpp:467
 #, kde-format
 msgid "&Close Document"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:460
+#: kateviewspace.cpp:468
 #, kde-format
 msgid "Close Other &Documents"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:469
+#: kateviewspace.cpp:477
 #, kde-format
 msgid "Compare with active document"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:522
+#: kateviewspace.cpp:530
 #, kde-format
 msgid "Could not start program"
 msgstr ""
 
 #. +> trunk5 stable5
-#: kateviewspace.cpp:522
+#: kateviewspace.cpp:530
 #, kde-format
 msgid "The selected program could not be started. Maybe it is not installed."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:129
+#: main.cpp:117
 #, kde-format
 msgid "Kate"
 msgstr "കെയ്റ്റ്"
 
 #. +> trunk5 stable5
-#: main.cpp:129
+#: main.cpp:117
 #, kde-format
 msgid "Kate - Advanced Text Editor"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:129
+#: main.cpp:117
 #, kde-format
-msgid "(c) 2000-2019 The Kate Authors"
+msgid "(c) 2000-2020 The Kate Authors"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:144
+#: main.cpp:132
 #, kde-format
 msgid "Christoph Cullmann"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:144
+#: main.cpp:132
 #, kde-format
 msgid "Maintainer"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:145
+#: main.cpp:133
 #, kde-format
 msgid "Dominik Haumann"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:145 main.cpp:148 main.cpp:149 main.cpp:150 main.cpp:156
+#: main.cpp:133 main.cpp:136 main.cpp:137 main.cpp:138 main.cpp:144
 #, kde-format
 msgid "Core Developer"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:146
+#: main.cpp:134
 #, kde-format
 msgid "Sven Brauch"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:146 main.cpp:147 main.cpp:151
+#: main.cpp:134 main.cpp:135 main.cpp:139
 #, kde-format
 msgid "Developer"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:147
+#: main.cpp:135
 #, kde-format
 msgid "Kåre Särs"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:148
+#: main.cpp:136
 #, kde-format
 msgid "Anders Lund"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:149
+#: main.cpp:137
 #, kde-format
 msgid "Joseph Wenninger"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:150
+#: main.cpp:138
 #, kde-format
 msgid "Hamish Rodda"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:151
+#: main.cpp:139
 #, kde-format
 msgid "Alexander Neundorf"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:152
+#: main.cpp:140
 #, kde-format
 msgid "Waldo Bastian"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:152
+#: main.cpp:140
 #, kde-format
 msgid "The cool buffersystem"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:153
+#: main.cpp:141
 #, kde-format
 msgid "Charles Samuels"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:153
+#: main.cpp:141
 #, kde-format
 msgid "The Editing Commands"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:154
+#: main.cpp:142
 #, kde-format
 msgid "Matt Newell"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:154
+#: main.cpp:142
 #, kde-format
 msgid "Testing, ..."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:155
+#: main.cpp:143
 #, kde-format
 msgid "Michael Bartl"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:155
+#: main.cpp:143
 #, kde-format
 msgid "Former Core Developer"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:156
+#: main.cpp:144
 #, kde-format
 msgid "Michael McCallum"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:157
+#: main.cpp:145
 #, kde-format
 msgid "Jochen Wilhemly"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:157
+#: main.cpp:145
 #, kde-format
 msgid "KWrite Author"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:158
+#: main.cpp:146
 #, kde-format
 msgid "Michael Koch"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:158
+#: main.cpp:146
 #, kde-format
 msgid "KWrite port to KParts"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:159
+#: main.cpp:147
 #, kde-format
 msgid "Christian Gebauer"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:160
+#: main.cpp:148
 #, kde-format
 msgid "Simon Hausmann"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:161
+#: main.cpp:149
 #, kde-format
 msgid "Glen Parker"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:161
+#: main.cpp:149
 #, kde-format
 msgid "KWrite Undo History, Kspell integration"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:162
+#: main.cpp:150
 #, kde-format
 msgid "Scott Manson"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:162
+#: main.cpp:150
 #, kde-format
 msgid "KWrite XML Syntax highlighting support"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:163
+#: main.cpp:151
 #, kde-format
 msgid "John Firebaugh"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:163
+#: main.cpp:151
 #, kde-format
 msgid "Patches and more"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:164
+#: main.cpp:152
 #, kde-format
 msgid "Pablo Martín"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:164
+#: main.cpp:152
 #, kde-format
 msgid "Python Plugin Developer"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:165
+#: main.cpp:153
 #, kde-format
 msgid "Gerald Senarclens de Grancy"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:165
+#: main.cpp:153
 #, kde-format
 msgid "QA and Scripting"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:167
+#: main.cpp:155
 #, kde-format
 msgid "Matteo Merli"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:167
+#: main.cpp:155
 #, kde-format
 msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:168
+#: main.cpp:156
 #, kde-format
 msgid "Rocky Scaletta"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:168
+#: main.cpp:156
 #, kde-format
 msgid "Highlighting for VHDL"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:169
+#: main.cpp:157
 #, kde-format
 msgid "Yury Lebedev"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:169
+#: main.cpp:157
 #, kde-format
 msgid "Highlighting for SQL"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:170
+#: main.cpp:158
 #, kde-format
 msgid "Chris Ross"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:170
+#: main.cpp:158
 #, kde-format
 msgid "Highlighting for Ferite"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:171
+#: main.cpp:159
 #, kde-format
 msgid "Nick Roux"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:171
+#: main.cpp:159
 #, kde-format
 msgid "Highlighting for ILERPG"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:172
+#: main.cpp:160
 #, kde-format
 msgid "Carsten Niehaus"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:172
+#: main.cpp:160
 #, kde-format
 msgid "Highlighting for LaTeX"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:173
+#: main.cpp:161
 #, kde-format
 msgid "Per Wigren"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:173
+#: main.cpp:161
 #, kde-format
 msgid "Highlighting for Makefiles, Python"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:174
+#: main.cpp:162
 #, kde-format
 msgid "Jan Fritz"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:174
+#: main.cpp:162
 #, kde-format
 msgid "Highlighting for Python"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:175
+#: main.cpp:163
 #, kde-format
 msgid "Daniel Naber"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:176
+#: main.cpp:164
 #, kde-format
 msgid "Roland Pabel"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:176
+#: main.cpp:164
 #, kde-format
 msgid "Highlighting for Scheme"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:177
+#: main.cpp:165
 #, kde-format
 msgid "Cristi Dumitrescu"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:177
+#: main.cpp:165
 #, kde-format
 msgid "PHP Keyword/Datatype list"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:178
+#: main.cpp:166
 #, kde-format
 msgid "Carsten Pfeiffer"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:178
+#: main.cpp:166
 #, kde-format
 msgid "Very nice help"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:179
+#: main.cpp:167
 #, kde-format
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:203
+#: main.cpp:191
 #, kde-format
 msgid "Start Kate with a given session."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:203
+#: main.cpp:191
 #, kde-format
 msgid "session"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:207
+#: main.cpp:195
 #, kde-format
 msgid "Start Kate with a new anonymous session, implies '-n'."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:213
+#: main.cpp:201
 #, kde-format
 msgid ""
 "Force start of a new kate instance (is ignored if start is used and another "
@@ -1725,7 +1677,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:217
+#: main.cpp:205
 #, kde-format
 msgid ""
 "If using an already running kate instance, block until it exits, if URLs "
@@ -1733,7 +1685,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:222
+#: main.cpp:210
 #, kde-format
 msgid ""
 "Only try to reuse kate instance with this pid (is ignored if start is used "
@@ -1741,91 +1693,91 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:222
+#: main.cpp:210
 #, kde-format
 msgid "pid"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:226
+#: main.cpp:214
 #, kde-format
 msgid "Set encoding for the file to open."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:226
+#: main.cpp:214
 #, kde-format
 msgid "encoding"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:230
+#: main.cpp:218
 #, kde-format
 msgid "Navigate to this line."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:230
+#: main.cpp:218
 #, kde-format
 msgid "line"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:234
+#: main.cpp:222
 #, kde-format
 msgid "Navigate to this column."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:234
+#: main.cpp:222
 #, kde-format
 msgid "column"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:238
+#: main.cpp:226
 #, kde-format
 msgid "Read the contents of stdin."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:242
+#: main.cpp:230
 #, kde-format
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:246
+#: main.cpp:234
 #, kde-format
 msgid "Documents to open."
 msgstr ""
 
 #. +> trunk5 stable5
-#: main.cpp:246
+#: main.cpp:234
 #, kde-format
 msgid "[urls...]"
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanagedialog.cpp:40
+#: session/katesessionmanagedialog.cpp:27
 #, kde-format
 msgid "Manage Sessions"
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanagedialog.cpp:76
+#: session/katesessionmanagedialog.cpp:63
 #, kde-format
 msgid "Session Chooser"
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanagedialog.cpp:163
+#: session/katesessionmanagedialog.cpp:150
 #, kde-format
 msgid "Restore"
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanagedialog.cpp:319
+#: session/katesessionmanagedialog.cpp:306
 #, kde-format
 msgid "Session will be deleted on dialog close"
 msgstr ""
@@ -1916,14 +1868,14 @@ msgid "Close"
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:125
+#: session/katesessionmanager.cpp:112
 #, kde-format
 msgid ""
 "Internal error: there is more than one instance open for a given session."
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:131
+#: session/katesessionmanager.cpp:118
 #, kde-format
 msgid ""
 "Session '%1' is already opened in another kate instance, change there "
@@ -1931,25 +1883,25 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:319
+#: session/katesessionmanager.cpp:306
 #, kde-format
 msgid "The session could not be renamed to \"%1\". Failed to write to \"%2\""
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:319
+#: session/katesessionmanager.cpp:306
 #, kde-format
 msgid "Session Renaming"
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:458
+#: session/katesessionmanager.cpp:445
 #, kde-format
 msgid "Session name:"
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:460
+#: session/katesessionmanager.cpp:447
 #, kde-format
 msgid ""
 "There is already an existing session with your chosen name: %1\n"
@@ -1957,33 +1909,87 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:462
+#: session/katesessionmanager.cpp:449
 #, kde-format
 msgid "To save a session, you must specify a name."
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:489
+#: session/katesessionmanager.cpp:476
 #, kde-format
 msgid "Specify a name for this session"
 msgstr ""
 
 #. +> trunk5 stable5
-#: session/katesessionmanager.cpp:491
+#: session/katesessionmanager.cpp:478
 #, kde-format
 msgid "Specify a new name for session: %1"
 msgstr ""
 
+#. i18n: ectx: property (title), widget (QGroupBox, gbAppStartup)
+#. +> trunk5 stable5
+#: ui/sessionconfigwidget.ui:17
+#, fuzzy, kde-format
+msgid "Application Startup Behavior"
+msgstr "ആപ്ലിക്കേഷൻ സാധ്യതകൾ"
+
+#. i18n: ectx: property (text), widget (QRadioButton, startNewSessionRadioButton)
+#. +> trunk5 stable5
+#: ui/sessionconfigwidget.ui:23
+#, kde-format
+msgid "&Start new session"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, loadLastUserSessionRadioButton)
+#. +> trunk5 stable5
+#: ui/sessionconfigwidget.ui:30
+#, kde-format
+msgid "&Load last used session"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, manuallyChooseSessionRadioButton)
+#. +> trunk5 stable5
+#: ui/sessionconfigwidget.ui:37
+#, kde-format
+msgid "&Manually choose a session"
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. +> trunk5 stable5
+#: ui/sessionconfigwidget.ui:47
+#, fuzzy, kde-format
+msgid "Application Shutdown Behavior"
+msgstr "ആപ്ലിക്കേഷൻ സാധ്യതകൾ"
+
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, modCloseAfterLast)
+#. +> trunk5 stable5
+#: ui/sessionconfigwidget.ui:53
+#, kde-format
+msgid ""
+"If enabled, Kate will shutdown when the last file being edited is closed, "
+"otherwise a blank page will open so that you can start a new file."
+msgstr ""
+"പ്രവർത്തനക്ഷമമാക്കിയിട്ടുണ്ടെങ്കിൽ, അവസാനമായി ചിട്ടപെടുത്തിയ ഫയൽ അടയ്‌ക്കുമ്പോൾ കേറ്റ് പ്രവര്‍"
+"ത്തനരഹിതമാക്കും, അല്ലാത്തപക്ഷം ഒരു ശൂന്യ താള്‍ തുറക്കുന്നതിനാൽ നിങ്ങൾക്ക് ഒരു പുതിയ ഫയൽ "
+"ആരംഭിക്കാൻ കഴിയും."
+
+#. i18n: ectx: property (text), widget (QCheckBox, modCloseAfterLast)
+#. +> trunk5 stable5
+#: ui/sessionconfigwidget.ui:56
+#, kde-format
+msgid "Close Kate entirely when the last file is closed"
+msgstr "അവസാന ഫയൽ അടയ്‌ക്കുമ്പോൾ കേറ്റ് പൂർണ്ണമായും അടയ്‌ക്കുക"
+
 #. i18n: ectx: property (title), widget (QGroupBox, gbElements)
 #. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:29
+#: ui/sessionconfigwidget.ui:66
 #, kde-format
 msgid "Session Elements"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:35
+#: ui/sessionconfigwidget.ui:72
 #, kde-format
 msgid ""
 "The session contains the list of open documents, recently opened files list, "
@@ -1993,14 +1999,14 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:47
+#: ui/sessionconfigwidget.ui:84
 #, kde-format
 msgid "Maximum number of entries in recent file list:"
 msgstr ""
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, restoreVC)
 #. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:75
+#: ui/sessionconfigwidget.ui:112
 #, kde-format
 msgid ""
 "Check this if you want all your views and frames restored each time you open "
@@ -2009,35 +2015,55 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, restoreVC)
 #. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:78
+#: ui/sessionconfigwidget.ui:115
 #, kde-format
 msgid "Include &window configuration"
 msgstr ""
 
-#. i18n: ectx: property (title), widget (QGroupBox, gbAppStartup)
+#. i18n: ectx: property (whatsThis), widget (QGroupBox, saveMetaInfos)
 #. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:88
+#: ui/sessionconfigwidget.ui:125
 #, kde-format
-msgid "Behaviour on Application Startup"
+msgid ""
+"Check this if you want document configuration like for example bookmarks to "
+"be saved past editor sessions. The configuration will be restored if the "
+"document has not changed when reopened."
 msgstr ""
+"കഴിഞ്ഞ എഡിറ്റർ സെഷനുകളിൽ ഓര്‍മ്മക്കുറിപ്പു് സംരക്ഷിക്കാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുവെങ്കിൽ ഇത് "
+"പരിശോധിക്കുക. വീണ്ടും തുറക്കുമ്പോൾ കുറിപ്പ്/ഡോക്യുമെന്റ് മാറ്റിയിട്ടില്ലെങ്കിൽ ക്രമീകരണം "
+"പുനഃസ്ഥാപിക്കപ്പെടും."
 
-#. i18n: ectx: property (text), widget (QRadioButton, startNewSessionRadioButton)
+#. i18n: ectx: property (title), widget (QGroupBox, saveMetaInfos)
 #. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:94
+#: ui/sessionconfigwidget.ui:128
 #, kde-format
-msgid "&Start new session"
-msgstr ""
+msgid "Keep &meta-information past sessions"
+msgstr "കഴിഞ്ഞ സെഷനുകളിൽ മെറ്റാ-വിവരങ്ങൾ സൂക്ഷിക്കുക (&M)"
 
-#. i18n: ectx: property (text), widget (QRadioButton, loadLastUserSessionRadioButton)
+#. i18n: ectx: property (text), widget (QLabel, label_3)
 #. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:101
+#: ui/sessionconfigwidget.ui:139
 #, kde-format
-msgid "&Load last used session"
-msgstr ""
+msgid "&Delete unused meta-information after:"
+msgstr "ശേഷം ഉപയോഗമില്ലാത്ത മെറ്റാ-വിവരങ്ങൾ കളയുക (&D)"
 
-#. i18n: ectx: property (text), widget (QRadioButton, manuallyChooseSessionRadioButton)
-#. +> trunk5 stable5
-#: ui/sessionconfigwidget.ui:108
-#, kde-format
-msgid "&Manually choose a session"
-msgstr ""
+#~ msgid "&Help"
+#~ msgstr "സഹായം (&H)"
+
+#~ msgid "Application"
+#~ msgstr "ആപ്ലിക്കേഷൻ"
+
+#~ msgid "General"
+#~ msgstr "പൊതുവായത്"
+
+#~ msgid "General Options"
+#~ msgstr "പൊതുവായ സാധ്യതകൾ"
+
+#~ msgid "Meta-Information"
+#~ msgstr "മെറ്റാ-വിവരങ്ങൾ"
+
+#~ msgid "Editor Component"
+#~ msgstr "എഡിറ്റർ ഘടകം"
+
+#~ msgid "Editor Component Options"
+#~ msgstr "എഡിറ്റർ ഘടകത്തിന്റെ ഓപ്ഷനുകൾ"
