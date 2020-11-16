@@ -1,0 +1,89 @@
+# Malayalam translations for plasma-workspace package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the plasma-workspace package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-workspace\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-03-20 09:42+0100\n"
+"PO-Revision-Date: 2018-10-03 04:04+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:166
+#, kde-format
+msgid "This device can now be safely removed."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:173
+#, kde-format
+msgid "You are not authorized to mount this device."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:176
+#, kde-format
+msgctxt "Remove is less technical for unmount"
+msgid "You are not authorized to remove this device."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:179
+#, kde-format
+msgid "You are not authorized to eject this disc."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:186
+#, kde-format
+msgid "Could not mount this device as it is busy."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:216
+#, kde-format
+msgid "One or more files on this device are open within an application."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:218
+#, kde-format
+msgid "One or more files on this device are opened in application \"%2\"."
+msgid_plural "One or more files on this device are opened in following applications: %2."
+msgstr[0] ""
+msgstr[1] ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:220
+#, kde-format
+msgctxt "separator in list of apps blocking device unmount"
+msgid ", "
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:237
+#, kde-format
+msgid "Could not mount this device."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:240
+#, kde-format
+msgctxt "Remove is less technical for unmount"
+msgid "Could not remove this device."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: ksolidnotify.cpp:243
+#, kde-format
+msgid "Could not eject this disc."
+msgstr ""

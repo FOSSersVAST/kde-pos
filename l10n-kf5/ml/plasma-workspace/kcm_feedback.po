@@ -1,0 +1,78 @@
+# Malayalam translations for plasma-workspace package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the plasma-workspace package.
+# Automatically generated, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma-workspace\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-10-25 14:58+0100\n"
+"PO-Revision-Date: 2019-12-12 22:52+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. +> trunk5 stable5 plasma5lts
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
+
+#. +> trunk5 stable5 plasma5lts
+#: feedback.cpp:60
+#, kde-format
+msgid "User Feedback"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: feedback.cpp:61
+#, kde-format
+msgid "Configure user feedback settings"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:46
+#, kde-format
+msgid "User Feedback has been disabled centrally. Please contact your distributor."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:50 package/contents/ui/main.qml:73
+#, kde-format
+msgid "Plasma:"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:54
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You can help KDE improve Plasma by contributing information on how you use it, so we can focus on things that matter to you.<nl/>"
+"<nl/>"
+"Contributing this information is optional and entirely anonymous. We never collect your personal data, files you use, websites you visit, or information that could identify you.<nl/>"
+"<nl/>"
+"You can read about our policy in the following link:"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:108
+#, kde-format
+msgid "Plasma"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:126
+#, kde-format
+msgid "The following information will be sent:"
+msgstr ""

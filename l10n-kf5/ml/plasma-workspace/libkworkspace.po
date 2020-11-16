@@ -1,0 +1,60 @@
+# translation of libkworkspace.po to
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdebase package.
+# ANI PETER|അനി പീറ്റര്‍ <peter.ani@gmail.com>, 2008.
+# Hari|ഹരി  Vishnu | വിഷ്ണു <harivishnu@gmail.com>, 2008.
+# Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdebase\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-11-12 09:07+0100\n"
+"PO-Revision-Date: 2008-11-29 01:56-0800\n"
+"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. +> trunk5 stable5 plasma5lts
+#: kdisplaymanager.cpp:801
+#, kde-format
+msgctxt "user: ..."
+msgid "%1: TTY login"
+msgstr "%1: TTY ലോഗിന്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: kdisplaymanager.cpp:807
+#, kde-format
+msgctxt "... location (TTY or X display)"
+msgid "Unused"
+msgstr "ഉപയോഗിക്കാത്തവ"
+
+#. +> trunk5 stable5 plasma5lts
+#: kdisplaymanager.cpp:809
+#, kde-format
+msgid "X login on remote host"
+msgstr "റിമോട്ട് ഹോസ്റ്റിലുള്ള എക്സ് ലോഗിന്‍ "
+
+#. +> trunk5 stable5 plasma5lts
+#: kdisplaymanager.cpp:810
+#, kde-format
+msgctxt "... host"
+msgid "X login on %1"
+msgstr "%1-ലുള്ള എക്സ് ലോഗിന്‍ "
+
+#. +> trunk5 stable5 plasma5lts
+#: kdisplaymanager.cpp:813
+#, kde-format
+msgctxt "user: session type"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#. +> trunk5 stable5 plasma5lts
+#: kdisplaymanager.cpp:828
+#, kde-format
+msgctxt "session (location)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
