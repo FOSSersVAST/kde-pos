@@ -8,93 +8,97 @@ msgstr ""
 "Project-Id-Version: freespacenotifier trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-25 14:58+0100\n"
-"PO-Revision-Date: 2010-06-30 17:41+0530\n"
-"Last-Translator: Hrishikesh K Bhaskaran <hrishi.kb@gmail.com>\n"
+"PO-Revision-Date: 2020-11-19 18:19+0000\n"
+"Last-Translator: KannanVM <kannan@disroot.org>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:95 freespacenotifier.cpp:106 freespacenotifier.cpp:127
 #, kde-format
 msgid "Low Disk Space"
-msgstr ""
+msgstr "ഡിസ്കില്‍ സ്ഥലം കുറവാണ്"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:95 freespacenotifier.cpp:127
 #, kde-format
 msgid "Remaining space in your Home folder: %1 MiB"
-msgstr ""
+msgstr "ഹോം അറയില്‍ ബാക്കിയുള്ള സ്ഥലം: %1 MiB"
 
 #. +> trunk5 stable5
 #: freespacenotifier.cpp:102
-#, fuzzy, kde-format
+#, kde-format
 msgid "Configure Warning..."
-msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക"
+msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക..."
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:114
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Allows the user to configure the warning notification being shown"
 msgid "Configure Warning..."
-msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക"
+msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക..."
 
 #. +> trunk5 stable5
 #: freespacenotifier.cpp:106
 #, kde-format
 msgid "Open in Filelight"
-msgstr ""
+msgstr "ഫയര്‍ലൈറ്റില്‍ തുറക്കുക"
 
 #. +> trunk5 stable5
 #: freespacenotifier.cpp:109
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open in File Manager"
-msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍ തുറക്കുക"
+msgstr "ഫയല്‍ മാനേജര്‍ തുറക്കുക"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:110
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Opens a file manager like dolphin"
 msgid "Open File Manager..."
-msgstr "ഫയലുകളുടെ നടത്തിപ്പുകാരന്‍ തുറക്കുക"
+msgstr "ഫയല്‍ മാനേജര്‍ തുറക്കുക..."
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:118
 #, kde-format
 msgctxt "Allows the user to hide this notifier item"
 msgid "Hide"
-msgstr ""
+msgstr "മറച്ചുവെയ്ക്കുക"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:132
 #, kde-format
 msgctxt "Warns the user that the system is running low on space on his home folder, indicating the percentage and absolute MiB size remaining"
 msgid "Your Home folder is running out of disk space, you have %1 MiB remaining (%2%)"
-msgstr ""
+msgstr "നിങ്ങളുടെ ഹോം അറ നിറയാറായിരിക്കുന്നു, %1 MiB മാത്രമേ ബാക്കിയുള്ളു (%2%)"
 
 #. i18n: ectx: label, entry (minimumSpace), group (General)
 #. +> trunk5 stable5 plasma5lts
 #: freespacenotifier.kcfg:9
 #, kde-format
 msgid "Minimum free space before user starts being notified."
-msgstr "ഉപയോക്താവിന് മുന്നറിയിപ്പുകള്‍ ലഭിച്ചുതുടങ്ങേണ്ടതു് ഡിസ്ക്സ്പെയ്സ് എത്ര കുറയുമ്പോഴാണു്."
+msgstr ""
+"ഡിസ്ക്സ്പെയ്സ് കുറഞ്ഞതിന്റെ മുന്നറിയിപ്പുകള്‍ ഉപയോക്താവിനെ അറിയിച്ചു "
+"തുടങ്ങേണ്ട പരിധി."
 
 #. i18n: ectx: label, entry (enableNotification), group (General)
 #. +> trunk5 stable5 plasma5lts
 #: freespacenotifier.kcfg:15
 #, kde-format
 msgid "Is the free space notification enabled."
-msgstr "ലഭ്യമായ ഡിസ്ക്സ്പെയ്സ് കറയുമ്പോള്‍ കാണിയ്ക്കുന്ന മുന്നറിയിപ്പ് പ്രവര്‍ത്തനസജ്ജമാണോ?"
+msgstr ""
+"ഡിസ്ക്സ്പെയ്സ് കറയുമ്പോള്‍ കാണിയ്ക്കുന്ന മുന്നറിയിപ്പ് പ്രവര്‍ത്തനസജ്ജമാണോ."
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_enableNotification)
 #. +> trunk5 stable5 plasma5lts
 #: freespacenotifier_prefs_base.ui:17
 #, kde-format
 msgid "Enable low disk space warning"
-msgstr "പരിമിത ഡിസ്ക് സ്പെയ്സ് മുന്നറിയിപ്പ് പ്രവര്‍ത്തനസജ്ജമാക്കുക"
+msgstr "കുറവ് ഡിസ്ക് സ്പെയ്സ് മുന്നറിയിപ്പ് പ്രവര്‍ത്തനസജ്ജമാക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, label_minimumSpace)
 #. +> trunk5 stable5 plasma5lts
@@ -108,23 +112,26 @@ msgstr "ലഭ്യമായ ഡിസ്ക്സ്പെയ്സ് ഇത�
 #: freespacenotifier_prefs_base.ui:37
 #, kde-format
 msgid " MiB"
-msgstr "MiB"
+msgstr " MiB"
 
 #. +> trunk5 stable5
 #: module.cpp:46
 #, kde-format
 msgid "Your Home folder is running out of disk space, you have %1 MiB remaining (%2%)."
 msgstr ""
+"നിങ്ങളുടെ ഹോം അറ നിറയാറായിരിക്കുന്നു, %1 MiB മാത്രമേ ബാക്കിയുള്ളു (%2%)."
 
 #. +> trunk5 stable5
 #: module.cpp:54
 #, kde-format
 msgid "Your Root partition is running out of disk space, you have %1 MiB remaining (%2%)."
 msgstr ""
+"നിങ്ങളുടെ റുട്ട് പാർട്ടീഷൻ നിറയാറായിരിക്കുന്നു, %1 MiB മാത്രമേ ബാക്കിയുള്ളു "
+"(%2%)."
 
 #. +> trunk5 stable5 plasma5lts
 #: module.cpp:74
 #, kde-format
 msgctxt "The settings dialog main page name, as in 'general settings'"
 msgid "General"
-msgstr "പൊതുവായവ"
+msgstr "പൊതു"
