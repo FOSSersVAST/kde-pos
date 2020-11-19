@@ -9,14 +9,15 @@ msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-12 09:07+0100\n"
-"PO-Revision-Date: 2008-11-29 01:56-0800\n"
-"Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
+"PO-Revision-Date: 2020-11-20 06:03+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: kdisplaymanager.cpp:801
@@ -36,14 +37,14 @@ msgstr "ഉപയോഗിക്കാത്തവ"
 #: kdisplaymanager.cpp:809
 #, kde-format
 msgid "X login on remote host"
-msgstr "റിമോട്ട് ഹോസ്റ്റിലുള്ള എക്സ് ലോഗിന്‍ "
+msgstr "റിമോട്ട് ഹോസ്റ്റിലുള്ള X ലോഗിന്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: kdisplaymanager.cpp:810
 #, kde-format
 msgctxt "... host"
 msgid "X login on %1"
-msgstr "%1-ലുള്ള എക്സ് ലോഗിന്‍ "
+msgstr "%1-ലുള്ള X ലോഗിന്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: kdisplaymanager.cpp:813
