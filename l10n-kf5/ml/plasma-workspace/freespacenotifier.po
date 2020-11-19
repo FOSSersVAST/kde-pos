@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: freespacenotifier trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-25 14:58+0100\n"
-"PO-Revision-Date: 2020-11-19 18:19+0000\n"
-"Last-Translator: KannanVM <kannan@disroot.org>\n"
+"PO-Revision-Date: 2020-11-19 18:30+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -47,13 +47,13 @@ msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്�
 #: freespacenotifier.cpp:106
 #, kde-format
 msgid "Open in Filelight"
-msgstr "ഫയര്‍ലൈറ്റില്‍ തുറക്കുക"
+msgstr "ഫയൽലൈറ്റില്‍ തുറക്കുക"
 
 #. +> trunk5 stable5
 #: freespacenotifier.cpp:109
 #, kde-format
 msgid "Open in File Manager"
-msgstr "ഫയല്‍ മാനേജര്‍ തുറക്കുക"
+msgstr "ഫയല്‍ മാനേജറിൽ തുറക്കുക"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:110
@@ -67,7 +67,7 @@ msgstr "ഫയല്‍ മാനേജര്‍ തുറക്കുക..."
 #, kde-format
 msgctxt "Allows the user to hide this notifier item"
 msgid "Hide"
-msgstr "മറച്ചുവെയ്ക്കുക"
+msgstr "മറയ്ക്കുക"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:132
