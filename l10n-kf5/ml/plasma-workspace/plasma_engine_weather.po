@@ -11,7 +11,8 @@ msgstr ""
 "POT-Creation-Date: 2020-09-13 11:51+0200\n"
 "PO-Revision-Date: 2019-05-22 01:57+0530\n"
 "Last-Translator: Subin Siby <subins2000@gmai.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1335,8 +1336,6 @@ msgstr "ഇടിമിന്നലോടുകൂടിയ മഴ"
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:84
 #, fuzzy, kde-format
-#| msgctxt "weather condition"
-#| msgid "Thunderstorm with Rain"
 msgctxt "weather condition"
 msgid "Thunderstorm with light rainshowers"
 msgstr "ഇടിമിന്നലോടുകൂടിയ മഴ"
@@ -1344,8 +1343,6 @@ msgstr "ഇടിമിന്നലോടുകൂടിയ മഴ"
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:85
 #, fuzzy, kde-format
-#| msgctxt "weather condition"
-#| msgid "Recent Thunderstorm with Heavy Rain"
 msgctxt "weather condition"
 msgid "Thunderstorm with heavy rainshowers"
 msgstr "അടുത്തിടെയുള്ള ഇടിമിന്നലോടുകൂടിയ ശക്തമായ മഴ"
@@ -5273,14 +5270,18 @@ msgstr "മഴ/ഉറഞ്ഞുകട്ടിയാകുന്ന മഴ"
 #, fuzzy, kde-format
 msgctxt "weather forecast"
 msgid "Wintry Mix Likely"
-msgstr "%s: -l, -u, -d, -S എന്നിവയില്‍ ഒന്ന് -i, -n, -w, -x എന്നിവയായി ചേറ്‍ത്ത് നല്‍കുവാന്‍ സാധ്യമല്ല.\n"
+msgstr ""
+"%s: -l, -u, -d, -S എന്നിവയില്‍ ഒന്ന് -i, -n, -w, -x എന്നിവയായി ചേറ്‍ത്ത് നല്‍കുവാന്‍ "
+"സാധ്യമല്ല.\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:288
 #, fuzzy, kde-format
 msgctxt "weather forecast"
 msgid "Wintry Mix"
-msgstr "%s: -l, -u, -d, -S എന്നിവയില്‍ ഒന്ന് -i, -n, -w, -x എന്നിവയായി ചേറ്‍ത്ത് നല്‍കുവാന്‍ സാധ്യമല്ല.\n"
+msgstr ""
+"%s: -l, -u, -d, -S എന്നിവയില്‍ ഒന്ന് -i, -n, -w, -x എന്നിവയായി ചേറ്‍ത്ത് നല്‍കുവാന്‍ "
+"സാധ്യമല്ല.\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:289

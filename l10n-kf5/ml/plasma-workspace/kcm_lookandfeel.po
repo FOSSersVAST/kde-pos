@@ -40,7 +40,8 @@ msgstr "മാർക്കോ മാർട്ടിൻ"
 #. +> trunk5 stable5 plasma5lts
 #: kcm.cpp:548
 #, kde-format
-msgid "You have to restart the Plasma session for these changes to take effect."
+msgid ""
+"You have to restart the Plasma session for these changes to take effect."
 msgstr "ഈ മാറ്റങ്ങൾ പ്രാബല്യത്തിൽ വരാൻ നിങ്ങൾ പ്ലാസ്മ സെഷൻ പുനരാരംഭിക്കണം."
 
 #. +> trunk5 stable5 plasma5lts
@@ -58,7 +59,9 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: lnftool.cpp:44
 #, fuzzy, kde-format
-msgid "Command line tool to apply global theme packages for changing the look and feel."
+msgid ""
+"Command line tool to apply global theme packages for changing the look and "
+"feel."
 msgstr "കെട്ടും മട്ടും പാക്കേജുകൾ പ്രയോഗിക്കാനുള്ള കമാൻഡ് ലൈൻ ഉപകരണം."
 
 #. +> trunk5 stable5 plasma5lts
@@ -119,8 +122,12 @@ msgstr "തീം പ്രിവ്യു"
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:75
 #, kde-format
-msgid "Your desktop layout will be lost and reset to the default layout provided by the selected theme."
-msgstr "നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് ലേഔട്ട് നഷ്ടപ്പെടുകയും തിരഞ്ഞെടുത്ത തീം നൽകിയ സ്ഥിരസ്ഥിതി ലേഔട്ടിലേക്ക് പുനഃസജ്ജമാക്കുകയും ചെയ്യും."
+msgid ""
+"Your desktop layout will be lost and reset to the default layout provided by "
+"the selected theme."
+msgstr ""
+"നിങ്ങളുടെ ഡെസ്ക്ടോപ്പ് ലേഔട്ട് നഷ്ടപ്പെടുകയും തിരഞ്ഞെടുത്ത തീം നൽകിയ സ്ഥിരസ്ഥിതി ലേഔട്ടിലേക്ക് "
+"പുനഃസജ്ജമാക്കുകയും ചെയ്യും."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:85

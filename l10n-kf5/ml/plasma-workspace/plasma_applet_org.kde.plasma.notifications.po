@@ -7,10 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-14 11:19+0100\n"
+"POT-Creation-Date: 2020-11-17 08:01+0100\n"
 "PO-Revision-Date: 2019-12-14 13:03+0530\n"
 "Last-Translator: Saranya P S <amminiperumbilly@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: filemenu.cpp:127 package/contents/ui/JobItem.qml:220
+#: filemenu.cpp:127 package/contents/ui/JobItem.qml:222
 #, kde-format
 msgid "Open Containing Folder"
 msgstr "ഇതുള്ള അറ തുറക്കുക"
@@ -75,7 +76,7 @@ msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/FullRepresentation.qml:82
-#: package/contents/ui/main.qml:85
+#: package/contents/ui/main.qml:86
 #, kde-format
 msgid "Do not disturb"
 msgstr "ശല്യപ്പെടുത്താതിരിക്കുക"
@@ -121,13 +122,6 @@ msgstr "നിർത്തുന്നത് വരെ"
 #, kde-format
 msgid "Until manually disabled"
 msgstr ""
-
-#. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/FullRepresentation.qml:184
-#: package/contents/ui/main.qml:173
-#, kde-format
-msgid "Clear History"
-msgstr "നാൾവഴി മായ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/FullRepresentation.qml:209
@@ -178,7 +172,7 @@ msgstr "%1 കൂടുതൽ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/FullRepresentation.qml:567
-#: package/contents/ui/main.qml:88
+#: package/contents/ui/main.qml:89
 #, kde-format
 msgid "No unread notifications"
 msgstr "വായിക്കാത്ത അറിയിപ്പുകൾ ഇല്ല"
@@ -191,7 +185,7 @@ msgstr "വായിക്കാത്ത അറിയിപ്പുകൾ ഇ�
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/FullRepresentation.qml:581
-#: package/contents/ui/main.qml:65
+#: package/contents/ui/main.qml:66
 #, kde-format
 msgid "Notification service not available"
 msgstr ""
@@ -238,9 +232,6 @@ msgstr[1] "%1 അറകളുടെ %2"
 #. +> trunk5 stable5
 #: package/contents/ui/JobDetails.qml:130
 #, fuzzy, kde-format
-#| msgctxt "How many files have been copied"
-#| msgid "%2 of %1 file"
-#| msgid_plural "%2 of %1 files"
 msgctxt "How many items (that includes files and dirs) have been copied"
 msgid "%2 of %1 item"
 msgid_plural "%2 of %1 items"
@@ -279,55 +270,55 @@ msgid "%1/s"
 msgstr "%1/s"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/JobItem.qml:142
+#: package/contents/ui/JobItem.qml:144
 #, kde-format
 msgctxt "Pause running job"
 msgid "Pause"
 msgstr "താൽക്കാലികമായി നിർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/JobItem.qml:152
+#: package/contents/ui/JobItem.qml:154
 #, kde-format
 msgctxt "Cancel running job"
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/JobItem.qml:163
+#: package/contents/ui/JobItem.qml:165
 #, kde-format
 msgctxt "A button tooltip; hides item details"
 msgid "Hide Details"
 msgstr "വിശദാംശങ്ങൾ മറയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/JobItem.qml:164
+#: package/contents/ui/JobItem.qml:166
 #, kde-format
 msgctxt "A button tooltip; expands the item to show details"
 msgid "Show Details"
 msgstr "വിശദാംശങ്ങൾ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/JobItem.qml:205
+#: package/contents/ui/JobItem.qml:207
 #: package/contents/ui/ThumbnailStrip.qml:159
 #, kde-format
 msgid "More Options..."
 msgstr "കൂടുതൽ സാധ്യതകൾ..."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/JobItem.qml:221
+#: package/contents/ui/JobItem.qml:223
 #, kde-format
 msgid "Open"
 msgstr "തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/JobItem.qml:231
+#: package/contents/ui/JobItem.qml:233
 #, kde-format
 msgctxt "Resume paused job"
 msgid "Resume"
 msgstr "പുനരാരംഭിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:61
+#: package/contents/ui/main.qml:62
 #, kde-format
 msgid "%1 running job"
 msgid_plural "%1 running jobs"
@@ -335,7 +326,7 @@ msgstr[0] "%1 ചെയ്തുകൊണ്ടിരിക്കുന്ന �
 msgstr[1] "%1 ചെയ്തുകൊണ്ടിരിക്കുന്ന ജോലികൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:71
+#: package/contents/ui/main.qml:72
 #, kde-format
 msgid "%1 unread notification"
 msgid_plural "%1 unread notifications"
@@ -343,13 +334,19 @@ msgstr[0] "%1 വായിക്കാത്ത അറിയിപ്പ്"
 msgstr[1] "%1 വായിക്കാത്ത അറിയിപ്പുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:82
+#: package/contents/ui/main.qml:83
 #, kde-format
 msgid "Do not disturb until %1"
 msgstr "%1 വരെ ശല്യപ്പെടുത്തരുത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:180
+#: package/contents/ui/main.qml:175
+#, kde-format
+msgid "Clear History"
+msgstr "നാൾവഴി മായ്ക്കുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:182
 #, kde-format
 msgid "&Configure Event Notifications and Actions..."
 msgstr "സംഭവ അറിയിപ്പുകളും നടപടികളും ക്രമീകരിക്കുക... (&C)"

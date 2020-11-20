@@ -11,7 +11,8 @@ msgstr ""
 "POT-Creation-Date: 2020-11-13 09:02+0100\n"
 "PO-Revision-Date: 2019-12-12 22:36+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -78,7 +79,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:374
 #, fuzzy, kde-format
-msgid "You have to restart the Plasma session for these changes to take effect."
+msgid ""
+"You have to restart the Plasma session for these changes to take effect."
 msgstr "ഈ മാറ്റങ്ങള്‍ പ്രയോഗത്തില്‍ വരുവാന്‍ കെഡി‌ഇ വീണ്ടും തുടങ്ങണം."
 
 #. +> trunk5 stable5 plasma5lts
@@ -108,8 +110,12 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:517
 #, kde-format
-msgid "A theme named %1 already exists in your icon theme folder. Do you want replace it with this one?"
-msgstr "താങ്കളുടെ ചിഹ്നം പ്രമേയം ഫോള്‍ഡറില്‍ %1 എന്ന പേരിലുള്ള ഒരു പ്രമേയം നിലവിലുണ്ട്. താങ്കള്‍ക്കു അതിനെ ഈ പ്രമേയം കൊണ്ടു റീപ്ലേസ് ചെയ്യണമോ?"
+msgid ""
+"A theme named %1 already exists in your icon theme folder. Do you want "
+"replace it with this one?"
+msgstr ""
+"താങ്കളുടെ ചിഹ്നം പ്രമേയം ഫോള്‍ഡറില്‍ %1 എന്ന പേരിലുള്ള ഒരു പ്രമേയം നിലവിലുണ്ട്. താങ്കള്‍ക്കു "
+"അതിനെ ഈ പ്രമേയം കൊണ്ടു റീപ്ലേസ് ചെയ്യണമോ?"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:521
@@ -127,21 +133,21 @@ msgstr ""
 #: kcmcursortheme.cpp:564
 #, kde-format
 msgid ""
-"<qt>You cannot delete the theme you are currently using.<br />"
-"You have to switch to another theme first.</qt>"
+"<qt>You cannot delete the theme you are currently using.<br />You have to "
+"switch to another theme first.</qt>"
 msgstr ""
-"<qt>നിലവില്‍ ഉപയോഗിച്ചു കൊണ്ടിരിക്കുന്ന പ്രമേയം മായ്ക്കുവാന്‍ താങ്കള്‍ക്കു സാധിക്കില്ല.<br />"
-"ആദ്യം മറ്റൊരു തീമിലേക്കു മാറേണ്ടതാണു.</qt>"
+"<qt>നിലവില്‍ ഉപയോഗിച്ചു കൊണ്ടിരിക്കുന്ന പ്രമേയം മായ്ക്കുവാന്‍ താങ്കള്‍ക്കു സാധിക്കില്ല.<br />ആദ്യം "
+"മറ്റൊരു തീമിലേക്കു മാറേണ്ടതാണു.</qt>"
 
 #. +> plasma5lts
 #: kcmcursortheme.cpp:570
 #, kde-format
 msgid ""
-"<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />"
-"This will delete all the files installed by this theme.</qt>"
+"<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
+"will delete all the files installed by this theme.</qt>"
 msgstr ""
-"<qt><i>%1</i> എന്ന കര്‍സര്‍ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />"
-"ഈ പ്രവര്‍ത്തനം %1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
+"<qt><i>%1</i> എന്ന കര്‍സര്‍ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />ഈ പ്രവര്‍ത്തനം "
+"%1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
 
 #. +> plasma5lts
 #: kcmcursortheme.cpp:576
@@ -212,6 +218,8 @@ msgstr "വിവരണം"
 #. +> trunk5 stable5 plasma5lts
 #: xcursor/xcursortheme.cpp:74
 #, kde-format
-msgctxt "@info The argument is the list of available sizes (in pixel). Example: 'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
+msgctxt ""
+"@info The argument is the list of available sizes (in pixel). Example: "
+"'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
 msgid "(Available sizes: %1)"
 msgstr ""

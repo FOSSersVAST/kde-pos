@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_folderview\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-12 09:06+0100\n"
+"POT-Creation-Date: 2020-11-17 08:01+0100\n"
 "PO-Revision-Date: 2019-12-29 20:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -27,7 +27,7 @@ msgstr "സ്ഥാനം"
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/config/config.qml:36
 #: package/contents/ui/ConfigIcons.qml:220
-#: package/contents/ui/FolderViewLayer.qml:412
+#: package/contents/ui/FolderViewLayer.qml:415
 #, kde-format
 msgid "Icons"
 msgstr "ചിഹ്നങ്ങള്‍"

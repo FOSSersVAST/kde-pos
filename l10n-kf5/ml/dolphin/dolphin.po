@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-14 11:17+0100\n"
+"POT-Creation-Date: 2020-11-18 08:50+0100\n"
 "PO-Revision-Date: 2020-08-25 09:24+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -4627,14 +4627,14 @@ msgid "The location '%1' is invalid."
 msgstr "%1 എന്ന സ്ഥാനം അസാധുവാണു്"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:80
+#: views/dolphinviewactionhandler.cpp:81
 #, kde-format
 msgctxt "@action"
 msgid "Create Folder..."
 msgstr "പുതിയ അറയുണ്ടാക്കുക..."
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:89
+#: views/dolphinviewactionhandler.cpp:94
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4643,7 +4643,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:99
+#: views/dolphinviewactionhandler.cpp:104
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4653,7 +4653,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:110
+#: views/dolphinviewactionhandler.cpp:115
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4662,28 +4662,28 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:120
+#: views/dolphinviewactionhandler.cpp:125
 #, kde-format
 msgctxt "@action \"Move to Trash\" for non-local files, etc."
 msgid "Delete (using shortcut for Trash)"
 msgstr "നീക്കം ചെയ്യുക (ചവറ്റുകുട്ടയ്ക്കുള്ള കുറുക്കുവഴി ഉപയോഗിച്ചു്)"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:126
+#: views/dolphinviewactionhandler.cpp:131
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Duplicate Here"
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:134
+#: views/dolphinviewactionhandler.cpp:139
 #, kde-format
 msgctxt "@action:inmenu File"
 msgid "Properties"
 msgstr "ഗുണഗണങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:136
+#: views/dolphinviewactionhandler.cpp:141
 #, kde-kuit-format
 msgctxt "@info:whatsthis properties"
 msgid ""
@@ -4694,21 +4694,21 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:146
+#: views/dolphinviewactionhandler.cpp:151
 #, fuzzy, kde-format
 msgctxt "@action:incontextmenu"
 msgid "Copy Location"
 msgstr "സ്ഥലം"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:148
+#: views/dolphinviewactionhandler.cpp:153
 #, kde-format
 msgctxt "@info:whatsthis copy_location"
 msgid "This will copy the path of the first selected item into the clipboard."
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:162
+#: views/dolphinviewactionhandler.cpp:167
 #, kde-kuit-format
 msgctxt "@info:whatsthis Icons view mode"
 msgid ""
@@ -4720,7 +4720,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:169
+#: views/dolphinviewactionhandler.cpp:174
 #, kde-kuit-format
 msgctxt "@info:whatsthis Compact view mode"
 msgid ""
@@ -4730,7 +4730,7 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:173
+#: views/dolphinviewactionhandler.cpp:178
 #, kde-kuit-format
 msgctxt "@info:whatsthis Details view mode"
 msgid ""
@@ -4744,62 +4744,62 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:183
+#: views/dolphinviewactionhandler.cpp:188
 #, kde-format
 msgctxt "@action:intoolbar"
 msgid "View Mode"
 msgstr "അവതരണ രീതി"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:193
+#: views/dolphinviewactionhandler.cpp:198
 #, kde-format
 msgctxt "@info:whatsthis zoom in"
 msgid "This increases the icon size."
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:196
+#: views/dolphinviewactionhandler.cpp:201
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Reset Zoom Level"
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:197
+#: views/dolphinviewactionhandler.cpp:202
 #, fuzzy, kde-format
 msgid "Zoom To Default"
 msgstr "സഹജമായ"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:198
+#: views/dolphinviewactionhandler.cpp:203
 #, kde-format
 msgctxt "@info:whatsthis zoom reset"
 msgid "This resets the icon size to default."
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:206
+#: views/dolphinviewactionhandler.cpp:211
 #, kde-format
 msgctxt "@info:whatsthis zoom out"
 msgid "This reduces the icon size."
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:209
+#: views/dolphinviewactionhandler.cpp:214
 #, fuzzy, kde-format
 msgctxt "@action:intoolbar"
 msgid "Show Previews"
 msgstr "തിരനോട്ടം കാണിയ്ക്കുക"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:210
+#: views/dolphinviewactionhandler.cpp:215
 #, kde-format
 msgctxt "@info"
 msgid "Show preview of files and folders"
 msgstr "അറകളുടേയും ഫയലുകളുടേയും തിരനോട്ടങ്ങള്‍ കാണിക്കുക"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:211
+#: views/dolphinviewactionhandler.cpp:216
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4809,49 +4809,49 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:219
+#: views/dolphinviewactionhandler.cpp:224
 #, kde-format
 msgctxt "@action:inmenu Sort"
 msgid "Folders First"
 msgstr "അറകള്‍ ആദ്യം"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:227
+#: views/dolphinviewactionhandler.cpp:232
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Sort By"
 msgstr "വിന്യാസരീതി"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:261
+#: views/dolphinviewactionhandler.cpp:266
 #, fuzzy, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Additional Information"
 msgstr "കൂടുതല്‍ വിവരങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:272
+#: views/dolphinviewactionhandler.cpp:277
 #, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show in Groups"
 msgstr "വിഭാഗങ്ങളായി കാണിയ്ക്കുക"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:273
+#: views/dolphinviewactionhandler.cpp:278
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "This groups files and folders by their first letter."
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:278
+#: views/dolphinviewactionhandler.cpp:283
 #, fuzzy, kde-format
 msgctxt "@action:inmenu View"
 msgid "Show Hidden Files"
 msgstr "മറഞ്ഞിരിക്കുന്ന ഫയലുകളും കാണിയ്ക്കുക"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:279
+#: views/dolphinviewactionhandler.cpp:284
 #, kde-kuit-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4863,14 +4863,14 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:289
+#: views/dolphinviewactionhandler.cpp:294
 #, fuzzy, kde-format
 msgctxt "@action:inmenu View"
 msgid "Adjust View Display Style..."
 msgstr "അവതരണരീതി സജ്ജീകരിക്കുക..."
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:291
+#: views/dolphinviewactionhandler.cpp:296
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid ""
@@ -4878,112 +4878,112 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:568
+#: views/dolphinviewactionhandler.cpp:573
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Icons"
 msgstr "ചിഹ്നങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:569
+#: views/dolphinviewactionhandler.cpp:574
 #, kde-format
 msgctxt "@info"
 msgid "Icons view mode"
 msgstr "'ചിഹ്നങ്ങള്‍' പ്രദര്‍ശനരീതി"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:579
+#: views/dolphinviewactionhandler.cpp:584
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Compact"
 msgstr "തിങ്ങിയതായി"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:580
+#: views/dolphinviewactionhandler.cpp:585
 #, fuzzy, kde-format
 msgctxt "@info"
 msgid "Compact view mode"
 msgstr "'കളങ്ങള്‍' പ്രദര്‍ശനരീതി"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:590
+#: views/dolphinviewactionhandler.cpp:595
 #, kde-format
 msgctxt "@action:inmenu View Mode"
 msgid "Details"
 msgstr "വിശദാംശങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:591
+#: views/dolphinviewactionhandler.cpp:596
 #, kde-format
 msgctxt "@info"
 msgid "Details view mode"
 msgstr "'വിശദാംശങ്ങള്‍' പ്രദര്‍ശനരീതി"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:614
+#: views/dolphinviewactionhandler.cpp:619
 #, kde-format
 msgctxt "Sort descending"
 msgid "Z-A"
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:615
+#: views/dolphinviewactionhandler.cpp:620
 #, kde-format
 msgctxt "Sort ascending"
 msgid "A-Z"
 msgstr ""
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:617
+#: views/dolphinviewactionhandler.cpp:622
 #, fuzzy, kde-format
 msgctxt "Sort descending"
 msgid "Largest First"
 msgstr "അറകള്‍ ആദ്യം കാണിക്കുക"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:618
+#: views/dolphinviewactionhandler.cpp:623
 #, fuzzy, kde-format
 msgctxt "Sort ascending"
 msgid "Smallest First"
 msgstr "അറകള്‍ ആദ്യം കാണിക്കുക"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:620
+#: views/dolphinviewactionhandler.cpp:625
 #, fuzzy, kde-format
 msgctxt "Sort descending"
 msgid "Newest First"
 msgstr "അറകള്‍ ആദ്യം കാണിക്കുക"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:621
+#: views/dolphinviewactionhandler.cpp:626
 #, fuzzy, kde-format
 msgctxt "Sort ascending"
 msgid "Oldest First"
 msgstr "അറകള്‍ ആദ്യം"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:623
+#: views/dolphinviewactionhandler.cpp:628
 #, fuzzy, kde-format
 msgctxt "Sort descending"
 msgid "Highest First"
 msgstr "ഉയർന്ന റേറ്റിംഗ്"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:624
+#: views/dolphinviewactionhandler.cpp:629
 #, fuzzy, kde-format
 msgctxt "Sort ascending"
 msgid "Lowest First"
 msgstr "അറകള്‍ ആദ്യം കാണിക്കുക"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:626
+#: views/dolphinviewactionhandler.cpp:631
 #, fuzzy, kde-format
 msgctxt "Sort descending"
 msgid "Descending"
 msgstr "താഴേയ്ക്കു്"
 
 #. +> trunk5 stable5
-#: views/dolphinviewactionhandler.cpp:627
+#: views/dolphinviewactionhandler.cpp:632
 #, fuzzy, kde-format
 msgctxt "Sort ascending"
 msgid "Ascending"

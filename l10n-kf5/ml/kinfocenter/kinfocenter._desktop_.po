@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-16 08:55+0100\n"
+"POT-Creation-Date: 2020-11-18 08:51+0100\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -22,14 +22,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. +> trunk5 stable5
-#: Categories/basicinformation.desktop:7
+#: Categories/basicinformation.desktop:8
 #, fuzzy
 msgctxt "Name"
 msgid "Basic Information"
 msgstr "ഉപകരണ വിവരം"
 
 #. +> trunk5 stable5
-#: Categories/detailedinformation.desktop:7
+#: Categories/detailedinformation.desktop:8
 #, fuzzy
 msgctxt "Name"
 msgid "Detailed Information"
@@ -69,7 +69,7 @@ msgid "KInfoCenter Category"
 msgstr "കെഇന്‍ഫോസെന്റര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: Categories/lostfoundcategory.desktop:7
+#: Categories/lostfoundcategory.desktop:8
 #, fuzzy
 msgctxt "Name"
 msgid "Lost And Found"

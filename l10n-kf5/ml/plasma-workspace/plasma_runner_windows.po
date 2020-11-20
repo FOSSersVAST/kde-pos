@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-11-01 10:18+0100\n"
 "PO-Revision-Date: 2018-08-16 09:16+0200\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,13 +21,20 @@ msgstr ""
 #. +> stable5 plasma5lts
 #: windowsrunner.cpp:44
 #, kde-format
-msgid "Finds windows whose name, window class or window role match :q:. It is possible to interact with the windows by using one of the following keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep above and keep below."
+msgid ""
+"Finds windows whose name, window class or window role match :q:. It is "
+"possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
 msgstr ""
 
 #. +> stable5 plasma5lts
 #: windowsrunner.cpp:47
 #, kde-format
-msgid "Finds windows which are on desktop named :q: It is possible to interact with the windows by using one of the following keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep above and keep below."
+msgid ""
+"Finds windows which are on desktop named :q: It is possible to interact with "
+"the windows by using one of the following keywords: activate, close, "
+"min(imize), max(imize), fullscreen, shade, keep above and keep below."
 msgstr ""
 
 #. +> stable5 plasma5lts
@@ -45,7 +53,12 @@ msgstr ""
 #. +> stable5 plasma5lts
 #: windowsrunner.cpp:52
 #, kde-format
-msgid "Lists all windows and allows to activate them. With name=, class=, role= and desktop= the list can be reduced to windows matching these restrictions. It is possible to interact with the windows by using one of the following keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep above and keep below."
+msgid ""
+"Lists all windows and allows to activate them. With name=, class=, role= and "
+"desktop= the list can be reduced to windows matching these restrictions. It "
+"is possible to interact with the windows by using one of the following "
+"keywords: activate, close, min(imize), max(imize), fullscreen, shade, keep "
+"above and keep below."
 msgstr ""
 
 #. +> stable5 plasma5lts

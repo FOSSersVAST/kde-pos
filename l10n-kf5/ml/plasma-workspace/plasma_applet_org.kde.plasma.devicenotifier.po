@@ -35,21 +35,27 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/DeviceItem.qml:175
 #, kde-format
-msgctxt "Accessing is a less technical word for Mounting; translation should be short and mean 'Currently mounting this device'"
+msgctxt ""
+"Accessing is a less technical word for Mounting; translation should be short "
+"and mean 'Currently mounting this device'"
 msgid "Accessing..."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/DeviceItem.qml:177
 #, kde-format
-msgctxt "Removing is a less technical word for Unmounting; translation should be short and mean 'Currently unmounting this device'"
+msgctxt ""
+"Removing is a less technical word for Unmounting; translation should be "
+"short and mean 'Currently unmounting this device'"
 msgid "Removing..."
 msgstr ""
 
 #. +> plasma5lts
 #: package/contents/ui/DeviceItem.qml:190
 #, kde-format
-msgid "It is currently <b>not safe</b> to remove this device: applications may be accessing it. Click the eject button to safely remove this device."
+msgid ""
+"It is currently <b>not safe</b> to remove this device: applications may be "
+"accessing it. Click the eject button to safely remove this device."
 msgstr ""
 
 #. +> plasma5lts
@@ -61,7 +67,10 @@ msgstr ""
 #. +> plasma5lts
 #: package/contents/ui/DeviceItem.qml:197
 #, kde-format
-msgid "It is currently <b>not safe</b> to remove this device: applications may be accessing other volumes on this device. Click the eject button on these other volumes to safely remove this device."
+msgid ""
+"It is currently <b>not safe</b> to remove this device: applications may be "
+"accessing other volumes on this device. Click the eject button on these "
+"other volumes to safely remove this device."
 msgstr ""
 
 #. +> plasma5lts

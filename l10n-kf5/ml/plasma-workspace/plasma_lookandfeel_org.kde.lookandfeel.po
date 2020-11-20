@@ -223,10 +223,18 @@ msgstr "അടുത്ത ട്രാക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/logout/Logout.qml:152
-msgid "One other user is currently logged in. If the computer is shut down or restarted, that user may lose work."
-msgid_plural "%1 other users are currently logged in. If the computer is shut down or restarted, those users may lose work."
-msgstr[0] "മറ്റൊരു ഉപയോക്താവ് നിലവിൽ ലോഗിൻ ചെയ്തിട്ടുണ്ട്. കമ്പ്യൂട്ടർ ഷട്ട് ഡൗൺ ചെയ്യുകയോ പുനരാരംഭിക്കുകയോ ചെയ്താൽ, ആ ഉപയോക്താവ് ചെയ്ത ജോലി നഷ്‌ടപ്പെടാം."
-msgstr[1] "%1 ഉപയോക്താക്കൾ  നിലവിൽ ലോഗിൻ ചെയ്തിട്ടുണ്ട്. കമ്പ്യൂട്ടർ ഷട്ട് ഡൗൺ ചെയ്യുകയോ പുനരാരംഭിക്കുകയോ ചെയ്താൽ, ആ ഉപയോക്താക്കൾ ചെയ്ത ജോലി നഷ്‌ടപ്പെടാം."
+msgid ""
+"One other user is currently logged in. If the computer is shut down or "
+"restarted, that user may lose work."
+msgid_plural ""
+"%1 other users are currently logged in. If the computer is shut down or "
+"restarted, those users may lose work."
+msgstr[0] ""
+"മറ്റൊരു ഉപയോക്താവ് നിലവിൽ ലോഗിൻ ചെയ്തിട്ടുണ്ട്. കമ്പ്യൂട്ടർ ഷട്ട് ഡൗൺ ചെയ്യുകയോ പുനരാരംഭിക്കുകയോ "
+"ചെയ്താൽ, ആ ഉപയോക്താവ് ചെയ്ത ജോലി നഷ്‌ടപ്പെടാം."
+msgstr[1] ""
+"%1 ഉപയോക്താക്കൾ  നിലവിൽ ലോഗിൻ ചെയ്തിട്ടുണ്ട്. കമ്പ്യൂട്ടർ ഷട്ട് ഡൗൺ ചെയ്യുകയോ പുനരാരംഭിക്കുകയോ "
+"ചെയ്താൽ, ആ ഉപയോക്താക്കൾ ചെയ്ത ജോലി നഷ്‌ടപ്പെടാം."
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/logout/Logout.qml:166
@@ -282,7 +290,6 @@ msgstr ""
 #. +> trunk5 stable5
 #: contents/osd/OsdItem.qml:85
 #, fuzzy
-#| msgid "%1%"
 msgctxt "Percentage value"
 msgid "%1%"
 msgstr "%1%"
@@ -328,7 +335,6 @@ msgstr ""
 #. +> trunk5
 #: contents/runcommand/RunCommand.qml:224
 #, fuzzy
-#| msgid "Close Search"
 msgid "Pin Search"
 msgstr "തിരയൽ അടയ്‌ക്കുക"
 
@@ -359,6 +365,9 @@ msgstr "സമീപകാല അന്വേഷണ വിഭാഗത്തി�
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/splash/Splash.qml:95
-msgctxt "This is the first text the user sees while starting in the splash screen, should be translated as something short, is a form that can be seen on a product. Plasma is the project name so shouldn't be translated."
+msgctxt ""
+"This is the first text the user sees while starting in the splash screen, "
+"should be translated as something short, is a form that can be seen on a "
+"product. Plasma is the project name so shouldn't be translated."
 msgid "Plasma made by KDE"
 msgstr "കെ‌ഡി‌ഇ നിർമ്മിച്ച പ്ലാസ്മ"

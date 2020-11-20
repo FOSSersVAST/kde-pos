@@ -10,7 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2020-10-25 14:58+0100\n"
 "PO-Revision-Date: 2019-12-12 22:52+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +45,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:46
 #, kde-format
-msgid "User Feedback has been disabled centrally. Please contact your distributor."
+msgid ""
+"User Feedback has been disabled centrally. Please contact your distributor."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -58,11 +60,11 @@ msgstr ""
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"You can help KDE improve Plasma by contributing information on how you use it, so we can focus on things that matter to you.<nl/>"
-"<nl/>"
-"Contributing this information is optional and entirely anonymous. We never collect your personal data, files you use, websites you visit, or information that could identify you.<nl/>"
-"<nl/>"
-"You can read about our policy in the following link:"
+"You can help KDE improve Plasma by contributing information on how you use "
+"it, so we can focus on things that matter to you.<nl/><nl/>Contributing this "
+"information is optional and entirely anonymous. We never collect your "
+"personal data, files you use, websites you visit, or information that could "
+"identify you.<nl/><nl/>You can read about our policy in the following link:"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
