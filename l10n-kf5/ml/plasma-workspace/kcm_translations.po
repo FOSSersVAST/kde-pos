@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-11 10:13+0100\n"
 "PO-Revision-Date: 2020-11-21 08:48+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
@@ -23,7 +23,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "വിവേക് കെ ജെ"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
@@ -35,28 +35,28 @@ msgstr "vivekkj2004@gmail.com"
 #: package/contents/ui/main.qml:31
 #, kde-format
 msgid "Language"
-msgstr ""
+msgstr "ഭാഷ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:86
 #, kde-format
 msgctxt "@title:window"
 msgid "Add Languages"
-msgstr ""
+msgstr "ഭാഷകൾ ചേർക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:112
 #, kde-format
 msgctxt "@action:button"
 msgid "Add"
-msgstr ""
+msgstr "ചേർക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:140
 #, kde-format
 msgctxt "@info"
 msgid "There are no additional languages available on this system."
-msgstr ""
+msgstr "ഈ സിസ്റ്റത്തിൽ അധിക ഭാഷകളൊന്നും ലഭ്യമല്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:150
@@ -64,13 +64,14 @@ msgstr ""
 msgctxt "@info"
 msgid "Your changes will take effect the next time you log in."
 msgstr ""
+"അടുത്ത തവണ നിങ്ങൾ ലോഗിൻ ചെയ്യുമ്പോൾ നിങ്ങളുടെ മാറ്റങ്ങൾ പ്രാബല്യത്തിൽ വരും."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:151
 #, kde-format
 msgctxt "@info"
 msgid "There are currently no preferred languages configured."
-msgstr ""
+msgstr "നിലവിൽ ഇഷ്ടപ്പെട്ട ഭാഷകളൊന്നും ക്രമീകരിച്ചിട്ടില്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:162
@@ -87,14 +88,22 @@ msgid_plural ""
 "to add them back, please install the localization files for it and the "
 "languages again."
 msgstr[0] ""
+"'%2' കോഡ് ഉള്ള ഭാഷയ്ക്കുള്ള പരിഭാഷാ ഫയലുകൾ കണ്ടെത്താൻ കഴിഞ്ഞില്ല. നിങ്ങളുടെ  "
+"ക്രമീകരണത്തിൽ നിന്ന് ഈ ഭാഷ നീക്കംചെയ്യും. നിങ്ങൾ‌ക്കത് തിരികെ ചേർ‌ക്കാൻ‌ "
+"താൽ‌പ്പര്യമുണ്ടെങ്കിൽ‌, ദയവായി പ്രാദേശികവൽക്കരണ ഫയലുകൾ‌ ഇൻ‌സ്റ്റാൾ‌ ചെയ്‌ത് "
+"ഭാഷ വീണ്ടും ചേർ‌ക്കുക."
 msgstr[1] ""
+"'%2' കോഡുകൾ ഉള്ള ഭാഷകൾക്കായുള്ള പരിഭാഷാ ഫയലുകൾ കണ്ടെത്താൻ കഴിഞ്ഞില്ല. "
+"നിങ്ങളുടെ  ക്രമീകരണത്തിൽ നിന്ന് ഈ ഭാഷകൾ നീക്കംചെയ്യും. നിങ്ങൾ‌ക്കത് തിരികെ "
+"ചേർ‌ക്കാൻ‌ താൽ‌പ്പര്യമുണ്ടെങ്കിൽ‌, ദയവായി പ്രാദേശികവൽക്കരണ ഫയലുകൾ‌ "
+"ഇൻ‌സ്റ്റാൾ‌ ചെയ്‌ത് ഭാഷ വീണ്ടും ചേർ‌ക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:165
 #, kde-format
 msgctxt "@info separator in list of language codes"
 msgid "', '"
-msgstr ""
+msgstr "', '"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:175
@@ -103,44 +112,46 @@ msgid ""
 "The language at the top of this list is the one you want to see and use most "
 "often."
 msgstr ""
+"ഈ ലിസ്റ്റിന്റെ മുകളിലുള്ള ഭാഷയാണ് നിങ്ങൾ ഏറ്റവും കൂടുതൽ കാണാനും ഉപയോഗിക്കാനും"
+" ആഗ്രഹിക്കുന്നത്."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:214
 #, kde-format
 msgctxt "@item:inlistbox 1 = Language name"
 msgid "%1 (Default)"
-msgstr ""
+msgstr "%1 (തനത്)"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:226
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Promote to default"
-msgstr ""
+msgstr "തനതായി സ്ഥാപിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:233
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Remove"
-msgstr ""
+msgstr "കളയുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:258
 #, kde-format
 msgctxt "@action:button"
 msgid "Add languages..."
-msgstr ""
+msgstr "ഭാഷകൾ ചേർക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: translations.cpp:43
 #, kde-format
 msgid "Configure Plasma translations"
-msgstr ""
+msgstr "പ്ലാസ്മ പരിഭാഷകൾ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: translationsmodel.cpp:95 translationsmodel.cpp:106
 #, kde-format
 msgctxt "%1 is language name, %2 is language code name"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
