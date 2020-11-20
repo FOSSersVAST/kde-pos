@@ -8,42 +8,43 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-31 11:18+0100\n"
-"PO-Revision-Date: 2019-02-12 03:28+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2020-11-21 10:25+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: iconapplet.cpp:108
 #, kde-format
 msgid "Failed to create icon widgets folder '%1'"
-msgstr ""
+msgstr "'%1' ചിഹ്ന വിഡ്ജറ്റ് അറ നിർമിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: iconapplet.cpp:154
 #, kde-format
 msgid "Failed to copy icon widget desktop file from '%1' to '%2'"
-msgstr ""
+msgstr "'%1' ൽ നിന്ന് '%2' ലേക്ക് ചിഹ്ന വിഡ്ജറ്റ് പകർത്തുന്നത് പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: iconapplet.cpp:396
 #, kde-format
 msgid "Open Containing Folder"
-msgstr ""
+msgstr "അടങ്ങിയിരിക്കുന്ന അറ തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: iconapplet.cpp:578
 #, kde-format
 msgid "Properties for %1"
-msgstr ""
+msgstr "%1 ന്റെ ഗുണഗണങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:72
 #, kde-format
 msgid "Properties"
-msgstr ""
+msgstr "ഗുണഗണങ്ങൾ"
