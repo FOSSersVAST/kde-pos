@@ -46,7 +46,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:46
 #, kde-format
-msgid "User Feedback has been disabled centrally. Please contact your distributor."
+msgid ""
+"User Feedback has been disabled centrally. Please contact your distributor."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -60,11 +61,11 @@ msgstr "പ്ലാസ്മ:"
 #, kde-kuit-format
 msgctxt "@info"
 msgid ""
-"You can help KDE improve Plasma by contributing information on how you use it, so we can focus on things that matter to you.<nl/>"
-"<nl/>"
-"Contributing this information is optional and entirely anonymous. We never collect your personal data, files you use, websites you visit, or information that could identify you.<nl/>"
-"<nl/>"
-"You can read about our policy in the following link:"
+"You can help KDE improve Plasma by contributing information on how you use "
+"it, so we can focus on things that matter to you.<nl/><nl/>Contributing this "
+"information is optional and entirely anonymous. We never collect your "
+"personal data, files you use, websites you visit, or information that could "
+"identify you.<nl/><nl/>You can read about our policy in the following link:"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts

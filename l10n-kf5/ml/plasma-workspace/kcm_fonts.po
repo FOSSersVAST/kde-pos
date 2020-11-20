@@ -194,19 +194,27 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:49
 #, fuzzy, kde-format
-msgid "Some changes such as anti-aliasing or DPI will only affect newly started applications."
-msgstr "<p>ആന്റി-അലിയാസിങ് പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ.</p>"
+msgid ""
+"Some changes such as anti-aliasing or DPI will only affect newly started "
+"applications."
+msgstr ""
+"<p>ആന്റി-അലിയാസിങ് പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ.</"
+"p>"
 
 #. +> trunk5 stable5
 #: package/contents/ui/main.qml:63
 #, kde-format
-msgid "Very large fonts may produce odd-looking results. Consider adjusting the global screen scale instead of using a very large font size."
+msgid ""
+"Very large fonts may produce odd-looking results. Consider adjusting the "
+"global screen scale instead of using a very large font size."
 msgstr ""
 
 #. +> trunk5 stable5
 #: package/contents/ui/main.qml:83
 #, kde-format
-msgid "The recommended way to scale the user interface is using the global screen scaling feature."
+msgid ""
+"The recommended way to scale the user interface is using the global screen "
+"scaling feature."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -303,7 +311,12 @@ msgstr "പ്രവര്‍ത്തന സജ്ജം"
 #: package/contents/ui/main.qml:192
 #, kde-kuit-format
 msgctxt "@info:tooltip Anti-Aliasing"
-msgid "Pixels on displays are generally aligned in a grid. Therefore shapes of fonts that do not align with this grid will look blocky and wrong unless <emphasis>anti-aliasing</emphasis> techniques are used to reduce this effect. You generally want to keep this option enabled unless it causes problems."
+msgid ""
+"Pixels on displays are generally aligned in a grid. Therefore shapes of "
+"fonts that do not align with this grid will look blocky and wrong unless "
+"<emphasis>anti-aliasing</emphasis> techniques are used to reduce this "
+"effect. You generally want to keep this option enabled unless it causes "
+"problems."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -336,10 +349,14 @@ msgstr "സബ്-പിക്സല്‍ റെണ്ടറിങ് &ഉപ�
 #, kde-kuit-format
 msgctxt "@info:tooltip Sub-pixel rendering"
 msgid ""
-"<para>On TFT or LCD screens every single pixel is actually composed of three or four smaller monochrome lights. These <emphasis>sub-pixels</emphasis> can be changed independently to further improve the quality of displayed fonts.</para>"
-" "
-"<para>The rendering quality is only improved if the selection matches the manner in which the sub-pixels of your display are aligned. Most displays have a linear ordering of <emphasis>RGB</emphasis> sub-pixels, some have <emphasis>BGR</emphasis> and some exotic orderings are not supported by this feature.</para>"
-"This does not work with CRT monitors."
+"<para>On TFT or LCD screens every single pixel is actually composed of three "
+"or four smaller monochrome lights. These <emphasis>sub-pixels</emphasis> can "
+"be changed independently to further improve the quality of displayed fonts.</"
+"para> <para>The rendering quality is only improved if the selection matches "
+"the manner in which the sub-pixels of your display are aligned. Most "
+"displays have a linear ordering of <emphasis>RGB</emphasis> sub-pixels, some "
+"have <emphasis>BGR</emphasis> and some exotic orderings are not supported by "
+"this feature.</para>This does not work with CRT monitors."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -353,7 +370,11 @@ msgstr "ഹിന്റിങ് രീതി: "
 #: package/contents/ui/main.qml:359
 #, kde-kuit-format
 msgctxt "@info:tooltip Hinting"
-msgid "Hinting is a technique in which hints embedded in a font are used to enhance the rendering quality especially at small sizes. Stronger hinting generally leads to sharper edges but the small letters will less closely resemble their shape at big sizes."
+msgid ""
+"Hinting is a technique in which hints embedded in a font are used to enhance "
+"the rendering quality especially at small sizes. Stronger hinting generally "
+"leads to sharper edges but the small letters will less closely resemble "
+"their shape at big sizes."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -367,12 +388,25 @@ msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ ന�
 #, fuzzy, kde-kuit-format
 msgctxt "@info:tooltip Force fonts DPI"
 msgid ""
-"<para>This option forces a specific DPI value for fonts. It may be useful when the real DPI of the hardware is not detected properly and it is also often misused when poor quality fonts are used that do not look well with DPI values other than 96 or 120 DPI.</para>"
-"<para>The use of this option is generally discouraged.</para>"
-"<para>If you are using the <emphasis>X Window System</emphasis>, for selecting the proper DPI value a better option is explicitly configuring it for the whole X server if possible (e.g. DisplaySize in xorg.conf). When fonts do not render properly with the real DPI value better fonts should be used or configuration of font hinting should be checked.</para>"
+"<para>This option forces a specific DPI value for fonts. It may be useful "
+"when the real DPI of the hardware is not detected properly and it is also "
+"often misused when poor quality fonts are used that do not look well with "
+"DPI values other than 96 or 120 DPI.</para><para>The use of this option is "
+"generally discouraged.</para><para>If you are using the <emphasis>X Window "
+"System</emphasis>, for selecting the proper DPI value a better option is "
+"explicitly configuring it for the whole X server if possible (e.g. "
+"DisplaySize in xorg.conf). When fonts do not render properly with the real "
+"DPI value better fonts should be used or configuration of font hinting "
+"should be checked.</para>"
 msgstr ""
-"<p>ഈ വഴി തിരഞ്ഞെടുത്താല്‍ ഒരു നിശ്ചിതമായ ഡിപിഐ അക്ഷരസഞ്ചയം അനുവാര്യമാണ്. ശരിയായിട്ടുള്ള ഡിപിഐ ഹാര്‍ഡ്വെവര്‍ കണ്ടെത്താത്ത സമയത്ത് ഇതു ഉപകാരപ്രദമാകും, നിലവാരം കുറഞ്ഞ അക്ഷരസഞ്ചയങ്ങള്‍ അതു 96 അല്ലേങ്കില്‍ 120 ഡിപിഐയിലും കാണുവാന്‍ സുഗപ്രദമല്ലാത്തതു ഉപയോഗിക്കുബോള്‍ ദുരുപയോഗപെടുന്നു.</p>"
-"<p>ഈ വഴി തിരഞ്ഞെടുക്കാന്‍ പ്രേരിപ്പിക്കന്നില്ല. മികച്ച ഡിപിഐ തിരഞ്ഞെടുക്കാന്‍ ഒരു നല്ല വഴി പുറമേ നിന്നു എക്സ് സെര്‍വറിനെ ക്രമീകരിയ്ക്കുക (ഉദാ: xorg.confന്റെ പ്രദര്‍ശനത്തിന്റെ വലിപ്പം അല്ലേങ്കില്‍ ServerLocalArgs= in $KDEDIR/share/config/kdm/kdmrcല്‍ <i>-dpi value</i> ചേര്‍ക്കുക). അക്ഷരസഞ്ചയങ്ങളുടെ രൂപകല്പനാ സാധാരണ ഡിപിഐയുടെ നിലവാരം കാണിക്കുന്നില്ലേങ്കില്‍ അക്ഷരസഞ്ചയം മാറ്റുകയൊ അക്ഷരസഞ്ചയങ്ങളുടെ ക്രമീകരണം പരിശോധിക്കുക,</p>"
+"<p>ഈ വഴി തിരഞ്ഞെടുത്താല്‍ ഒരു നിശ്ചിതമായ ഡിപിഐ അക്ഷരസഞ്ചയം അനുവാര്യമാണ്. ശരിയായിട്ടുള്ള "
+"ഡിപിഐ ഹാര്‍ഡ്വെവര്‍ കണ്ടെത്താത്ത സമയത്ത് ഇതു ഉപകാരപ്രദമാകും, നിലവാരം കുറഞ്ഞ അക്ഷരസഞ്ചയങ്ങള്‍ അതു "
+"96 അല്ലേങ്കില്‍ 120 ഡിപിഐയിലും കാണുവാന്‍ സുഗപ്രദമല്ലാത്തതു ഉപയോഗിക്കുബോള്‍ ദുരുപയോഗപെടുന്നു.</"
+"p><p>ഈ വഴി തിരഞ്ഞെടുക്കാന്‍ പ്രേരിപ്പിക്കന്നില്ല. മികച്ച ഡിപിഐ തിരഞ്ഞെടുക്കാന്‍ ഒരു നല്ല വഴി "
+"പുറമേ നിന്നു എക്സ് സെര്‍വറിനെ ക്രമീകരിയ്ക്കുക (ഉദാ: xorg.confന്റെ പ്രദര്‍ശനത്തിന്റെ വലിപ്പം "
+"അല്ലേങ്കില്‍ ServerLocalArgs= in $KDEDIR/share/config/kdm/kdmrcല്‍ <i>-dpi value</"
+"i> ചേര്‍ക്കുക). അക്ഷരസഞ്ചയങ്ങളുടെ രൂപകല്പനാ സാധാരണ ഡിപിഐയുടെ നിലവാരം കാണിക്കുന്നില്ലേങ്കില്‍ "
+"അക്ഷരസഞ്ചയം മാറ്റുകയൊ അക്ഷരസഞ്ചയങ്ങളുടെ ക്രമീകരണം പരിശോധിക്കുക,</p>"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:417

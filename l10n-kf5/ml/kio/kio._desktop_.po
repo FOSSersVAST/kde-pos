@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-10 12:41+0100\n"
+"POT-Creation-Date: 2020-11-18 08:51+0100\n"
 "PO-Revision-Date: 2010-07-01 15:48+0530\n"
 "Last-Translator: Praveen Arimbrathodiyil <pravi.a@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -496,14 +496,14 @@ msgid "Web Search Keywords"
 msgstr "തെരച്ചില്‍ കീവാക്കുകളുടെ അരിപ്പകള്‍"
 
 #. +> trunk5
-#: src/kcms/webshortcuts/webshortcuts.desktop:41
+#: src/kcms/webshortcuts/webshortcuts.desktop:42
 #, fuzzy
 msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "വെബിലെ അടുത്തുപയോഗിച്ച താളുകള്‍ക്കുള്ള സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
 
 #. +> trunk5
-#: src/kcms/webshortcuts/webshortcuts.desktop:69
+#: src/kcms/webshortcuts/webshortcuts.desktop:71
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -586,7 +586,7 @@ msgid "Basic Link to File or Directory..."
 msgstr "ഫയല്‍, തട്ടു് മുതലായവയിലേക്കുള്ള ലളിതമായ ലിങ്ക്"
 
 #. +> trunk5
-#: src/new_file_templates/linkPath.desktop:37
+#: src/new_file_templates/linkPath.desktop:38
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr "ഫയല്‍ അല്ലെങ്കില്‍‍ തട്ടിലേയ്ക്കുള്ള വഴി നല്‍കുക:"
@@ -731,7 +731,7 @@ msgid "ArchWiki"
 msgstr "വിക്കിയ"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:35
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:36
 #, fuzzy
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
@@ -805,7 +805,7 @@ msgid "KDE Bugs"
 msgstr "കെഡിഇ ഫോറങ്ങള്‍"
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/bug.desktop:33
+#: src/urifilters/ikws/searchproviders/bug.desktop:34
 #, fuzzy
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
@@ -959,7 +959,7 @@ msgid "DeepL"
 msgstr ""
 
 #. +> trunk5
-#: src/urifilters/ikws/searchproviders/deepl.desktop:32
+#: src/urifilters/ikws/searchproviders/deepl.desktop:33
 #, fuzzy
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"

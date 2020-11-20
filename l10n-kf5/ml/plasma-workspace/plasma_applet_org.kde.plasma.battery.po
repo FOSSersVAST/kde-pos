@@ -26,7 +26,9 @@ msgstr "പൊതുവായ"
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/BatteryItem.qml:53
 #, kde-format
-msgid "This battery's health is at only %1% and should be replaced. Please contact your hardware vendor for more details."
+msgid ""
+"This battery's health is at only %1% and should be replaced. Please contact "
+"your hardware vendor for more details."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -278,9 +280,11 @@ msgstr ""
 #: package/contents/ui/PowerManagementItem.qml:46
 #, kde-format
 msgid ""
-"Disabling power management will prevent your screen and computer from turning off automatically.\n"
+"Disabling power management will prevent your screen and computer from "
+"turning off automatically.\n"
 "\n"
-"Most applications will automatically suppress power management when they don't want to have you interrupted."
+"Most applications will automatically suppress power management when they "
+"don't want to have you interrupted."
 msgstr ""
 
 #. +> trunk5 stable5
@@ -293,7 +297,9 @@ msgstr ""
 #: package/contents/ui/PowerManagementItem.qml:63
 #, kde-format
 msgctxt "Minimize the length of this string as much as possible"
-msgid "Your notebook is configured not to sleep when closing the lid while an external monitor is connected."
+msgid ""
+"Your notebook is configured not to sleep when closing the lid while an "
+"external monitor is connected."
 msgstr ""
 
 #. +> plasma5lts
@@ -305,7 +311,9 @@ msgstr "വൈദ്യുതി നടത്തിപ്പു്"
 #. +> plasma5lts
 #: package/contents/ui/PowerManagementItem.qml:96
 #, kde-format
-msgid "Your notebook is configured not to suspend when closing the lid while an external monitor is connected."
+msgid ""
+"Your notebook is configured not to suspend when closing the lid while an "
+"external monitor is connected."
 msgstr ""
 
 #. +> trunk5 stable5
@@ -347,7 +355,8 @@ msgstr ""
 #, kde-format
 msgctxt "Some Application and n others are currently suppressing PM"
 msgid "%2 and %1 other application are currently suppressing power management."
-msgid_plural "%2 and %1 other applications are currently suppressing power management."
+msgid_plural ""
+"%2 and %1 other applications are currently suppressing power management."
 msgstr[0] ""
 msgstr[1] ""
 

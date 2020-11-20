@@ -22,7 +22,8 @@ msgstr "പൊതു"
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/ConfigGeneral.qml:50
 #, kde-format
-msgctxt "Heading for a list of actions (leave, lock, switch user, hibernate, suspend)"
+msgctxt ""
+"Heading for a list of actions (leave, lock, switch user, hibernate, suspend)"
 msgid "Show actions:"
 msgstr "പ്രവർത്തികൾ കാണിക്കുക:"
 
@@ -105,8 +106,7 @@ msgstr "ഹൈബർ‌നേറ്റ് (ഡിസ്കിലേക്ക് 
 #: contents/ui/lockout.qml:125
 #, kde-format
 msgid "Do you want to suspend to disk (hibernate)?"
-msgstr ""
-"ഡിസ്കിലേക്ക് സസ്‌പെൻഡ് ചെയ്യാൻ നിങ്ങൾ‌ താൽ‌പ്പര്യപ്പെടുന്നോ (ഹൈബർ‌നേറ്റ്)?"
+msgstr "ഡിസ്കിലേക്ക് സസ്‌പെൻഡ് ചെയ്യാൻ നിങ്ങൾ‌ താൽ‌പ്പര്യപ്പെടുന്നോ (ഹൈബർ‌നേറ്റ്)?"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/lockout.qml:128 contents/ui/lockout.qml:144

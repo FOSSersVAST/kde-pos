@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konsole trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-15 11:37+0100\n"
+"POT-Creation-Date: 2020-11-19 09:44+0100\n"
 "PO-Revision-Date: 2020-02-05 14:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -670,20 +670,28 @@ msgstr "എല്ലാം തെരഞ്ഞെടുക്കുക"
 msgid "Deselect All"
 msgstr "ഒന്നും തെരഞ്ഞെടുക്കണ്ട"
 
+#. +> trunk5
+#: filterHotSpots/FileFilterHotspot.cpp:121
+#, kde-format
+msgid ""
+"Could not open file with the text editor specified in the profile settings;\n"
+"it will be opened with the system default editor."
+msgstr ""
+
 #. +> trunk5 stable5
-#: filterHotSpots/FileFilterHotspot.cpp:49
+#: filterHotSpots/FileFilterHotspot.cpp:145
 #, fuzzy, kde-format
 msgid "Copy Location"
 msgstr "ഇന്‍പുട്ട് പകര്‍ത്തേണ്ടതു്"
 
 #. +> trunk5 stable5
-#: filterHotSpots/FileFilterHotspot.cpp:71 session/SessionController.cpp:1827
+#: filterHotSpots/FileFilterHotspot.cpp:167 session/SessionController.cpp:1827
 #, kde-format
 msgid "open with"
 msgstr ""
 
 #. +> trunk5 stable5
-#: filterHotSpots/FileFilterHotspot.cpp:152
+#: filterHotSpots/FileFilterHotspot.cpp:248
 #, kde-format
 msgid "Generating Thumbnail"
 msgstr ""
@@ -1294,7 +1302,7 @@ msgid "&Scale output"
 msgstr ""
 
 #. +> trunk5 stable5
-#: profile/Profile.cpp:153
+#: profile/Profile.cpp:154
 #, fuzzy, kde-format
 msgctxt "Name of the default/builtin profile"
 msgid "Default"
@@ -3909,46 +3917,9 @@ msgstr ""
 msgid "Trim trailing spaces"
 msgstr ""
 
-#. i18n: ectx: property (toolTip), widget (QLineEdit, linkEscapeSequenceTexts)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:279
-#, kde-format
-msgid "The formats of possible links, like http://, https:// and file://"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, ctrlRequiredForDragButton)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:286
-#, kde-format
-msgid "Selected text will require control key plus click to drag."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, ctrlRequiredForDragButton)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:289
-#, kde-format
-msgid "Require Ctrl key for drag && drop"
-msgstr ""
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, enableAlternateScrollingButton)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:296
-#, kde-format
-msgid ""
-"Mouse scroll wheel will emulate up/down key presses in programs that use the "
-"Alternate Screen buffer (e.g. less)"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, enableAlternateScrollingButton)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:299
-#, kde-format
-msgid "Enable Alternate Screen buffer scrolling"
-msgstr ""
-
 #. i18n: ectx: property (toolTip), widget (QCheckBox, underlineLinksButton)
 #. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:306
+#: widgets/EditProfileMousePage.ui:263
 #, kde-format
 msgid ""
 "Text recognized as a link or an email address will be underlined when "
@@ -3957,14 +3928,14 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, underlineLinksButton)
 #. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:309
+#: widgets/EditProfileMousePage.ui:266
 #, fuzzy, kde-format
 msgid "Underline links"
 msgstr "അടിവര"
 
 #. i18n: ectx: property (toolTip), widget (QCheckBox, underlineFilesButton)
 #. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:332
+#: widgets/EditProfileMousePage.ui:273
 #, kde-format
 msgid ""
 "Text recognized as a file will be underlined when hovered by the mouse "
@@ -3973,14 +3944,140 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, underlineFilesButton)
 #. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:335
+#: widgets/EditProfileMousePage.ui:276
 #, fuzzy, kde-format
 msgid "Underline files"
 msgstr "അടിവര"
 
+#. i18n: ectx: property (text), widget (QLabel, textEditorCommandLabel)
+#. +> trunk5
+#: widgets/EditProfileMousePage.ui:285
+#, kde-format
+msgid "Text Editor Command: "
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, textEditorCmdLineEdit)
+#. +> trunk5
+#: widgets/EditProfileMousePage.ui:295
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Command used to open a file PATH at LINE/COLUMN."
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, textEditorCmdLineEdit)
+#. +> trunk5
+#: widgets/EditProfileMousePage.ui:305
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"<html><head/><body>\n"
+"                  <p>The text editor command that will be used to open a "
+"file starting at the specified line and column.</p>\n"
+"                  <p>PATH, LINE and COLUMN are palceholders that will be "
+"replaced by the actual path to the file, line number and column number "
+"respectively.</p>\n"
+"                  <p>If PATH and LINE aren't specified in the command, the "
+"file will be opened with the system default text editor.</p>\n"
+"                  <p>For example:</p>\n"
+"                  <p>/usr/bin/kate PATH:LINE:COMLUMN</p>\n"
+"                  <p>/usr/bin/gedit +LINE:COLUMN PATH</p>\n"
+"                  </body></html>"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, openLinksByDirectClickButton)
+#. +> trunk5 stable5
+#: widgets/EditProfileMousePage.ui:320
+#, kde-format
+msgid ""
+"Text recognized as a file, link or an email address can be opened by direct "
+"mouse click."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, openLinksByDirectClickButton)
+#. +> trunk5
+#: widgets/EditProfileMousePage.ui:323
+#, kde-format
+msgid "Open files/links by direct click"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, openLinksByDirectClickButton)
+#. +> stable5
+#: widgets/EditProfileMousePage.ui:404
+#, kde-format
+msgid "Open by direct click"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, allowLinkEscapeSequenceButton)
+#. +> trunk5 stable5
+#: widgets/EditProfileMousePage.ui:334
+#, kde-format
+msgid "Allow escape sequences for links"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, allowLinkEscapeSequenceButtonWarning)
+#. +> trunk5 stable5
+#: widgets/EditProfileMousePage.ui:341
+#, kde-format
+msgid ""
+"<b>WARNING</b>: This has security implications as it allows malicious URLs "
+"to be shown as another URL or hidden.<br>Make sure you understand the "
+"implications before turning this on."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> trunk5
+#: widgets/EditProfileMousePage.ui:362
+#, fuzzy, kde-format
+msgid "Allowed link formats: "
+msgstr "മിന്നുന്ന പദാവലി അനുവദിയ്ക്കുക"
+
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. +> stable5
+#: widgets/EditProfileMousePage.ui:385
+#, fuzzy, kde-format
+msgid "Allowed link formats"
+msgstr "മിന്നുന്ന പദാവലി അനുവദിയ്ക്കുക"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, linkEscapeSequenceTexts)
+#. +> trunk5 stable5
+#: widgets/EditProfileMousePage.ui:372
+#, kde-format
+msgid "The formats of possible links, like http://, https:// and file://"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, ctrlRequiredForDragButton)
+#. +> trunk5 stable5
+#: widgets/EditProfileMousePage.ui:383
+#, kde-format
+msgid "Selected text will require control key plus click to drag."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, ctrlRequiredForDragButton)
+#. +> trunk5 stable5
+#: widgets/EditProfileMousePage.ui:386
+#, kde-format
+msgid "Require Ctrl key for drag && drop"
+msgstr ""
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, enableAlternateScrollingButton)
+#. +> trunk5 stable5
+#: widgets/EditProfileMousePage.ui:393
+#, kde-format
+msgid ""
+"Mouse scroll wheel will emulate up/down key presses in programs that use the "
+"Alternate Screen buffer (e.g. less)"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QCheckBox, enableAlternateScrollingButton)
+#. +> trunk5 stable5
+#: widgets/EditProfileMousePage.ui:396
+#, kde-format
+msgid "Enable Alternate Screen buffer scrolling"
+msgstr ""
+
 #. i18n: ectx: property (toolTip), widget (QCheckBox, dropUrlsAsText)
 #. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:342
+#: widgets/EditProfileMousePage.ui:403
 #, kde-format
 msgid ""
 "Always paste dropped files and URLs as text without offering move, copy and "
@@ -3989,63 +4086,23 @@ msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, dropUrlsAsText)
 #. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:345
+#: widgets/EditProfileMousePage.ui:406
 #, kde-format
 msgid "Disable drag && drop menu for files && URLs"
 msgstr ""
 
-#. i18n: ectx: property (text), widget (QCheckBox, allowLinkEscapeSequenceButton)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:352
-#, kde-format
-msgid "Allow escape sequences for links"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, allowLinkEscapeSequenceButtonWarning)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:359
-#, kde-format
-msgid ""
-"<b>WARNING</b>: This has security implications as it allows malicious URLs "
-"to be shown as another URL or hidden.<br>Make sure you understand the "
-"implications before turning this on."
-msgstr ""
-
 #. i18n: ectx: property (toolTip), widget (QCheckBox, enableMouseWheelZoomButton)
 #. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:375
+#: widgets/EditProfileMousePage.ui:413
 #, kde-format
 msgid "Pressing Ctrl+scrollwheel will increase/decrease the text size."
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, enableMouseWheelZoomButton)
 #. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:378
+#: widgets/EditProfileMousePage.ui:416
 #, kde-format
 msgid "Allow Ctrl+scrollwheel to zoom text size"
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QLabel, label_2)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:385
-#, fuzzy, kde-format
-msgid "Allowed link formats"
-msgstr "മിന്നുന്ന പദാവലി അനുവദിയ്ക്കുക"
-
-#. i18n: ectx: property (toolTip), widget (QCheckBox, openLinksByDirectClickButton)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:401
-#, kde-format
-msgid ""
-"Text recognized as a file, link or an email address can be opened by direct "
-"mouse click."
-msgstr ""
-
-#. i18n: ectx: property (text), widget (QCheckBox, openLinksByDirectClickButton)
-#. +> trunk5 stable5
-#: widgets/EditProfileMousePage.ui:404
-#, kde-format
-msgid "Open by direct click"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, historySizeLabel)
@@ -4386,8 +4443,14 @@ msgstr "ഇപ്പോള്‍ നല്‍കിയ വാചകത്തി�
 msgid "Print Shell"
 msgstr "ഷെല്‍"
 
-#. +> trunk5 stable5
-#: widgets/RenameTabWidget.cpp:34
+#. +> trunk5
+#: widgets/RenameTabWidget.cpp:37
+#, fuzzy, kde-format
+msgid "None"
+msgstr "&ഒന്നുമില്ല"
+
+#. +> stable5
+#: widgets/RenameTabWidget.cpp:47
 #, fuzzy, kde-format
 msgid "Color from theme"
 msgstr "പുതിയ നിറങ്ങളുടെ പദ്ധതി"

@@ -11,7 +11,8 @@ msgstr ""
 "POT-Creation-Date: 2020-10-25 14:58+0100\n"
 "PO-Revision-Date: 2019-12-12 22:46+0000\n"
 "Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
-"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
+"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
+"കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -92,11 +93,15 @@ msgstr "മെച്ചപ്പെട്ട"
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk5 stable5 plasma5lts
 #: actionsconfig.ui:94
-#, fuzzy, kde-format, no-c-format
+#, fuzzy, no-c-format, kde-format
 msgid ""
-"Click on a highlighted item's column to change it. \"%s\" in a command will be replaced with the clipboard contents.<br>"
-"For more information about regular expressions, you could have a look at the <a href=\"https://en.wikipedia.org/wiki/Regular_expression\">Wikipedia entry about this topic</a>."
-msgstr "റെഗുലര്‍ എക്സ്പ്രഷനുകളെ കുറിച്ച് കൂടുതല്‍ അറിയാന്‍ <a href=\"http://en.wikipedia.org/wiki/Regular_expression\">ഇവിടെ</a> നോക്കുക"
+"Click on a highlighted item's column to change it. \"%s\" in a command will "
+"be replaced with the clipboard contents.<br>For more information about "
+"regular expressions, you could have a look at the <a href=\"https://en."
+"wikipedia.org/wiki/Regular_expression\">Wikipedia entry about this topic</a>."
+msgstr ""
+"റെഗുലര്‍ എക്സ്പ്രഷനുകളെ കുറിച്ച് കൂടുതല്‍ അറിയാന്‍ <a href=\"http://en.wikipedia.org/wiki/"
+"Regular_expression\">ഇവിടെ</a> നോക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: configdialog.cpp:37
@@ -169,15 +174,16 @@ msgstr "WM_CLASS തരത്തില്‍പ്പെട്ട ജാലക�
 #: configdialog.cpp:360
 #, kde-format
 msgid ""
-"<qt>This lets you specify windows in which Klipper should not invoke \"actions\". Use<br />"
-"<br />"
-"<center><b>xprop | grep WM_CLASS</b></center>"
-"<br />"
-"in a terminal to find out the WM_CLASS of a window. Next, click on the window you want to examine. The first string it outputs after the equal sign is the one you need to enter here.</qt>"
+"<qt>This lets you specify windows in which Klipper should not invoke "
+"\"actions\". Use<br /><br /><center><b>xprop | grep WM_CLASS</b></"
+"center><br />in a terminal to find out the WM_CLASS of a window. Next, click "
+"on the window you want to examine. The first string it outputs after the "
+"equal sign is the one you need to enter here.</qt>"
 msgstr ""
-"<qt>ഏതൊക്കെ ജാലകങ്ങളില്‍ ക്ലിപ്പര്‍ പ്രവൃത്തികള്‍ തുടങ്ങണം എന്നു നിര്‍വചിക്കാന്‍ ഇതു അനുവദിക്കും. ഒരു ജാലകത്തിന്റെ  WM_CLASS ഏതെന്ന് അറിയാന്‍ ടെര്‍മിനലില്‍  <br />"
-"<br />"
-"<b>xprop | grep WM_CLASS</b> െന്ന ആജ്ഞ കൊടുക്കുക. അടുത്തതായി, നിങ്ങള്‍ക്ക് പരിശോധിക്കോണ്ട ജാലകത്തില്‍ ക്ലിക്ക് ചെയ്യുക. സമ ചിഹ്നത്തിനു ശേഷം വരുന്ന വാചകമാണ് നിങ്ങള്‍ ഇവിടെ കൊടുക്കേണ്ടത്</qt>"
+"<qt>ഏതൊക്കെ ജാലകങ്ങളില്‍ ക്ലിപ്പര്‍ പ്രവൃത്തികള്‍ തുടങ്ങണം എന്നു നിര്‍വചിക്കാന്‍ ഇതു അനുവദിക്കും. ഒരു "
+"ജാലകത്തിന്റെ  WM_CLASS ഏതെന്ന് അറിയാന്‍ ടെര്‍മിനലില്‍  <br /><br /><b>xprop | grep "
+"WM_CLASS</b> െന്ന ആജ്ഞ കൊടുക്കുക. അടുത്തതായി, നിങ്ങള്‍ക്ക് പരിശോധിക്കോണ്ട ജാലകത്തില്‍ ക്ലിക്ക് "
+"ചെയ്യുക. സമ ചിഹ്നത്തിനു ശേഷം വരുന്ന വാചകമാണ് നിങ്ങള്‍ ഇവിടെ കൊടുക്കേണ്ടത്</qt>"
 
 #. +> trunk5 stable5 plasma5lts
 #: editactiondialog.cpp:39
@@ -418,8 +424,12 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: klipper.cpp:496
 #, fuzzy, kde-format
-msgid "You can enable URL actions later by left-clicking on the Klipper icon and selecting 'Enable Clipboard Actions'"
-msgstr "ക്ലിപ്പര്‍ ചിഹ്നത്തി മൌസിന്റെ വലതു ബട്ടണ്‍ അമര്‍ത്തി 'പ്രവൃത്തികള്‍ സജീവമാക്കുക' എന്നത് തെരഞ്ഞെടുത്താല്‍ നിങ്ങള്‍ക്ക് URL പ്രവൃത്തികള്‍ പിന്നീട് സജീവമാക്കാം."
+msgid ""
+"You can enable URL actions later by left-clicking on the Klipper icon and "
+"selecting 'Enable Clipboard Actions'"
+msgstr ""
+"ക്ലിപ്പര്‍ ചിഹ്നത്തി മൌസിന്റെ വലതു ബട്ടണ്‍ അമര്‍ത്തി 'പ്രവൃത്തികള്‍ സജീവമാക്കുക' എന്നത് തെരഞ്ഞെടുത്താല്‍ "
+"നിങ്ങള്‍ക്ക് URL പ്രവൃത്തികള്‍ പിന്നീട് സജീവമാക്കാം."
 
 #. +> trunk5 stable5 plasma5lts
 #: klipper.cpp:529
@@ -511,8 +521,13 @@ msgstr "ഓര്‍മ്മച്ചെപ്പിലെ ഉള്ളടക�
 #. +> trunk5 stable5 plasma5lts
 #: klipper.kcfg:18
 #, kde-format
-msgid "Selecting this option has the effect, that the clipboard can never be emptied. E.g. when an application exits, the clipboard would usually be emptied."
-msgstr "ഈ ഓപ്ഷന്‍ തെരഞ്ഞെടുത്താല്‍ ഓര്‍മ്മച്ചെപ്പ് ഒരിക്കലും ശൂന്യമാക്കാന്‍ സാധിക്കീല്ല. ഉദാഹരണമായി, ഒരു പ്രയോഗം നിര്‍ത്തുമ്പോള്‍ സാധാരണയായി ഓര്‍മ്മച്ചെപ്പ് ശൂന്യമാകും."
+msgid ""
+"Selecting this option has the effect, that the clipboard can never be "
+"emptied. E.g. when an application exits, the clipboard would usually be "
+"emptied."
+msgstr ""
+"ഈ ഓപ്ഷന്‍ തെരഞ്ഞെടുത്താല്‍ ഓര്‍മ്മച്ചെപ്പ് ഒരിക്കലും ശൂന്യമാക്കാന്‍ സാധിക്കീല്ല. ഉദാഹരണമായി, ഒരു "
+"പ്രയോഗം നിര്‍ത്തുമ്പോള്‍ സാധാരണയായി ഓര്‍മ്മച്ചെപ്പ് ശൂന്യമാകും."
 
 #. i18n: ectx: label, entry (IgnoreSelection), group (General)
 #. +> trunk5 stable5 plasma5lts
@@ -526,8 +541,10 @@ msgstr "തെരഞ്ഞെടുത്തത് ഒഴിവാക്കു�
 #: klipper.kcfg:27
 #, kde-format
 msgid ""
-"When an area of the screen is selected with mouse or keyboard, this is called \"the selection\".<br/>"
-"If this option is set, the selection is not entered into the clipboard history, though it is still available for pasting using the middle mouse button."
+"When an area of the screen is selected with mouse or keyboard, this is "
+"called \"the selection\".<br/>If this option is set, the selection is not "
+"entered into the clipboard history, though it is still available for pasting "
+"using the middle mouse button."
 msgstr ""
 
 #. i18n: ectx: label, entry (SyncClipboards), group (General)
@@ -542,8 +559,13 @@ msgstr "ഓര്‍മ്മച്ചെപ്പിനെയും തെര�
 #: klipper.kcfg:36
 #, kde-format
 msgid ""
-"When an area of the screen is selected with mouse or keyboard, this is called \"the selection\".<br/>"
-"If this option is selected, the selection and the clipboard is kept the same, so that anything in the selection is immediately available for pasting elsewhere using any method, including the traditional middle mouse button. Otherwise, the selection is recorded in the clipboard history, but the selection can only be pasted using the middle mouse button. Also see the 'Ignore Selection' option."
+"When an area of the screen is selected with mouse or keyboard, this is "
+"called \"the selection\".<br/>If this option is selected, the selection and "
+"the clipboard is kept the same, so that anything in the selection is "
+"immediately available for pasting elsewhere using any method, including the "
+"traditional middle mouse button. Otherwise, the selection is recorded in the "
+"clipboard history, but the selection can only be pasted using the middle "
+"mouse button. Also see the 'Ignore Selection' option."
 msgstr ""
 
 #. i18n: ectx: label, entry (SelectionTextOnly), group (General)
@@ -558,8 +580,10 @@ msgstr "എഴുത്ത് മാത്രം തെരഞ്ഞെടുക�
 #: klipper.kcfg:41
 #, kde-format
 msgid ""
-"When an area of the screen is selected with mouse or keyboard, this is called \"the selection\".<br/>"
-"If this option is selected, only text selections are stored in the history, while images and other selections are not."
+"When an area of the screen is selected with mouse or keyboard, this is "
+"called \"the selection\".<br/>If this option is selected, only text "
+"selections are stored in the history, while images and other selections are "
+"not."
 msgstr ""
 
 #. i18n: ectx: label, entry (UseGUIRegExpEditor), group (General)
@@ -622,8 +646,15 @@ msgstr "പ്രവൃത്തി ചെയ്യുമ്പോള്‍ വ�
 #. +> trunk5 stable5 plasma5lts
 #: klipper.kcfg:77
 #, kde-format
-msgid "Sometimes, the selected text has some whitespace at the end, which, if loaded as URL in a browser would cause an error. Enabling this option removes any whitespace at the beginning or end of the selected string (the original clipboard contents will not be modified)."
-msgstr "ചില സമയത്ത്, തെരഞ്ഞെടുത്ത അക്ഷരസഞ്ചയത്തില്‍ അവസാനം വൈറ്റ്സ്പേസ് ഉണ്ടെങ്കില്‍ ബ്രൌസറില്‍ പ്രശ്നമുണ്ടാകാന്‍ സാധ്യതയുണ്ട്. ഈ ഓപ്ഷന്‍ പ്രാവര്‍ത്തികമാക്കിയാല്‍ അക്ഷരസഞ്ചയത്തിന്റെ ആദ്യവും അവസാനവുമുള്ള വൈറ്റ്സ്പേസ് കളയുന്നതാണ് (ഓര്‍മ്മച്ചെപ്പിലെ ഉള്ളടക്കം മാറ്റുന്നതല്ല)"
+msgid ""
+"Sometimes, the selected text has some whitespace at the end, which, if "
+"loaded as URL in a browser would cause an error. Enabling this option "
+"removes any whitespace at the beginning or end of the selected string (the "
+"original clipboard contents will not be modified)."
+msgstr ""
+"ചില സമയത്ത്, തെരഞ്ഞെടുത്ത അക്ഷരസഞ്ചയത്തില്‍ അവസാനം വൈറ്റ്സ്പേസ് ഉണ്ടെങ്കില്‍ ബ്രൌസറില്‍ "
+"പ്രശ്നമുണ്ടാകാന്‍ സാധ്യതയുണ്ട്. ഈ ഓപ്ഷന്‍ പ്രാവര്‍ത്തികമാക്കിയാല്‍ അക്ഷരസഞ്ചയത്തിന്റെ ആദ്യവും "
+"അവസാനവുമുള്ള വൈറ്റ്സ്പേസ് കളയുന്നതാണ് (ഓര്‍മ്മച്ചെപ്പിലെ ഉള്ളടക്കം മാറ്റുന്നതല്ല)"
 
 #. i18n: ectx: label, entry (ReplayActionInHistory), group (Actions)
 #. +> trunk5 stable5 plasma5lts

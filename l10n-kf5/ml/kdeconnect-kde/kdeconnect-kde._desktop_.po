@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-18 10:46+0200\n"
+"POT-Creation-Date: 2020-11-17 07:59+0100\n"
 "PO-Revision-Date: 2020-03-04 02:49+0000\n"
 "Last-Translator: Kannan V M <kannan@disroot.org>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -172,12 +172,6 @@ msgid "Notification received"
 msgstr ""
 
 #. +> trunk5 stable5
-#: plugins/kdeconnect_plugin.desktop:5
-msgctxt "Name"
-msgid "KDEConnect Plugin"
-msgstr ""
-
-#. +> trunk5 stable5
 #: plugins/pausemusic/kdeconnect_pausemusic_config.desktop:8
 msgctxt "Name"
 msgid "Pause Music plugin settings"
@@ -261,3 +255,9 @@ msgstr ""
 msgctxt "Name"
 msgid "KDE Connect URL Handler"
 msgstr "കെ.ഡി.ഇ കണക്റ്റ്"
+
+#. +> stable5
+#: plugins/kdeconnect_plugin.desktop:5
+msgctxt "Name"
+msgid "KDEConnect Plugin"
+msgstr ""
