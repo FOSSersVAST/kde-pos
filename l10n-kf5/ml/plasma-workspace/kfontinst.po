@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: kfontinst\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-13 09:02+0100\n"
-"PO-Revision-Date: 2019-12-12 22:27+0000\n"
-"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"PO-Revision-Date: 2020-11-25 19:53+0000\n"
+"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
@@ -83,9 +84,9 @@ msgstr "അച്ചടിയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: apps/Printer.cpp:417 kcmfontinst/DuplicatesDialog.cpp:250
-#, fuzzy, kde-format
+#, kde-format
 msgid "Canceling..."
-msgstr "റദ്ദാക്കുക"
+msgstr "റദ്ദാക്കുന്നു..."
 
 #. +> trunk5 stable5 plasma5lts
 #: apps/Printer.cpp:433
@@ -527,9 +528,9 @@ msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/GroupList.cpp:946
-#, fuzzy, kde-format
+#, kde-format
 msgid "Remove from current group."
-msgstr "കൂട്ടം നീക്കം ചെയ്യുക"
+msgstr "ഇപ്പോഴുള്ള കൂട്ടത്തിൽനിന്നും ഒഴിവാക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/GroupList.cpp:948
