@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: plasma_runner_kill\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-17 08:01+0100\n"
-"PO-Revision-Date: 2010-07-01 00:50+0530\n"
-"Last-Translator: Hrishikesh K Bhaskaran <hrishi.kb@gmail.com>\n"
-"Language-Team: Swathanthra Malayalam Computing <smc-discuss@googlegroups."
-"com>\n"
+"PO-Revision-Date: 2020-11-30 16:14+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra Malayalam Computing <smc-discuss@googlegroups.com>"
+"\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: killrunner.cpp:42
@@ -46,13 +47,13 @@ msgstr "തെരയുന്ന വാക്കിനോട് യോജിക�
 #: killrunner.cpp:132
 #, kde-format
 msgid "Terminate %1"
-msgstr "നിര്‍ത്തലാക്കുക %1 "
+msgstr "നിര്‍ത്തലാക്കുക %1"
 
 #. +> trunk5 stable5
 #: killrunner.cpp:133
 #, kde-format
 msgid "Process ID: %1"
-msgstr ""
+msgstr "പ്രക്രിയ ഐഡി: %1"
 
 #. +> plasma5lts
 #: killrunner.cpp:143
@@ -62,7 +63,7 @@ msgid ""
 "Running as user: %2"
 msgstr ""
 "പ്രോസസ്സ് ഐഡീ: %1\n"
-"പ്രവര്‍ത്തിപ്പിയ്ക്കുന്ന ഉപയോക്താവു്:%2\" "
+"പ്രവര്‍ത്തിപ്പിയ്ക്കുന്ന ഉപയോക്താവു്:%2\""
 
 #. +> trunk5 stable5 plasma5lts
 #: killrunner_config.cpp:44
