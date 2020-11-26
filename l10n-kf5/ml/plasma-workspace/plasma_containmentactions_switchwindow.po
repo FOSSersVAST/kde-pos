@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 12:22+0200\n"
-"PO-Revision-Date: 2020-11-25 19:54+0000\n"
+"PO-Revision-Date: 2020-11-30 16:14+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -45,7 +45,7 @@ msgstr "നിലവിലെ ഡെസ്ക്ടോപ്പിന്റെ �
 #, kde-format
 msgctxt "plasma_containmentactions_switchwindow"
 msgid "Configure Switch Window Plugin"
-msgstr ""
+msgstr "ജാലക മാറ്റ പ്ലഗിൻ സജ്ജമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: switch.cpp:162
