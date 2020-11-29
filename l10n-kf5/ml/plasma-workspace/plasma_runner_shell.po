@@ -9,26 +9,29 @@ msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-15 11:38+0100\n"
-"PO-Revision-Date: 2008-11-16 19:51-0800\n"
-"Last-Translator: പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍ <pravi.a@gmail.com>\n"
+"PO-Revision-Date: 2020-11-30 16:14+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: shellrunner.cpp:43
 #, kde-format
 msgid "Finds commands that match :q:, using common shell syntax"
 msgstr ""
+"സാധാരണ ഷെൽ വാക്യഘടന ഉപയോഗിച്ച് :q: മായി പൊരുത്തപ്പെടുന്ന കമാൻഡുകൾ "
+"കണ്ടെത്തുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: shellrunner.cpp:46
-#, fuzzy, kde-format
+#, kde-format
 msgid "Run in Terminal Window"
-msgstr "&ടെര്‍മിനലില്‍ പ്രവര്‍ത്തിപ്പിക്കുക"
+msgstr "ടെര്‍മിനലില്‍ പ്രവര്‍ത്തിപ്പിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: shellrunner.cpp:64
@@ -42,7 +45,7 @@ msgstr "%1 പ്രവര്‍ത്തിപ്പിക്കുക"
 #: shellOptions.ui:61 shellOptions.ui:134
 #, kde-format
 msgid "Enter the user you want to run the application as here."
-msgstr "ഈ പ്രയോഗം പ്രവര്‍ത്തിപ്പിക്കാനുള്ള ഉപയോക്താവിന്റെ പേരു കൊടുക്കുക"
+msgstr "ഈ പ്രയോഗം പ്രവര്‍ത്തിപ്പിക്കാനുള്ള ഉപയോക്താവിന്റെ പേരു കൊടുക്കുക."
 
 #. i18n: ectx: property (text), widget (QLabel, lbUsername)
 #. +> plasma5lts
@@ -57,7 +60,7 @@ msgstr "ഉപയോക്താവിന്റെ &പേരു്:"
 #: shellOptions.ui:83 shellOptions.ui:102
 #, kde-format
 msgid "Enter the password here for the user you specified above."
-msgstr "മുകളില്‍ പറഞ്ഞ ഉപയോക്താവിന്റെ അടയാളവാക്ക് ഇവിടെ കൊടുക്കുക"
+msgstr "മുകളില്‍ പറഞ്ഞ ഉപയോക്താവിന്റെ അടയാളവാക്ക് ഇവിടെ കൊടുക്കുക."
 
 #. i18n: ectx: property (text), widget (QLabel, lbPassword)
 #. +> plasma5lts
