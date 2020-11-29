@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: plasma_engine_weather\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-13 11:51+0200\n"
-"PO-Revision-Date: 2020-11-29 13:03+0000\n"
-"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
+"PO-Revision-Date: 2020-11-30 16:14+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -150,10 +150,10 @@ msgstr "ശക്തമായ മഴചൊരിയല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:19
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather condition"
 msgid "heavy rain showers"
-msgstr "ശക്തമായ മഴചൊരിയല്‍"
+msgstr "കനത്ത മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:20
