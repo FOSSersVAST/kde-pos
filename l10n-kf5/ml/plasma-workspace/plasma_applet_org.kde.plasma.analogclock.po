@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-05-14 23:09+0200\n"
 "PO-Revision-Date: 2020-11-29 13:00+0000\n"
-"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -26,18 +26,18 @@ msgstr "ബാഹ്യരൂപം"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/configGeneral.qml:35
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show seconds hand"
-msgstr "&സെക്കന്റ് സൂചി കാണിയ്ക്കുക "
+msgstr "സെക്കൻഡ് സൂചി കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/configGeneral.qml:36
-#, fuzzy, kde-format
+#, kde-format
 msgid "General:"
-msgstr "പൊതുവായ"
+msgstr "പൊതുവായ:"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/configGeneral.qml:40
-#, fuzzy, kde-format
+#, kde-format
 msgid "Show time zone"
-msgstr "&സമയമേഖല കാണിയ്ക്കുക"
+msgstr "സമയമേഖല കാണിയ്ക്കുക"
