@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: kcmicons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-08-15 09:50+0200\n"
-"PO-Revision-Date: 2020-11-29 19:12+0000\n"
-"Last-Translator: KannanVM <kannan@disroot.org>\n"
+"PO-Revision-Date: 2020-11-30 16:14+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -125,7 +125,7 @@ msgstr "ചിഹ്നങ്ങള്‍"
 #: main.cpp:82
 #, kde-format
 msgid "Icons Control Panel Module"
-msgstr "ചിഹ്നങ്ങള്‍ നിയന്ത്രിക്കുന്ന പാളിയിലെ ഘടകം"
+msgstr "പാളിയിലെ ചിഹ്നങ്ങള്‍ നിയന്ത്രിക്കുന്ന ഘടകം"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:83
