@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-08-15 09:50+0200\n"
 "PO-Revision-Date: 2020-11-29 19:12+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: KannanVM <kannan@disroot.org>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "അനി പീറ്റര്‍, അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്"
+msgstr "അനി പീറ്റര്‍, അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്,കണ്ണന്‍ വി എം"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
@@ -106,14 +106,14 @@ msgstr "ചെറിയ ചിഹ്നങ്ങളുടെ വലുപ്പ�
 #: iconssettingsbase.kcfg:39
 #, kde-format
 msgid "Panel icons size"
-msgstr ""
+msgstr "പാനല്‍ ചിഹ്നങ്ങളുടെ വലിപ്പം"
 
 #. i18n: ectx: label, entry (dialogSize), group (DialogIcons)
 #. +> trunk5 stable5
 #: iconssettingsbase.kcfg:45
 #, kde-format
 msgid "Dialog icons size"
-msgstr ""
+msgstr "ഡയലോഗ് ചിഹ്നങ്ങളുടെ വലിപ്പം"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:81
@@ -155,25 +155,25 @@ msgstr "റ്റോര്‍സ്ടെന്‍ റാന്‍"
 #: main.cpp:87
 #, kde-format
 msgid "Jonathan Riddell"
-msgstr ""
+msgstr "ജോനാഥന്‍ റിഡ്ഡെല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:88
 #, kde-format
 msgid "Kai Uwe Broulik"
-msgstr ""
+msgstr "കൈ ഉവെ ബ്രൌലിക്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:214
 #, kde-format
 msgid "Unable to create a temporary file."
-msgstr ""
+msgstr "താല്‍കാലിക ഫയല്‍ നിര്‍മ്മിക്കാന്‍ കഴി‍‌ഞ്ഞില്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:226
-#, fuzzy, kde-format
+#, kde-format
 msgid "Unable to download the icon theme archive: %1"
-msgstr "ചിഹ്നത്തിന്റെ പ്രമേയത്തിനുള്ള ആര്‍ക്കൈവ് %1 ലഭ്യമായില്ല."
+msgstr "ചിഹ്ന പ്രമേയത്തിന്റെ ആര്‍ക്കൈവ് ലഭ്യമായില്ല: %1"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:240
@@ -185,70 +185,74 @@ msgstr "ഫയല്‍ സാധുതയുള്ള ഒരു ചിഹ്ന
 #: main.cpp:245
 #, kde-format
 msgid "A problem occurred during the installation process; however, most of the themes in the archive have been installed"
-msgstr "ചേര്‍ക്കുന്ന സമയത്തു് ഒരു പിശകു് സംഭവിച്ചിരിക്കുന്നു; എന്നിരുന്നാലും ആര്‍ക്കൈവിലുള്ള മിക്ക പ്രമേയങ്ങളും ചേര്‍ത്തിട്ടുണ്ടു്."
+msgstr ""
+"ചേര്‍ക്കുന്ന സമയത്തു് ഒരു പിശകു് സംഭവിച്ചിരിക്കുന്നു; എന്നിരുന്നാലും "
+"ആര്‍ക്കൈവിലുള്ള മിക്ക പ്രമേയങ്ങളും ചേര്‍ത്തിട്ടുണ്ടു്"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:249
 #, kde-format
 msgid "Theme installed successfully."
-msgstr ""
+msgstr "പ്രമേയം വിജയകരമായി ഇന്‍സ്റ്റാള്‍ ചെയ്തു."
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:359
-#, fuzzy, kde-format
+#, kde-format
 msgid "Installing icon themes..."
-msgstr "ചിഹ്നത്തിനുള്ള പ്രമേയങ്ങള്‍ ചേര്‍ക്കുന്നു"
+msgstr "ചിഹ്ന പ്രമേയങ്ങള്‍ ചേര്‍ക്കുന്നു..."
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:369
-#, fuzzy, kde-format
+#, kde-format
 msgid "Installing %1 theme..."
-msgstr "ചിഹ്നത്തിനുള്ള പ്രമേയങ്ങള്‍ ചേര്‍ക്കുന്നു"
+msgstr "%1 പ്രമേയം ചേര്‍ക്കുന്നു..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:35
 #, kde-format
 msgid "This module allows you to choose the icons for your desktop."
 msgstr ""
+"ഈ മൊഡ്യൂള്‍ നിങ്ങളുടെ ഡെസ്ക്ടോപ്പിനായുള്ള ചിഹ്നങ്ങള്‍ തിരഞ്ഞെടുക്കാന്‍ "
+"സഹായിക്കും."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:161
-#, fuzzy, kde-format
+#, kde-format
 msgid "Remove Icon Theme"
 msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:168
-#, fuzzy, kde-format
+#, kde-format
 msgid "Restore Icon Theme"
-msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
+msgstr "പ്രമേയം തിരികെ കൊണ്ടുവരുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:237
 #, kde-format
 msgid "Configure Icon Sizes"
-msgstr ""
+msgstr "ചിഹ്നങ്ങളുടെ വലിപ്പം ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:254
-#, fuzzy, kde-format
+#, kde-format
 msgid "Install from File..."
-msgstr "പ്രമേയ ഫയല്‍ ചേര്‍ക്കുക..."
+msgstr "പ്രമേയം ഫയലില്‍ നിന്നും ചേര്‍ക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:262
-#, fuzzy, kde-format
+#, kde-format
 msgid "Get New Icons..."
 msgstr "പുതിയ പ്രമേയങ്ങള്‍ ലഭ്യമാക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:283
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open Theme"
-msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
+msgstr "പ്രമേയം തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:285
 #, kde-format
 msgid "Theme Files (*.tar.gz *.tar.bz2)"
-msgstr ""
+msgstr "പ്രമേയ ഫയലുകള്‍ (*.tar.gz *.tar.bz2)"
