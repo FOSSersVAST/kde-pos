@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: plasma-sdk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-12 09:07+0100\n"
-"PO-Revision-Date: 2020-11-25 19:54+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"PO-Revision-Date: 2020-11-30 16:14+0000\n"
+"Last-Translator: KannanVM <kannan@disroot.org>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -59,11 +59,13 @@ msgstr "ആഗോള തീം ഉപകരണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: lnftool.cpp:44
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "Command line tool to apply global theme packages for changing the look and "
 "feel."
-msgstr "കെട്ടും മട്ടും പാക്കേജുകൾ പ്രയോഗിക്കാനുള്ള കമാൻഡ് ലൈൻ ഉപകരണം."
+msgstr ""
+"കെട്ടും മട്ടും മാറ്റാനുള്ള പൊതു പ്രമേയത്തിന്റെ പാക്കേജുകൾ പ്രയോഗിക്കാനുള്ള "
+"കമാൻഡ് ലൈൻ ഉപകരണം."
 
 #. +> trunk5 stable5 plasma5lts
 #: lnftool.cpp:44
@@ -79,15 +81,15 @@ msgstr "പരിപാലകൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: lnftool.cpp:54
-#, fuzzy, kde-format
+#, kde-format
 msgid "List available global theme packages"
-msgstr "ലഭ്യമായ കെട്ടും മട്ടും പാക്കേജുകൾ കാണുക"
+msgstr "ലഭ്യമായ പൊതു പ്രമേയങ്ങളുടെ പാക്കേജുകൾ കാണുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: lnftool.cpp:56
-#, fuzzy, kde-format
+#, kde-format
 msgid "Apply a global theme package"
-msgstr "ഒരു കെട്ടും മട്ടും പാക്കേജ് പ്രയോഗിക്കുക"
+msgstr "ഒരു പൊതു പ്രമേയത്തിന്റെ പാക്കേജ് പ്രയോഗിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: lnftool.cpp:56
@@ -106,13 +108,15 @@ msgstr "പ്ലാസ്മ ഡെസ്ക്ടോപ്പ് ലേ ഔട
 #: lookandfeelsettings.kcfg:9
 #, kde-format
 msgid "Global look and feel"
-msgstr ""
+msgstr "പൊതുവായുള്ള കെട്ടും മട്ടും"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:30
-#, fuzzy, kde-format
+#, kde-format
 msgid "This module lets you choose the global look and feel."
-msgstr "കെട്ടും മട്ടും തീം തിരഞ്ഞെടുക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
+msgstr ""
+"പൊതുവായുള്ള കെട്ടും മട്ടും പ്രമേയം തിരഞ്ഞെടുക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ "
+"സഹായിക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:57
@@ -140,4 +144,4 @@ msgstr "തീമിൽ നിന്ന് ഡെസ്ക്ടോപ്പ് 
 #: package/contents/ui/main.qml:92
 #, kde-format
 msgid "Get New Global Themes..."
-msgstr ""
+msgstr "പുതു പൊതു പ്രമേയങ്ങള്‍ ലഭ്യമാക്കുക..."
