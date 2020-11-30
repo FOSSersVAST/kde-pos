@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 12:22+0200\n"
 "PO-Revision-Date: 2020-11-30 16:14+0000\n"
-"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
@@ -29,7 +29,7 @@ msgstr "തദ്ദേശ"
 #: timesource.cpp:73
 #, kde-format
 msgid "Timezone"
-msgstr "സമയമേഘല"
+msgstr "സമയമേഖല"
 
 #. +> trunk5 stable5 plasma5lts
 #: timesource.cpp:78 timesource.cpp:81 timesource.cpp:85
