@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-21 08:57+0200\n"
-"PO-Revision-Date: 2020-11-30 16:37+0000\n"
+"PO-Revision-Date: 2020-11-30 16:39+0000\n"
 "Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -30,7 +30,7 @@ msgstr "പ്രവർത്തി"
 #: activityrunner.cpp:35
 #, kde-format
 msgid "Lists all activities currently available to be run."
-msgstr ""
+msgstr "നിലവിൽ റൺ ചെയ്യാൻ പറ്റുന്ന എല്ലാ പ്രവർത്തികളും കാണിക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
 #: activityrunner.cpp:36
