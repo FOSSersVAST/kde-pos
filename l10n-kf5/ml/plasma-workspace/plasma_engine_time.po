@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2019-05-20 12:22+0200\n"
-"PO-Revision-Date: 2020-11-30 09:45+0000\n"
+"PO-Revision-Date: 2020-11-30 16:14+0000\n"
 "Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: timesource.cpp:58
 #, kde-format
 msgid "Local"
-msgstr ""
+msgstr "തദ്ദേശ"
 
 #. +> trunk5 stable5 plasma5lts
 #: timesource.cpp:73
@@ -71,13 +71,13 @@ msgstr ""
 #: timesource.cpp:158
 #, kde-format
 msgid "Latitude"
-msgstr ""
+msgstr "അക്ഷാംശം"
 
 #. +> trunk5 stable5 plasma5lts
 #: timesource.cpp:159
 #, kde-format
 msgid "Longitude"
-msgstr ""
+msgstr "രേഖാംശം"
 
 #. +> trunk5 stable5 plasma5lts
 #: timesource.cpp:160
@@ -89,4 +89,4 @@ msgstr ""
 #: timesource.cpp:161
 #, kde-format
 msgid "Moon"
-msgstr ""
+msgstr "ചന്ദ്രൻ"
