@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-05-14 23:09+0200\n"
-"PO-Revision-Date: 2020-11-25 19:54+0000\n"
+"PO-Revision-Date: 2020-11-30 16:14+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -91,18 +91,18 @@ msgstr "%1/s"
 #, kde-format
 msgctxt "%1 is the displayed data transfer speed in megabits per second"
 msgid "%1 Mbps"
-msgstr ""
+msgstr "%1 എംബിപിഎസ്"
 
 #. +> plasma5lts
 #: contents/ui/net.qml:54
 #, kde-format
 msgctxt "%1 is the displayed data transfer speed in kilobits per second"
 msgid "%1 Kbps"
-msgstr ""
+msgstr "%1 കെബിപിഎസ്"
 
 #. +> plasma5lts
 #: contents/ui/net.qml:56
 #, kde-format
 msgctxt "%1 is the displayed data transfer speed in bits per second"
 msgid "%1 bps"
-msgstr ""
+msgstr "%1 ബിപിഎസ്"
