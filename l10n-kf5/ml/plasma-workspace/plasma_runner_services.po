@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-25 14:58+0100\n"
 "PO-Revision-Date: 2020-11-30 16:14+0000\n"
-"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
@@ -23,13 +23,13 @@ msgstr ""
 #: servicerunner.cpp:299
 #, kde-format
 msgid "System Information"
-msgstr ""
+msgstr "സിസ്റ്റം വിവരങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: servicerunner.cpp:301
 #, kde-format
 msgid "System Settings"
-msgstr ""
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: servicerunner.cpp:385
