@@ -9,28 +9,28 @@ msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-22 10:47+0100\n"
-"PO-Revision-Date: 2020-11-30 16:14+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2021-01-05 19:56+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Shiju Alex"
+msgstr "Shiju Alex,Subin Siby"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
+msgstr "shijualexonline@gmail.com,mail@subinsb.com"
 
 #. i18n: ectx: label, entry (cursorTheme), group (Mouse)
 #. +> trunk5 stable5
@@ -82,7 +82,7 @@ msgstr "മിഴിവ് ആശ്രയിച്ചിരിക്കുന�
 #, kde-format
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
-msgstr "ഈ മാറ്റങ്ങള്‍ പ്രയോഗത്തില്‍ വരുവാന്‍ കെഡി‌ഇ വീണ്ടും തുടങ്ങണം."
+msgstr "ഈ മാറ്റങ്ങള്‍ പ്രയോഗത്തില്‍ വരുവാന്‍ പ്ലാസ്മ പുനരാരംഭിക്കണം."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:458
@@ -94,13 +94,13 @@ msgstr "താത്കാലിക ഫയൽ നിർമ്മിക്കാ�
 #: kcmcursortheme.cpp:470
 #, kde-format
 msgid "Unable to download the icon theme archive: %1"
-msgstr "%1 എന്ന ചിഹനപ്രമേയശേഖരം ഡൗെൺലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല"
+msgstr "%1 എന്ന ചിഹനപ്രമേയശേഖരം ഡൗൺലോഡാൻ കഴിഞ്ഞില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:501
 #, kde-format
 msgid "The file is not a valid icon theme archive."
-msgstr "ഫയല്‍ സാധുതയുള്ള ഒരു ചിഹ്ന പ്രമേയ ശേഖരം അല്ല."
+msgstr "ഫയല്‍ ശരിയായ ഒരു ചിഹ്ന പ്രമേയ ശേഖരം അല്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:508
@@ -115,14 +115,14 @@ msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
 "replace it with this one?"
 msgstr ""
-"താങ്കളുടെ ചിഹ്നം പ്രമേയം ഫോള്‍ഡറില്‍ %1 എന്ന പേരിൽ നിലവിലുണ്ട്. താങ്കള്‍ക്കു അതിനെ ഈ പ്രമേയം "
-"കൊണ്ടു പുനഃസ്ഥാപിക്കണോ?"
+"താങ്കളുടെ ചിഹ്നം പ്രമേയം ഫോള്‍ഡറില്‍ %1 എന്ന പേരിൽ നിലവിലുണ്ട്. താങ്കള്‍ക്കു "
+"അതിനെ ഈ പ്രമേയം കൊണ്ടു മാറ്റിയെഴുതണോ?"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:520
 #, kde-format
 msgid "Overwrite Theme?"
-msgstr "പ്രമേയം പുനഃസ്ഥാപിക്കട്ടെ?"
+msgstr "പ്രമേയം മാറ്റിയെഴുതട്ടെ?"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:546
@@ -147,8 +147,9 @@ msgid ""
 "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
 "will delete all the files installed by this theme.</qt>"
 msgstr ""
-"<qt><i>%1</i> എന്ന കര്‍സര്‍ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />ഈ പ്രവര്‍ത്തനം "
-"%1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
+"<qt><i>%1</i> എന്ന ചൂണ്ടുവിരൽ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ"
+"?<br />ഈ പ്രവര്‍ത്തനം %1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം "
+"മായ്ക്കും.</qt>"
 
 #. +> plasma5lts
 #: kcmcursortheme.cpp:576
@@ -178,19 +179,19 @@ msgstr "ചൂണ്ടുവിരൽ പ്രമേയം തിരഞ്ഞ�
 #: package/contents/ui/main.qml:110
 #, kde-format
 msgid "Size:"
-msgstr "വലിപ്പം:"
+msgstr "വലുപ്പം:"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:154
 #, kde-format
 msgid "&Install from File..."
-msgstr "&ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക..."
+msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക(&I)..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:161
 #, kde-format
 msgid "&Get New Cursors..."
-msgstr "&പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക..."
+msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക(&G)..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:183
@@ -223,4 +224,4 @@ msgctxt ""
 "@info The argument is the list of available sizes (in pixel). Example: "
 "'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
 msgid "(Available sizes: %1)"
-msgstr "(ലഭ്യമായ വലിപ്പങ്ങൾ: %1)"
+msgstr "(ലഭ്യമായ വലുപ്പങ്ങൾ: %1)"
