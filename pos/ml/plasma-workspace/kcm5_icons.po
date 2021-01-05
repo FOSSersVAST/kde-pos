@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kcmicons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-08-15 09:50+0200\n"
-"PO-Revision-Date: 2020-11-30 16:14+0000\n"
+"PO-Revision-Date: 2021-01-05 19:56+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -16,25 +16,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "അനി പീറ്റര്‍, അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്,കണ്ണന്‍ വി എം"
+msgstr "അനി പീറ്റര്‍, അഭിഷേക് ഉമ്മന്‍ ജേക്കബ്,കണ്ണന്‍ വി എം,സുബിൻ സിബി"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
+msgstr ""
+"peter.ani@gmail.com,abhishekjacob123@gmail.com,kannan@disroot."
+"org,mail@subinsb.com"
 
 #. +> trunk5 stable5 plasma5lts
 #: iconsizecategorymodel.cpp:26
 #, kde-format
 msgid "Desktop"
-msgstr "പണിയിടം"
+msgstr "ഡെസ്ക്ടോപ്പ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: iconsizecategorymodel.cpp:27
@@ -106,14 +108,14 @@ msgstr "ചെറിയ ചിഹ്നങ്ങളുടെ വലുപ്പ�
 #: iconssettingsbase.kcfg:39
 #, kde-format
 msgid "Panel icons size"
-msgstr "പാനല്‍ ചിഹ്നങ്ങളുടെ വലിപ്പം"
+msgstr "പാനല്‍ ചിഹ്നങ്ങളുടെ വലുപ്പം"
 
 #. i18n: ectx: label, entry (dialogSize), group (DialogIcons)
 #. +> trunk5 stable5
 #: iconssettingsbase.kcfg:45
 #, kde-format
 msgid "Dialog icons size"
-msgstr "ഡയലോഗ് ചിഹ്നങ്ങളുടെ വലിപ്പം"
+msgstr "ഡയലോഗ് ചിഹ്നങ്ങളുടെ വലുപ്പം"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:81
@@ -167,19 +169,19 @@ msgstr "കൈ ഉവെ ബ്രൌലിക്‍"
 #: main.cpp:214
 #, kde-format
 msgid "Unable to create a temporary file."
-msgstr "താല്‍കാലിക ഫയല്‍ നിര്‍മ്മിക്കാന്‍ കഴി‍‌ഞ്ഞില്ല."
+msgstr "താല്‍കാലിക ഫയല്‍ നിര്‍മ്മിക്കാന്‍ കഴി‍ഞ്ഞില്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:226
 #, kde-format
 msgid "Unable to download the icon theme archive: %1"
-msgstr "ചിഹ്ന പ്രമേയത്തിന്റെ ആര്‍ക്കൈവ് ലഭ്യമായില്ല: %1"
+msgstr "ചിഹ്ന പ്രമേയത്തിന്റെ ആര്‍ക്കൈവ് ഡൗൺലോഡാൻ കഴിഞ്ഞില്ല: %1"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:240
 #, kde-format
 msgid "The file is not a valid icon theme archive."
-msgstr "ഫയല്‍ സാധുതയുള്ള ഒരു ചിഹ്ന പ്രമേയ ആര്‍ക്കൈവ് അല്ല."
+msgstr "ഫയല്‍ ശരിയായ ഒരു ചിഹ്ന പ്രമേയ ആര്‍ക്കൈവ് അല്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:245
@@ -231,7 +233,7 @@ msgstr "പ്രമേയം തിരികെ കൊണ്ടുവരുക"
 #: package/contents/ui/main.qml:237
 #, kde-format
 msgid "Configure Icon Sizes"
-msgstr "ചിഹ്നങ്ങളുടെ വലിപ്പം ക്രമീകരിക്കുക"
+msgstr "ചിഹ്നങ്ങളുടെ വലുപ്പം ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:254
@@ -243,7 +245,7 @@ msgstr "പ്രമേയം ഫയലില്‍ നിന്നും ചേ
 #: package/contents/ui/main.qml:262
 #, kde-format
 msgid "Get New Icons..."
-msgstr "പുതിയ പ്രമേയങ്ങള്‍ ലഭ്യമാക്കുക..."
+msgstr "പുതിയ ചിഹ്നങ്ങൾ ലഭ്യമാക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:283
