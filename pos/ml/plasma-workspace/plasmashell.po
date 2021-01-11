@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-15 11:38+0100\n"
-"PO-Revision-Date: 2021-01-05 19:56+0000\n"
+"PO-Revision-Date: 2021-01-12 15:23+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -76,8 +76,8 @@ msgid ""
 "Load plasmashell as a standalone application, needs the shell-plugin option "
 "to be specified"
 msgstr ""
-"പ്ലാസ്മ ഷെൽ ഒരു ഒറ്റയ്ക്കുള്ള അപ്പ്ലിക്കേഷനായി ലോഡ് ചെയുക, ഷെൽ-സംയോജകങ്ങൾ ഐച്ഛികം "
-"പറഞ്ഞിരിക്കണം "
+"പ്ലാസ്മ ഷെൽ ഒരു ഒറ്റയ്ക്കുള്ള അപ്പ്ലിക്കേഷനായി ലോഡ് ചെയുക, ഷെൽ-സംയോജകങ്ങൾ "
+"ഐച്ഛികം പറഞ്ഞിരിക്കണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:141
@@ -198,7 +198,7 @@ msgstr "മൊബൈൽ ഇന്റർനെറ്റ് ഓണാക്കി"
 #, kde-format
 msgctxt "mobile internet was disabled, keep short"
 msgid "Mobile Internet Off"
-msgstr "മൊബൈൽ ഇന്റർനെറ്റ് ഓഫാക്കി "
+msgstr "മൊബൈൽ ഇന്റർനെറ്റ് ഓഫാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
 #: osd.cpp:153
@@ -264,7 +264,7 @@ msgstr "ഇപ്പോഴത്തെ പ്രവർത്തനം നിർ�
 #: shellcorona.cpp:223
 #, kde-format
 msgid "Activate Task Manager Entry %1"
-msgstr "ടാസ്ക് മാനേജർ ഇനം %1 സജീവമാക്കുക "
+msgstr "ടാസ്ക് മാനേജർ ഇനം %1 സജീവമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: shellcorona.cpp:1432
@@ -282,7 +282,7 @@ msgstr "പാളി ചേർക്കുക"
 #: shellcorona.cpp:1849
 #, kde-format
 msgid "Empty %1"
-msgstr "%1 കാലി "
+msgstr "%1 കാലി"
 
 #. +> trunk5 stable5 plasma5lts
 #: softwarerendernotifier.cpp:27
