@@ -8,181 +8,182 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-17 08:01+0100\n"
-"PO-Revision-Date: 2019-03-03 03:26+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2021-02-16 11:06+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/config/config.qml:32
 #, kde-format
 msgid "Appearance"
-msgstr ""
+msgstr "ബാഹ്യരൂപം"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/config/config.qml:37
 #, kde-format
 msgid "Calendar"
-msgstr ""
+msgstr "കലണ്ടര്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/config/config.qml:42
 #: package/contents/ui/CalendarView.qml:446
 #, kde-format
 msgid "Time Zones"
-msgstr ""
+msgstr "സമയ മേഖലകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/CalendarView.qml:90
 #, kde-format
 msgid "Keep Open"
-msgstr ""
+msgstr "തുറന്ന് വെക്കുക"
 
 #. +> trunk5 stable5
 #: package/contents/ui/CalendarView.qml:168
 #, kde-format
 msgid "Events"
-msgstr ""
+msgstr "പരിപാടികൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/CalendarView.qml:413
 #, kde-format
 msgid "No events for today"
-msgstr ""
+msgstr "ഇന്നത്തേക്ക് പരിപാടികളൊന്നുമില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/CalendarView.qml:414
 #, kde-format
 msgid "No events for this day"
-msgstr ""
+msgstr "ഈ ദിവസത്തേക്ക് പരിപാടികളൊന്നുമില്ല"
 
 #. +> trunk5
 #: package/contents/ui/CalendarView.qml:453
 #, kde-format
 msgid "Switch..."
-msgstr ""
+msgstr "മാറുക..."
 
 #. +> trunk5
 #: package/contents/ui/CalendarView.qml:458
 #, kde-format
 msgid "Switch to another timezone"
-msgstr ""
+msgstr "മറ്റൊരു സമയമേഖലയിലേക്ക് മാറുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:65
 #, kde-format
 msgctxt "Use default font"
 msgid "Default"
-msgstr ""
+msgstr "തനത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:81
 #, kde-format
 msgid "Information:"
-msgstr ""
+msgstr "വിവരം:"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:82
 #, kde-format
 msgid "Show date"
-msgstr ""
+msgstr "തീയതി കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:87
 #, kde-format
 msgid "Show seconds"
-msgstr ""
+msgstr "സെക്കന്റുകള്‍ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:92
 #, kde-format
 msgid "Show local time zone"
-msgstr ""
+msgstr "പ്രാദേശിക സമയ മേഖല കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:100
 #, kde-format
 msgid "Display time zone as:"
-msgstr ""
+msgstr "സമയ മേഖല ഇപ്രകാരം പ്രദർശിപ്പിക്കുക:"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:105
 #, kde-format
 msgid "Time zone city"
-msgstr ""
+msgstr "സമയ മേഖല നഗരം"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:110
 #, kde-format
 msgid "Time zone code"
-msgstr ""
+msgstr "സമയ മേഖല കോഡ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:120
 #, kde-format
 msgid "Time display:"
-msgstr ""
+msgstr "സമയ പ്രദർശനം:"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:125
 #, kde-format
 msgid "12-Hour"
-msgstr ""
+msgstr "12-മണിക്കൂർ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:126
 #: package/contents/ui/configCalendar.qml:64
 #, kde-format
 msgid "Use Region Defaults"
-msgstr ""
+msgstr "മേഖല തനത് ഉപയോഗിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:127
 #, kde-format
 msgid "24-Hour"
-msgstr ""
+msgstr "24-മണിക്കൂർ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:134
 #, kde-format
 msgid "Change Regional Settings..."
-msgstr ""
+msgstr "പ്രാദേശിക ക്രമീകരണങ്ങൾ മാറ്റുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:145
 #, kde-format
 msgid "Date format:"
-msgstr ""
+msgstr "തീയതി ഘടന:"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:153
 #, kde-format
 msgid "Long Date"
-msgstr ""
+msgstr "ദൈർഘ്യ തീയതി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:158
 #, kde-format
 msgid "Short Date"
-msgstr ""
+msgstr "ലഘു തീയതി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:163
 #, kde-format
 msgid "ISO Date"
-msgstr ""
+msgstr "ഐഎസ്ഒ തീയതി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:168
 #, kde-format
 msgctxt "custom date format"
 msgid "Custom"
-msgstr ""
+msgstr "ഇച്ഛാനുസൃതം"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:199
@@ -191,78 +192,80 @@ msgid ""
 "<a href=\"https://doc.qt.io/qt-5/qml-qtqml-qt.html#formatDateTime-method"
 "\">Time Format Documentation</a>"
 msgstr ""
+"<a href=\"https://doc.qt.io/qt-5/qml-qtqml-qt.html#formatDateTime-method\""
+">സമയഘടന സഹായക്കുറിപ്പു്</a>"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:221
 #, kde-format
 msgid "Font style:"
-msgstr ""
+msgstr "അക്ഷര രൂപം:"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:245
 #, kde-format
 msgid "Bold text"
-msgstr ""
+msgstr "ബോൾഡ് വാചകം"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configAppearance.qml:255
 #, kde-format
 msgid "Italic text"
-msgstr ""
+msgstr "ഇറ്റാലിക് വാചകം"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configCalendar.qml:50
 #, kde-format
 msgid "General:"
-msgstr ""
+msgstr "പൊതുവായ:"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configCalendar.qml:51
 #, kde-format
 msgid "Show week numbers"
-msgstr ""
+msgstr "ആഴ്ച അക്കങ്ങൾ കാണിക്കുക"
 
 #. +> trunk5
 #: package/contents/ui/configCalendar.qml:56
 #, kde-format
 msgid "First day of week:"
-msgstr ""
+msgstr "ആഴ്ചയിലെ ആദ്യ ദിവസം:"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configCalendar.qml:79
 #, kde-format
 msgid "Available Plugins:"
-msgstr ""
+msgstr "ലഭ്യമായ സംയോജകങ്ങൾ"
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:98
 #, kde-format
 msgid "Switch Local Time Zone..."
-msgstr ""
+msgstr "പ്രാദേശിക സമയ മേഖല മാറ്റുക..."
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/configTimeZones.qml:103
 #, kde-format
 msgid "Switch time zone with mouse wheel"
-msgstr ""
+msgstr "മൗസ് വീൽ ഉപയോഗിച്ച് സമയ മേഖല മാറ്റുക"
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:107
 #, kde-format
 msgid "Remove this time zone"
-msgstr ""
+msgstr "ഈ സമയ മേഖല കളയുക"
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:116
 #, kde-format
 msgid "System's Local Time Zone"
-msgstr ""
+msgstr "സിസ്റ്റത്തിന്റെ പ്രാദേശിക സമയ മേഖല"
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:116
 #, kde-format
 msgid "Additional Time Zones"
-msgstr ""
+msgstr "അധിക സമയ മേഖലകൾ"
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:128
@@ -276,13 +279,13 @@ msgstr ""
 #: package/contents/ui/configTimeZones.qml:135
 #, kde-format
 msgid "Add Time Zones..."
-msgstr ""
+msgstr "സമയ മേഖലകൾ കൂട്ടിച്ചേര്‍ക്കുക..."
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/configTimeZones.qml:60
 #, kde-format
 msgid "Search Time Zones"
-msgstr ""
+msgstr "സമയ മേഖലകൾ തിരയുക"
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:144
@@ -292,12 +295,15 @@ msgid ""
 "systemwide local time zone. When you travel, switch the local time zone "
 "instead."
 msgstr ""
+"ക്ലോക്കിനായി മറ്റൊരു സമയ മേഖല ഉപയോഗിക്കുന്നത് സിസ്റ്റം മുഴുവനായുള്ള പ്രാദേശി"
+"ക സമയ മേഖലയെ മാറ്റില്ലെന്നത് ശ്രദ്ധിക്കുക. നിങ്ങൾ യാത്ര ചെയ്യുമ്പോൾ, പകരം "
+"പ്രാദേശിക സമയ മേഖല മാറ്റുക."
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:175
 #, kde-format
 msgid "Add More Timezones"
-msgstr ""
+msgstr "കൂടുതൽ സമയ മേഖലകൾ കൂട്ടിച്ചേര്‍ക്കുക"
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:186
@@ -306,6 +312,8 @@ msgid ""
 "At least one time zone needs to be enabled. Your local timezone was enabled "
 "automatically."
 msgstr ""
+"കുറഞ്ഞത് ഒരു സമയ മേഖലയെങ്കിലും പ്രവർത്തനക്ഷമമാക്കേണ്ടതുണ്ട്. നിങ്ങളുടെ "
+"പ്രാദേശിക സമയമേഖല യാന്ത്രികമായി പ്രവർത്തനക്ഷമമാക്കി."
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/configTimeZones.qml:53
@@ -314,369 +322,371 @@ msgid ""
 "At least one time zone needs to be enabled. 'Local' was enabled "
 "automatically."
 msgstr ""
+"കുറഞ്ഞത് ഒരു സമയ മേഖലയെങ്കിലും പ്രവർത്തനക്ഷമമാക്കേണ്ടതുണ്ട്. 'പ്രാദേശികം' "
+"യാന്ത്രികമായി പ്രവർത്തനക്ഷമമാക്കി."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configTimeZones.qml:211
 #, kde-format
 msgid "%1, %2 (%3)"
-msgstr ""
+msgstr "%1, %2 (%3)"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/configTimeZones.qml:211
 #, kde-format
 msgid "%1, %2"
-msgstr ""
+msgstr "%1, %2"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:132
 #, kde-format
 msgid "Copy to Clipboard"
-msgstr ""
+msgstr "ഓര്‍മ്മചെപ്പിലേക്ക് പകര്‍ത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:137
 #, kde-format
 msgid "Adjust Date and Time..."
-msgstr ""
+msgstr "തീയതിയും സമയവും പൊരുത്തപ്പെടുത്തുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:140
 #, kde-format
 msgid "Set Time Format..."
-msgstr ""
+msgstr "സമയ ഘടന സജ്ജമാക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/clipboardmenu.cpp:139
 #, kde-format
 msgid "Other Calendars"
-msgstr ""
+msgstr "മറ്റു കലണ്ടറുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/clipboardmenu.cpp:147
 #, kde-format
 msgctxt "unix timestamp (seconds since 1.1.1970)"
 msgid "%1 (UNIX Time)"
-msgstr ""
+msgstr "%1 (UNIX സമയം)"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/clipboardmenu.cpp:150
 #, kde-format
 msgctxt "for astronomers (days and decimals since ~7000 years ago)"
 msgid "%1 (Julian Date)"
-msgstr ""
+msgstr "%1 (ജൂലിയൻ തീയതി)"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonemodel.cpp:155
 #, kde-format
 msgctxt "This means \"Local Timezone\""
 msgid "Local"
-msgstr ""
+msgstr "പ്രാദേശികം"
 
 #. +> trunk5
 #: plugin/timezonemodel.cpp:157
 #, kde-format
 msgid "System's local time zone"
-msgstr ""
+msgstr "സിസ്റ്റത്തിന്റെ പ്രാദേശിക സമയ മേഖല"
 
 #. +> stable5 plasma5lts
 #: plugin/timezonemodel.cpp:140
 #, kde-format
 msgid "Your system time zone"
-msgstr ""
+msgstr "നിങ്ങളുടെ സിസ്റ്റം സമയ മേഖല"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:60
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Abidjan"
-msgstr ""
+msgstr "അബിജാൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:61
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Accra"
-msgstr ""
+msgstr "അക്ര"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:62
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Adak"
-msgstr ""
+msgstr "അഡക്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:63
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Addis Ababa"
-msgstr ""
+msgstr "അഡിസ് അബാബ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:64
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Adelaide"
-msgstr ""
+msgstr "അഡ്‌ലെയ്ഡ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:65
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Aden"
-msgstr ""
+msgstr "ഏഡൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:66
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Algiers"
-msgstr ""
+msgstr "അൽജിയേഴ്സ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:67
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Almaty"
-msgstr ""
+msgstr "അൽമാറ്റി"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:68
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Amman"
-msgstr ""
+msgstr "അമ്മാൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:69
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Amsterdam"
-msgstr ""
+msgstr "ആംസ്റ്റർഡാം"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:70
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Anadyr"
-msgstr ""
+msgstr "അനാദിർ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:71
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Anchorage"
-msgstr ""
+msgstr "ആങ്കറേജ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:72
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Andorra"
-msgstr ""
+msgstr "അൻഡോറ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:73
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Anguilla"
-msgstr ""
+msgstr "അംഗുയില"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:74
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Antananarivo"
-msgstr ""
+msgstr "അന്റാനനാരിവോ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:75
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Antigua"
-msgstr ""
+msgstr "ആന്റിഗ്വ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:76
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Apia"
-msgstr ""
+msgstr "അപിയ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:77
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Aqtau"
-msgstr ""
+msgstr "അക്തൗ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:78
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Aqtobe"
-msgstr ""
+msgstr "അക്തോബ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:79
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Araguaina"
-msgstr ""
+msgstr "അരഗുയിന"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:80
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Aruba"
-msgstr ""
+msgstr "അറുബ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:81
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ashgabat"
-msgstr ""
+msgstr "അഷ്ഗാബത്ത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:82
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Asmara"
-msgstr ""
+msgstr "അസ്മാര"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:83
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Asuncion"
-msgstr ""
+msgstr "അസുൻസിയോൺ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:84
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Athens"
-msgstr ""
+msgstr "ഏഥൻസ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:85
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Atikokan"
-msgstr ""
+msgstr "അതികോകൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:86
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Auckland"
-msgstr ""
+msgstr "ഓക്ക്ലാൻഡ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:87
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Azores"
-msgstr ""
+msgstr "അസോറസ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:88
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Baghdad"
-msgstr ""
+msgstr "ബാഗ്ദാദ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:89
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bahia Banderas"
-msgstr ""
+msgstr "ബഹിയ ബന്ദേരസ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:90
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bahia"
-msgstr ""
+msgstr "ബഹിയ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:91
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bahrain"
-msgstr ""
+msgstr "ബഹ്‌റൈൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:92
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Baku"
-msgstr ""
+msgstr "ബാക്കു"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:93
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bamako"
-msgstr ""
+msgstr "ബമാകോ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:94
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bangkok"
-msgstr ""
+msgstr "ബാങ്കോക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:95
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bangui"
-msgstr ""
+msgstr "ബാംഗുയി"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:96
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Banjul"
-msgstr ""
+msgstr "ബഞ്ചുൽ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:97
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Barbados"
-msgstr ""
+msgstr "ബാർബഡോസ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:98
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Beirut"
-msgstr ""
+msgstr "ബെയ്റൂട്ട്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:99
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Belem"
-msgstr ""
+msgstr "ബെലെം"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:100
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Belgrade"
-msgstr ""
+msgstr "ബെൽഗ്രേഡ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:101
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Belize"
-msgstr ""
+msgstr "ബെലീസ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:102
