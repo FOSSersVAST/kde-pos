@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-11-17 08:01+0100\n"
-"PO-Revision-Date: 2021-02-16 11:06+0000\n"
+"PO-Revision-Date: 2021-02-17 11:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -274,6 +274,8 @@ msgid ""
 "Add more time zones to display all of them in the applet's pop-up, or use "
 "one of them for the clock itself"
 msgstr ""
+"എല്ലാ സമയ മേഖലകളും പോപ്പ്അപ്പിൽ പ്രദർശിപ്പിക്കുന്നതിന് കൂടുതൽ സമയ മേഖലകൾ "
+"ചേർക്കുക, അല്ലെങ്കിൽ ക്ലോക്കിനായി അവയിലൊന്ന് ഉപയോഗിക്കുക"
 
 #. +> trunk5
 #: package/contents/ui/configTimeZones.qml:135
@@ -693,14 +695,14 @@ msgstr "ബെലീസ്"
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Berlin"
-msgstr ""
+msgstr "ബെർലിൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:103
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bermuda"
-msgstr ""
+msgstr "ബെർമുഡ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:104
