@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-31 12:59+0100\n"
-"PO-Revision-Date: 2021-01-05 19:56+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2021-02-27 12:15+0000\n"
+"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം"
+msgstr "ഷിജു അലക്സ്, ശങ്കരനാരായണന്‍ എന്‍ എം"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
@@ -369,10 +369,10 @@ msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:318
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Used as a noun, and precedes a combobox full of options"
 msgid "Hinting:"
-msgstr "ഹിന്റിങ് രീതി: "
+msgstr "ഹിന്റിങ് രീതി:"
 
 #. +> trunk5 stable5
 #: package/contents/ui/main.qml:359
