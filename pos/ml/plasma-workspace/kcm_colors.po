@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-23 12:50+0100\n"
-"PO-Revision-Date: 2021-02-18 13:23+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"PO-Revision-Date: 2021-02-26 16:23+0000\n"
+"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -51,7 +51,7 @@ msgstr "ഒരു താൽക്കാലിക ഫയൽ നിർമ്മി
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:185
-#, kde-format
+#, fuzzy, kde-format
 msgid "Unable to download the color scheme: %1"
 msgstr "നിറങ്ങളെ ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ കഴിഞില്ല: %1"
 
@@ -115,7 +115,7 @@ msgstr ""
 #: editor/kcolorschemeeditor.cpp:44
 #, kde-format
 msgid "Jeremy Whiting"
-msgstr "ജെറേമീ വൈറ്റിങ്"
+msgstr "ജെറേമി വൈറ്റിങ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:44 editor/kcolorschemeeditor.cpp:46
