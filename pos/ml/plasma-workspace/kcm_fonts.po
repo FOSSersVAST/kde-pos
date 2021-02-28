@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-31 12:59+0100\n"
-"PO-Revision-Date: 2021-02-27 12:15+0000\n"
+"PO-Revision-Date: 2021-03-01 15:23+0000\n"
 "Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -42,7 +42,7 @@ msgstr ""
 #: fonts.cpp:69
 #, kde-format
 msgid "Antonis Tsiapaliokas"
-msgstr ""
+msgstr "ആന്റോണിസ് സിയപലിയോകാസ്"
 
 #. i18n: ectx: label, entry (forceFontDPI), group (General)
 #. +> trunk5
