@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-23 12:50+0100\n"
-"PO-Revision-Date: 2021-02-26 16:23+0000\n"
+"PO-Revision-Date: 2021-03-01 15:23+0000\n"
 "Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -51,9 +51,9 @@ msgstr "ഒരു താൽക്കാലിക ഫയൽ നിർമ്മി
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:185
-#, fuzzy, kde-format
+#, kde-format
 msgid "Unable to download the color scheme: %1"
-msgstr "നിറങ്ങളെ ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ കഴിഞില്ല: %1"
+msgstr "നിറക്കൂട്ടു് ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ കഴിഞില്ല: %1"
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:203
@@ -424,19 +424,19 @@ msgstr "സാധാരണ പദാവലി"
 #: editor/scmeditorcolors.cpp:120 editor/scmeditorcolors.ui:303
 #, kde-format
 msgid "Inactive Text"
-msgstr "സജീവമല്ലാത്ത പദാവലി"
+msgstr "നിര്‍ജ്ജീവ പദാവലി"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.cpp:121 editor/scmeditorcolors.ui:308
 #, kde-format
 msgid "Active Text"
-msgstr "സജീവമായ പദാവലി"
+msgstr "സജീവ പദാവലി"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.cpp:122 editor/scmeditorcolors.ui:313
-#, kde-format
+#, fuzzy, kde-format
 msgid "Link Text"
 msgstr "കണ്ണിയായ പദാവലി"
 
