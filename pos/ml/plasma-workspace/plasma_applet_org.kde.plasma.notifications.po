@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-01-04 11:57+0100\n"
-"PO-Revision-Date: 2019-12-14 13:03+0530\n"
-"Last-Translator: Saranya P S <amminiperumbilly@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: filemenu.cpp:127 package/contents/ui/JobItem.qml:226
@@ -121,7 +122,7 @@ msgstr "നിർത്തുന്നത് വരെ"
 #: package/contents/ui/FullRepresentation.qml:164
 #, kde-format
 msgid "Until manually disabled"
-msgstr ""
+msgstr "തന്നത്താൻ അപ്രാപ്തമാക്കുന്നതു വരെ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/FullRepresentation.qml:209
@@ -188,14 +189,14 @@ msgstr "വായിക്കാത്ത അറിയിപ്പുകൾ ഇ�
 #: package/contents/ui/main.qml:66
 #, kde-format
 msgid "Notification service not available"
-msgstr ""
+msgstr "അറിയിപ്പ് സേവനം ലഭ്യമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/FullRepresentation.qml:593
 #, kde-format
 msgctxt "Vendor and product name"
 msgid "Notifications are currently provided by '%1 %2'"
-msgstr ""
+msgstr "അറിയിപ്പുകൾ നിലവിൽ നൽകുന്നത് '%1%2' ആണ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/JobDetails.qml:49
@@ -231,12 +232,12 @@ msgstr[1] "%1 അറകളുടെ %2"
 
 #. +> trunk5 stable5
 #: package/contents/ui/JobDetails.qml:130
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "How many items (that includes files and dirs) have been copied"
 msgid "%2 of %1 item"
 msgid_plural "%2 of %1 items"
-msgstr[0] "%1 ഫയലിന്റെ %2"
-msgstr[1] "%1 ഫയലുകളുടെ %2"
+msgstr[0] "%1 ഇനത്തിന്റെ %2"
+msgstr[1] "%1 ഇനങ്ങളുടെ %2"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/JobDetails.qml:138
@@ -259,8 +260,8 @@ msgstr[1] "%1 അറകൾ"
 #, kde-format
 msgid "%1 item"
 msgid_plural "%1 items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 ഇനം"
+msgstr[1] "%1 ഇനങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/JobDetails.qml:159
@@ -450,18 +451,18 @@ msgstr "ജോലി പൂർത്തിയായി"
 #, kde-format
 msgctxt "Reply to message"
 msgid "Reply"
-msgstr ""
+msgstr "മറുപടി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/NotificationReplyField.qml:50
 #, kde-format
 msgctxt "Text field placeholder"
 msgid "Type a reply..."
-msgstr ""
+msgstr "ഒരു മറുപടി ടൈപ്പുചെയ്യുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/NotificationReplyField.qml:70
 #, kde-format
 msgctxt "@action:button"
 msgid "Send"
-msgstr ""
+msgstr "അയയ്ക്കുക"
