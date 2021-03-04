@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-23 12:50+0100\n"
-"PO-Revision-Date: 2021-03-01 15:23+0000\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
 "Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -91,7 +91,7 @@ msgstr "നിറക്കൂട്ടിന്റെ പേര്"
 #: editor/kcolorschemeeditor.cpp:37
 #, kde-format
 msgid "KColorSchemeEditor"
-msgstr ""
+msgstr "കെകളർസ്‌കീംഎഡിറ്റർ"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:39
