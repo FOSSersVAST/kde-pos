@@ -6,16 +6,16 @@ msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-18 09:43+0100\n"
-"PO-Revision-Date: 2020-11-25 19:54+0000\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: image.cpp:250
@@ -27,29 +27,29 @@ msgstr "ശുപാർശ ചെയ്യുന്ന പശ്ചാത്ത�
 #: image.cpp:413
 #, kde-format
 msgid "Directory with the wallpaper to show slides from"
-msgstr ""
+msgstr "സ്ലൈഡുകൾ കാണിക്കുന്നതിന് പശ്ചാത്തലചിത്രമുള്ള കൂട"
 
 #. +> trunk5 stable5 plasma5lts
 #: image.cpp:715
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open Image"
-msgstr "പശ്ചാത്തലചിത്രത്തിനുള്ള ഫയല്‍ തെരഞ്ഞെടുക്കുക"
+msgstr "ചിത്രം തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: image.cpp:717
-#, fuzzy, kde-format
+#, kde-format
 msgid "Image Files"
-msgstr "ചിത്രങ്ങള്‍"
+msgstr "ചിത്ര ഫയലുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/config.qml:103
-#, fuzzy, kde-format
+#, kde-format
 msgid "Positioning:"
 msgstr "സ്ഥാനം:"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/config.qml:106
-#, fuzzy, kde-format
+#, kde-format
 msgid "Scaled and Cropped"
 msgstr "വലിപ്പം മാറ്റിയതും അറ്റം വെട്ടിചുരുക്കിയതും"
 
@@ -61,7 +61,7 @@ msgstr "വലിപ്പം മാറ്റിയത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/config.qml:114
-#, fuzzy, kde-format
+#, kde-format
 msgid "Scaled, Keep Proportions"
 msgstr "ചിത്രത്തിന്റെ അനുപാതം മാറ്റാതെ വലിപ്പം മാറ്റിയത്"
 
@@ -139,7 +139,7 @@ msgstr "പശ്ചാത്തല നിറം തെരഞ്ഞെടുക�
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/config.qml:237
-#, fuzzy, kde-format
+#, kde-format
 msgid "Change every:"
 msgstr "ചിത്രങ്ങൾ ഓരോന്നും മാറ്റേണ്ട സമയം:"
 
@@ -175,13 +175,13 @@ msgstr "അറകള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/config.qml:346
-#, fuzzy, kde-format
+#, kde-format
 msgid "Remove Folder"
-msgstr "അറകള്‍ നീക്കം ചെയ്യുക"
+msgstr "അറ നീക്കം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/config.qml:351
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open Folder"
 msgstr "അറ തുറക്കുക"
 
@@ -193,9 +193,9 @@ msgstr "പശ്ചാത്തലചിത്ര സ്ഥാനങ്ങള�
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/config.qml:374
-#, fuzzy, kde-format
+#, kde-format
 msgid "Add Folder..."
-msgstr "അറകള്‍ ചേര്‍ക്കുക..."
+msgstr "അറ ചേര്‍ക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/config.qml:380
@@ -218,13 +218,13 @@ msgstr "ചിത്രം ചേർക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/main.qml:67
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open Wallpaper Image"
-msgstr "പശ്ചാത്തലചിത്രത്തിനുള്ള ഫയല്‍ തെരഞ്ഞെടുക്കുക"
+msgstr "പശ്ചാത്തലചിത്രം തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/main.qml:68
-#, fuzzy, kde-format
+#, kde-format
 msgid "Next Wallpaper Image"
 msgstr "അടുത്ത പശ്ചാത്തലചിത്രം"
 
@@ -243,7 +243,7 @@ msgstr "അടങ്ങിയിരിക്കുന്ന അറ തുറക�
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/WallpaperDelegate.qml:52
-#, fuzzy, kde-format
+#, kde-format
 msgid "Restore wallpaper"
 msgstr "പശ്ചാത്തലചിത്രം പുനഃസ്ഥാപിക്കുക"
 
@@ -255,18 +255,18 @@ msgstr "പശ്ചാത്തലചിത്രം കളയുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/platformcontents/phone/ui/config.qml:82
-#, fuzzy, kde-format
+#, kde-format
 msgid "Add Custom Wallpaper"
 msgstr "ഇച്ഛാനുസൃത പശ്ചാത്തലചിത്രം ചേർക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:95
-#, fuzzy, kde-format
+#, kde-format
 msgid "Remove wallpaper"
 msgstr "പശ്ചാത്തലചിത്രം കളയുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:123
-#, fuzzy, kde-format
+#, kde-format
 msgid "%1 by %2"
 msgstr "%1 %2 വക"
