@@ -8,21 +8,22 @@ msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-06 12:18+0100\n"
-"PO-Revision-Date: 2019-12-15 00:08+0530\n"
-"Last-Translator: ലക്ഷ്മി സുനില്‍ <lakshmisunil12@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/actionlist.cpp:97
 #, kde-format
 msgid "Open with:"
-msgstr ""
+msgstr "ഇതിലൂടെ തുറക്കു:"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/actionlist.cpp:109
@@ -83,7 +84,7 @@ msgstr "പ്രയോഗം തിരുത്തുക..."
 #, kde-format
 msgctxt "@action opens a software center with the application"
 msgid "Uninstall or Manage Add-Ons..."
-msgstr ""
+msgstr "ആഡ്-ഓണുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക അല്ലെങ്കിൽ കൈകാര്യം ചെയ്യുക ..."
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/appentry.cpp:197
@@ -133,7 +134,7 @@ msgstr "കെറണ്ണര്‍ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/computermodel.cpp:108
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search, calculate, or run a command"
 msgstr "തിരയുക, കണക്കുകൂട്ടുക അല്ലെങ്കില്‍ ആജ്ഞ നടപ്പിലാക്കുക"
 
