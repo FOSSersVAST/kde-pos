@@ -6,15 +6,16 @@ msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-25 14:58+0100\n"
-"PO-Revision-Date: 2008-10-22 00:45+0530\n"
-"Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: logout.cpp:371
@@ -46,13 +47,13 @@ msgstr ""
 #: main.cpp:140
 #, kde-format
 msgid "$HOME not set!"
-msgstr ""
+msgstr "$HOME സജ്ജമാക്കിയിട്ടില്ല!"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:145 main.cpp:152
 #, kde-format
 msgid "$HOME directory (%1) does not exist."
-msgstr ""
+msgstr "$HOME ഹോം കൂട (%1) നിലവിലില്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:147
