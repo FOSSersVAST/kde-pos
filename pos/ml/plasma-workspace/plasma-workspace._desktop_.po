@@ -12,14 +12,15 @@ msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-01-03 12:38+0100\n"
-"PO-Revision-Date: 2020-02-29 09:49+0000\n"
-"Last-Translator: Kannan V M <kannan@disroot.org>\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/activitybar/metadata.desktop:2
@@ -49,19 +50,19 @@ msgstr "കൈകളുള്ള ഘടികാരം"
 #: applets/appmenu/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Global Menu"
-msgstr ""
+msgstr "പൊതു മെനു"
 
 #. +> trunk5 stable5
 #: applets/appmenu/package/metadata.desktop:49
 msgctxt "Comment"
 msgid "Global menubar in your Plasma Desktop"
-msgstr ""
+msgstr "നിങ്ങളുടെ പ്ലാസ്മ ഡെസ്ക്ടോപ്പിലെ പൊതു മെനു"
 
 #. +> plasma5lts
 #: applets/appmenu/package/metadata.desktop:47
 msgctxt "Comment"
 msgid "Global menubar on top of the screen"
-msgstr ""
+msgstr "സ്ക്രീനിനു മുകളിൽ പൊതു മെനു"
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/batterymonitor/package/metadata.desktop:2
@@ -77,10 +78,9 @@ msgstr "നിങ്ങളുടെ ബാറ്ററിയുടെ വൈദ�
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/batterymonitor/package/metadata.desktop:127
-#, fuzzy
 msgctxt "Keywords"
 msgid "Power Management;Battery;System;Energy;"
-msgstr "വൈദ്യുതി നടത്തിപ്പു്"
+msgstr "ഊർജ്ജനിയന്ത്രണം;ബാറ്ററി;സിസ്റ്റം;ഊ‍ർജ്ജം"
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/calendar/package/metadata.desktop:2
@@ -109,10 +109,9 @@ msgstr "ക്ലിപ് ബോര്‍ഡ് ചരിത്രം പരി
 
 #. +> trunk5 stable5
 #: applets/devicenotifier/package/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Disks & Devices"
-msgstr "ഉപകരണങ്ങള്‍"
+msgstr "ഡിസ്കുകളും ഉപകരണങ്ങളും"
 
 #. +> plasma5lts
 #: applets/devicenotifier/package/metadata.desktop:2
@@ -122,10 +121,9 @@ msgstr "പുതിയ ഡിവൈസ് അറിയിക്കുന്ന�
 
 #. +> trunk5 stable5
 #: applets/devicenotifier/package/metadata.desktop:35
-#, fuzzy
 msgctxt "Comment"
 msgid "Notifications and access for devices"
-msgstr "പുതിയ ഉപകരണങ്ങളുടെ അറിയിപ്പുകളും അനുമതികളും"
+msgstr "ഉപകരണങ്ങളുടെ അറിയിപ്പുകളും അനുമതികളും"
 
 #. +> plasma5lts
 #: applets/devicenotifier/package/metadata.desktop:78
@@ -179,7 +177,7 @@ msgstr "സ്ക്രീന്‍ പൂട്ടുക അല്ലെങ്�
 #: applets/lock_logout/metadata.desktop:159
 msgctxt "Keywords"
 msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
-msgstr ""
+msgstr "പൂട്ടുക;പുറത്തിറങ്ങുക;ഉറങ്ങുക;നിഷ്ക്രിയമാക്കുക;ഉപയോക്താവിനെ മാറ്റുക;"
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/mediacontroller/metadata.desktop:2
@@ -221,23 +219,23 @@ msgstr "പാനലിലെ ഒഴിഞ്ഞ ഇടങ്ങള്‍ കര
 #: applets/systemmonitor/coreusage/metadata.desktop:2
 msgctxt "Name"
 msgid "Individual Core Usage"
-msgstr ""
+msgstr "വ്യക്തിഗത കോർ ഉപയോഗം"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/coreusage/metadata.desktop:34
 msgctxt "Comment"
 msgid "System monitor Widget that shows usage of individual CPU cores"
 msgstr ""
+"വ്യക്തിഗത സിപിയു കോറുകളുടെ ഉപയോഗം കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/cpu/metadata.desktop:2
 msgctxt "Name"
 msgid "Total CPU Use"
-msgstr ""
+msgstr "ആകെ സിപിയു ഉപയോഗം"
 
 #. +> plasma5lts
 #: applets/systemmonitor/cpu/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "CPU Load Monitor"
 msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
@@ -246,27 +244,25 @@ msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
 #: applets/systemmonitor/cpu/metadata.desktop:35
 msgctxt "Comment"
 msgid "System monitor Widget that shows the total CPU usage"
-msgstr ""
+msgstr "ആകെ സിപിയു കോറുകളുടെ ഉപയോഗം കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
 
 #. +> plasma5lts
 #: applets/systemmonitor/cpu/metadata.desktop:48
 msgctxt "Comment"
 msgid "Monitor the load of the CPUs"
-msgstr ""
+msgstr "സിപിയുകളുടെ ലോഡ് നിരീക്ഷിക്കുക"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/diskactivity/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Hard Disk Activity"
-msgstr "ഹാര്‍ഡ് ഡിസ്ക്  ഐ/ഒ നിരീക്ഷണോപാധി"
+msgstr "ഹാർഡ് ഡിസ്ക് പ്രവർത്തനം"
 
 #. +> plasma5lts
 #: applets/systemmonitor/diskactivity/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Hard Disk I/O Monitor"
-msgstr "ഹാര്‍ഡ് ഡിസ്ക് ഉപയോഗം നിരീക്ഷകന്‍"
+msgstr "ഹാര്‍ഡ് ഡിസ്ക് I/O നിരീക്ഷകൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/systemmonitor/diskactivity/metadata.desktop:36
@@ -276,49 +272,45 @@ msgstr "ഹാര്‍ഡ് ഡിസ്ക് പ്രവര്‍ത്ത�
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/diskusage/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Disk Usage"
-msgstr "ഹാര്‍ഡ് ഡിസ്ക് ഉപയോഗം"
+msgstr "ഡ‍ിസ്ക് ഉപയോഗം"
 
 #. +> plasma5lts
 #: applets/systemmonitor/diskusage/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Hard Disk Space Usage"
-msgstr "സ്ഥിതിയുണ്ട്"
+msgstr "ഹാർഡ് ഡിസ്ക് ഇടം ഉപയോഗം"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/diskusage/metadata.desktop:36
 msgctxt "Comment"
 msgid "System monitor Widget that shows the usage of the root partition"
-msgstr ""
+msgstr "റൂട്ട് പാർട്ടിഷന്റെ ഉപയോഗം കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
 
 #. +> plasma5lts
 #: applets/systemmonitor/diskusage/metadata.desktop:54
 msgctxt "Comment"
 msgid "An applet that monitors hard disk space usage and percentage"
-msgstr ""
+msgstr "ഹാർഡ് ഡിസ്ക് സ്ഥല ഉപയോഗവും ശതമാനവും നിരീക്ഷിക്കുന്ന ഒരു ആപ്‍ലെറ്റ്"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/memory/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Memory Usage"
-msgstr "മെമ്മറി സ്ഥിതിവിവരം"
+msgstr "മെമ്മറി ഉപയോഗം"
 
 #. +> plasma5lts
 #: applets/systemmonitor/memory/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Memory Status"
-msgstr "സാംബാ സ്ഥിതിവിവരം"
+msgstr "മെമ്മറി സ്ഥിതിവിവരം"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/memory/metadata.desktop:37
 msgctxt "Comment"
 msgid "System monitor Widget that shows physical memory usage"
-msgstr ""
+msgstr "ഭൗതിക മെമ്മറി ഉപയോഗം കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
 
 #. +> plasma5lts
 #: applets/systemmonitor/memory/metadata.desktop:65
@@ -328,23 +320,22 @@ msgstr "റാം ഉപയോഗ നിരീക്ഷകന്‍"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/net/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Network speed"
-msgstr "ശൃംഖല"
+msgstr "നെറ്റ്‍വർക്ക് വേഗത"
 
 #. +> plasma5lts
 #: applets/systemmonitor/net/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Network Monitor"
-msgstr "നെറ്റ്‌വര്‍ക്ക് ക്രമീകരിക്കുന്നതിനുളള ഉപകരണം"
+msgstr "നെറ്റ്‍വര്‍ക്ക് നിരീക്ഷകൻ"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/net/metadata.desktop:36
 msgctxt "Comment"
 msgid "System monitor Widget that shows the download and upload data rate"
 msgstr ""
+"ഡൗൺലോഡ്, അപ്‍ലോഡ് ഡാറ്റാ നിരക്ക് കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
 
 #. +> plasma5lts
 #: applets/systemmonitor/net/metadata.desktop:65
@@ -354,16 +345,16 @@ msgstr " ശ്രംഖല ഉപയോഗം നിരീക്ഷകന്‍
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/systemmonitor/package/metadata.desktop:3
-#, fuzzy
 msgctxt "Name"
 msgid "System monitor Sensor"
-msgstr "സിസ്റ്റം നിരീക്ഷകന്‍"
+msgstr "സിസ്റ്റം നിരീക്ഷക സെൻസർ"
 
 #. +> trunk5 stable5
 #: applets/systemmonitor/systemmonitor/package/metadata.desktop:36
 msgctxt "Comment"
 msgid "Displays a configurable chart of a system monitor sensor"
 msgstr ""
+"സിസ്റ്റം നിരീക്ഷക സെൻസറിന്റെ ക്രമീകരിക്കാവുന്ന ചാർട്ട് പ്രദർശിപ്പിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/systemtray/container/package/metadata.desktop:2
@@ -380,10 +371,9 @@ msgstr "സിസ്റ്റം ട്രേയില്‍ മിനിമൈ�
 
 #. +> trunk5 stable5 plasma5lts
 #: appmenu/appmenu.desktop:3
-#, fuzzy
 msgctxt "Name"
 msgid "Application menus daemon"
-msgstr "പ്രയോഗ സഹായകഗ്രന്ഥങ്ങള്‍"
+msgstr "ആപ്ലിക്കേഷൻ മെനു ഡീമൺ"
 
 #. +> trunk5 stable5 plasma5lts
 #: appmenu/appmenu.desktop:55
@@ -519,10 +509,9 @@ msgstr "ഡിവൈസിനെപറ്റിയുള്ള അറിയി�
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:67
-#, fuzzy
 msgctxt "Comment"
 msgid "Passive device notifications for the user."
-msgstr "ഉപയോക്താവിനുള്ള നടപടി വേണ്ടാത്ത ദൃശ്യ സൂചനകള്‍"
+msgstr "ഉപയോക്താവിനായുള്ള നിഷ്ക്രിയ ഉപകരണ അറിയിപ്പുകൾ."
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/dict/plasma-dataengine-dict.desktop:2
@@ -656,13 +645,13 @@ msgstr "മൌസിന്റെ സ്ഥാനവും ചൂണ്ടിയ�
 #: dataengines/mpris2/plasma-dataengine-mpris2.desktop:2
 msgctxt "Name"
 msgid "MPRIS2"
-msgstr ""
+msgstr "MPRIS2"
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/mpris2/plasma-dataengine-mpris2.desktop:55
 msgctxt "Comment"
 msgid "Provides information from and control over media players via MPRIS2"
-msgstr ""
+msgstr "MPRIS2 വഴി മീഡിയ പ്ലെയറുകളിൽ നിന്നുള്ള വിവരങ്ങളും നിയന്ത്രണവും നൽകുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/notifications/plasma-dataengine-notifications.desktop:2
@@ -680,14 +669,13 @@ msgstr "ഉപയോക്താവിനുള്ള നടപടി വേണ�
 #: dataengines/packagekit/plasma-dataengine-packagekit.desktop:2
 msgctxt "Name"
 msgid "PackageKit"
-msgstr ""
+msgstr "പാക്കേജ്കിറ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/packagekit/plasma-dataengine-packagekit.desktop:53
-#, fuzzy
 msgctxt "Comment"
 msgid "PackageKit Data Engine"
-msgstr "ജാവാസ്ക്രിപ്റ്റ് ഡാറ്റാഎഞ്ചിന്‍"
+msgstr "പാക്കേജ്കിറ്റ് ഡാറ്റാ എഞ്ചിന്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/places/plasma-dataengine-places.desktop:2
@@ -728,21 +716,19 @@ msgstr "സോളിഡ് നല്‍കുന്ന ഉപകരണങ്ങ�
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Status Notifier Information"
-msgstr "സിസ്റ്റത്തിലെ പ്രൊസസ്സ് വിവരങ്ങള്‍"
+msgstr "സ്ഥിതിവിവര അറിയിപ്പിന്റെ വിവരങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:63
-#, fuzzy
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
 "protocol."
 msgstr ""
-"ഡി-ബസ് അടിസ്ഥാനമാക്കിയുള്ള അവസ്ഥ അറിയിയ്ക്കുന്നതിനുള്ള കീഴ്‌വഴക്കം ഉപയോഗിയ്ക്കാന്‍ ആവശ്യപ്പെടുന്ന "
-"പ്രയോഗങ്ങളെ നിരീക്ഷിക്കുക."
+"സ്ഥിതിവിവര നോട്ടിഫയർ പ്രോട്ടോക്കോൾ അടിസ്ഥാനമാക്കി അപ്ലിക്കേഷനുകളുടെ സ്ഥിതിവി"
+"വര വിവരങ്ങൾക്കായുള്ള യന്ത്രം."
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/systemmonitor/plasma-dataengine-systemmonitor.desktop:2
@@ -771,16 +757,15 @@ msgstr "തീയതിയും സമയവും സമയമേഖലയന�
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "BBC Weather"
-msgstr "കാലാവസ്ഥ "
+msgstr "ബിബിസി കാലാവസ്ഥ"
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:40
 msgctxt "Comment"
 msgid "XML Data from the British Broadcasting Corporation"
-msgstr ""
+msgstr "ബ്രിട്ടീഷ് ബ്രോഡ്കാസ്റ്റിംഗ് കോർപ്പറേഷനിൽ നിന്നുള്ള XML ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/weather/ions/envcan/ion-envcan.desktop:2
@@ -840,7 +825,7 @@ msgstr "ലഭ്യമായ സ്ഥലം അറിയിക്കുന്�
 #: freespacenotifier/freespacenotifier.desktop:71
 msgctxt "Comment"
 msgid "Warns when running out of space on your home folder"
-msgstr ""
+msgstr "നിങ്ങളുടെ ഹോം ഫോൾഡറിൽ ഇടം തീരുമ്പോൾ മുന്നറിയിപ്പ് നൽകുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: freespacenotifier/freespacenotifier.notifyrc:3
@@ -870,47 +855,46 @@ msgstr "താക്കീത് അറിയിപ്പുകള്‍ക്�
 #: freespacenotifier/freespacenotifier.notifyrc:295
 msgctxt "Name"
 msgid "Running low on disk space"
-msgstr ""
+msgstr "ഡിസ്ക് കുറഞ്ഞ ഇടത്തിൽ പ്രവർത്തിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: freespacenotifier/freespacenotifier.notifyrc:359
 msgctxt "Comment"
 msgid "You are running low on disk space"
-msgstr ""
+msgstr "നിങ്ങൾ ഡിസ്ക് ഇടം കുറഞ്ഞ സ്ഥലത്താണ് പ്രവർത്തിക്കുന്നത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: gmenu-dbusmenu-proxy/gmenudbusmenuproxy.desktop:3
 msgctxt "Name"
 msgid "GMenuDBusMenuProxy"
-msgstr ""
+msgstr "ജിമെനുഡിബസ്‍മെനുപ്രോക്സി"
 
 #. +> trunk5 stable5
 #: kcms/colors/colorschemes.knsrc:2
 msgctxt "Name"
 msgid "Color Schemes"
-msgstr ""
+msgstr "നിറക്കൂട്ടുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:2
 msgctxt "GenericName"
 msgid "Color scheme editor"
-msgstr ""
+msgstr "നിറക്കൂട്ട് എഡിറ്റർ"
 
 #. +> trunk5 stable5
 #: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:34
 msgctxt "Name"
 msgid "KColorSchemeEditor"
-msgstr ""
+msgstr "കെകളർസ്‌കീംഎഡിറ്റർ"
 
 #. +> trunk5 stable5
 #: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:67
 msgctxt "Comment"
 msgid "Plasma color scheme editor"
-msgstr ""
+msgstr "പ്ലാസ്മ നിറക്കൂട്ടു് എഡിറ്റർ"
 
 #. +> trunk5 stable5
 #: kcms/colors/kcm_colors.desktop:13 kcms/colors/package/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Colors"
 msgstr "നിറങ്ങള്‍"
@@ -919,7 +903,7 @@ msgstr "നിറങ്ങള്‍"
 #: kcms/colors/kcm_colors.desktop:48 kcms/colors/package/metadata.desktop:36
 msgctxt "Comment"
 msgid "Choose color scheme"
-msgstr ""
+msgstr "നിറക്കൂട്ടു് തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
 #: kcms/colors/kcm_colors.desktop:82
@@ -928,6 +912,8 @@ msgid ""
 "colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
 "theme"
 msgstr ""
+"നിറങ്ങൾ, വർണ്ണങ്ങൾ, സ്കീം, ദൃശ്യതീവ്രത, വിഡ്ജറ്റ് നിറങ്ങൾ, നിറക്കൂട്ടു്, വർണ്"
+"ണ ശൈലി, വർണ്ണ തീം"
 
 #. +> trunk5 stable5
 #: kcms/cursortheme/kcm_cursortheme.desktop:12
@@ -935,14 +921,14 @@ msgstr ""
 #: kcms/cursortheme/xcursor/xcursor.knsrc:2
 msgctxt "Name"
 msgid "Cursors"
-msgstr ""
+msgstr "ചൂണ്ടുവിരലുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/cursortheme/kcm_cursortheme.desktop:47
 #: kcms/cursortheme/package/metadata.desktop:36
 msgctxt "Comment"
 msgid "Choose mouse cursor theme"
-msgstr ""
+msgstr "മൗസ് ചൂണ്ടുവിരൽ തീം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
 #: kcms/cursortheme/kcm_cursortheme.desktop:81
@@ -951,57 +937,57 @@ msgid ""
 "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
 "Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
 msgstr ""
+"മൗസ്,ചൂണ്ടുവിരല്‍,തീം, ചൂണ്ടുവിരല്‍ ബാഹ്യരൂപം,ചൂണ്ടുവിരല്‍ നിറം, ചൂണ്ടുവിരല്‍"
+" തീം, മൗസ് തീം, മൗസ് ബാഹ്യരൂപം മൗസ് തൊലികൾ, പോയിന്റർ നിറങ്ങൾ, പോയിന്റർ രൂപം"
 
 #. +> trunk5 stable5
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:12
 #: kcms/desktoptheme/package/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Plasma Style"
-msgstr "പ്ലാസ്മ പണിയിട ആവരണം"
+msgstr "പ്ലാസ്മ ശൈലി"
 
 #. +> trunk5 stable5
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:46
 msgctxt "Comment"
 msgid "Choose Plasma style"
-msgstr ""
+msgstr "പ്ലാസ്മ ശൈലി തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
 #: kcms/desktoptheme/kcm_desktoptheme.desktop:78
 msgctxt "X-KDE-Keywords"
 msgid "Desktop Theme,Plasma Theme"
-msgstr ""
+msgstr "ഡെസ്ക്ടോപ്പ് തീം,പ്ലാസ്മ തീം"
 
 #. +> trunk5 stable5
 #: kcms/desktoptheme/package/metadata.desktop:36
 msgctxt "Comment"
 msgid "Choose Plasma theme"
-msgstr ""
+msgstr "പ്ലാസ്മ തീം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
 #: kcms/desktoptheme/plasma-themes.knsrc:2
-#, fuzzy
 msgctxt "Name"
 msgid "Plasma Styles"
-msgstr "പ്ലാസ്മ വിഡ്ജെറ്റുകള്‍"
+msgstr "പ്ലാസ്മ ശൈലികൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/feedback/kcm_feedback.desktop:12
 msgctxt "Name"
 msgid "User Feedback"
-msgstr ""
+msgstr "ഉപയോക്തൃ അഭിപ്രായം"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/feedback/kcm_feedback.desktop:50
 msgctxt "Comment"
 msgid "Configure user feedback settings"
-msgstr ""
+msgstr "ഉപയോക്തൃ അഭിപ്രായ സജ്ജീകരണങ്ങൾ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/feedback/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Feedback"
-msgstr ""
+msgstr "അഭിപ്രായം"
 
 #. +> trunk5 stable5
 #: kcms/fonts/kcm_fonts.desktop:13 kcms/fonts/package/metadata.desktop:2
@@ -1009,13 +995,13 @@ msgstr ""
 #: kcms/kfontinst/kio/fonts.desktop:5
 msgctxt "Name"
 msgid "Fonts"
-msgstr ""
+msgstr "അക്ഷരസഞ്ചയങ്ങൾ"
 
 #. +> trunk5 stable5
 #: kcms/fonts/kcm_fonts.desktop:47 kcms/fonts/package/metadata.desktop:36
 msgctxt "Comment"
 msgid "Configure user interface fonts"
-msgstr ""
+msgstr "സമ്പര്‍ക്ക മുഖ അക്ഷരസഞ്ചയങ്ങൾ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5
 #: kcms/fonts/kcm_fonts.desktop:80
@@ -1025,20 +1011,23 @@ msgid ""
 "FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
 "toolbar fonts,character,general fonts"
 msgstr ""
+"അക്ഷരസഞ്ചയങ്ങൾ,അക്ഷരവലുപ്പം,ശൈലികൾ,പ്രതീകങ്ങൾ,പ്രതീക സെറ്റുകൾ,പാളി,ക്രമീകരണ "
+"പാളി,ഡെസ്ക്ടോപ്പുകൾ,ഫയൽമാനേജർ,ഉപകരണപ്പട്ടകൾ,മെനു,ജാലക "
+"തലക്കെട്ട്,തലക്കെട്ട്,ഡിപിഐ,ആന്റി-അലിയാസിംഗ്,ഡെസ്ക് അക്ഷരസഞ്ചയങ്ങൾ,ഉപകരണപ്പട്"
+"ട അക്ഷരസഞ്ചയങ്ങൾ,പ്രതീകം,പൊതു ഫോണ്ടുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/icons/icons.knsrc:2 kcms/icons/kcm_icons.desktop:13
 #: kcms/icons/package/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Icons"
-msgstr "ഐകണ്‍"
+msgstr "ചിഹ്നങ്ങൾ"
 
 #. +> trunk5 stable5
 #: kcms/icons/kcm_icons.desktop:48 kcms/icons/package/metadata.desktop:36
 msgctxt "Comment"
 msgid "Choose icon theme"
-msgstr ""
+msgstr "ചിഹന തീം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
 #: kcms/icons/kcm_icons.desktop:81
