@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-13 10:16+0100\n"
-"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"PO-Revision-Date: 2021-03-08 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -26,6 +26,8 @@ msgid ""
 "Calculates the value of :q: when :q: is made up of numbers and mathematical "
 "symbols such as +, -, /, *, ! and ^."
 msgstr ""
+":q: സംഖ്യകളുടെയും +, -, /, *, !, ^ പോലെയുള്ള ഗണിതചിഹ്നങ്ങളുടെയും ഒപ്പം "
+"ചേർത്ത് എഴുതുമ്പോൾ :q: വിന്റെ മൂല്യം കണക്കാക്കുന്നു."
 
 #. +> stable5 plasma5lts
 #: calculatorrunner.cpp:54
@@ -34,6 +36,8 @@ msgid ""
 "Calculates the value of :q: when :q: is made up of numbers and mathematical "
 "symbols such as +, -, /, * and ^."
 msgstr ""
+":q: സംഖ്യകളുടെയും +, -, /, *, ^ പോലെയുള്ള ഗണിതചിഹ്നങ്ങളുടെയും ഒപ്പം ചേർത്ത് "
+"എഴുതുമ്പോൾ :q: വിന്റെ മൂല്യം കണക്കാക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
 #: calculatorrunner.cpp:57
