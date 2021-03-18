@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-30 11:37+0100\n"
-"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"PO-Revision-Date: 2021-03-19 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
@@ -145,7 +145,7 @@ msgstr "അവസ്ഥയും അറിയിപ്പുകളും"
 #: package/contents/ui/ExpandedRepresentation.qml:148
 #, kde-format
 msgid "More actions"
-msgstr ""
+msgstr "കൂടുതൽ നടപടികൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/ExpandedRepresentation.qml:185
@@ -167,12 +167,12 @@ msgstr "മറച്ചിരിക്കുന്ന ചിഹ്നങ്ങ�
 
 #. +> trunk5
 #: systemtraymodel.cpp:139
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "Suffix added to the applet name if the applet is autoloaded via DBus "
 "activation"
 msgid "%1 (Automatic load)"
-msgstr "(താനേ ലോഡ് ചെയ്യുക)"
+msgstr "%1 (താനേ ലോഡ് ചെയ്യുക)"
 
 #. +> stable5 plasma5lts
 #: systemtraymodel.cpp:158 systemtraymodel.cpp:196
