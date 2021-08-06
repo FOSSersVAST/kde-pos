@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-30 11:37+0100\n"
-"PO-Revision-Date: 2019-12-14 11:58+0530\n"
-"Last-Translator: Govind V Shenoy <govindvshenoy@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2021-03-19 13:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5
 #: package/contents/config/config.qml:26
@@ -83,44 +84,44 @@ msgstr "കാണാവുന്ന"
 #: package/contents/ui/ConfigEntries.qml:98
 #, kde-format
 msgid "Keyboard Shortcut"
-msgstr "കീബോർഡ്  കുറുക്കുവഴി"
+msgstr "കീബോർഡ് കുറുക്കുവഴി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/ConfigEntries.qml:232
 #, kde-format
 msgid "Shown when relevant"
-msgstr ""
+msgstr "പ്രസക്തമാകുമ്പോൾ കാണിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/ConfigEntries.qml:233
-#, fuzzy, kde-format
+#, kde-format
 msgid "Always shown"
-msgstr "എപ്പോഴും എല്ലാ ഇനങ്ങളും കാണിക്കുക"
+msgstr "എപ്പോഴും കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/ConfigEntries.qml:234
 #, kde-format
 msgid "Always hidden"
-msgstr ""
+msgstr "എപ്പോഴും മറയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/ConfigEntries.qml:235
 #, kde-format
 msgid "Disabled"
-msgstr ""
+msgstr "അപ്രാപ്തമാക്കി"
 
 #. +> trunk5 stable5
 #: package/contents/ui/ConfigGeneral.qml:36
 #, kde-format
 msgctxt "The arrangement of system tray icons in the Panel"
 msgid "Panel icon size:"
-msgstr ""
+msgstr "പാളി ചിഹ്ന വലിപ്പം:"
 
 #. +> trunk5 stable5
 #: package/contents/ui/ConfigGeneral.qml:37
 #, kde-format
 msgid "Small"
-msgstr ""
+msgstr "ചെറുത്"
 
 #. +> trunk5 stable5
 #: package/contents/ui/ConfigGeneral.qml:43
@@ -144,7 +145,7 @@ msgstr "അവസ്ഥയും അറിയിപ്പുകളും"
 #: package/contents/ui/ExpandedRepresentation.qml:148
 #, kde-format
 msgid "More actions"
-msgstr ""
+msgstr "കൂടുതൽ നടപടികൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/ExpandedRepresentation.qml:185
@@ -166,12 +167,12 @@ msgstr "മറച്ചിരിക്കുന്ന ചിഹ്നങ്ങ�
 
 #. +> trunk5
 #: systemtraymodel.cpp:139
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "Suffix added to the applet name if the applet is autoloaded via DBus "
 "activation"
 msgid "%1 (Automatic load)"
-msgstr "(താനേ ലോഡ് ചെയ്യുക)"
+msgstr "%1 (താനേ ലോഡ് ചെയ്യുക)"
 
 #. +> stable5 plasma5lts
 #: systemtraymodel.cpp:158 systemtraymodel.cpp:196

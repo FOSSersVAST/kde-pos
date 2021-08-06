@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-01 10:14+0200\n"
-"PO-Revision-Date: 2018-08-16 09:16+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2021-02-28 13:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: menu.cpp:108
@@ -30,7 +31,7 @@ msgstr "KRunner കാണിക്കുക"
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Lock Screen"
-msgstr "സ്ക്രീന് പൂട്ടുക"
+msgstr "സ്ക്രീൻ പൂട്ടുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: menu.cpp:123
@@ -44,25 +45,25 @@ msgstr "ഉപേക്ഷിക്കുക..."
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Configure Contextual Menu Plugin"
-msgstr ""
+msgstr "സന്ദർഭോചിത വിഭവസൂചിക പ്ലഗിൻ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: menu.cpp:258
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "[Other Actions]"
-msgstr ""
+msgstr "[മറ്റു നടപടികൾ]"
 
 #. +> trunk5 stable5 plasma5lts
 #: menu.cpp:261
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Wallpaper Actions"
-msgstr ""
+msgstr "പശ്ചാത്തലചിത്ര നടപടികൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: menu.cpp:265
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "[Separator]"
-msgstr ""
+msgstr "[സെപ്പറേറ്റർ]"

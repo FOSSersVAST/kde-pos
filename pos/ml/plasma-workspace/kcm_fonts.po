@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-31 12:59+0100\n"
-"PO-Revision-Date: 2021-01-05 19:56+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "ഷിജു അലക്സ്,ശങ്കരനാരായണന്‍ എന്‍ എം"
+msgstr "ഷിജു അലക്സ്, ശങ്കരനാരായണന്‍ എന്‍ എം"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
@@ -36,13 +36,13 @@ msgstr "shijualexonline@gmail.com,snalledam@dataone.in"
 #: fonts.cpp:67
 #, kde-format
 msgid "Fonts"
-msgstr ""
+msgstr "അക്ഷരസഞ്ചയങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: fonts.cpp:69
 #, kde-format
 msgid "Antonis Tsiapaliokas"
-msgstr ""
+msgstr "ആന്റോണിസ് സിയപലിയോകാസ്"
 
 #. i18n: ectx: label, entry (forceFontDPI), group (General)
 #. +> trunk5
@@ -98,7 +98,7 @@ msgstr "ഉപകരണപട്ട"
 #: fontssettings.kcfg:57
 #, kde-format
 msgid "Menu font"
-msgstr ""
+msgstr "മെനു അക്ഷരസഞ്ചയം"
 
 #. i18n: ectx: label, entry (activeFont), group (WM)
 #. +> trunk5 stable5
@@ -185,13 +185,13 @@ msgstr "പൂര്‍ണ്ണം"
 #, kde-format
 msgctxt "@action:button"
 msgid "Show Contextual Help"
-msgstr ""
+msgstr "സന്ദർഭോചിത സഹായം കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:33
 #, kde-format
 msgid "This module lets you configure the system fonts."
-msgstr ""
+msgstr "സിസ്റ്റം അക്ഷരസഞ്ചയങ്ങൾ ക്രമീകരിക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
 
 #. +> trunk5 stable5
 #: package/contents/ui/main.qml:38
@@ -369,10 +369,10 @@ msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:318
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Used as a noun, and precedes a combobox full of options"
 msgid "Hinting:"
-msgstr "ഹിന്റിങ് രീതി: "
+msgstr "ഹിന്റിങ് രീതി:"
 
 #. +> trunk5 stable5
 #: package/contents/ui/main.qml:359

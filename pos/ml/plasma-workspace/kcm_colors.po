@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-23 12:50+0100\n"
-"PO-Revision-Date: 2021-01-05 19:56+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -41,68 +41,69 @@ msgstr "നിറങ്ങള്‍"
 #: colors.cpp:77
 #, kde-format
 msgid "Kai Uwe Broulik"
-msgstr ""
+msgstr "കൈ ഉവെ ബ്രൗളിക്"
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:171
 #, kde-format
 msgid "Unable to create a temporary file."
-msgstr ""
+msgstr "ഒരു താൽക്കാലിക ഫയൽ നിർമ്മിക്കാനായില്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:185
 #, kde-format
 msgid "Unable to download the color scheme: %1"
-msgstr "നിറങ്ങളെ ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ കഴിഞില്ല: %1"
+msgstr "നിറക്കൂട്ടു് ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ കഴിഞില്ല: %1"
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:203
-#, fuzzy, kde-format
+#, kde-format
 msgid "This file is not a color scheme file."
-msgstr "ഒരു ഫയലില്‍ നിന്നും നിറക്കൂട്ടു് എടുക്കുക"
+msgstr "ഈ ഫയൽ ഒരു നിറക്കൂട്ടു് ഫയലല്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:223
 #, kde-format
 msgid "Failed to create 'color-scheme' data folder."
-msgstr ""
+msgstr "'color-scheme' ഡാറ്റ അറ സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു."
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:230
 #, kde-format
 msgid "Failed to copy color scheme into 'color-scheme' data folder."
 msgstr ""
+"നിറക്കൂട്ടു് 'color-scheme' ഡാറ്റ ഫോൾഡറിലേക്ക് പകർത്തുന്നതിൽ പരാജയപ്പെട്ടു."
 
 #. +> trunk5 stable5 plasma5lts
 #: colors.cpp:247
 #, kde-format
 msgid "Color scheme installed successfully."
-msgstr ""
+msgstr "നിറക്കൂട്ടു് വിജയകരമായി ഇൻസ്റ്റാൾ ചെയ്തു."
 
 #. i18n: ectx: label, entry (colorScheme), group (General)
 #. +> trunk5 stable5
 #: colorssettings.kcfg:9
-#, fuzzy, kde-format
+#, kde-format
 msgid "Color scheme name"
-msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
+msgstr "നിറക്കൂട്ടിന്റെ പേര്"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:37
-#, fuzzy, kde-format
+#, kde-format
 msgid "KColorSchemeEditor"
-msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
+msgstr "കെകളർസ്‌കീംഎഡിറ്റർ"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:39
-#, fuzzy, kde-format
+#, kde-format
 msgid "Utility to edit and create color schemes"
-msgstr "നിലവിലുള്ള നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
+msgstr "നിറക്കൂട്ടുകൾ എഡിറ്റു ചെയ്യാനും സൃഷ്ടിക്കാനുമുള്ള ഉപകരണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:42
 #, kde-format
 msgid "Olivier Churlaud"
-msgstr ""
+msgstr "ഒലിവിയർ ചുർലൗഡ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:42
@@ -114,7 +115,7 @@ msgstr ""
 #: editor/kcolorschemeeditor.cpp:44
 #, kde-format
 msgid "Jeremy Whiting"
-msgstr "ജെറേമീ വൈറ്റിങ്"
+msgstr "ജെറേമി വൈറ്റിങ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:44 editor/kcolorschemeeditor.cpp:46
@@ -132,7 +133,7 @@ msgstr "മാത്യൂ വോല്‍ക്കെ"
 #: editor/kcolorschemeeditor.cpp:51
 #, kde-format
 msgid "Scheme to edit or to use as a base."
-msgstr ""
+msgstr "എഡിറ്റു ചെയ്യുന്നതിനോ അടിസ്ഥാനമായി ഉപയോഗിക്കുന്നതിനോ ഉള്ള പദ്ധതി."
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:54
@@ -153,36 +154,36 @@ msgstr ""
 #: editor/kcolorschemeeditor.cpp:75
 #, kde-format
 msgid "Scheme not found, falling back to current one.\n"
-msgstr ""
+msgstr "സ്കീം കണ്ടെത്തിയില്ല, നിലവിലുള്ളതിലേക്ക് മടങ്ങുന്നു.\n"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, label)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:29
-#, fuzzy, kde-format
+#, kde-format
 msgid "Window text on Window Background"
-msgstr "ജാലകത്തിന്റെ പശ്ചാത്തലം"
+msgstr "ജാലക പശ്ചാത്തലത്തിലുള്ള ജാലക വാചകം"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QLabel, label)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:32
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "Window text"
-msgstr "ജാലകത്തിനുള്ള പദാവലി"
+msgstr "ജാലക വാചകം"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, pushButton)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:39
-#, fuzzy, kde-format
+#, kde-format
 msgid "Button text on Button Background"
-msgstr "ബട്ടണിന്റെ പശ്ചാത്തലം"
+msgstr "ബട്ടൺ പശ്ചാത്തലത്തിലെ ബട്ടൺ വാചകം"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QPushButton, pushButton)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:42
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "Push Button"
 msgstr "പുഷ് ബട്ടണ്‍"
@@ -190,15 +191,15 @@ msgstr "പുഷ് ബട്ടണ്‍"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection0)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:123
-#, fuzzy, kde-format
+#, kde-format
 msgid "Selection Normal Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QLabel, labelSelection0)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:126
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "Selected text"
 msgstr "തെരഞ്ഞെടുത്ത പദാവലി"
@@ -206,9 +207,9 @@ msgstr "തെരഞ്ഞെടുത്ത പദാവലി"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection3)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:138
-#, fuzzy, kde-format
+#, kde-format
 msgid "Selection Link Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -216,7 +217,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelView3)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:141 editor/preview.ui:265
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "link"
 msgstr "കണ്ണി"
@@ -224,9 +225,9 @@ msgstr "കണ്ണി"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection4)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:153
-#, fuzzy, kde-format
+#, kde-format
 msgid "Selection Visited Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -234,7 +235,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelView4)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:156 editor/preview.ui:280
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "visited"
 msgstr "സന്ദര്‍ശിച്ചതു്"
@@ -242,9 +243,9 @@ msgstr "സന്ദര്‍ശിച്ചതു്"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection2)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:163
-#, fuzzy, kde-format
+#, kde-format
 msgid "Selection Active Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -252,7 +253,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelView2)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:166 editor/preview.ui:290
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "a"
 msgstr "a"
@@ -260,9 +261,9 @@ msgstr "a"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection1)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:173
-#, fuzzy, kde-format
+#, kde-format
 msgid "Selection Inactive Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -270,7 +271,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelView1)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:176 editor/preview.ui:300
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "i"
 msgstr "i"
@@ -278,9 +279,9 @@ msgstr "i"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection5)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:183
-#, fuzzy, kde-format
+#, kde-format
 msgid "Selection Negative Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -288,7 +289,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelView5)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:186 editor/preview.ui:310
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "!"
 msgstr "!"
@@ -296,9 +297,9 @@ msgstr "!"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection6)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:193
-#, fuzzy, kde-format
+#, kde-format
 msgid "Selection Neutral Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -306,7 +307,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelView6)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:196 editor/preview.ui:320
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "="
 msgstr "="
@@ -314,9 +315,9 @@ msgstr "="
 #. i18n: ectx: property (toolTip), widget (QLabel, labelSelection7)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:203
-#, fuzzy, kde-format
+#, kde-format
 msgid "Selection Positive Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -324,7 +325,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelView7)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:206 editor/preview.ui:330
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "+"
 msgstr "+"
@@ -332,15 +333,15 @@ msgstr "+"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView0)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:247
-#, fuzzy, kde-format
+#, kde-format
 msgid "View Normal Text against View Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QLabel, labelView0)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:250
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-preview"
 msgid "Normal text"
 msgstr "സാധരണ പദാവലി"
@@ -348,51 +349,51 @@ msgstr "സാധരണ പദാവലി"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView3)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:262
-#, fuzzy, kde-format
+#, kde-format
 msgid "View Link Text against View Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView4)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:277
-#, fuzzy, kde-format
+#, kde-format
 msgid "View Visited Text against View Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView2)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:287
-#, fuzzy, kde-format
+#, kde-format
 msgid "View Active Text against View Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView1)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:297
-#, fuzzy, kde-format
+#, kde-format
 msgid "View Inactive Text against View Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView5)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:307
-#, fuzzy, kde-format
+#, kde-format
 msgid "View Negative Text against View Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView6)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:317
-#, fuzzy, kde-format
+#, kde-format
 msgid "View Neutral Text against View Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView7)
 #. +> trunk5 stable5 plasma5lts
 #: editor/preview.ui:327
-#, fuzzy, kde-format
+#, kde-format
 msgid "View Positive Text against View Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.cpp:76 editor/scmeditorcolors.cpp:92
@@ -423,19 +424,19 @@ msgstr "സാധാരണ പദാവലി"
 #: editor/scmeditorcolors.cpp:120 editor/scmeditorcolors.ui:303
 #, kde-format
 msgid "Inactive Text"
-msgstr "സജീവമല്ലാത്ത പദാവലി"
+msgstr "നിര്‍ജ്ജീവ പദാവലി"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.cpp:121 editor/scmeditorcolors.ui:308
 #, kde-format
 msgid "Active Text"
-msgstr "സജീവമായ പദാവലി"
+msgstr "സജീവ പദാവലി"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.cpp:122 editor/scmeditorcolors.ui:313
-#, kde-format
+#, fuzzy, kde-format
 msgid "Link Text"
 msgstr "കണ്ണിയായ പദാവലി"
 
@@ -484,7 +485,7 @@ msgstr "മുകളി‍ല്‍ വരുമ്പോഴുള്ള അല�
 #. i18n: ectx: property (text), widget (QLabel, label_7)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:23
-#, fuzzy, kde-format
+#, kde-format
 msgid "Color set:"
 msgstr "നിറക്കൂട്ടം:"
 
@@ -499,7 +500,7 @@ msgstr "കാണേണ്ട/മാറ്റേണ്ട നിറക്കൂ�
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:40
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-sets"
 msgid "Common Colors"
 msgstr "സാധാരണ നിറങ്ങള്‍"
@@ -508,7 +509,7 @@ msgstr "സാധാരണ നിറങ്ങള്‍"
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:45
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-sets"
 msgid "View"
 msgstr "കാഴ്ച"
@@ -517,7 +518,7 @@ msgstr "കാഴ്ച"
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:50
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-sets"
 msgid "Window"
 msgstr "ജാലകം"
@@ -526,7 +527,7 @@ msgstr "ജാലകം"
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:55
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-sets"
 msgid "Button"
 msgstr "ബട്ടണ്‍"
@@ -535,7 +536,7 @@ msgstr "ബട്ടണ്‍"
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:60
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-sets"
 msgid "Selection"
 msgstr "തെരഞ്ഞെടുത്തവ"
@@ -544,7 +545,7 @@ msgstr "തെരഞ്ഞെടുത്തവ"
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:65
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-sets"
 msgid "Tooltip"
 msgstr "സൂചന"
@@ -556,7 +557,7 @@ msgstr "സൂചന"
 #, kde-format
 msgctxt "color-sets"
 msgid "Complementary"
-msgstr ""
+msgstr "പൂരകം"
 
 #. i18n: see plasma-workspace/kcms/colors/README.i18n
 #. i18n: ectx: property (text), item, widget (QComboBox, colorSet)
@@ -565,7 +566,7 @@ msgstr ""
 #, kde-format
 msgctxt "color-sets"
 msgid "Header"
-msgstr ""
+msgstr "തലക്കെട്ട്"
 
 #. i18n: ectx: property (text), widget (QTableWidget, commonColorTable)
 #. +> trunk5 stable5 plasma5lts
@@ -694,9 +695,9 @@ msgstr "സജീവമായ തലകെട്ട് ബാര്‍ പദാ
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:368
-#, fuzzy, kde-format
+#, kde-format
 msgid "Active Titlebar Secondary"
-msgstr "സജീവമായ തലകെട്ട് ബാര്‍ പദാവലി"
+msgstr "ദ്വിതീയ സജീവതലക്കെട്ട് ബാർ"
 
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
 #. +> trunk5 stable5 plasma5lts
@@ -715,9 +716,9 @@ msgstr "സജീവമല്ലാത്ത തലകെട്ട് ബാര�
 #. i18n: ectx: property (text), item, widget (QTableWidget, commonColorTable)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditorcolors.ui:383
-#, fuzzy, kde-format
+#, kde-format
 msgid "Inactive Titlebar Secondary"
-msgstr "സജീവമല്ലാത്ത തലകെട്ട് ബാര്‍ പദാവലി"
+msgstr "സജീവമല്ലാത്ത ദ്വിതീയ തലകെട്ട് ബാര്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.cpp:78
@@ -727,7 +728,7 @@ msgstr "ഐച്ഛികങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.cpp:80
-#, fuzzy, kde-format
+#, kde-format
 msgid "Disabled"
 msgstr "പ്രവര്‍ത്തനരഹിതം"
 
@@ -735,25 +736,26 @@ msgstr "പ്രവര്‍ത്തനരഹിതം"
 #: editor/scmeditordialog.cpp:102
 #, kde-format
 msgid "This colour scheme was not saved. Continue?"
-msgstr ""
+msgstr "ഈ നിറക്കൂട്ടു് സംരക്ഷിച്ചിട്ടില്ല. തുടരണോ?"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.cpp:103
 #, kde-format
 msgid "Do you really want to upload?"
-msgstr ""
+msgstr "നിങ്ങൾക്ക് ശരിക്കും അപ്‍ലോഡ് ചെയ്യണോ?"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.cpp:136
 #, kde-format
 msgid "You have unsaved changes. Do you really want to quit?"
 msgstr ""
+"നിങ്ങൾക്ക് സംരക്ഷിക്കാത്ത മാറ്റങ്ങളുണ്ട്. നിങ്ങൾക്ക് ശരിക്കും പുറത്തുകടക്കണോ?"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.cpp:137
 #, kde-format
 msgid "Unsaved changes"
-msgstr ""
+msgstr "സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.cpp:156 editor/scmeditordialog.cpp:184
@@ -791,23 +793,23 @@ msgstr "പിശകു്"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.cpp:239
-#, fuzzy, kde-format
+#, kde-format
 msgid "Inactive"
-msgstr "സജീവമല്ലാത്ത"
+msgstr "നിര്‍ജ്ജീവം"
 
 #. i18n: ectx: property (toolTip), widget (QPushButton, schemeKnsUploadButton)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.ui:42
-#, fuzzy, kde-format
+#, kde-format
 msgid "Share the selected scheme on the Internet"
-msgstr "ഇന്റര്‍നെറ്റില്‍ നിന്നും നിറക്കൂട്ടു് ലഭ്യമാക്കുക"
+msgstr "തിരഞ്ഞെടുത്ത നിറക്കൂട്ടു് ഇന്റർനെറ്റിൽ പങ്കിടുക"
 
 #. i18n: ectx: property (text), widget (QPushButton, schemeKnsUploadButton)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditordialog.ui:45
-#, fuzzy, kde-format
+#, kde-format
 msgid "Upload Scheme"
-msgstr "നിറക്കൂട്ടു് എടുക്കുക..."
+msgstr "നിറക്കൂട്ടു് എടുക്കുക"
 
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #. +> trunk5 stable5 plasma5lts
@@ -833,7 +835,7 @@ msgstr "പ്രവര്‍ത്തനരഹിതമായവയുടെ �
 #. i18n: ectx: property (text), item, widget (QComboBox, colorBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:41
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "no disabled color effect"
 msgid "None"
 msgstr "ശൂന്യം"
@@ -841,7 +843,7 @@ msgstr "ശൂന്യം"
 #. i18n: ectx: property (text), item, widget (QComboBox, colorBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:46
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "disabled color effect"
 msgid "Desaturate"
 msgstr "ഡീസാച്ചുറേറ്റ് ചെയ്യുക"
@@ -849,7 +851,7 @@ msgstr "ഡീസാച്ചുറേറ്റ് ചെയ്യുക"
 #. i18n: ectx: property (text), item, widget (QComboBox, colorBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:51
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "disabled color effect"
 msgid "Fade"
 msgstr "മങ്ങുക"
@@ -857,7 +859,7 @@ msgstr "മങ്ങുക"
 #. i18n: ectx: property (text), item, widget (QComboBox, colorBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:56
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "disabled color effect"
 msgid "Tint"
 msgstr "ഇളംനിറം"
@@ -872,7 +874,7 @@ msgstr "പ്രവര്‍ത്തനരഹിതമായവയുടെ �
 #. i18n: ectx: property (text), item, widget (QComboBox, intensityBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:68
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "no disabled intensity effect"
 msgid "None"
 msgstr "ശൂന്യം"
@@ -880,23 +882,23 @@ msgstr "ശൂന്യം"
 #. i18n: ectx: property (text), item, widget (QComboBox, intensityBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:73
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "disabled intensity effect"
 msgid "Shade"
-msgstr "ചുരുക്കുക"
+msgstr "നിഴൽ"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, intensityBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:78
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "disabled intensity effect"
 msgid "Darken"
-msgstr "പ്രകാശം കുറയ്ക്കുക"
+msgstr "ഇരുണ്ടതാക്കുക"
 
 #. i18n: ectx: property (text), item, widget (QComboBox, intensityBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:83
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "disabled intensity effect"
 msgid "Lighten"
 msgstr "പ്രകാശിപ്പിക്കുക"
@@ -939,7 +941,7 @@ msgstr "പ്രവര്‍ത്തനരഹിതമായവയുടെ �
 #. i18n: ectx: property (text), item, widget (QComboBox, contrastBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:185
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "no disabled contrast"
 msgid "None"
 msgstr "ശൂന്യം"
@@ -947,7 +949,7 @@ msgstr "ശൂന്യം"
 #. i18n: ectx: property (text), item, widget (QComboBox, contrastBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:190
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "disabled contrast"
 msgid "Fade"
 msgstr "മങ്ങുക"
@@ -955,7 +957,7 @@ msgstr "മങ്ങുക"
 #. i18n: ectx: property (text), item, widget (QComboBox, contrastBox)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoreffects.ui:195
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "disabled contrast"
 msgid "Tint"
 msgstr "ഇളംനിറം"
@@ -970,7 +972,7 @@ msgstr "പ്രവര്‍ത്തനരഹിതമായവയുടെ �
 #. i18n: ectx: property (text), widget (QCheckBox, useInactiveEffects)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoroptions.ui:17
-#, fuzzy, kde-format
+#, kde-format
 msgid "Apply &effects to inactive windows"
 msgstr "സജീവമല്ലാത്ത ജാലകത്തിനുള്ള നിറ &പ്രഭാവങ്ങള്‍ പ്രയോഗിയ്ക്കുക"
 

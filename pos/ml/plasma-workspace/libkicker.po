@@ -8,21 +8,22 @@ msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-06 12:18+0100\n"
-"PO-Revision-Date: 2019-12-15 00:08+0530\n"
-"Last-Translator: ലക്ഷ്മി സുനില്‍ <lakshmisunil12@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2021-03-08 13:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/actionlist.cpp:97
 #, kde-format
 msgid "Open with:"
-msgstr ""
+msgstr "ഇതിലൂടെ തുറക്കു:"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/actionlist.cpp:109
@@ -38,21 +39,21 @@ msgstr "പണിയിടത്തിലേക്ക് ചേര്‍ക്�
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/actionlist.cpp:161
-#, fuzzy, kde-format
+#, kde-format
 msgid "Add to Panel (Widget)"
-msgstr "പാളിയിലേക്ക് ചേര്‍ക്കുക (ഉരുപ്പടി)"
+msgstr "പാളിയിലേക്ക് ചേര്‍ക്കുക (വിഡ്ജറ്റ്)"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/actionlist.cpp:166
-#, fuzzy, kde-format
+#, kde-format
 msgid "Pin to Task Manager"
-msgstr "ടാസ്ക് മാനേജറിലേക്ക് ചേര്‍ക്കുക"
+msgstr "ടാസ്ക് മാനേജറിലേക്ക് പിൻ ചെയ്യുക"
 
 #. +> trunk5 stable5
 #: plugin/actionlist.cpp:319 plugin/rootmodel.cpp:443
-#, fuzzy, kde-format
+#, kde-format
 msgid "Recent Files"
-msgstr "അടുത്തിടേയുള്ള പ്രമാണങ്ങള്‍"
+msgstr "സമീപകാല ഫയലുകൾ"
 
 #. +> plasma5lts
 #: plugin/actionlist.cpp:271 plugin/rootmodel.cpp:411
@@ -62,9 +63,9 @@ msgstr "അടുത്തിടേയുള്ള പ്രമാണങ്ങ�
 
 #. +> trunk5 stable5
 #: plugin/actionlist.cpp:328
-#, fuzzy, kde-format
+#, kde-format
 msgid "Forget Recent Files"
-msgstr "അടുത്തിടേയുള്ള പ്രമാണങ്ങള്‍ മറക്കുക"
+msgstr "സമീപകാല ഫയലുകൾ മറക്കുക"
 
 #. +> plasma5lts
 #: plugin/actionlist.cpp:280
@@ -83,7 +84,7 @@ msgstr "പ്രയോഗം തിരുത്തുക..."
 #, kde-format
 msgctxt "@action opens a software center with the application"
 msgid "Uninstall or Manage Add-Ons..."
-msgstr ""
+msgstr "ആഡ്-ഓണുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക അല്ലെങ്കിൽ കൈകാര്യം ചെയ്യുക ..."
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/appentry.cpp:197
@@ -117,13 +118,13 @@ msgstr "പ്രയോഗങ്ങള്‍"
 #: plugin/appsmodel.cpp:165
 #, kde-format
 msgid "Unhide Applications in this Submenu"
-msgstr ""
+msgstr "ഈ ഉപമെനുവിലെ അപ്ലിക്കേഷനുകൾ മറയ്ക്കാതിരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/appsmodel.cpp:172
 #, kde-format
 msgid "Unhide Applications in '%1'"
-msgstr ""
+msgstr "'%1' ലെ അപ്ലിക്കേഷനുകൾ മറയ്ക്കാതിരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/computermodel.cpp:104
@@ -133,7 +134,7 @@ msgstr "കെറണ്ണര്‍ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/computermodel.cpp:108
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search, calculate, or run a command"
 msgstr "തിരയുക, കണക്കുകൂട്ടുക അല്ലെങ്കില്‍ ആജ്ഞ നടപ്പിലാക്കുക"
 
@@ -147,7 +148,7 @@ msgstr "കമ്പ്യൂട്ടര്‍"
 #: plugin/contactentry.cpp:117 plugin/recentcontactsmodel.cpp:93
 #, kde-format
 msgid "Show Contact Information..."
-msgstr ""
+msgstr "ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ കാണിക്കുക..."
 
 #. i18n.
 #. +> trunk5 stable5 plasma5lts
@@ -191,7 +192,7 @@ msgstr "അടുത്തിടെ ഉപയോഗിച്ചവ"
 #: plugin/recentusagemodel.cpp:170 plugin/recentusagemodel.cpp:302
 #, kde-format
 msgid "Files"
-msgstr ""
+msgstr "ഫയലുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/recentusagemodel.cpp:245
@@ -203,13 +204,13 @@ msgstr "പ്രയോഗത്തെ മറക്കുക"
 #: plugin/recentusagemodel.cpp:335
 #, kde-format
 msgid "Open Containing Folder"
-msgstr ""
+msgstr "അടങ്ങിയിരിക്കുന്ന അറ തുറക്കുക"
 
 #. +> trunk5 stable5
 #: plugin/recentusagemodel.cpp:338
-#, fuzzy, kde-format
+#, kde-format
 msgid "Forget File"
-msgstr "എല്ലാം മറക്കുക"
+msgstr "ഫയൽ മറക്കുക"
 
 #. +> plasma5lts
 #: plugin/recentusagemodel.cpp:325
@@ -231,9 +232,9 @@ msgstr "എല്ലാ പ്രയോഗങ്ങളും മറക്കു�
 
 #. +> trunk5 stable5
 #: plugin/recentusagemodel.cpp:475
-#, fuzzy, kde-format
+#, kde-format
 msgid "Forget All Files"
-msgstr "എല്ലാം മറക്കുക"
+msgstr "എല്ലാ ഫയലുകളും മറക്കുക"
 
 #. +> plasma5lts
 #: plugin/recentusagemodel.cpp:461
@@ -257,23 +258,23 @@ msgstr "എല്ലാ പ്രയോഗങ്ങളും"
 #: plugin/rootmodel.cpp:425
 #, kde-format
 msgid "This shouldn't be visible! Use KICKER_FAVORITES_MODEL"
-msgstr ""
+msgstr "ഇത് ദൃശ്യമാകില്ല! KICKER_FAVORITES_MODEL ഉപയോഗിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/rootmodel.cpp:435
-#, fuzzy, kde-format
+#, kde-format
 msgid "Recent Contacts"
 msgstr "അടുത്തിടെയുള്ള ബന്ധങ്ങള്‍"
 
 #. +> trunk5 stable5
 #: plugin/rootmodel.cpp:444
-#, fuzzy, kde-format
+#, kde-format
 msgid "Often Used Files"
-msgstr "കൂടെക്കൂടെ ഉപയോഗിച്ച പ്രമാണങ്ങള്‍"
+msgstr "കൂടെക്കൂടെ ഉപയോഗിച്ച ഫയലുകൾ"
 
 #. +> plasma5lts
 #: plugin/rootmodel.cpp:412
-#, fuzzy, kde-format
+#, kde-format
 msgid "Often Used Documents"
 msgstr "കൂടെക്കൂടെ ഉപയോഗിച്ച പ്രമാണങ്ങള്‍"
 
@@ -293,11 +294,11 @@ msgstr "കൂടെക്കൂടെ ഉപയോഗിച്ച പ്രയ�
 #: plugin/rootmodel.cpp:473
 #, kde-format
 msgid "Power / Session"
-msgstr ""
+msgstr "ഊർജ്ജം / സെഷൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/runnermodel.cpp:238
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search results"
 msgstr "തിരച്ചില്‍ ഫലങ്ങള്‍"
 
@@ -321,7 +322,7 @@ msgstr "ഈ സെഷന്‍ സൂക്ഷിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/systementry.cpp:223
-#, fuzzy, kde-format
+#, kde-format
 msgid "Switch User"
 msgstr "ഉപയോക്താവിനെ മാറ്റുക"
 
@@ -360,7 +361,7 @@ msgstr "സെഷന്‍"
 #. +> trunk5 stable5 plasma5lts
 #: plugin/systementry.cpp:260 plugin/systementry.cpp:263
 #: plugin/systementry.cpp:266 plugin/systementry.cpp:269
-#, fuzzy, kde-format
+#, kde-format
 msgid "System"
 msgstr "സംവിധാനം"
 
@@ -402,12 +403,12 @@ msgstr "കമ്പ്യൂട്ടര്‍ പുനരാരംഭിക�
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/systementry.cpp:303
-#, fuzzy, kde-format
+#, kde-format
 msgid "Turn off computer"
 msgstr "കമ്പ്യൂട്ടര്‍ നിര്‍ത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: plugin/systemmodel.cpp:43
-#, fuzzy, kde-format
+#, kde-format
 msgid "System actions"
 msgstr "സംവിധാനത്തിന്റെ നടപടികള്‍"

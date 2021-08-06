@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: plasma_engine_weather\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-22 10:47+0100\n"
-"PO-Revision-Date: 2020-11-30 16:14+0000\n"
+"PO-Revision-Date: 2021-03-08 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.3.2\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:1
@@ -192,10 +192,10 @@ msgstr "കഠിന മഞ്ഞുപാതങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:25
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather condition"
 msgid "light cloud"
-msgstr "വെണ്‍മേഘങ്ങള്‍"
+msgstr "വെണ്‍മേഘം"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:26 ions/wetter.com/ion_wettercom.cpp:188
@@ -214,10 +214,10 @@ msgstr "ചെറിയ മഴചൊരിയല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:28
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather condition"
 msgid "light rain showers"
-msgstr "ചെറിയ മഴചൊരിയല്‍"
+msgstr "ചെറിയ മഴചൊരിയലുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:29
@@ -334,10 +334,10 @@ msgstr "ഇടവിട്ട വെയില്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:45
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather condition"
 msgid "thick cloud"
-msgstr "വെണ്‍മേഘങ്ങള്‍"
+msgstr "കനത്ത മേഘം"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:46 ions/wetter.com/ion_wettercom.cpp:209
@@ -345,7 +345,7 @@ msgstr "വെണ്‍മേഘങ്ങള്‍"
 #, kde-format
 msgctxt "weather condition"
 msgid "thunderstorm"
-msgstr "ഇടിമിന്നലോടുകൂടിയ കാറ്റും മഴയും"
+msgstr "ഇടിമിന്നൽ"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:47
@@ -356,7 +356,7 @@ msgstr "ഇടിയോടുകൂടിയ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:48
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather condition"
 msgid "thundery showers"
 msgstr "ഇടിയോടുകൂടിയ മഴ"
@@ -503,7 +503,7 @@ msgstr "ശക്തമായ മഴചൊരിയല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:69
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "heavy rain showers"
 msgstr "ശക്തമായ മഴചൊരിയല്‍"
@@ -545,17 +545,17 @@ msgstr "കഠിന മഞ്ഞുപാതങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:75
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "light cloud"
-msgstr "വെണ്‍മേഘങ്ങള്‍"
+msgstr "വെണ്‍മേഘം"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:76
 #, kde-format
 msgctxt "weather forecast"
 msgid "light rain"
-msgstr "ചെറിയമഴ"
+msgstr "ചെറിയ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:77
@@ -566,7 +566,7 @@ msgstr "ചെറിയ മഴചൊരിയല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:78
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "light rain showers"
 msgstr "ചെറിയ മഴചൊരിയല്‍"
@@ -678,17 +678,17 @@ msgstr "ഇടവിട്ട വെയില്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:94
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "thick cloud"
-msgstr "വെണ്‍മേഘങ്ങള്‍"
+msgstr "കനത്ത മേഘം"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:95
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "thunderstorm"
-msgstr "ഇടിമിന്നലോടുകൂടിയ കാറ്റും മഴയും"
+msgstr "ഇടിമിന്നൽ"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:96
@@ -699,7 +699,7 @@ msgstr "ഇടിയോടുകൂടിയ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:97
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "thundery showers"
 msgstr "ഇടിയോടുകൂടിയ മഴ"
@@ -720,17 +720,17 @@ msgstr "വെണ്‍മേഘങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:100
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "visibility"
 msgid "Excellent"
-msgstr "മഞ്ഞുകട്ട"
+msgstr "മികച്ചത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:101
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "visibility"
 msgid "Very Good"
-msgstr "വളരെ നല്ല"
+msgstr "വളരെ നല്ലത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:102
@@ -755,7 +755,7 @@ msgstr "കുറഞ്ഞ"
 
 #. +> trunk5 stable5 plasma5lts
 #: bbcukmet_i18n.dat:105
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "visibility"
 msgid "Very Poor"
 msgstr "വളരെ കുറഞ്ഞ"
@@ -807,7 +807,7 @@ msgstr "നീങ്ങുന്ന മഞ്ഞു്"
 #, kde-format
 msgctxt "weather condition"
 msgid "Drizzle"
-msgstr "മഴചാറ്റല്‍ "
+msgstr "മഴചാറ്റല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:9 noaa_i18n.dat:18
@@ -856,7 +856,7 @@ msgstr "അവിടവിടെയായി കോടമഞ്ഞു്"
 #, kde-format
 msgctxt "weather condition"
 msgid "Freezing drizzle"
-msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന മഴചാറ്റല്‍ "
+msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന മഴചാറ്റല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:16
@@ -1336,17 +1336,17 @@ msgstr "ഇടിമിന്നലോടുകൂടിയ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:84
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather condition"
 msgid "Thunderstorm with light rainshowers"
-msgstr "ഇടിമിന്നലോടുകൂടിയ മഴ"
+msgstr "നേരിയ ഇടിമിന്നലോടു കൂടിയ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:85
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather condition"
 msgid "Thunderstorm with heavy rainshowers"
-msgstr "അടുത്തിടെയുള്ള ഇടിമിന്നലോടുകൂടിയ ശക്തമായ മഴ"
+msgstr "ഇടിമിന്നലോടുകൂടിയ ശക്തമായ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:86
@@ -1903,17 +1903,17 @@ msgstr "മേഘാവൃതം"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:165
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Partly cloudy"
 msgstr "ഭാഗീകമായി മേഘാവൃതം"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:166
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Mainly cloudy"
-msgstr "ഭാഗീകമായി മേഘാവൃതം"
+msgstr "പ്രധാനമായും തെളിഞ്ഞ കാലാവസ്ഥ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:167
@@ -2120,35 +2120,35 @@ msgstr "മഞ്ഞുകട്ട അലിയുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:196
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets"
-msgstr "മഞ്ഞുകട്ട"
+msgstr "മഞ്ഞ് ഉരുളകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:197
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets mixed with freezing rain"
-msgstr "മഞ്ഞുകട്ട കലര്‍ന്ന ഉറഞ്ഞുകട്ടിയാകുന്ന മഴ"
+msgstr "മഞ്ഞുഉരുളകളോടു കൂടിയ ഉറഞ്ഞുകട്ടിയാകുന്ന മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:198
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets mixed with snow"
 msgstr "മഞ്ഞുകട്ട കലര്‍ന്ന മഞ്ഞു്"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:199
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets or freezing rain"
 msgstr "മഞ്ഞുകട്ടയോ ഉറഞ്ഞുകട്ടിയാകുന്ന മഴയോ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:200
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Ice pellets or snow"
 msgstr "മഞ്ഞുകട്ടയോ മഞ്ഞോ"
@@ -2393,38 +2393,38 @@ msgstr "ചില സമയങ്ങളില്‍ മഞ്ഞോ ഉറഞ്
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:235
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets"
-msgstr "ചില സമയങ്ങളില്‍ മഞ്ഞുവീഴ്ച"
+msgstr "മഞ്ഞു കട്ടകളുടെ കാലയളവുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:236
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets mixed with freezing rain"
-msgstr "ചില സമയങ്ങളില്‍, ഉറഞ്ഞുകട്ടിയാകുന്ന മഴ ഇടകലര്‍ന്ന മഴ"
+msgstr "തണുത്തുറഞ്ഞ മഴയുമായി മഞ്ഞു കട്ടകൾ കലർന്ന കാലയളവുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:237
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets mixed with snow"
-msgstr "ചില സമയങ്ങളില്‍, കട്ടകളുള്ള ഇളംമഞ്ഞു് "
+msgstr "മഞ്ഞു കട്ടകൾ കലർന്ന മഞ്ഞ് കാലയളവുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:238
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets or freezing rain"
-msgstr "ചില സമയങ്ങളില്‍, മഞ്ഞുകട്ട കലര്‍ന്ന ഉറഞ്ഞുകട്ടിയാകുന്ന മഴ"
+msgstr "മഞ്ഞു കട്ടകളുടെയോ മരവിപ്പിക്കുന്ന മഴയുടെയോ കാലയളവുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:239
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Periods of ice pellets or snow"
-msgstr "ചില സമയങ്ങളില്‍, മഞ്ഞോ മഞ്ഞുകട്ടയോ"
+msgstr "മഞ്ഞു കട്ടകൾ അല്ലെങ്കിൽ മഞ്ഞ് കാലയളവുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:240
@@ -2445,7 +2445,7 @@ msgstr "ചില സമയങ്ങളില്‍, ഇളംമഞ്ഞും
 #, kde-format
 msgctxt "weather forecast"
 msgid "Periods of light snow and blizzard and blowing snow"
-msgstr ""
+msgstr "നേരിയ മഞ്ഞുവീഴ്ചയും ഹിമപാതവും വീശുന്ന മഞ്ഞുവീഴ്ചയും"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:243
@@ -3044,10 +3044,10 @@ msgstr "വെയിലുള്ള"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:328
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Mainly sunny"
-msgstr "മുഖ്യമായും വെയിലുള്ള"
+msgstr "പ്രധാനമായും വെയിൽ"
 
 #. +> trunk5 stable5 plasma5lts
 #: envcan_i18n.dat:329
@@ -3157,60 +3157,60 @@ msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
 #, kde-format
 msgctxt "Short for Today"
 msgid "Today"
-msgstr ""
+msgstr "ഇന്ന്"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/bbcukmet/ion_bbcukmet.cpp:999
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for Tonight"
 msgid "Tonight"
 msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/bbcukmet/ion_bbcukmet.cpp:1001 ions/envcan/ion_envcan.cpp:1583
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for Saturday"
 msgid "Sat"
 msgstr "ശനി"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/bbcukmet/ion_bbcukmet.cpp:1002 ions/envcan/ion_envcan.cpp:1584
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for Sunday"
 msgid "Sun"
 msgstr "ഞായര്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/bbcukmet/ion_bbcukmet.cpp:1003 ions/envcan/ion_envcan.cpp:1585
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for Monday"
 msgid "Mon"
 msgstr "തിങ്കള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/bbcukmet/ion_bbcukmet.cpp:1004 ions/envcan/ion_envcan.cpp:1586
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for Tuesday"
 msgid "Tue"
 msgstr "ചൊവ്വ"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/bbcukmet/ion_bbcukmet.cpp:1005 ions/envcan/ion_envcan.cpp:1587
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for Wednesday"
 msgid "Wed"
 msgstr "ബുധന്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/bbcukmet/ion_bbcukmet.cpp:1006 ions/envcan/ion_envcan.cpp:1588
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for Thursday"
 msgid "Thu"
 msgstr "വ്യാഴം"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/bbcukmet/ion_bbcukmet.cpp:1007 ions/envcan/ion_envcan.cpp:1589
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for Friday"
 msgid "Fri"
 msgstr "വെള്ളി"
@@ -3220,7 +3220,7 @@ msgstr "വെള്ളി"
 #, kde-format
 msgctxt "credit line, keep string short"
 msgid "Data from BBC Weather"
-msgstr ""
+msgstr "ബിബിസി കാലാവസ്ഥയിൽ നിന്നുമുള്ള ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/envcan/ion_envcan.cpp:928 ions/envcan/ion_envcan.cpp:930
@@ -3239,17 +3239,17 @@ msgstr "ദിവസം"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/envcan/ion_envcan.cpp:1581
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for tonight"
 msgid "nite"
-msgstr "നൈറ്റ്"
+msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/envcan/ion_envcan.cpp:1582
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Short for night, appended to the end of the weekday"
 msgid "nt"
-msgstr "എന്‍ടി"
+msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/envcan/ion_envcan.cpp:1619
@@ -3263,14 +3263,14 @@ msgstr "നാമമാത്രം"
 #, kde-format
 msgctxt "credit line, keep string short"
 msgid "Data from Environment and Climate Change Canada"
-msgstr ""
+msgstr "പരിസ്ഥിതി, കാലാവസ്ഥാ വ്യതിയാനം കാനഡയിൽ നിന്നുള്ള ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/noaa/ion_noaa.cpp:663
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "credit line, keep string short)"
 msgid "Data from NOAA National Weather Service"
-msgstr "അമേരിക്കന്‍ ദേശീയ സമുദ്ര-കാലാവസ്ഥാ വകുപ്പു് കാലാവസ്ഥ സേവനവിഭാഗമാണു് വിവരം നല്‍കിയതു്"
+msgstr "NOAA ദേശീയ കാലാവസ്ഥ സേവനത്തിൽ നിന്നുള്ള ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
 #: ions/wetter.com/ion_wettercom.cpp:169 ions/wetter.com/ion_wettercom.cpp:170
@@ -4375,7 +4375,7 @@ msgstr "നേര്‍ത്ത മഞ്ഞു് പെയ്യല്‍ ക
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Snow Showers Fog/Mist"
-msgstr ""
+msgstr "നേരിയ മഞ്ഞുവീഴ്ച മൂടൽമഞ്ഞ്/ധൂമപടലം"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:151
@@ -4417,7 +4417,7 @@ msgstr "ചെറിയ ഇടിമിന്നലോടു് കൂടിയ 
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Thunderstorm Rain Hail Fog/Mist"
-msgstr ""
+msgstr "നേരിയ ഇടിമിന്നൽ മഴ ആലിപ്പഴം മൂടൽമഞ്ഞ്/ധൂമപടലം"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:157
@@ -4438,7 +4438,7 @@ msgstr "ചെറിയ ഇടിമിന്നല്‍ മഴ മൂടുപ
 #, kde-format
 msgctxt "weather condition"
 msgid "Light Thunderstorm Rain Small Hail/Snow Pellets"
-msgstr ""
+msgstr "നേരിയ ഇടിമിന്നൽ മഴ ചെറിയ ആലിപ്പഴം/മഞ്ഞു കട്ടകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:160
@@ -4529,7 +4529,7 @@ msgstr "ഭാഗീകമായ കോടമഞ്ഞു്"
 #, kde-format
 msgctxt "weather condition"
 msgid "Partial Fog in Vicinity"
-msgstr "സമീപത്തു് ഭാഗീകമായ കോടമഞ്ഞു് "
+msgstr "സമീപത്തു് ഭാഗീകമായ കോടമഞ്ഞു്"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:175
@@ -4550,14 +4550,14 @@ msgstr "ഭാഗീകമായി മേഘാവൃതവും, കാറ്
 #, kde-format
 msgctxt "weather condition"
 msgid "Partly Cloudy with Haze"
-msgstr "ഭാഗീകമായി മേഘങ്ങളും,  മൂടുപടലവും"
+msgstr "ഭാഗീകമായി മേഘങ്ങളും, മൂടുപടലവും"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:178
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather condition"
 msgid "Patchy Freezing Fog"
-msgstr "കഠിനമായ ഉറഞ്ഞുകട്ടിയാകുന്ന കോടമഞ്ഞു്"
+msgstr "തുണ്ടുകളായി വിഭജിച്ച ഉറഞ്ഞുകട്ടിയാകുന്ന മൂടൽമഞ്ഞ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:179
@@ -4634,7 +4634,7 @@ msgstr "സമീപത്തു് മഴ പെയ്യല്‍"
 #, kde-format
 msgctxt "weather condition"
 msgid "Rain Showers in Vicinity Fog/Mist"
-msgstr ""
+msgstr "സമീപത്തെ മൂടൽമഞ്ഞ്/ധൂമപടലം മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:190
@@ -4725,7 +4725,7 @@ msgstr "സമീപത്തു് മഴ പെയ്യല്‍"
 #, kde-format
 msgctxt "weather condition"
 msgid "Showers Rain in Vicinity Fog/Mist"
-msgstr ""
+msgstr "സമീപം മൂടൽമഞ്ഞ്/ധൂമപടലം മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:204
@@ -4851,7 +4851,7 @@ msgstr "സമീപത്തു് കോടമഞ്ഞു് മഞ്ഞു�
 #, kde-format
 msgctxt "weather condition"
 msgid "Snow Showers in Vicinity Fog/Mist"
-msgstr ""
+msgstr "സമീപത്തെ മൂടൽമഞ്ഞ്/ധൂമപടലം"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:226
@@ -4886,7 +4886,7 @@ msgstr "സമീപത്തു് ഇടിമിന്നല്‍, മൂട
 #, kde-format
 msgctxt "weather condition"
 msgid "Thunderstorm Haze in Vicinity Hail"
-msgstr " ആലിപ്പഴം സമീപത്തു് ഇടിമിന്നല്‍ മൂടുപടലം"
+msgstr "ആലിപ്പഴം സമീപത്തു് ഇടിമിന്നല്‍ മൂടുപടലം"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:231
@@ -4977,14 +4977,14 @@ msgstr "കോടമഞ്ഞു് / മൂടല്‍മഞ്ഞു് സ�
 #, kde-format
 msgctxt "weather condition"
 msgid "Thunderstorm in Vicinity Hail"
-msgstr "ആലിപ്പഴം സമീപത്തു് ഇടിമിന്നല്‍ "
+msgstr "ആലിപ്പഴം സമീപത്തു് ഇടിമിന്നല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:244
 #, kde-format
 msgctxt "weather condition"
 msgid "Thunderstorm in Vicinity Hail Haze"
-msgstr " ആലിപ്പഴം മൂടുപടലം സമീപത്തു് ഇടിമിന്നല്‍ "
+msgstr "ആലിപ്പഴം മൂടുപടലം സമീപത്തു് ഇടിമിന്നല്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:245
@@ -5040,7 +5040,7 @@ msgstr "ഇടിമിന്നലോടെ ഇളം ആലിപ്പഴ ക
 #, kde-format
 msgctxt "weather condition"
 msgid "Thunderstorm Light Rain Hail Haze"
-msgstr "മൂടുപടലം ഇടിമിന്നല്‍  ആലിപ്പഴം ചെറിയ മഴ"
+msgstr "മൂടുപടലം ഇടിമിന്നല്‍ ആലിപ്പഴം ചെറിയ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:253
@@ -5177,17 +5177,17 @@ msgstr "ഇടിമിന്നലുണ്ടായേയ്ക്കാം"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:274
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Severe Tstms"
-msgstr "കഠിനമായ ഇടിമിന്നലിനുള്ള  സാദ്ധ്യത"
+msgstr "കഠിനമായ ഇടിമിന്നലിനുള്ള സാദ്ധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:275
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Snow/Sleet"
-msgstr "മഞ്ഞിനുള്ള സാദ്ധ്യത"
+msgstr "മഞ്ഞിനുള്ള ചെറിയ സാദ്ധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:276
@@ -5212,10 +5212,10 @@ msgstr "മഞ്ഞു്/ഘനീഭവിച്ച മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:279
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Rain/Sleet"
-msgstr "മഴയ്ക്കു് സാധ്യത"
+msgstr "മഴയ്ക്കുള്ള ചെറിയ സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:280
@@ -5240,10 +5240,10 @@ msgstr "മഴ/ഘനീഭവിച്ച മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:283
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Rain/Freezing Rain"
-msgstr "മഴയ്ക്കോ/ഉറഞ്ഞുകട്ടിയാകുന്ന മഴയ്ക്കോ സാധ്യത"
+msgstr "മഴയ്ക്കോ/ഉറഞ്ഞുകട്ടിയാകുന്ന മഴയ്ക്കോ ചെറിയ സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:284
@@ -5268,28 +5268,24 @@ msgstr "മഴ/ഉറഞ്ഞുകട്ടിയാകുന്ന മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:287
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Wintry Mix Likely"
-msgstr ""
-"%s: -l, -u, -d, -S എന്നിവയില്‍ ഒന്ന് -i, -n, -w, -x എന്നിവയായി ചേറ്‍ത്ത് നല്‍കുവാന്‍ "
-"സാധ്യമല്ല.\n"
+msgstr "വിൻട്രി മിക്സ് സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:288
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Wintry Mix"
-msgstr ""
-"%s: -l, -u, -d, -S എന്നിവയില്‍ ഒന്ന് -i, -n, -w, -x എന്നിവയായി ചേറ്‍ത്ത് നല്‍കുവാന്‍ "
-"സാധ്യമല്ല.\n"
+msgstr "വിൻട്രി മിക്സ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:289
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Freezing Drizzle"
-msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന ചാറ്റലിനു് സാദ്ധ്യത"
+msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന ചാറ്റലിനു് ചെറിയ സാദ്ധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:290
@@ -5314,10 +5310,10 @@ msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന ചാറ്റ�
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:293
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Freezing Rain"
-msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന മഴക്കു് സാദ്ധ്യത"
+msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന മഴക്കു് ചെറിയ സാദ്ധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:294
@@ -5342,10 +5338,10 @@ msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:297
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Rain/Snow"
-msgstr "മഴയ്ക്കു് സാധ്യത"
+msgstr "മഴയ്ക്കു് അല്ലെങ്കിൽ മഞ്ഞിന് ചെറിയ സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:298
@@ -5370,10 +5366,10 @@ msgstr "മഴ/മഞ്ഞു്"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:301
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Snow"
-msgstr "മഞ്ഞിനുള്ള സാദ്ധ്യത"
+msgstr "മഞ്ഞിനുള്ള ചെറിയ സാദ്ധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:302
@@ -5398,10 +5394,10 @@ msgstr "ശക്തമായ മഞ്ഞുവീഴ്ച"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:306
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Flurries"
-msgstr "മഞ്ഞുവീഴ്ചക്കുള്ള സാധ്യത"
+msgstr "മഞ്ഞുവീഴ്ചക്കുള്ള ചെറിയ സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:307
@@ -5419,10 +5415,10 @@ msgstr "മഞ്ഞുവീഴ്ച ഉണ്ടാകാം"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:310
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Snow Showers"
-msgstr "മഞ്ഞു് പെയ്യാന്‍ സാധ്യത"
+msgstr "മഞ്ഞു് പെയ്യാന്‍ ചെറിയ സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:311
@@ -5447,10 +5443,10 @@ msgstr "മഞ്ഞു് പെയ്യുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:314
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Drizzle"
-msgstr "ചാറ്റല്‍ മഴയ്ക്കു് സാധ്യത"
+msgstr "ചാറ്റല്‍ മഴയ്ക്കു് ചെറിയ സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:315
@@ -5468,10 +5464,10 @@ msgstr "ചാറ്റല്‍ മഴയുണ്ടാകാം"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:318
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Rain"
-msgstr "മഴയ്ക്കു് സാധ്യത"
+msgstr "മഴയ്ക്കു് ചെറിയ സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:319
@@ -5496,10 +5492,10 @@ msgstr "കനത്ത മഴ"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:323
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Slight Chance Rain Showers"
-msgstr "മഞ്ഞു് പെയ്യാന്‍ സാധ്യത"
+msgstr "മഴ പെയ്യാന്‍ ചെറിയ സാധ്യത"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:324
@@ -5583,7 +5579,7 @@ msgstr "കട്ടി കൂടിയ കോടമഞ്ഞ്"
 #, kde-format
 msgctxt "weather forecast"
 msgid "Blustery"
-msgstr ""
+msgstr "മൂർച്ചയുള്ള"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:339
@@ -5629,7 +5625,7 @@ msgstr "സാമാന്യം വെയിലുളള"
 
 #. +> trunk5 stable5 plasma5lts
 #: noaa_i18n.dat:346
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "weather forecast"
 msgid "Partly Sunny"
 msgstr "സാമാന്യം വെയിലുളള"

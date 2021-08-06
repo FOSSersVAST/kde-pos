@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-12-22 10:47+0100\n"
-"PO-Revision-Date: 2021-01-05 19:56+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2021-02-27 12:15+0000\n"
+"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -61,7 +61,7 @@ msgstr "റെഗുലര്‍ എക്സ്പ്രഷന്‍"
 #: actionsconfig.ui:54 editactiondialog.cpp:222
 #, kde-format
 msgid "Description"
-msgstr "വിശദീകരണം"
+msgstr "വിവരണം"
 
 #. i18n: ectx: property (text), widget (QPushButton, pbAddAction)
 #. +> trunk5 stable5 plasma5lts
@@ -109,8 +109,8 @@ msgstr ""
 #, kde-format
 msgid " second"
 msgid_plural " seconds"
-msgstr[0] "സെക്കന്റ്"
-msgstr[1] "സെക്കന്റുകള്‍"
+msgstr[0] " സെക്കന്റ്"
+msgstr[1] " സെക്കന്റുകള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: configdialog.cpp:38
@@ -135,7 +135,7 @@ msgstr "പൊതുവായത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: configdialog.cpp:279
-#, fuzzy, kde-format
+#, kde-format
 msgid "General Configuration"
 msgstr "പൊതുവായ സജ്ജീകരണങ്ങള്‍"
 

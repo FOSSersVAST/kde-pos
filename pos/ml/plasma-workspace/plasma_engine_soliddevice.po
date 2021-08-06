@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-10-25 14:58+0100\n"
-"PO-Revision-Date: 2010-06-30 17:20+0530\n"
-"Last-Translator: arkarjun <arkarjun@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2021-03-08 13:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:129
@@ -39,7 +40,7 @@ msgstr "ഉത്പന്നം"
 #: soliddeviceengine.cpp:132
 #, kde-format
 msgid "Description"
-msgstr ""
+msgstr "വിവരണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:133
@@ -56,9 +57,9 @@ msgstr "മുദ്രകള്‍"
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:135 soliddeviceengine.cpp:497
 #: soliddeviceengine.cpp:503 soliddeviceengine.cpp:516
-#, fuzzy, kde-format
+#, kde-format
 msgid "State"
-msgstr "സ്ഥിതിയുണ്ട്"
+msgstr "സ്ഥിതി"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:136 soliddeviceengine.cpp:498
@@ -66,13 +67,13 @@ msgstr "സ്ഥിതിയുണ്ട്"
 #: soliddeviceengine.cpp:514
 #, kde-format
 msgid "Operation result"
-msgstr ""
+msgstr "നടപടി ഫലം"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:137
 #, kde-format
 msgid "Timestamp"
-msgstr ""
+msgstr "ടൈംസ്റ്റാമ്പ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:145
@@ -513,7 +514,7 @@ msgstr "വീഡിയോ ഡിവിഡി"
 #: soliddeviceengine.cpp:346
 #, kde-format
 msgid "Video Blu Ray"
-msgstr ""
+msgstr "വീഡിയോ ബ്ലൂ റേ"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:348
@@ -739,33 +740,33 @@ msgstr "ക്യമറ ബാറ്ററി"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:405
-#, fuzzy, kde-format
+#, kde-format
 msgid "Phone Battery"
-msgstr "മൌസ് ബാറ്ററി"
+msgstr "ഫോൺ ബാറ്ററി"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:406
-#, fuzzy, kde-format
+#, kde-format
 msgid "Monitor Battery"
-msgstr "മൌസ് ബാറ്ററി"
+msgstr "മോണിറ്റർ ബാറ്ററി"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:406
 #, kde-format
 msgid "Gaming Input Battery"
-msgstr ""
+msgstr "ഗെയിമിംഗ് ഇൻപുട്ട് ബാറ്ററി"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:406
-#, fuzzy, kde-format
+#, kde-format
 msgid "Bluetooth Battery"
-msgstr "മൌസ് ബാറ്ററി"
+msgstr "ബ്ലൂട്ടൂത്ത് ബാറ്ററി"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:409
-#, fuzzy, kde-format
+#, kde-format
 msgid "Not Charging"
-msgstr "ചാര്‍ജ്ജ് ചെയ്തു് കൊണ്ടിരിയ്ക്കുന്നു"
+msgstr "ചാർജ്ജ് ആകുന്നില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:409
@@ -819,7 +820,7 @@ msgstr "ചാര്‍ജ്ജ് സ്ഥിതി"
 #: soliddeviceengine.cpp:440
 #, kde-format
 msgid "Type Description"
-msgstr ""
+msgstr "വിവരണം ടൈപ്പുചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:445
@@ -837,13 +838,13 @@ msgstr "വലിപ്പം"
 #: soliddeviceengine.cpp:556
 #, kde-format
 msgid "Filesystem is not responding"
-msgstr ""
+msgstr "ഫയൽസംവിധാനം പ്രതികരിക്കുന്നില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:557
 #, kde-format
 msgid "Filesystem mounted at '%1' is not responding"
-msgstr ""
+msgstr "'%1' ൽ ഘടിപ്പിച്ചിരിക്കുന്ന ഫയൽ സംവിധാനം പ്രതികരിക്കുന്നില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:574
@@ -853,15 +854,15 @@ msgstr "സ്വതന്ത്രമായ സ്ഥലം"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:575
-#, fuzzy, kde-format
+#, kde-format
 msgid "Free Space Text"
-msgstr "സ്വതന്ത്രമായ സ്ഥലം"
+msgstr "സ്വതന്ത്രസ്ഥല വാചകം"
 
 #. +> trunk5 stable5
 #: soliddeviceengine.cpp:577
-#, fuzzy, kde-format
+#, kde-format
 msgid "Size Text"
-msgstr "വലിപ്പം"
+msgstr "വലിപ്പ വാചകം"
 
 #. +> trunk5 stable5 plasma5lts
 #: soliddeviceengine.cpp:603
@@ -879,4 +880,4 @@ msgstr "താപനിലയുടേ യൂണിറ്റ്"
 #: soliddeviceengine.cpp:648 soliddeviceengine.cpp:652
 #, kde-format
 msgid "In Use"
-msgstr ""
+msgstr "ഉപയോഗത്തിലാണ്"

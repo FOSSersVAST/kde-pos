@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: kcm_desktopthemedetails trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2020-09-18 10:41+0200\n"
-"PO-Revision-Date: 2021-01-05 19:56+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -35,134 +35,132 @@ msgstr "snalledam@dataone.in, pravi.a@gmail.com, harivishnu@gmail.com"
 #. i18n: ectx: label, entry (name), group (Theme)
 #. +> trunk5 stable5
 #: desktopthemesettings.kcfg:9
-#, fuzzy, kde-format
+#, kde-format
 msgid "Name of the current Plasma Style"
-msgstr "പുതിയ പ്രമേയം എടുക്കുക..."
+msgstr "നിലവിലെ പ്ലാസ്മ ശൈലിയുടെ പേര്"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcm.cpp:63
-#, fuzzy, kde-format
+#, kde-format
 msgid "Plasma Style"
-msgstr "പുതിയ പ്രമേയം എടുക്കുക..."
+msgstr "പ്ലാസ്മ ശൈലി"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcm.cpp:65
 #, kde-format
 msgid "David Rosca"
-msgstr ""
+msgstr "ഡേവിഡ് റോസ്ക"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcm.cpp:123
-#, fuzzy, kde-format
+#, kde-format
 msgid "Unable to create a temporary file."
-msgstr "പ്രമേയം സൂക്ഷിക്കാന്‍ കഴിയില്ല."
+msgstr "ഒരു താൽക്കാലിക ഫയൽ സൃഷ്ടിക്കാൻ കഴിയില്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcm.cpp:135
-#, fuzzy, kde-format
+#, kde-format
 msgid "Unable to download the theme: %1"
-msgstr "പ്രമേയം സൂക്ഷിക്കാന്‍ കഴിയില്ല."
+msgstr "%1 തീം ഡൗൺലോഡ് ചെയ്യാനായില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcm.cpp:158
 #, kde-format
 msgid "Theme installed successfully."
-msgstr ""
+msgstr "തീം വിജയകരമായി ഇൻസ്റ്റാൾ ചെയ്തു."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcm.cpp:161 kcm.cpp:169
 #, kde-format
 msgid "Theme installation failed."
-msgstr ""
+msgstr "തീം ഇൻസ്റ്റാളേഷൻ പരാജയപ്പെട്ടു."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcm.cpp:260
 #, kde-format
 msgid "Removing theme failed: %1"
-msgstr ""
+msgstr "%1 തീം നീക്കംചെയ്യുന്നത് പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:34
 #, kde-format
 msgid "This module lets you choose the Plasma style."
-msgstr ""
+msgstr "ഈ മൊഡ്യൂൾ പ്ലാസ്മ ശൈലി തിരഞ്ഞെടുക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നു."
 
 #. +> plasma5lts
 #: package/contents/ui/main.qml:67
 #, kde-format
 msgid "Search..."
-msgstr ""
+msgstr "തിരയുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:77
-#, fuzzy, kde-format
+#, kde-format
 msgid "All Themes"
-msgstr "പ്രമേയത്തിന്റെ ഇനം"
+msgstr "എല്ലാ തീമുകളും"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:78
-#, fuzzy, kde-format
+#, kde-format
 msgid "Light Themes"
-msgstr "പ്രമേയത്തിന്റെ ഇനം"
+msgstr "ശോഭിച്ച തീമുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:79
 #, kde-format
 msgid "Dark Themes"
-msgstr ""
+msgstr "ഇരുണ്ട തീമുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:80
 #, kde-format
 msgid "Color scheme compatible"
-msgstr ""
+msgstr "നിറക്കൂട്ടു് അനുയോജ്യമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:108
-#, fuzzy, kde-format
-#| msgctxt "plasma name"
-#| msgid "Color Scheme"
+#, kde-format
 msgid "Follows color scheme"
-msgstr "നിറ പദ്ധതി"
+msgstr "നിറക്കൂട്ടു് പിന്തുടരുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:126
-#, fuzzy, kde-format
+#, kde-format
 msgid "Edit Theme..."
-msgstr "പ്രമേയത്തിന്റെ ഇനം"
+msgstr "തീം എഡിറ്റുചെയ്യുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:133
 #, kde-format
 msgid "Remove Theme"
-msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
+msgstr "തീം നീക്കം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:140
-#, fuzzy, kde-format
+#, kde-format
 msgid "Restore Theme"
-msgstr "പ്രമേയം നീക്കം ചെയ്യുക"
+msgstr "തീം പുനഃസ്ഥാപിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:178
 #, kde-format
 msgid "Install from File..."
-msgstr ""
+msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക ..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:185
-#, fuzzy, kde-format
+#, kde-format
 msgid "Get New Plasma Styles..."
-msgstr "പുതിയ പ്രമേയം എടുക്കുക..."
+msgstr "പുതിയ പ്ലാസ്മ ശൈലികൾ നേടുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:197
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open Theme"
-msgstr "പ്രമേയത്തിന്റെ ഇനം"
+msgstr "തീം തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:199
 #, kde-format
 msgid "Theme Files (*.zip *.tar.gz *.tar.bz2)"
-msgstr ""
+msgstr "തീം ഫയലുകൾ (*.zip *.tar.gz *.tar.bz2)"
