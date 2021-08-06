@@ -8,11 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-22 10:47+0100\n"
+"POT-Creation-Date: 2021-05-26 08:49+0200\n"
 "PO-Revision-Date: 2021-02-27 12:15+0000\n"
 "Last-Translator: Adithya K <adithyak04@gmail.com>\n"
-"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
+"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
+"കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -58,7 +58,7 @@ msgstr "റെഗുലര്‍ എക്സ്പ്രഷന്‍"
 
 #. i18n: ectx: property (text), widget (ActionsTreeWidget, kcfg_ActionList)
 #. +> trunk5 stable5 plasma5lts
-#: actionsconfig.ui:54 editactiondialog.cpp:222
+#: actionsconfig.ui:54 editactiondialog.cpp:225
 #, kde-format
 msgid "Description"
 msgstr "വിവരണം"
@@ -121,58 +121,58 @@ msgstr[0] "എന്‍ട്രി"
 msgstr[1] "എന്‍ട്രികള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:255
+#: configdialog.cpp:248
 #, kde-format
 msgid "Advanced Settings"
 msgstr "പുരോഗമിച്ച ക്രമികരണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:279
+#: configdialog.cpp:272
 #, kde-format
 msgctxt "General Config"
 msgid "General"
 msgstr "പൊതുവായത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:279
+#: configdialog.cpp:272
 #, kde-format
 msgid "General Configuration"
 msgstr "പൊതുവായ സജ്ജീകരണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:280
+#: configdialog.cpp:273
 #, kde-format
 msgctxt "Actions Config"
 msgid "Actions"
 msgstr "പ്രവൃത്തികള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:280
+#: configdialog.cpp:273
 #, fuzzy, kde-format
 msgid "Actions Configuration"
 msgstr "പ്രവൃത്തികളുടെ സജ്ജീകരണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:284
+#: configdialog.cpp:276
 #, kde-format
 msgctxt "Shortcuts Config"
 msgid "Shortcuts"
 msgstr "കുറുക്ക്‌വഴികള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:284
+#: configdialog.cpp:276
 #, fuzzy, kde-format
 msgid "Shortcuts Configuration"
 msgstr "കുറുക്ക്‌വഴികളുടെ സജ്ജീകരണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:344
+#: configdialog.cpp:334
 #, kde-format
 msgid "D&isable Actions for Windows of Type WM_CLASS"
 msgstr "WM_CLASS തരത്തില്‍പ്പെട്ട ജാലകങ്ങളില്‍ പ്രവൃത്തികള്‍ തടയുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: configdialog.cpp:352
+#: configdialog.cpp:343
 #, kde-format
 msgid ""
 "<qt>This lets you specify windows in which Klipper should not invoke "
@@ -187,49 +187,49 @@ msgstr ""
 "ചെയ്യുക. സമ ചിഹ്നത്തിനു ശേഷം വരുന്ന വാചകമാണ് നിങ്ങള്‍ ഇവിടെ കൊടുക്കേണ്ടത്</qt>"
 
 #. +> trunk5 stable5 plasma5lts
-#: editactiondialog.cpp:39
+#: editactiondialog.cpp:41
 #, kde-format
 msgid "Ignore"
 msgstr "അവഗണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: editactiondialog.cpp:41
+#: editactiondialog.cpp:43
 #, kde-format
 msgid "Replace Clipboard"
 msgstr "ഓര്‍മ്മച്ചെപ്പു് മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: editactiondialog.cpp:43
+#: editactiondialog.cpp:45
 #, kde-format
 msgid "Add to Clipboard"
 msgstr "ഓര്‍മ്മച്ചെപ്പിലേക്ക് ചേര്‍ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: editactiondialog.cpp:218
+#: editactiondialog.cpp:221
 #, kde-format
 msgid "Command"
 msgstr "ആജ്ഞ"
 
 #. +> trunk5 stable5 plasma5lts
-#: editactiondialog.cpp:220
+#: editactiondialog.cpp:223
 #, kde-format
 msgid "Output Handling"
 msgstr "ഫലം കൈകാര്യം ചെയ്യുന്നതു്"
 
 #. +> trunk5 stable5 plasma5lts
-#: editactiondialog.cpp:262
+#: editactiondialog.cpp:265
 #, kde-format
 msgid "Action Properties"
 msgstr "പ്രവൃത്തികളുടെ ഗുണഗണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: editactiondialog.cpp:368
+#: editactiondialog.cpp:370
 #, kde-format
 msgid "new command"
 msgstr "പുതിയ ആജ്ഞ"
 
 #. +> trunk5 stable5 plasma5lts
-#: editactiondialog.cpp:369
+#: editactiondialog.cpp:370
 #, kde-format
 msgid "Command Description"
 msgstr "ആജ്ഞയുടെ വിശദീകരണം"
@@ -356,50 +356,68 @@ msgid "Clipboard history size:"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രത്തിന്റെ വലിപ്പം:"
 
 #. +> trunk5 stable5 plasma5lts
-#: historyimageitem.cpp:50
+#: historyimageitem.cpp:51
 #, kde-format
 msgid "%1x%2 %3bpp"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:125
+#: klipper.cpp:130
 #, kde-format
 msgid "Enable Clipboard Actions"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് പ്രവൃത്തികള്‍ സജീവമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:151
+#: klipper.cpp:153
 #, kde-format
 msgid "C&lear Clipboard History"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം കളയുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:158
+#. +> trunk5
+#: klipper.cpp:160
+#, fuzzy, kde-format
+msgid "&Configure Klipper…"
+msgstr "ക്ലിപ്പര്‍ സജ്ജീകരിക്കുക"
+
+#. +> stable5 plasma5lts
+#: klipper.cpp:160
 #, kde-format
 msgid "&Configure Klipper..."
 msgstr "ക്ലിപ്പര്‍ സജ്ജീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:163
+#: klipper.cpp:166
 #, fuzzy, kde-format
 msgctxt "@item:inmenu Quit Klipper"
 msgid "&Quit"
 msgstr "പുറത്ത് കടക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:167
+#: klipper.cpp:171
 #, kde-format
 msgid "Manually Invoke Action on Current Clipboard"
 msgstr "ഇപ്പോഴത്തെ ഓര്‍മ്മച്ചെപ്പില്‍ പ്രവൃത്തി തുടങ്ങുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:174
+#. +> trunk5
+#: klipper.cpp:178
+#, fuzzy, kde-format
+msgid "&Edit Contents…"
+msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്തുക"
+
+#. +> stable5 plasma5lts
+#: klipper.cpp:178
 #, kde-format
 msgid "&Edit Contents..."
 msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്തുക ..."
 
-#. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:184
+#. +> trunk5
+#: klipper.cpp:186
+#, kde-format
+msgid "&Show Barcode…"
+msgstr ""
+
+#. +> stable5 plasma5lts
+#: klipper.cpp:186
 #, kde-format
 msgid "&Show Barcode..."
 msgstr ""
@@ -422,8 +440,17 @@ msgstr "ചരിത്രത്തിലെ മുമ്പുള്ള ഇന�
 msgid "Open Klipper at Mouse Position"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:496
+#. +> trunk5 stable5
+#: klipper.cpp:488
+#, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You can enable URL actions later in the <interface>Actions</interface> page "
+"of the Clipboard applet's configuration window"
+msgstr ""
+
+#. +> plasma5lts
+#: klipper.cpp:503
 #, fuzzy, kde-format
 msgid ""
 "You can enable URL actions later by left-clicking on the Klipper icon and "
@@ -433,73 +460,73 @@ msgstr ""
 "നിങ്ങള്‍ക്ക് URL പ്രവൃത്തികള്‍ പിന്നീട് സജീവമാക്കാം."
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:529
+#: klipper.cpp:523
 #, kde-format
 msgid "Should Klipper start automatically when you login?"
 msgstr "താങ്കള്‍ ലോഗിന്‍ ചെയ്യുമ്പോള്‍ തന്നെ ക്ലിപ്പര്‍ തുടങ്ങണോ?"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:530
+#: klipper.cpp:524
 #, kde-format
 msgid "Automatically Start Klipper?"
 msgstr "ക്ലിപ്പര്‍ തനിയെ തുടങ്ങണോ ?"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:530
+#: klipper.cpp:525
 #, kde-format
 msgid "Start"
 msgstr "തുടങ്ങുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:531
+#: klipper.cpp:526
 #, kde-format
 msgid "Do Not Start"
 msgstr "തുടങ്ങണ്ട"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:888
+#: klipper.cpp:873
 #, kde-format
 msgid "Edit Contents"
 msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:954
+#: klipper.cpp:940
 #, kde-format
 msgid "Mobile Barcode"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:1001
+#: klipper.cpp:987
 #, kde-format
 msgid "Really delete entire clipboard history?"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം തീര്‍ച്ച്യായും കളയുക?"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:1002
+#: klipper.cpp:988
 #, kde-format
 msgid "Delete clipboard history?"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം കളയുക?"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:1019 klipper.cpp:1028
+#: klipper.cpp:1004 klipper.cpp:1013
 #, kde-format
 msgid "Clipboard history"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:1045
+#: klipper.cpp:1030
 #, kde-format
 msgid "up"
 msgstr "മുകളില്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:1052
+#: klipper.cpp:1037
 #, kde-format
 msgid "current"
 msgstr "ഇപ്പോള്‍ നിലവിലുളളത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper.cpp:1059
+#: klipper.cpp:1044
 #, kde-format
 msgid "down"
 msgstr "താഴെ"
@@ -664,32 +691,50 @@ msgstr ""
 msgid "Replay action in history"
 msgstr "ചരിത്രത്തില്‍ നിന്നും തെരഞ്ഞെടുത്ത പ്രവൃത്തി ആവര്‍ത്തിക്കുക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> plasma5lts
 #: klipperpopup.cpp:70
 #, kde-format
 msgid "<empty clipboard>"
 msgstr "<ശൂന്യമായ ഓര്‍മ്മച്ചെപ്പ്>"
 
 #. +> trunk5 stable5 plasma5lts
+#: klipperpopup.cpp:73 tray.cpp:38 tray.cpp:54
+#, kde-format
+msgid "Clipboard is empty"
+msgstr "ഓര്‍മ്മച്ചെപ്പ് ശൂന്യമാണു്"
+
+#. +> trunk5 stable5
+#: klipperpopup.cpp:74
+#, fuzzy, kde-format
+msgid "No matches"
+msgstr "<ചേര്‍ച്ചയില്ല>"
+
+#. +> plasma5lts
 #: klipperpopup.cpp:71
 #, kde-format
 msgid "<no matches>"
 msgstr "<ചേര്‍ച്ചയില്ല>"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipperpopup.cpp:118
+#: klipperpopup.cpp:125
 #, kde-format
 msgid "Klipper - Clipboard Tool"
 msgstr "ക്ലിപ്പര്‍ - ക്ലിപ്പ്ബോര്‍ഡ് ഉപാധി"
 
-#. +> trunk5 stable5 plasma5lts
-#: klipperpopup.cpp:122
+#. +> trunk5
+#: klipperpopup.cpp:129
+#, fuzzy, kde-format
+msgid "Search…"
+msgstr "തിരയുക..."
+
+#. +> stable5 plasma5lts
+#: klipperpopup.cpp:129
 #, kde-format
 msgid "Search..."
 msgstr "തിരയുക..."
 
 #. +> trunk5 stable5 plasma5lts
-#: klipperpopup.cpp:132 main.cpp:43
+#: klipperpopup.cpp:138 main.cpp:43
 #, kde-format
 msgid "KDE cut & paste history utility"
 msgstr "മുറിക്കല്‍ - പകര്‍ത്തല്‍ ചരിത്രം നോക്കാന്‍ കെഡിഇയിലുള്ള ഉപാധി."
@@ -719,87 +764,87 @@ msgid "Carsten Pfeiffer"
 msgstr "കാര്‍സ്റ്റണ്‍ ഫെയിഫര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:49
+#: main.cpp:48
 #, kde-format
 msgid "Author"
 msgstr "രചയിതാവ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:52
+#: main.cpp:50
 #, kde-format
 msgid "Andrew Stanley-Jones"
 msgstr "ആന്‍ഡ്രൂ സ്റ്റാന്‍ലി-ജോണ്‍സ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:53
+#: main.cpp:50
 #, kde-format
 msgid "Original Author"
 msgstr "യഥാര്‍ത്ഥ രചയിതാവ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:56
+#: main.cpp:52
 #, kde-format
 msgid "Patrick Dubroy"
 msgstr "പാട്രിക് ഡുബ്രോയി"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:57
+#: main.cpp:52
 #, kde-format
 msgid "Contributor"
 msgstr "സഹകരിച്ചവര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:60
+#: main.cpp:54
 #, kde-format
 msgid "Luboš Luňák"
 msgstr "ലുബോസ് ലുണാക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:61
+#: main.cpp:54
 #, kde-format
 msgid "Bugfixes and optimizations"
 msgstr "പിശകുതിരുത്തലും മെച്ചപ്പെടുത്തലും"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:64
+#: main.cpp:56
 #, kde-format
 msgid "Esben Mose Hansen"
 msgstr "എസ്ബെന്‍ മോസ് ഹാന്‍സെന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:65
+#: main.cpp:56
 #, fuzzy, kde-format
 msgid "Previous Maintainer"
 msgstr "പാലകന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:68
+#: main.cpp:58
 #, kde-format
 msgid "Martin Gräßlin"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:69
+#: main.cpp:58
 #, kde-format
 msgid "Maintainer"
 msgstr "പാലകന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:72
+#: main.cpp:60
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "മണിലാല്‍ കെ.എം, ഇര്‍ഷാദ് കെ"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:72
+#: main.cpp:60
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "libregeek@gmail.com,ershad92@gmail.com"
 
 #. +> trunk5 stable5 plasma5lts
-#: popupproxy.cpp:159
+#: popupproxy.cpp:157
 #, kde-format
 msgid "&More"
 msgstr "കൂടുതല്‍"
@@ -811,25 +856,19 @@ msgid "Clipboard Contents"
 msgstr "ഓര്‍മ്മച്ചെപ്പിലെ ഉള്ളടക്കങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: tray.cpp:38 tray.cpp:54
-#, kde-format
-msgid "Clipboard is empty"
-msgstr "ഓര്‍മ്മച്ചെപ്പ് ശൂന്യമാണു്"
-
-#. +> trunk5 stable5 plasma5lts
-#: urlgrabber.cpp:192
+#: urlgrabber.cpp:185
 #, kde-format
 msgid "%1 - Actions For: %2"
 msgstr "%1 - നടപടികള്‍, ഇതിനു വേണ്ടി: %2"
 
 #. +> trunk5 stable5 plasma5lts
-#: urlgrabber.cpp:220
+#: urlgrabber.cpp:212
 #, kde-format
 msgid "Disable This Popup"
 msgstr "പൊങ്ങിവരുന്ന ഈ ജാലകത്തിനെ പ്രവര്‍ത്തനരഹിതമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: urlgrabber.cpp:226
+#: urlgrabber.cpp:218
 #, kde-format
 msgid "&Cancel"
 msgstr "&റദ്ദാക്കുക"

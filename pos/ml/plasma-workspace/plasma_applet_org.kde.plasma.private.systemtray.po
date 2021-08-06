@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-30 11:37+0100\n"
+"POT-Creation-Date: 2021-07-19 10:08+0200\n"
 "PO-Revision-Date: 2021-03-19 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -136,19 +136,19 @@ msgid "Scale with Panel width"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/ExpandedRepresentation.qml:84
+#: package/contents/ui/ExpandedRepresentation.qml:87
 #, kde-format
 msgid "Status and Notifications"
 msgstr "അവസ്ഥയും അറിയിപ്പുകളും"
 
-#. +> trunk5
-#: package/contents/ui/ExpandedRepresentation.qml:148
+#. +> trunk5 stable5
+#: package/contents/ui/ExpandedRepresentation.qml:126
 #, kde-format
 msgid "More actions"
 msgstr "കൂടുതൽ നടപടികൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/ExpandedRepresentation.qml:185
+#: package/contents/ui/ExpandedRepresentation.qml:172
 #, kde-format
 msgid "Keep Open"
 msgstr "തുറന്ന് വെക്കുക"
@@ -165,17 +165,17 @@ msgstr "പോപ്-അപ് അടയ്ക്കുക"
 msgid "Show hidden icons"
 msgstr "മറച്ചിരിക്കുന്ന ചിഹ്നങ്ങൾ കാണിക്കുക"
 
-#. +> trunk5
-#: systemtraymodel.cpp:139
+#. +> plasma5lts
+#: systemtraymodel.cpp:58
+#, kde-format
+msgid " (Automatic load)"
+msgstr "(താനേ ലോഡ് ചെയ്യുക)"
+
+#. +> trunk5 stable5
+#: systemtraymodel.cpp:137
 #, kde-format
 msgctxt ""
 "Suffix added to the applet name if the applet is autoloaded via DBus "
 "activation"
 msgid "%1 (Automatic load)"
 msgstr "%1 (താനേ ലോഡ് ചെയ്യുക)"
-
-#. +> stable5 plasma5lts
-#: systemtraymodel.cpp:158 systemtraymodel.cpp:196
-#, kde-format
-msgid " (Automatic load)"
-msgstr "(താനേ ലോഡ് ചെയ്യുക)"

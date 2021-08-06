@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-31 12:59+0100\n"
+"POT-Creation-Date: 2021-05-26 08:49+0200\n"
 "PO-Revision-Date: 2021-03-05 12:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -33,7 +33,7 @@ msgid "Your emails"
 msgstr "shijualexonline@gmail.com,snalledam@dataone.in"
 
 #. +> trunk5 stable5 plasma5lts
-#: fonts.cpp:67
+#: fonts.cpp:68
 #, kde-format
 msgid "Fonts"
 msgstr "അക്ഷരസഞ്ചയങ്ങൾ"
@@ -44,25 +44,18 @@ msgstr "അക്ഷരസഞ്ചയങ്ങൾ"
 msgid "Antonis Tsiapaliokas"
 msgstr "ആന്റോണിസ് സിയപലിയോകാസ്"
 
-#. i18n: ectx: label, entry (forceFontDPI), group (General)
-#. +> trunk5
-#: fontsaasettingsbase.kcfg:9
-#, fuzzy, kde-format
-msgid "Force font DPI on X11"
-msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
-
 #. i18n: ectx: label, entry (forceFontDPIWayland), group (General)
-#. +> stable5
+#. +> trunk5 stable5
 #: fontsaasettingsbase.kcfg:9
 #, fuzzy, kde-format
 msgid "Force font DPI Wayland"
 msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
 
 #. i18n: ectx: label, entry (forceFontDPI), group (General)
-#. +> stable5
+#. +> trunk5 stable5
 #: fontsaasettingsbase.kcfg:13
 #, fuzzy, kde-format
-msgid "Force font DPI X11"
+msgid "Force font DPI on X11"
 msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
 
 #. i18n: ectx: label, entry (font), group (General)
@@ -108,84 +101,77 @@ msgid "Window title font"
 msgstr "ജാലകത്തിനുള്ള തലക്കെട്ടു്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:469
+#: kxftconfig.cpp:467
 #, fuzzy, kde-format
 msgctxt "use system subpixel setting"
 msgid "Vendor default"
 msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:471
+#: kxftconfig.cpp:469
 #, fuzzy, kde-format
 msgctxt "no subpixel rendering"
 msgid "None"
 msgstr "ഒന്നുമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:473
+#: kxftconfig.cpp:471
 #, kde-format
 msgid "RGB"
 msgstr "ആര്‍ജിബി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:475
+#: kxftconfig.cpp:473
 #, kde-format
 msgid "BGR"
 msgstr "ബിജിആര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:477
+#: kxftconfig.cpp:475
 #, kde-format
 msgid "Vertical RGB"
 msgstr "വെര്‍ട്ടിക്കല്‍ ആര്‍ജിബി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:479
+#: kxftconfig.cpp:477
 #, kde-format
 msgid "Vertical BGR"
 msgstr "വെര്‍ട്ടിക്കല്‍ ബിജിആര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:507
+#: kxftconfig.cpp:505
 #, fuzzy, kde-format
 msgctxt "use system hinting settings"
 msgid "Vendor default"
 msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:509
+#: kxftconfig.cpp:507
 #, fuzzy, kde-format
 msgctxt "medium hinting"
 msgid "Medium"
 msgstr "മദ്ധ്യം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:511
+#: kxftconfig.cpp:509
 #, fuzzy, kde-format
 msgctxt "no hinting"
 msgid "None"
 msgstr "ഒന്നുമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:513
+#: kxftconfig.cpp:511
 #, fuzzy, kde-format
 msgctxt "slight hinting"
 msgid "Slight"
 msgstr "ചെറുതായി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:515
+#: kxftconfig.cpp:513
 #, fuzzy, kde-format
 msgctxt "full hinting"
 msgid "Full"
 msgstr "പൂര്‍ണ്ണം"
-
-#. +> trunk5 stable5
-#: package/contents/ui/ContextualHelpButton.qml:58
-#, kde-format
-msgctxt "@action:button"
-msgid "Show Contextual Help"
-msgstr "സന്ദർഭോചിത സഹായം കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:33
@@ -193,7 +179,13 @@ msgstr "സന്ദർഭോചിത സഹായം കാണിക്കു�
 msgid "This module lets you configure the system fonts."
 msgstr "സിസ്റ്റം അക്ഷരസഞ്ചയങ്ങൾ ക്രമീകരിക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
 
-#. +> trunk5 stable5
+#. +> trunk5
+#: package/contents/ui/main.qml:38
+#, kde-format
+msgid "Change Display Scaling…"
+msgstr ""
+
+#. +> stable5
 #: package/contents/ui/main.qml:38
 #, kde-format
 msgid "Change Display Scaling..."
@@ -225,7 +217,13 @@ msgid ""
 "scaling feature."
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5
+#: package/contents/ui/main.qml:95
+#, fuzzy, kde-format
+msgid "&Adjust All Fonts…"
+msgstr "എല്ലാ അക്ഷരസഞ്ചയങ്ങളും ആ&വശ്യാനുസൃതമാക്കുക..."
+
+#. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:95
 #, fuzzy, kde-format
 msgid "&Adjust All Fonts..."
@@ -237,7 +235,7 @@ msgstr "എല്ലാ അക്ഷരസഞ്ചയങ്ങളും ആ&വ
 msgid "General:"
 msgstr "സാധാരണ"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:109
 #, fuzzy, kde-format
 msgid "Select general font"
@@ -249,7 +247,7 @@ msgstr "സാധാരണ"
 msgid "Fixed width:"
 msgstr "തുല്ല്യ വീതി"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:121
 #, fuzzy, kde-format
 msgid "Select fixed width font"
@@ -261,7 +259,7 @@ msgstr "തുല്ല്യ വീതി"
 msgid "Small:"
 msgstr "ചെറിയ"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:133
 #, fuzzy, kde-format
 msgid "Select small font"
@@ -273,7 +271,7 @@ msgstr "ചെറിയ"
 msgid "Toolbar:"
 msgstr "ഉപകരണപട്ട"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:145
 #, fuzzy, kde-format
 msgid "Select toolbar font"
@@ -285,7 +283,7 @@ msgstr "ഉപകരണപട്ട"
 msgid "Menu:"
 msgstr "മെനു"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:157
 #, kde-format
 msgid "Select menu font"
@@ -297,7 +295,7 @@ msgstr ""
 msgid "Window title:"
 msgstr "ജാലകത്തിനുള്ള തലക്കെട്ടു്"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:168
 #, fuzzy, kde-format
 msgid "Select window title font"
@@ -386,13 +384,13 @@ msgid ""
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:372
+#: package/contents/ui/main.qml:369
 #, fuzzy, kde-format
 msgid "Force font DPI:"
 msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
 
 #. +> trunk5 stable5
-#: package/contents/ui/main.qml:400
+#: package/contents/ui/main.qml:411
 #, fuzzy, kde-kuit-format
 msgctxt "@info:tooltip Force fonts DPI"
 msgid ""
@@ -417,13 +415,21 @@ msgstr ""
 "അക്ഷരസഞ്ചയം മാറ്റുകയൊ അക്ഷരസഞ്ചയങ്ങളുടെ ക്രമീകരണം പരിശോധിക്കുക,</p>"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:406
+#: package/contents/ui/main.qml:417
 #, kde-format
 msgid "Select Font"
 msgstr ""
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: package/contents/ui/FontWidget.qml:65
 #, kde-format
 msgid "Select %1 Font..."
 msgstr ""
+
+#, fuzzy
+#~ msgid "Force font DPI X11"
+#~ msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
+
+#~ msgctxt "@action:button"
+#~ msgid "Show Contextual Help"
+#~ msgstr "സന്ദർഭോചിത സഹായം കാണിക്കുക"

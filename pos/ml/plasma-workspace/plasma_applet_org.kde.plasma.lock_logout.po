@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-22 10:47+0100\n"
+"POT-Creation-Date: 2021-05-26 08:49+0200\n"
 "PO-Revision-Date: 2021-03-05 12:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -27,25 +27,25 @@ msgctxt ""
 msgid "Show actions:"
 msgstr "പ്രവർത്തികൾ കാണിക്കുക:"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/ConfigGeneral.qml:49
 #, kde-format
 msgid "Logout"
 msgstr "പുറത്തിറങ്ങുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: contents/ui/ConfigGeneral.qml:51
 #, kde-format
 msgid "Leave"
 msgstr "പോവുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/ConfigGeneral.qml:55
 #, kde-format
 msgid "Shutdown"
 msgstr "അടയ്ക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/ConfigGeneral.qml:60
 #, kde-format
 msgid "Reboot"
@@ -65,14 +65,12 @@ msgstr "ഉപയോക്താവിനെ മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/ConfigGeneral.qml:75 contents/ui/data.js:46
-#: contents/ui/lockout.qml:123
 #, kde-format
 msgid "Hibernate"
 msgstr "ഹൈബർ‌നേറ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/ConfigGeneral.qml:80 contents/ui/data.js:39
-#: contents/ui/lockout.qml:139
 #, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
@@ -98,17 +96,23 @@ msgstr "മറ്റൊരു ഉപയോക്താവായി ഒരു സ
 
 #. +> trunk5
 #: contents/ui/data.js:18
+#, fuzzy, kde-format
+msgid "Shutdown…"
+msgstr "അടയ്ക്കുക"
+
+#. +> stable5
+#: contents/ui/data.js:18
 #, kde-format
 msgid "Shutdown..."
 msgstr "അടയ്ക്കുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/data.js:19
 #, kde-format
 msgid "Turn off the computer"
 msgstr "കമ്പ്യൂട്ടർ ഓഫാക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: contents/ui/data.js:16
 #, kde-format
 msgid "Log out, turn off or restart the computer"
@@ -116,17 +120,23 @@ msgstr "കമ്പ്യൂട്ടറിൽ നിന്ന് പുറത�
 
 #. +> trunk5
 #: contents/ui/data.js:25
+#, fuzzy, kde-format
+msgid "Restart…"
+msgstr "പുനരാരംഭിക്കുക..."
+
+#. +> stable5
+#: contents/ui/data.js:25
 #, kde-format
 msgid "Restart..."
 msgstr "പുനരാരംഭിക്കുക..."
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: contents/ui/data.js:15
 #, kde-format
 msgid "Leave..."
 msgstr "പോവുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/data.js:26
 #, kde-format
 msgid "Reboot the computer"
@@ -134,11 +144,17 @@ msgstr "കമ്പ്യൂട്ടർ പുനഃരാരംഭിക്�
 
 #. +> trunk5
 #: contents/ui/data.js:32
+#, fuzzy, kde-format
+msgid "Logout…"
+msgstr "പുറത്തിറങ്ങുക"
+
+#. +> stable5
+#: contents/ui/data.js:32
 #, kde-format
 msgid "Logout..."
 msgstr "പുറത്തിറങ്ങുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/data.js:33
 #, kde-format
 msgid "End the session"
@@ -156,26 +172,26 @@ msgstr "സ്ലീപ് (റാമിലേക്ക് സസ്‌പെൻ
 msgid "Hibernate (suspend to disk)"
 msgstr "ഹൈബർ‌നേറ്റ് (ഡിസ്കിലേക്ക് സസ്‌പെൻഡ് ചെയ്യുക)"
 
-#. +> trunk5 stable5 plasma5lts
-#: contents/ui/lockout.qml:124
+#. +> plasma5lts
+#: contents/ui/lockout.qml:126
 #, kde-format
 msgid "Do you want to suspend to disk (hibernate)?"
 msgstr "ഡിസ്കിലേക്ക് സസ്‌പെൻഡ് ചെയ്യാൻ നിങ്ങൾ‌ താൽ‌പ്പര്യപ്പെടുന്നോ (ഹൈബർ‌നേറ്റ്)?"
 
-#. +> trunk5 stable5 plasma5lts
-#: contents/ui/lockout.qml:127 contents/ui/lockout.qml:143
+#. +> plasma5lts
+#: contents/ui/lockout.qml:129 contents/ui/lockout.qml:145
 #, kde-format
 msgid "Yes"
 msgstr "അതെ"
 
-#. +> trunk5 stable5 plasma5lts
-#: contents/ui/lockout.qml:128 contents/ui/lockout.qml:144
+#. +> plasma5lts
+#: contents/ui/lockout.qml:130 contents/ui/lockout.qml:146
 #, kde-format
 msgid "No"
 msgstr "ഇല്ല"
 
-#. +> trunk5 stable5 plasma5lts
-#: contents/ui/lockout.qml:140
+#. +> plasma5lts
+#: contents/ui/lockout.qml:142
 #, kde-format
 msgid "Do you want to suspend to RAM (sleep)?"
 msgstr "റാമിലേക്ക് സസ്‌പെൻഡ് ചെയ്യാൻ നിങ്ങൾ ആഗ്രഹിക്കുന്നുണ്ടോ (സ്ലീപ്)?"

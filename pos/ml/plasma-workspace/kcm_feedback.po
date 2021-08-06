@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-24 08:54+0100\n"
+"POT-Creation-Date: 2021-06-03 10:47+0200\n"
 "PO-Revision-Date: 2020-11-25 19:54+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -32,13 +32,13 @@ msgid "Your emails"
 msgstr "vivekkj2004@gmail.com"
 
 #. +> trunk5 stable5 plasma5lts
-#: feedback.cpp:60
+#: feedback.cpp:57
 #, kde-format
 msgid "User Feedback"
 msgstr "ഉപയോക്തൃ അഭിപ്രായം"
 
 #. +> trunk5 stable5 plasma5lts
-#: feedback.cpp:61
+#: feedback.cpp:59
 #, kde-format
 msgid "Configure user feedback settings"
 msgstr "ഉപയോക്തൃ അഭിപ്രായ സജ്ജീകരണങ്ങൾ ക്രമീകരിക്കുക"
@@ -52,12 +52,32 @@ msgstr ""
 "ഉപയോക്തൃ അഭിപ്രായം കേന്ദ്രീകൃതമായി അപ്രാപ്‌തമാക്കി. നിങ്ങളുടെ വിതരണക്കാരനുമായി ബന്ധപ്പെടുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:50 package/contents/ui/main.qml:73
+#: package/contents/ui/main.qml:50 package/contents/ui/main.qml:75
 #, kde-format
 msgid "Plasma:"
 msgstr "പ്ലാസ്മ:"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5 stable5
+#: package/contents/ui/main.qml:57
+#, fuzzy, kde-kuit-format
+msgctxt "@info"
+msgid ""
+"You can help KDE improve Plasma by contributing information on how you use "
+"it, so we can focus on things that matter to you.<nl/><nl/>Contributing this "
+"information is optional and entirely anonymous. We never collect your "
+"personal data, files you use, websites you visit, or information that could "
+"identify you.<nl/><nl/>You can read about our privacy policy in the "
+"following link:"
+msgstr ""
+"നിങ്ങൾ എങ്ങനെ പ്ലാസ്മ ഉപയോഗിക്കുന്നുവെന്നതിനെക്കുറിച്ചുള്ള വിവരങ്ങൾ സംഭാവന ചെയ്യുന്നതിലൂടെ കെ."
+"ഡി.ഇയെ മെച്ചപ്പെടുത്താൻ നിങ്ങൾക്ക് സഹായിക്കാനാകും, അതിനാൽ നിങ്ങൾക്ക് പ്രാധാന്യമുള്ള "
+"കാര്യങ്ങളിൽ ഞങ്ങൾക്ക് ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ കഴിയും.<nl/><nl/>ഈ വിവരങ്ങൾ സംഭാവന ചെയ്യുന്നത് "
+"നിർബന്ധമല്ലാത്തതും, പൂർണ്ണമായും സ്വകാര്യമായതുമാണ്. നിങ്ങളുടെ സ്വകാര്യ ഡാറ്റ, നിങ്ങൾ "
+"ഉപയോഗിക്കുന്ന ഫയലുകൾ, നിങ്ങൾ സന്ദർശിക്കുന്ന വെബ്‌സൈറ്റുകൾ അല്ലെങ്കിൽ നിങ്ങളെ തിരിച്ചറിയാൻ "
+"കഴിയുന്ന വിവരങ്ങൾ ഞങ്ങൾ ഒരിക്കലും ശേഖരിക്കുന്നില്ല.<nl/><nl/>ഞങ്ങളുടെ നയം ചുവടെയുള്ള "
+"ലിങ്കിലൂടെ വായിക്കാം:"
+
+#. +> plasma5lts
 #: package/contents/ui/main.qml:54
 #, kde-kuit-format
 msgctxt "@info"
@@ -77,13 +97,13 @@ msgstr ""
 "ലിങ്കിലൂടെ വായിക്കാം:"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:109
+#: package/contents/ui/main.qml:111
 #, kde-format
 msgid "Plasma"
 msgstr "പ്ലാസ്മ"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:127
+#: package/contents/ui/main.qml:129
 #, kde-format
 msgid "The following information will be sent:"
 msgstr "ഈ പറയുന്ന വിവരങ്ങൾ അയക്കും:"

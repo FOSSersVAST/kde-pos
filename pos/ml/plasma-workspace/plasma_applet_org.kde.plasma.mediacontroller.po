@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-04 10:08+0100\n"
+"POT-Creation-Date: 2021-07-03 11:06+0200\n"
 "PO-Revision-Date: 2021-02-18 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,19 +40,19 @@ msgctxt "Remaining time for song e.g -5:42"
 msgid "-%1"
 msgstr "-%1"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/ExpandedRepresentation.qml:432
 #, kde-format
 msgid "Shuffle"
 msgstr "കലർത്തുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/ExpandedRepresentation.qml:486
 #, kde-format
 msgid "Repeat Track"
 msgstr "ട്രാക്ക് ആവർത്തിക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/ExpandedRepresentation.qml:486
 #, kde-format
 msgid "Repeat"
@@ -108,27 +108,27 @@ msgid "Quit"
 msgstr "പുറത്തുകടക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:288
+#: contents/ui/main.qml:294
 #, kde-format
 msgid "Choose player automatically"
 msgstr "പ്ലയർ സ്വയമേവ തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:319
+#: contents/ui/main.qml:331
 #, kde-format
 msgctxt "by Artist (player name)"
 msgid "by %1 (%2)"
 msgstr "%1 (%2) വക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:330
+#: contents/ui/main.qml:342
 #, kde-format
 msgctxt "by Artist (paused, player name)"
 msgid "by %1 (paused, %2)"
 msgstr "%1 ന്റെ (താത്കാലികമായി നിർത്തി, %2)"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:330
+#: contents/ui/main.qml:342
 #, kde-format
 msgctxt "Paused (player name)"
 msgid "Paused (%1)"

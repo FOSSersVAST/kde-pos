@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-05 09:51+0200\n"
+"POT-Creation-Date: 2021-05-26 08:50+0200\n"
 "PO-Revision-Date: 2020-11-30 16:14+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,13 +20,19 @@ msgstr ""
 "X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: appstreamrunner.cpp:44
+#: appstreamrunner.cpp:46
 #, kde-format
 msgid "Looks for non-installed components according to :q:"
 msgstr ":q: പ്രകാരം ഇൻസ്റ്റാൾ ചെയ്യാത്ത ഘടകങ്ങൾക്കായി തിരയുന്നു"
 
-#. +> trunk5 stable5 plasma5lts
-#: appstreamrunner.cpp:118
+#. +> trunk5
+#: appstreamrunner.cpp:140
+#, fuzzy, kde-format
+msgid "Get %1…"
+msgstr "%1 നേടുക..."
+
+#. +> stable5 plasma5lts
+#: appstreamrunner.cpp:140
 #, kde-format
 msgid "Get %1..."
 msgstr "%1 നേടുക..."

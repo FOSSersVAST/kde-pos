@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-21 08:57+0200\n"
+"POT-Creation-Date: 2021-04-19 10:55+0200\n"
 "PO-Revision-Date: 2020-11-25 19:54+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -18,25 +18,25 @@ msgstr ""
 "X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: webshortcutrunner.cpp:65
+#: webshortcutrunner.cpp:66
 #, kde-format
 msgid "Opens \"%1\" in a web browser with the query :q:."
 msgstr ":q: ചോദ്യവുമായി \"%1\" ഒരു വെബ് ബ്രൌസറിൽ തുറക്കുന്നു."
 
 #. +> trunk5 stable5
-#: webshortcutrunner.cpp:95
+#: webshortcutrunner.cpp:96
 #, kde-format
 msgid "Search in private window"
 msgstr "സ്വകാര്യ ജാലകത്തിൽ തിരയുക"
 
 #. +> trunk5 stable5
-#: webshortcutrunner.cpp:95
+#: webshortcutrunner.cpp:96
 #, kde-format
 msgid "Search in incognito window"
 msgstr "ആൾമാറാട്ട ജാലകത്തിൽ തിരയുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: webshortcutrunner.cpp:131 webshortcutrunner.cpp:148
+#: webshortcutrunner.cpp:132 webshortcutrunner.cpp:149
 #, kde-format
 msgid "Search %1 for %2"
 msgstr "%2നു വേണ്ടി %1 തിരയുക"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-04 10:02+0200\n"
+"POT-Creation-Date: 2021-05-26 08:49+0200\n"
 "PO-Revision-Date: 2020-11-30 16:14+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -36,3 +36,21 @@ msgstr "പ്രയോഗ വിഭവസൂചികയ്ക്കായി �
 #, kde-format
 msgid "Show full application menu"
 msgstr "മുഴുവൻ പ്രയോഗ വിഭവസൂചികയും പ്രദർശിപ്പിയ്ക്കുക"
+
+#. +> trunk5 stable5
+#: plugin/appmenumodel.cpp:101
+#, kde-format
+msgid "Search"
+msgstr ""
+
+#. +> stable5
+#: plugin/appmenumodel.cpp:108
+#, kde-format
+msgid "Search..."
+msgstr ""
+
+#. +> trunk5
+#: plugin/appmenumodel.cpp:108
+#, kde-format
+msgid "Search…"
+msgstr ""

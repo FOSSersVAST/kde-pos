@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-01 10:18+0100\n"
+"POT-Creation-Date: 2021-01-22 12:42+0100\n"
 "PO-Revision-Date: 2018-08-16 09:16+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -18,8 +18,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:44
+#. +> plasma5lts
+#: windowsrunner.cpp:45
 #, kde-format
 msgid ""
 "Finds windows whose name, window class or window role match :q:. It is "
@@ -28,8 +28,8 @@ msgid ""
 "above and keep below."
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:47
+#. +> plasma5lts
+#: windowsrunner.cpp:48
 #, kde-format
 msgid ""
 "Finds windows which are on desktop named :q: It is possible to interact with "
@@ -37,21 +37,21 @@ msgid ""
 "min(imize), max(imize), fullscreen, shade, keep above and keep below."
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:50
+#. +> plasma5lts
+#: windowsrunner.cpp:51
 #, kde-format
 msgid "Switch to desktop named :q:"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:51 windowsrunner.cpp:173
+#. +> plasma5lts
+#: windowsrunner.cpp:52 windowsrunner.cpp:174
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "window"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:52
+#. +> plasma5lts
+#: windowsrunner.cpp:53
 #, kde-format
 msgid ""
 "Lists all windows and allows to activate them. With name=, class=, role= and "
@@ -61,160 +61,160 @@ msgid ""
 "above and keep below."
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:57 windowsrunner.cpp:189 windowsrunner.cpp:251
+#. +> plasma5lts
+#: windowsrunner.cpp:58 windowsrunner.cpp:190 windowsrunner.cpp:252
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "desktop"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:58
+#. +> plasma5lts
+#: windowsrunner.cpp:59
 #, kde-format
 msgid "Lists all other desktops and allows to switch to them."
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:139 windowsrunner.cpp:141
+#. +> plasma5lts
+#: windowsrunner.cpp:140 windowsrunner.cpp:142
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "activate"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:142 windowsrunner.cpp:144
+#. +> plasma5lts
+#: windowsrunner.cpp:143 windowsrunner.cpp:145
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "close"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:145 windowsrunner.cpp:147
+#. +> plasma5lts
+#: windowsrunner.cpp:146 windowsrunner.cpp:148
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "min"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:148 windowsrunner.cpp:150
+#. +> plasma5lts
+#: windowsrunner.cpp:149 windowsrunner.cpp:151
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "minimize"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:151 windowsrunner.cpp:153
+#. +> plasma5lts
+#: windowsrunner.cpp:152 windowsrunner.cpp:154
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "max"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:154 windowsrunner.cpp:156
+#. +> plasma5lts
+#: windowsrunner.cpp:155 windowsrunner.cpp:157
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "maximize"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:157 windowsrunner.cpp:159
+#. +> plasma5lts
+#: windowsrunner.cpp:158 windowsrunner.cpp:160
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "fullscreen"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:160 windowsrunner.cpp:162
+#. +> plasma5lts
+#: windowsrunner.cpp:161 windowsrunner.cpp:163
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "shade"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:163 windowsrunner.cpp:165
+#. +> plasma5lts
+#: windowsrunner.cpp:164 windowsrunner.cpp:166
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "keep above"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:166 windowsrunner.cpp:168
+#. +> plasma5lts
+#: windowsrunner.cpp:167 windowsrunner.cpp:169
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "keep below"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:183
+#. +> plasma5lts
+#: windowsrunner.cpp:184
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "name"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:185
+#. +> plasma5lts
+#: windowsrunner.cpp:186
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "class"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:187
+#. +> plasma5lts
+#: windowsrunner.cpp:188
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "role"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:411
+#. +> plasma5lts
+#: windowsrunner.cpp:412
 #, kde-format
 msgid "Switch to desktop %1"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:435
+#. +> plasma5lts
+#: windowsrunner.cpp:436
 #, kde-format
 msgid "Close running window on %1"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:438
+#. +> plasma5lts
+#: windowsrunner.cpp:439
 #, kde-format
 msgid "(Un)minimize running window on %1"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:441
+#. +> plasma5lts
+#: windowsrunner.cpp:442
 #, kde-format
 msgid "Maximize/restore running window on %1"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:444
+#. +> plasma5lts
+#: windowsrunner.cpp:445
 #, kde-format
 msgid "Toggle fullscreen for running window on %1"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:447
+#. +> plasma5lts
+#: windowsrunner.cpp:448
 #, kde-format
 msgid "(Un)shade running window on %1"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:450
+#. +> plasma5lts
+#: windowsrunner.cpp:451
 #, kde-format
 msgid "Toggle keep above for running window on %1"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:453
+#. +> plasma5lts
+#: windowsrunner.cpp:454
 #, kde-format
 msgid "Toggle keep below running window on %1"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: windowsrunner.cpp:457
+#. +> plasma5lts
+#: windowsrunner.cpp:458
 #, kde-format
 msgid "Activate running window on %1"
 msgstr ""

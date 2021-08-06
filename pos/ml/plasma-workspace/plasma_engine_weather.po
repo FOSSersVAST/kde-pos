@@ -8,11 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_engine_weather\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-22 10:47+0100\n"
+"POT-Creation-Date: 2021-06-11 09:42+0200\n"
 "PO-Revision-Date: 2021-03-08 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3141,132 +3141,132 @@ msgid "Windy"
 msgstr "കാറ്റുള്ള"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:542
+#: ions/bbcukmet/ion_bbcukmet.cpp:530
 #, kde-format
 msgid "UK"
 msgstr "യുകെ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:543
+#: ions/bbcukmet/ion_bbcukmet.cpp:531
 #, kde-format
 msgid "USA"
 msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:998
+#: ions/bbcukmet/ion_bbcukmet.cpp:976
 #, kde-format
 msgctxt "Short for Today"
 msgid "Today"
 msgstr "ഇന്ന്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:999
+#: ions/bbcukmet/ion_bbcukmet.cpp:977
 #, kde-format
 msgctxt "Short for Tonight"
 msgid "Tonight"
 msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:1001 ions/envcan/ion_envcan.cpp:1583
+#: ions/bbcukmet/ion_bbcukmet.cpp:979 ions/envcan/ion_envcan.cpp:1564
 #, kde-format
 msgctxt "Short for Saturday"
 msgid "Sat"
 msgstr "ശനി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:1002 ions/envcan/ion_envcan.cpp:1584
+#: ions/bbcukmet/ion_bbcukmet.cpp:980 ions/envcan/ion_envcan.cpp:1565
 #, kde-format
 msgctxt "Short for Sunday"
 msgid "Sun"
 msgstr "ഞായര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:1003 ions/envcan/ion_envcan.cpp:1585
+#: ions/bbcukmet/ion_bbcukmet.cpp:981 ions/envcan/ion_envcan.cpp:1566
 #, kde-format
 msgctxt "Short for Monday"
 msgid "Mon"
 msgstr "തിങ്കള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:1004 ions/envcan/ion_envcan.cpp:1586
+#: ions/bbcukmet/ion_bbcukmet.cpp:982 ions/envcan/ion_envcan.cpp:1567
 #, kde-format
 msgctxt "Short for Tuesday"
 msgid "Tue"
 msgstr "ചൊവ്വ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:1005 ions/envcan/ion_envcan.cpp:1587
+#: ions/bbcukmet/ion_bbcukmet.cpp:983 ions/envcan/ion_envcan.cpp:1568
 #, kde-format
 msgctxt "Short for Wednesday"
 msgid "Wed"
 msgstr "ബുധന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:1006 ions/envcan/ion_envcan.cpp:1588
+#: ions/bbcukmet/ion_bbcukmet.cpp:984 ions/envcan/ion_envcan.cpp:1569
 #, kde-format
 msgctxt "Short for Thursday"
 msgid "Thu"
 msgstr "വ്യാഴം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:1007 ions/envcan/ion_envcan.cpp:1589
+#: ions/bbcukmet/ion_bbcukmet.cpp:985 ions/envcan/ion_envcan.cpp:1570
 #, kde-format
 msgctxt "Short for Friday"
 msgid "Fri"
 msgstr "വെള്ളി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:1026
+#: ions/bbcukmet/ion_bbcukmet.cpp:998
 #, kde-format
 msgctxt "credit line, keep string short"
 msgid "Data from BBC Weather"
 msgstr "ബിബിസി കാലാവസ്ഥയിൽ നിന്നുമുള്ള ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:928 ions/envcan/ion_envcan.cpp:930
-#: ions/envcan/ion_envcan.cpp:1434 ions/envcan/ion_envcan.cpp:1576
-#: ions/envcan/ion_envcan.cpp:1591 ions/noaa/ion_noaa.cpp:385
-#: ions/noaa/ion_noaa.cpp:573
+#: ions/envcan/ion_envcan.cpp:914 ions/envcan/ion_envcan.cpp:916
+#: ions/envcan/ion_envcan.cpp:1416 ions/envcan/ion_envcan.cpp:1557
+#: ions/envcan/ion_envcan.cpp:1573 ions/noaa/ion_noaa.cpp:378
+#: ions/noaa/ion_noaa.cpp:563
 #, kde-format
 msgid "N/A"
 msgstr "N/A"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1580
+#: ions/envcan/ion_envcan.cpp:1561
 #, kde-format
 msgid "day"
 msgstr "ദിവസം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1581
+#: ions/envcan/ion_envcan.cpp:1562
 #, kde-format
 msgctxt "Short for tonight"
 msgid "nite"
 msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1582
+#: ions/envcan/ion_envcan.cpp:1563
 #, kde-format
 msgctxt "Short for night, appended to the end of the weekday"
 msgid "nt"
 msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1619
+#: ions/envcan/ion_envcan.cpp:1594
 #, kde-format
 msgctxt "precipitation total, very little"
 msgid "Trace"
 msgstr "നാമമാത്രം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1646
+#: ions/envcan/ion_envcan.cpp:1620
 #, kde-format
 msgctxt "credit line, keep string short"
 msgid "Data from Environment and Climate Change Canada"
 msgstr "പരിസ്ഥിതി, കാലാവസ്ഥാ വ്യതിയാനം കാനഡയിൽ നിന്നുള്ള ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/noaa/ion_noaa.cpp:663
+#: ions/noaa/ion_noaa.cpp:646
 #, kde-format
 msgctxt "credit line, keep string short)"
 msgid "Data from NOAA National Weather Service"
@@ -3435,27 +3435,27 @@ msgid "n/a"
 msgstr "ലഭ്യമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:377
+#: ions/wetter.com/ion_wettercom.cpp:374
 #, kde-format
 msgctxt "Geographical location: city, state, ISO-country-code"
 msgid "%1, %2, %3"
 msgstr "%1, %2, %3"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:381
+#: ions/wetter.com/ion_wettercom.cpp:376
 #, kde-format
 msgctxt "Geographical location: quarter (city), state, ISO-country-code"
 msgid "%1 (%2), %3, %4"
 msgstr "%1 (%2), %3, %4"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:722
+#: ions/wetter.com/ion_wettercom.cpp:697
 #, kde-format
 msgid "Day"
 msgstr "ദിവസം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:734
+#: ions/wetter.com/ion_wettercom.cpp:707
 #, kde-format
 msgid "Night"
 msgstr "രാത്രി"

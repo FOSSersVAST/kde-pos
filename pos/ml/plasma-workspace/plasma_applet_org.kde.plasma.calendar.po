@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-11-25 08:04+0100\n"
+"POT-Creation-Date: 2021-01-22 12:42+0100\n"
 "PO-Revision-Date: 2020-11-30 16:14+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -58,19 +58,19 @@ msgctxt "Show the week number (eg. 50) in the icon"
 msgid "Show week number"
 msgstr "ആഴ്ച അക്കം കാണിക്കുക"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: package/contents/ui/configAgenda.qml:38
 #, kde-format
 msgid "Working Day"
 msgstr "പ്രവൃത്തി ദിനം"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: package/contents/ui/configAgenda.qml:44
 #, kde-format
 msgid "Starts at 9"
 msgstr "9ൽ തുടങ്ങുന്നു"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: package/contents/ui/configAgenda.qml:49
 #, kde-format
 msgid "Ends at 5"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-25 14:58+0100\n"
+"POT-Creation-Date: 2021-07-30 08:46+0200\n"
 "PO-Revision-Date: 2020-11-30 17:15+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,20 +19,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.3.2\n"
 
-#. +> trunk5 stable5
-#: servicerunner.cpp:299
+#. +> stable5
+#: servicerunner.cpp:306
 #, kde-format
 msgid "System Information"
 msgstr "സിസ്റ്റം വിവരങ്ങൾ"
 
-#. +> trunk5 stable5 plasma5lts
-#: servicerunner.cpp:301
+#. +> stable5 plasma5lts
+#: servicerunner.cpp:308
 #, kde-format
 msgid "System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: servicerunner.cpp:385
+#: servicerunner.cpp:378
 #, kde-format
 msgctxt ""
 "Jump list search result, %1 is action (eg. open new tab), %2 is application "
@@ -40,14 +40,14 @@ msgctxt ""
 msgid "%1 - %2"
 msgstr "%1 - %2"
 
-#. +> trunk5 stable5 plasma5lts
-#: servicerunner.cpp:423
-#, kde-format
-msgid "Finds applications whose name or description match :q:"
-msgstr ":q: വുമായി പേരോ വിവരണമോ പൊരുത്തപ്പെടുന്ന പ്രയോഗങ്ങൾ കണ്ടെത്തുന്നു"
-
-#. +> stable5 plasma5lts
-#: servicerunner.cpp:426 servicerunner.cpp:431
+#. +> plasma5lts
+#: servicerunner.cpp:401 servicerunner.cpp:408
 #, kde-format
 msgid "Applications"
 msgstr "പ്രയോഗങ്ങൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: servicerunner.cpp:418
+#, kde-format
+msgid "Finds applications whose name or description match :q:"
+msgstr ":q: വുമായി പേരോ വിവരണമോ പൊരുത്തപ്പെടുന്ന പ്രയോഗങ്ങൾ കണ്ടെത്തുന്നു"

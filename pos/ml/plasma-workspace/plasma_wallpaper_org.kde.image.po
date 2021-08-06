@@ -5,11 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-18 09:43+0100\n"
+"POT-Creation-Date: 2021-07-10 10:09+0200\n"
 "PO-Revision-Date: 2021-03-05 12:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,25 +18,25 @@ msgstr ""
 "X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: image.cpp:250
+#: image.cpp:246
 #, kde-format
 msgid "Recommended wallpaper file"
 msgstr "ശുപാർശ ചെയ്യുന്ന പശ്ചാത്തലചിത്ര ഫയൽ"
 
 #. +> trunk5 stable5 plasma5lts
-#: image.cpp:413
+#: image.cpp:407
 #, kde-format
 msgid "Directory with the wallpaper to show slides from"
 msgstr "സ്ലൈഡുകൾ കാണിക്കുന്നതിന് പശ്ചാത്തലചിത്രമുള്ള കൂട"
 
 #. +> trunk5 stable5 plasma5lts
-#: image.cpp:715
+#: image.cpp:709
 #, kde-format
 msgid "Open Image"
 msgstr "ചിത്രം തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: image.cpp:717
+#: image.cpp:709
 #, kde-format
 msgid "Image Files"
 msgstr "ചിത്ര ഫയലുകൾ"
@@ -191,15 +191,28 @@ msgstr "അറ തുറക്കുക"
 msgid "There are no wallpaper locations configured"
 msgstr "പശ്ചാത്തലചിത്ര സ്ഥാനങ്ങളൊന്നും സജ്ജമാക്കിയിട്ടില്ല"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5
 #: imagepackage/contents/ui/config.qml:374
+#, fuzzy, kde-format
+msgid "Add Folder…"
+msgstr "അറ ചേര്‍ക്കുക..."
+
+#. +> stable5 plasma5lts
+#: imagepackage/contents/ui/config.qml:375
 #, kde-format
 msgid "Add Folder..."
 msgstr "അറ ചേര്‍ക്കുക..."
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5
 #: imagepackage/contents/ui/config.qml:380
-#: imagepackage/contents/ui/config.qml:471
+#: imagepackage/contents/ui/config.qml:476
+#, fuzzy, kde-format
+msgid "Get New Wallpapers…"
+msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
+
+#. +> stable5 plasma5lts
+#: imagepackage/contents/ui/config.qml:381
+#: imagepackage/contents/ui/config.qml:473
 #, kde-format
 msgid "Get New Wallpapers..."
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
@@ -210,8 +223,14 @@ msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള�
 msgid "There are no wallpapers in this slideshow"
 msgstr "ഈ സ്ലൈഡ്ഷോയിൽ പശ്ചാത്തലചിത്രങ്ങൾ ഇല്ല"
 
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:465
+#. +> trunk5
+#: imagepackage/contents/ui/config.qml:470
+#, fuzzy, kde-format
+msgid "Add Image…"
+msgstr "ചിത്രം ചേർക്കുക..."
+
+#. +> stable5 plasma5lts
+#: imagepackage/contents/ui/config.qml:467
 #, kde-format
 msgid "Add Image..."
 msgstr "ചിത്രം ചേർക്കുക..."
@@ -253,20 +272,71 @@ msgstr "പശ്ചാത്തലചിത്രം പുനഃസ്ഥാ�
 msgid "Remove Wallpaper"
 msgstr "പശ്ചാത്തലചിത്രം കളയുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/platformcontents/phone/ui/config.qml:82
+#. +> trunk5 stable5
+#: plasma-apply-wallpaperimage.cpp:41
+#, kde-format
+msgid ""
+"This tool allows you to set an image as the wallpaper for the Plasma session."
+msgstr ""
+
+#. +> trunk5 stable5
+#: plasma-apply-wallpaperimage.cpp:43
+#, kde-format
+msgid ""
+"An image file or an installed wallpaper kpackage that you wish to set as the "
+"wallpaper for your Plasma session"
+msgstr ""
+
+#. +> trunk5 stable5
+#: plasma-apply-wallpaperimage.cpp:57
+#, kde-format
+msgid ""
+"There is a stray single quote in the filename of this wallpaper (') - please "
+"contact the author of the wallpaper to fix this, or rename the file "
+"yourself: %1"
+msgstr ""
+
+#. +> trunk5 stable5
+#: plasma-apply-wallpaperimage.cpp:94
+#, kde-format
+msgid "An error occurred while attempting to set the Plasma wallpaper:\n"
+msgstr ""
+
+#. +> trunk5 stable5
+#: plasma-apply-wallpaperimage.cpp:98
+#, kde-format
+msgid ""
+"Successfully set the wallpaper for all desktops to the KPackage based %1"
+msgstr ""
+
+#. +> trunk5 stable5
+#: plasma-apply-wallpaperimage.cpp:100
+#, kde-format
+msgid "Successfully set the wallpaper for all desktops to the image %1"
+msgstr ""
+
+#. +> trunk5 stable5
+#: plasma-apply-wallpaperimage.cpp:106
+#, kde-format
+msgid ""
+"The file passed to be set as wallpaper does not exist, or we cannot identify "
+"it as a wallpaper: %1"
+msgstr ""
+
+#. +> plasma5lts
+#: imagepackage/platformcontents/phone/ui/config.qml:80
 #, kde-format
 msgid "Add Custom Wallpaper"
 msgstr "ഇച്ഛാനുസൃത പശ്ചാത്തലചിത്രം ചേർക്കുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:95
+#. +> plasma5lts
+#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:89
 #, kde-format
 msgid "Remove wallpaper"
 msgstr "പശ്ചാത്തലചിത്രം കളയുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:123
+#. +> plasma5lts
+#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:119
 #, kde-format
 msgid "%1 by %2"
 msgstr "%1 %2 വക"

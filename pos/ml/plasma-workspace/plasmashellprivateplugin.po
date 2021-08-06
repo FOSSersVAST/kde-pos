@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-31 12:59+0100\n"
+"POT-Creation-Date: 2021-07-04 14:27+0200\n"
 "PO-Revision-Date: 2020-11-30 16:14+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,13 +19,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.3.2\n"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "വിവേക് കെ ജെ"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -60,7 +60,7 @@ msgid "Sets the minutes after which the screen is locked."
 msgstr "സ്‌ക്രീൻ ലോക്കുചെയ്‌തതിന് ശേഷം മിനിറ്റുകൾ സജ്ജമാക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
-#: sessionsprivate/sessionsmodel.cpp:253 sessionsprivate/sessionsmodel.cpp:255
+#: sessionsprivate/sessionsmodel.cpp:249 sessionsprivate/sessionsmodel.cpp:253
 #, kde-format
 msgid "New Session"
 msgstr "പുതിയ സെഷൻ"
@@ -116,67 +116,67 @@ msgid "Use"
 msgstr "ഉപയോഗം"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/interactiveconsole/interactiveconsole.cpp:164
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:163
 #, kde-format
 msgid "Output"
 msgstr "ഉത്പന്നം"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/interactiveconsole/interactiveconsole.cpp:272
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:270
 #, kde-format
 msgid "Unable to load script file <b>%1</b>"
 msgstr "<b>%1</b> സ്ക്രിപ്റ്റ് ഫയൽ ലോഡുചെയ്യാനായില്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/interactiveconsole/interactiveconsole.cpp:322
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:320
 #, kde-format
 msgid "Open Script File"
 msgstr "സ്ക്രിപ്റ്റ് ഫയൽ തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/interactiveconsole/interactiveconsole.cpp:438
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:435
 #, kde-format
 msgid "Save Script File"
 msgstr "സ്ക്രിപ്റ്റ് ഫയൽ സേവ് ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/interactiveconsole/interactiveconsole.cpp:530
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:527
 #, kde-format
 msgid "Executing script at %1"
 msgstr "സ്ക്രിപ്റ്റ് %1 ൽ പ്രവർത്തിപ്പിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/interactiveconsole/interactiveconsole.cpp:568
+#: shellprivate/interactiveconsole/interactiveconsole.cpp:566
 #, no-c-format, kde-format
 msgid "Runtime: %1ms"
 msgstr "പ്രവർത്തനസമയം: %1ms"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/widgetexplorer/kcategorizeditemsviewmodels.cpp:73
+#: shellprivate/widgetexplorer/kcategorizeditemsviewmodels.cpp:71
 #, kde-format
 msgid "Filters"
 msgstr "അരിപ്പകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/widgetexplorer/openwidgetassistant.cpp:60
+#: shellprivate/widgetexplorer/openwidgetassistant.cpp:57
 #, kde-format
 msgid "Select Plasmoid File"
 msgstr "പ്ലാസ്മോയിഡ് ഫയൽ തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/widgetexplorer/openwidgetassistant.cpp:84
+#: shellprivate/widgetexplorer/openwidgetassistant.cpp:81
 #, kde-format
 msgid "Installing the package %1 failed."
 msgstr "%1 പാക്കേജ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് പരാജയപ്പെട്ടു."
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/widgetexplorer/openwidgetassistant.cpp:85
+#: shellprivate/widgetexplorer/openwidgetassistant.cpp:81
 #, kde-format
 msgid "Installation Failure"
 msgstr "ഇൻസ്റ്റാളേഷൻ പരാജയം"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/widgetexplorer/widgetexplorer.cpp:122
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:123
 #, kde-format
 msgid "All Widgets"
 msgstr "എല്ലാ വിഡ്ജറ്റുകളും"
@@ -200,19 +200,24 @@ msgid "Categories:"
 msgstr "വിഭാഗങ്ങള്‍:"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellprivate/widgetexplorer/widgetexplorer.cpp:217
-#: shellprivate/widgetexplorer/widgetexplorer.cpp:479
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:213
 #, kde-format
 msgid "Download New Plasma Widgets"
 msgstr "പുതിയ പ്ലാസ്മ വിഡ്ജറ്റുകൾ ഡൗെൺലോഡ് ചെയ്യുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: shellprivate/widgetexplorer/widgetexplorer.cpp:227
+#. +> trunk5
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:222
+#, fuzzy, kde-format
+msgid "Install Widget From Local File…"
+msgstr "തദ്ദേശ ഫയലിൽ നിന്ന് വിഡ്ജറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുക..."
+
+#. +> stable5 plasma5lts
+#: shellprivate/widgetexplorer/widgetexplorer.cpp:222
 #, kde-format
 msgid "Install Widget From Local File..."
 msgstr "തദ്ദേശ ഫയലിൽ നിന്ന് വിഡ്ജറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുക..."
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: shellprivate/wallpaperplugin/wallpaperplugin.cpp:45
 #, kde-format
 msgid "Download Wallpaper Plugins"
