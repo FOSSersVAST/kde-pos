@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-pos_path=$(realpath l10n-kf5/ml)
-upstream_path=$(realpath upstream/l10n-kf5-summit/ml)
-upstream_template_path=$(realpath upstream/l10n-kf5-summit/templates)
+pos_path=$(realpath pos/ml)
+upstream_path=$(realpath upstream/summit/ml)
+upstream_template_path=$(realpath upstream/summit/templates)
 
 pos=$(find $pos_path -name *.po -type f)
 for po_path in $pos; do
