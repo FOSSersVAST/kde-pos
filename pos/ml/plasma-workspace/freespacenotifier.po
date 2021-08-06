@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: freespacenotifier trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
-"PO-Revision-Date: 2020-11-19 18:30+0000\n"
+"PO-Revision-Date: 2021-08-07 20:47+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.0.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:95 freespacenotifier.cpp:106 freespacenotifier.cpp:127
@@ -32,9 +32,9 @@ msgstr "ഹോം അറയില്‍ ബാക്കിയുള്ള സ്
 
 #. +> trunk5
 #: freespacenotifier.cpp:102
-#, fuzzy, kde-format
+#, kde-format
 msgid "Configure Warning…"
-msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക..."
+msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക…"
 
 #. +> stable5
 #: freespacenotifier.cpp:102
