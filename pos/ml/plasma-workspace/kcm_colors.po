@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-03 10:47+0200\n"
 "PO-Revision-Date: 2021-08-08 17:51+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: Abin <abin.gecb@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -153,6 +153,8 @@ msgstr ""
 msgid ""
 "Makes the dialog transient for another application window specified by handle"
 msgstr ""
+"ഹാൻഡിൽ വഴി വ്യക്തമാക്കിയിട്ടുള്ള മറ്റൊരു ആപ്ലിക്കേഷൻ ജാലകത്തിനായി ഡയലോഗ് "
+"ക്ഷണികമാക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: editor/kcolorschemeeditor.cpp:68
@@ -197,7 +199,7 @@ msgstr "പുഷ് ബട്ടണ്‍"
 #: editor/preview.ui:123
 #, kde-format
 msgid "Selection Normal Text against Selection Normal Background"
-msgstr ""
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്ന് സാധാരണ പദാവലി തിരഞ്ഞെടുക്കപ്പെട്ടു"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QLabel, labelSelection0)
@@ -213,7 +215,7 @@ msgstr "തെരഞ്ഞെടുത്ത പദാവലി"
 #: editor/preview.ui:138
 #, kde-format
 msgid "Selection Link Text against Selection Normal Background"
-msgstr ""
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്ന് ചങ്ങലക്കണ്ണി പദാവലി തിരഞ്ഞെടുക്കപ്പെട്ടു"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -231,7 +233,7 @@ msgstr "കണ്ണി"
 #: editor/preview.ui:153
 #, kde-format
 msgid "Selection Visited Text against Selection Normal Background"
-msgstr ""
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്ന് സന്ദർശിച്ച പദാവലി തിരഞ്ഞെടുക്കപ്പെട്ടു"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -1312,9 +1314,9 @@ msgstr "&നിറക്കൂട്ടു്"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:112
-#, fuzzy, kde-format
+#, kde-format
 msgid "Dark Schemes"
-msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക..."
+msgstr "ഇരുണ്ട സ്കീമുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:172
@@ -1368,9 +1370,9 @@ msgstr "പ്രവര്‍ത്തനരഹിതം"
 
 #. +> trunk5
 #: package/contents/ui/main.qml:277
-#, fuzzy, kde-format
+#, kde-format
 msgid "Edit Color Scheme…"
-msgstr "നിറക്കൂട്ടു് എടുക്കുക..."
+msgstr "നിറക്കൂട്ടു് ചിട്ടപെടുത്തുക…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:277
