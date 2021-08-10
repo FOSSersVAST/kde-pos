@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: plasma_applet_devicenotifier trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-07-19 10:08+0200\n"
-"PO-Revision-Date: 2021-03-08 13:23+0000\n"
+"PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5
 #: package/contents/ui/DeviceItem.qml:184
@@ -35,12 +35,12 @@ msgstr "%1 ലഭ്യമാണ്"
 
 #. +> trunk5
 #: package/contents/ui/DeviceItem.qml:188
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "Accessing is a less technical word for Mounting; translation should be short "
 "and mean 'Currently mounting this device'"
 msgid "Accessing…"
-msgstr "സമീപിക്കുന്നു..."
+msgstr "സമീപിക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/DeviceItem.qml:179
@@ -53,12 +53,12 @@ msgstr "സമീപിക്കുന്നു..."
 
 #. +> trunk5
 #: package/contents/ui/DeviceItem.qml:190
-#, fuzzy, kde-format
+#, kde-format
 msgctxt ""
 "Removing is a less technical word for Unmounting; translation should be "
 "short and mean 'Currently unmounting this device'"
 msgid "Removing…"
-msgstr "ഒഴിവാക്കുന്നു..."
+msgstr "ഒഴിവാക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/DeviceItem.qml:181
@@ -192,10 +192,10 @@ msgstr "പുതിയ ഉപകരണം ബന്ധിപ്പിക്ക�
 
 #. +> trunk5
 #: package/contents/ui/devicenotifier.qml:274
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Open auto mounter kcm"
 msgid "Configure Removable Devices…"
-msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങൾ കോൺഫിഗർ ചെയ്യുക"
+msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങൾ ക്രമീകരിക്കുക…"
 
 #. +> plasma5lts
 #: package/contents/ui/devicenotifier.qml:239
