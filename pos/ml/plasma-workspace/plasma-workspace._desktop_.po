@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-06 10:01+0200\n"
-"PO-Revision-Date: 2021-03-06 14:23+0000\n"
+"PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/activitybar/metadata.desktop:2
@@ -177,13 +177,13 @@ msgstr "പൂട്ടുക;പുറത്തിറങ്ങുക;ഉറങ�
 #: applets/manage-inputmethod/metadata.desktop:2
 msgctxt "Name"
 msgid "Input Method"
-msgstr ""
+msgstr "നിവേശന രീതി"
 
 #. +> trunk5
 #: applets/manage-inputmethod/metadata.desktop:26
 msgctxt "Comment"
 msgid "Manage your Input Methods"
-msgstr ""
+msgstr "നിങ്ങളുടെ നിവേശന രീതികൾ കൈകാര്യം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: applets/mediacontroller/metadata.desktop:2
@@ -514,10 +514,9 @@ msgstr "പുതിയ ഡിവൈസ് അറിയിക്കുന്ന�
 
 #. +> trunk5 stable5
 #: dataengines/devicenotifications/devicenotifications.notifyrc:82
-#, fuzzy
 msgctxt "Name"
 msgid "Device Status"
-msgstr "ഡിവൈസിനെപറ്റിയുള്ള അറിയിപ്പുകള്‍"
+msgstr "ഉപകരണ നില"
 
 #. +> trunk5 stable5 plasma5lts
 #: dataengines/devicenotifications/plasma-dataengine-devicenotifications.desktop:2
@@ -891,14 +890,13 @@ msgstr "ജിമെനുഡിബസ്‍മെനുപ്രോക്സി
 #: kcms/autostart/package/metadata.desktop:2
 msgctxt "Name"
 msgid "Autostart"
-msgstr ""
+msgstr "സ്വയം തുടങ്ങുന്നവ"
 
 #. +> trunk5 stable5
 #: kcms/autostart/package/metadata.desktop:35
-#, fuzzy
 msgctxt "Comment"
 msgid "Automatically Started Applications"
-msgstr "പ്രയോഗങ്ങളെ ഇല്ലാതാക്കുക"
+msgstr "താനേ തുടങ്ങിയ പ്രയോഗങ്ങൾ"
 
 #. +> trunk5 stable5
 #: kcms/autostart/package/metadata.desktop:77
@@ -1003,10 +1001,9 @@ msgstr "പ്ലാസ്മ തീം തിരഞ്ഞെടുക്കു�
 
 #. +> trunk5 stable5
 #: kcms/desktoptheme/plasma-themes.knsrc:2
-#, fuzzy
 msgctxt "Name"
 msgid "Plasma Themes"
-msgstr "പ്ലാസ്മ ഷെൽ"
+msgstr "പ്ലാസ്മ തീമുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/feedback/kcm_feedback.desktop:12
@@ -1056,13 +1053,13 @@ msgstr ""
 #: kcms/formats/formats.desktop:13
 msgctxt "Name"
 msgid "Formats"
-msgstr ""
+msgstr "ഫോർമാറ്റുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/formats/formats.desktop:45
 msgctxt "Comment"
 msgid "Numeric, Currency and Time Formats"
-msgstr ""
+msgstr "സംഖ്യ, കറൻസി, സമയ ഫോർമാറ്റുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/formats/formats.desktop:78
@@ -1188,10 +1185,9 @@ msgstr "പൊതു തീമുകൾ"
 #. +> trunk5 stable5
 #: kcms/nightcolor/kcm_nightcolor.desktop:15
 #: kcms/nightcolor/package/metadata.desktop:2
-#, fuzzy
 msgctxt "Name"
 msgid "Night Color"
-msgstr "പ്ലെയിൻ നിറം"
+msgstr "രാത്രി നിറം"
 
 #. +> trunk5 stable5
 #: kcms/nightcolor/kcm_nightcolor.desktop:47
@@ -1199,6 +1195,7 @@ msgstr "പ്ലെയിൻ നിറം"
 msgctxt "Comment"
 msgid "Adjust color temperature at night to reduce eye strain"
 msgstr ""
+"കണ്ണിന്റെ ബുദ്ധിമുട്ട് കുറയ്ക്കുന്നതിന് രാത്രിയിൽ വർണ്ണ താപനില ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5
 #: kcms/nightcolor/kcm_nightcolor.desktop:79
@@ -1209,10 +1206,9 @@ msgstr ""
 #. +> trunk5 stable5
 #: kcms/notifications/kcm_notifications.desktop:101
 #: kcms/notifications/package/metadata.desktop:90
-#, fuzzy
 msgctxt "Comment"
 msgid "Event Notifications and Actions"
-msgstr "അറിയിപ്പുകളും പ്രവര്‍ത്തനങ്ങളും കാണിക്കുക"
+msgstr "സംഭവ അറിയിപ്പുകളും പ്രവര്‍ത്തനങ്ങളും"
 
 #. +> trunk5 stable5
 #: kcms/style/gtk_themes.knsrc:2
@@ -2251,10 +2247,9 @@ msgstr "മാറുന്ന പശ്ചാത്തലചിത്രം"
 
 #. +> trunk5 stable5
 #: wallpapers/image/wallpaper-mobile.knsrc:2 wallpapers/image/wallpaper.knsrc:2
-#, fuzzy
 msgctxt "Name"
 msgid "Wallpapers"
-msgstr "പശ്ചാത്തലചിത്രം"
+msgstr "പശ്ചാത്തലചിത്രങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: xembed-sni-proxy/xembedsniproxy.desktop:3
