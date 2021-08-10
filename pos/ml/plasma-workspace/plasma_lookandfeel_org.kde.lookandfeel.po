@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: plasma_lookandfeel_org.kde.lookandfeel\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-30 09:01+0200\n"
-"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: ../sddm-theme/KeyboardButton.qml:13
@@ -67,10 +67,10 @@ msgstr "ഷട്ട് ഡൌൺ"
 
 #. +> trunk5
 #: ../sddm-theme/Main.qml:239
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "For switching to a username and password prompt"
 msgid "Other…"
-msgstr "മറ്റുള്ളവ..."
+msgstr "മറ്റുള്ളവ…"
 
 #. +> stable5 plasma5lts
 #: ../sddm-theme/Main.qml:239
@@ -355,9 +355,9 @@ msgstr "തിരയൽ പ്ലഗിനുകൾ ക്രമീകരിക�
 
 #. +> trunk5
 #: contents/runcommand/RunCommand.qml:89
-#, fuzzy, kde-format
+#, kde-format
 msgid "Configure KRunner…"
-msgstr "KRunner ക്രമീകരിക്കുക..."
+msgstr "KRunner ക്രമീകരിക്കുക…"
 
 #. +> stable5 plasma5lts
 #: contents/runcommand/RunCommand.qml:89
@@ -367,10 +367,10 @@ msgstr "KRunner ക്രമീകരിക്കുക..."
 
 #. +> trunk5
 #: contents/runcommand/RunCommand.qml:103
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Textfield placeholder text, query specific KRunner"
 msgid "Search '%1'…"
-msgstr "'%1' തിരയുക..."
+msgstr "'%1' തിരയുക…"
 
 #. +> stable5 plasma5lts
 #: contents/runcommand/RunCommand.qml:103
@@ -381,10 +381,10 @@ msgstr "'%1' തിരയുക..."
 
 #. +> trunk5
 #: contents/runcommand/RunCommand.qml:105
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Textfield placeholder text"
 msgid "Search…"
-msgstr "തിരയുക..."
+msgstr "തിരയുക…"
 
 #. +> stable5 plasma5lts
 #: contents/runcommand/RunCommand.qml:105
