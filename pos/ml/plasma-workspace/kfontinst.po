@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kfontinst\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-07-30 08:46+0200\n"
-"PO-Revision-Date: 2021-03-08 13:23+0000\n"
+"PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
@@ -84,9 +84,9 @@ msgstr "അച്ചടിയ്ക്കുക"
 
 #. +> trunk5
 #: apps/Printer.cpp:326 kcmfontinst/DuplicatesDialog.cpp:228
-#, fuzzy, kde-format
+#, kde-format
 msgid "Canceling…"
-msgstr "റദ്ദാക്കുന്നു..."
+msgstr "റദ്ദാക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: apps/Printer.cpp:318 kcmfontinst/DuplicatesDialog.cpp:222
@@ -172,9 +172,9 @@ msgstr "ആവര്‍ത്തന അക്ഷരസഞ്ചയങ്ങള�
 
 #. +> trunk5
 #: kcmfontinst/DuplicatesDialog.cpp:94
-#, fuzzy, kde-format
+#, kde-format
 msgid "Scanning for duplicate fonts. Please wait…"
-msgstr "ആവര്‍ത്തന അക്ഷരസഞ്ചയങ്ങള്‍ക്കായി തെരയുന്നു. ദയവായി കാത്തിരിയ്ക്കുക..."
+msgstr "ആവര്‍ത്തന അക്ഷരസഞ്ചയങ്ങള്‍ക്കായി തെരയുന്നു. ദയവായി കാത്തിരിക്കുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/DuplicatesDialog.cpp:94
@@ -342,9 +342,9 @@ msgstr "ചിഹ്നം/മറ്റുള്ളവ"
 
 #. +> trunk5
 #: kcmfontinst/FontFilter.cpp:283 kcmfontinst/FontFilter.cpp:351
-#, fuzzy, kde-format
+#, kde-format
 msgid "Filter by %1…"
-msgstr "%1 പ്രകാരം അരിക്കുക..."
+msgstr "%1 പ്രകാരം അരിക്കുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/FontFilter.cpp:281 kcmfontinst/FontFilter.cpp:347
@@ -388,9 +388,9 @@ msgstr ""
 
 #. +> trunk5
 #: kcmfontinst/FontList.cpp:973 kcmfontinst/FontList.cpp:997
-#, fuzzy, kde-format
+#, kde-format
 msgid "…plus %1 more"
-msgstr "...കൂടാതെ %1 കൂടി"
+msgstr "…കൂടാതെ %1 കൂടി"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/FontList.cpp:918 kcmfontinst/FontList.cpp:939
@@ -426,9 +426,9 @@ msgstr "പ്രവര്‍ത്തന രഹിതമാക്കുക"
 
 #. +> trunk5
 #: kcmfontinst/FontList.cpp:1331 kcmfontinst/GroupList.cpp:814
-#, fuzzy, kde-format
+#, kde-format
 msgid "Print…"
-msgstr "അച്ചടിയ്ക്കുക"
+msgstr "അച്ചടിയ്ക്കുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/FontList.cpp:1248 kcmfontinst/GroupList.cpp:777
@@ -564,9 +564,9 @@ msgstr "<qt><b>'%1'</b> എന്ന പേരില്‍ ഒരു കൂട�
 
 #. +> trunk5
 #: kcmfontinst/GroupList.cpp:810
-#, fuzzy, kde-format
+#, kde-format
 msgid "Rename…"
-msgstr "പേരു് മാറ്റുക..."
+msgstr "പേര് മാറ്റുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/GroupList.cpp:773
@@ -576,9 +576,9 @@ msgstr "പേരു് മാറ്റുക..."
 
 #. +> trunk5
 #: kcmfontinst/GroupList.cpp:819
-#, fuzzy, kde-format
+#, kde-format
 msgid "Export…"
-msgstr "എക്സ്പോർട്ട്..."
+msgstr "എക്സ്പോർട്ട്…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/GroupList.cpp:781
@@ -688,9 +688,9 @@ msgstr "പ്രവര്‍ത്തന രഹിതമാക്കുന്�
 
 #. +> trunk5
 #: kcmfontinst/JobRunner.cpp:393
-#, fuzzy, kde-format
+#, kde-format
 msgid "Updating font configuration. Please wait…"
-msgstr "അക്ഷരസഞ്ചയം ക്രമീകരണം പരിഷ്കരിക്കുന്നു. ദയവായി കാത്തിരിയ്ക്കുക..."
+msgstr "അക്ഷരസഞ്ചയക്രമീകരണം പരിഷ്കരിക്കുന്നു. ദയവായി കാത്തിരിയ്ക്കുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/JobRunner.cpp:389
@@ -827,15 +827,15 @@ msgstr "രചയിതാവും പാലകനും"
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:220
-#, fuzzy, kde-format
+#, kde-format
 msgid "Create New Group…"
-msgstr "പുതിയ കൂട്ടമുണ്ടാക്കുക"
+msgstr "പുതിയ കൂട്ടമുണ്ടാക്കുക…"
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:222
-#, fuzzy, kde-format
+#, kde-format
 msgid "Remove Group…"
-msgstr "കൂട്ടം നീക്കം ചെയ്യുക"
+msgstr "കൂട്ടം നീക്കം ചെയ്യുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:221
@@ -845,9 +845,9 @@ msgstr "കൂട്ടം നീക്കം ചെയ്യുക..."
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:224
-#, fuzzy, kde-format
+#, kde-format
 msgid "Enable Fonts in Group…"
-msgstr "കൂട്ടത്തിലെ ഫോണ്ടുകൾ പ്രാപ്തമാക്കുക..."
+msgstr "കൂട്ടത്തിലെ ഫോണ്ടുകൾ പ്രാപ്തമാക്കുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:223
@@ -857,9 +857,9 @@ msgstr "കൂട്ടത്തിലെ ഫോണ്ടുകൾ പ്രാ�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:226
-#, fuzzy, kde-format
+#, kde-format
 msgid "Disable Fonts in Group…"
-msgstr "കൂട്ടത്തിലെ ഫോണ്ടുകൾ അപ്രാപ്തമാക്കുക..."
+msgstr "കൂട്ടത്തിലെ ഫോണ്ടുകൾ അപ്രാപ്തമാക്കുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:225
@@ -875,9 +875,9 @@ msgstr "തെരഞ്ഞെടുത്ത അക്ഷരസഞ്ചയം �
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:267
-#, fuzzy, kde-format
+#, kde-format
 msgid "Find Duplicates…"
-msgstr "തനിപ്പകർപ്പുകൾ കണ്ടെത്തുക..."
+msgstr "തനിപ്പകർപ്പുകൾ കണ്ടെത്തുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:267
@@ -887,9 +887,9 @@ msgstr "തനിപ്പകർപ്പുകൾ കണ്ടെത്തു�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:267
-#, fuzzy, kde-format
+#, kde-format
 msgid "Scan for Duplicate Fonts…"
-msgstr "തനിപ്പകർപ്പ് അക്ഷരസഞ്ചയങ്ങൾക്കായി സ്കാൻ ചെയ്യുക ..."
+msgstr "തനിപ്പകർപ്പ് അക്ഷരസഞ്ചയങ്ങൾക്കായി സ്കാൻ ചെയ്യുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:267
@@ -899,9 +899,9 @@ msgstr "തനിപ്പകർപ്പ് അക്ഷരസഞ്ചയങ�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:269
-#, fuzzy, kde-format
+#, kde-format
 msgid "Install from File…"
-msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക ..."
+msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:269
@@ -917,9 +917,9 @@ msgstr "ഒരു പ്രാദേശിക ഫയലിൽ നിന്ന്
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:270
-#, fuzzy, kde-format
+#, kde-format
 msgid "Get New Fonts…"
-msgstr "പുതിയ ഫോണ്ടുകൾ നേടുക..."
+msgstr "പുതിയ ഫോണ്ടുകൾ നേടുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:270
@@ -935,9 +935,9 @@ msgstr "പുതിയ ഫോണ്ടുകൾ ഡൗൺലോഡു ചെയ
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:272
-#, fuzzy, kde-format
+#, kde-format
 msgid "Delete Selected Fonts…"
-msgstr "തിരഞ്ഞെടുത്ത അക്ഷരസഞ്ചയങ്ങൾ ഇല്ലാതാക്കുക ..."
+msgstr "തിരഞ്ഞെടുത്ത അക്ഷരസഞ്ചയങ്ങൾ ഇല്ലാതാക്കുക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:272
@@ -947,9 +947,9 @@ msgstr "തിരഞ്ഞെടുത്ത അക്ഷരസഞ്ചയങ�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:330
-#, fuzzy, kde-format
+#, kde-format
 msgid "Change Preview Text…"
-msgstr "പൂര്‍വ്വദൃശ്യത്തിനുള്ള വാചകം മാറ്റൂക..."
+msgstr "പൂര്‍വ്വദൃശ്യത്തിനുള്ള വാചകം മാറ്റൂക…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:330
@@ -966,6 +966,11 @@ msgid ""
 "type fonts:/ into Konqueror's location bar and this will display your "
 "installed fonts. To install a font, simply copy one into the folder.</p>"
 msgstr ""
+"<h1>ഫോണ്ട് ഇൻസ്റ്റാളർ</h1><p> ട്രൂ ടൈപ്പ്, ടൈപ്പ് 1, ബിറ്റ്മാപ്പ് ഫോണ്ടുകൾ "
+"ഇൻസ്റ്റാൾ ചെയ്യാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു. </p><p> നിങ്ങൾക്ക് "
+"കോൺക്വററിന്റെ ലൊക്കേഷൻ ബാ‍റിൽ fonts:/ ടൈപ്പ് ചെയ്യുക വഴിയും ഫോണ്ടുകൾ ഇൻസ്റ്റാ"
+"ൾ ചെയ്യാം. ഇത് നിങ്ങളുടെ ഇൻസ്റ്റാൾ ചെയ്ത ഫോണ്ടുകൾ പ്രദർശിപ്പിക്കും. ഒരു "
+"ഫോണ്ട് ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന്, അതിനെ ഫോൾഡറിലേക്ക് പകർത്തുക.</p>"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:399
@@ -1053,9 +1058,9 @@ msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ വെട്ടിമ�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:656
-#, fuzzy, kde-format
+#, kde-format
 msgid "Deleting font(s)…"
-msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ വെട്ടിമാറ്റുന്നു..."
+msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ ഇല്ലാതാക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:636
@@ -1117,9 +1122,9 @@ msgstr "അക്ഷസഞ്ചയങ്ങള്‍ നീക്കുക"
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:703
-#, fuzzy, kde-format
+#, kde-format
 msgid "Moving font(s)…"
-msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ നീക്കുന്നു..."
+msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ നീക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:683
@@ -1183,9 +1188,9 @@ msgstr "പുതിയ വാചകം നല്‍കുക:"
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:846
-#, fuzzy, kde-format
+#, kde-format
 msgid "Scanning font list…"
-msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ പട്ടിക പരിശോധിക്കുന്നു..."
+msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ പട്ടിക പരിശോധിക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:820
@@ -1216,6 +1221,10 @@ msgid ""
 "enabled:</td><td>%3</td></tr><tr><td align=\"right\">Total:</td><td>%4</td></"
 "tr></table>"
 msgstr ""
+"<table><tr><td align=\"right\">പ്രവ‍ത്തനക്ഷമമാക്കിയവ:</td><td>%1</td></"
+"tr><tr><td align=\"right\">അപ്രാപ്തമാക്കിയവ:</td><td>%2</td></tr><tr><td "
+"align=\"right\">ഭാഗികമായി പ്രവർത്തനക്ഷമമാക്കിയവ:</td><td>%3</td></tr><tr><td "
+"align=\"right\">ആകെ:</td><td>%4</td></tr></table>"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:929
@@ -1225,12 +1234,15 @@ msgid ""
 "\"right\">Disabled:</td><td>%2</td></tr><tr><td align=\"right\">Total:</"
 "td><td>%3</td></tr></table>"
 msgstr ""
+"<table><tr><td align=\"right\">പ്രവർത്തനക്ഷമമാക്കിയവ:</td><td>%1</td></"
+"tr><tr><td align=\"right\">അപ്രാപ്തമാക്കിയവ:</td><td>%2</td></tr><tr><td "
+"align=\"right\">ആകെ:</td><td>%3</td></tr></table>"
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:1006
-#, fuzzy, kde-format
+#, kde-format
 msgid "Looking for any associated files…"
-msgstr "ഇതിനോടനുബന്ധിച്ചുള്ള ഫയലുകള്‍ തിരയുന്നു..."
+msgstr "ഇതിനോടനുബന്ധിച്ചുള്ള ഫയലുകള്‍ തിരയുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:977
@@ -1240,9 +1252,9 @@ msgstr "ഇതിനോടനുബന്ധിച്ചുള്ള ഫയല�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:1010
-#, fuzzy, kde-format
+#, kde-format
 msgid "Scanning Files…"
-msgstr "ഫയലുകള്‍ തെരയുന്നു..."
+msgstr "ഫയലുകള്‍ തെരയുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:981
@@ -1252,9 +1264,9 @@ msgstr "ഫയലുകള്‍ തെരയുന്നു..."
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:1011
-#, fuzzy, kde-format
+#, kde-format
 msgid "Looking for additional files to install…"
-msgstr "ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി കൂടുതല്‍ ഫയലുകള്‍ തെരയുന്നു..."
+msgstr "ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നതിനായി കൂടുതല്‍ ഫയലുകള്‍ തെരയുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:982
@@ -1270,9 +1282,9 @@ msgstr "%1-നോടനുബന്ധിച്ചുള്ള കൂടുത�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:1054
-#, fuzzy, kde-format
+#, kde-format
 msgid "Installing font(s)…"
-msgstr "അക്ഷരസഞ്ചയം ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു..."
+msgstr "അക്ഷരസഞ്ചയം ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:1022
@@ -1323,6 +1335,8 @@ msgid ""
 "<p>Do you really want to enable</p><p>'<b>%1</b>', contained within group "
 "'<b>%2</b>'?</p>"
 msgstr ""
+"<p>'<b>%2</b>' കൂട്ടത്തിൽ അടങ്ങിയിട്ടുള്ള '<b>%1</b>' നെ പ്രവർത്തനക്ഷമമാക്കാ"
+"ൻ നിങ്ങൾ ശരിക്കും തീരുമാനിച്ചോ</p>"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:1145
@@ -1331,6 +1345,8 @@ msgid ""
 "<p>Do you really want to disable</p><p>'<b>%1</b>', contained within group "
 "'<b>%2</b>'?</p>"
 msgstr ""
+"<p>'<b>%2</b>' കൂട്ടത്തിൽ അടങ്ങിയിട്ടുള്ള '<b>%1</b>' നെ അപ്രാപ്തമാക്കാൻ നിങ്"
+"ങൾ ശരിക്കും തീരുമാനിച്ചോ?</p>"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:1149 kcmfontinst/KCmFontInst.cpp:1150
@@ -1398,9 +1414,9 @@ msgstr "അക്ഷരസഞ്ചയം പ്രവര്‍ത്തന ര�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:1181
-#, fuzzy, kde-format
+#, kde-format
 msgid "Enabling font(s)…"
-msgstr "അക്ഷരസഞ്ചയം പ്രവര്‍ത്തന സജ്ജമാക്കുന്നു..."
+msgstr "അക്ഷരസഞ്ചയം പ്രവര്‍ത്തന സജ്ജമാക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:1144
@@ -1410,9 +1426,9 @@ msgstr "അക്ഷരസഞ്ചയം പ്രവര്‍ത്തന സ�
 
 #. +> trunk5
 #: kcmfontinst/KCmFontInst.cpp:1183
-#, fuzzy, kde-format
+#, kde-format
 msgid "Disabling font(s)…"
-msgstr "അക്ഷരസഞ്ചയം പ്രവര്‍ത്തന രഹിതമാക്കുന്നു..."
+msgstr "അക്ഷരസഞ്ചയം പ്രവര്‍ത്തനരഹിതമാക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:1146
@@ -1473,6 +1489,8 @@ msgstr "48pt"
 #, kde-format
 msgid "Can only install fonts to either \"%1\" or \"%2\"."
 msgstr ""
+"\"%1\" അല്ലെങ്കിൽ \"%2\" എന്നതിലേക്ക് മാത്രമേ ഫോണ്ടുകൾ ഇൻസ്റ്റാൾ ചെയ്യാൻ "
+"കഴിയൂ."
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:228
@@ -1486,29 +1504,29 @@ msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:456
-#, fuzzy, kde-format
+#, kde-format
 msgid "Cannot copy fonts"
-msgstr "അക്ഷരസഞ്ചയങ്ങള്‍ പകര്‍ത്തുക"
+msgstr "ഫോണ്ടുകൾ പകർത്താൻ കഴിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:461
-#, fuzzy, kde-format
+#, kde-format
 msgid "Cannot move fonts"
-msgstr "പ്രിന്റ് ചെയ്യുവാന്‍ സാധ്യമല്ല"
+msgstr "ഫോണ്ടുകൾ നീക്കാൻ കഴിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:472
 #, kde-format
 msgid "Only fonts may be deleted."
-msgstr ""
+msgstr "ഫോണ്ടുകൾ മാത്രം ഇല്ലാതാക്കാം."
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:474
-#, fuzzy, kde-format
+#, kde-format
 msgid "Can only remove fonts from either \"%1\" or \"%2\"."
 msgstr ""
-"പേരു് മാറ്റുക, നീക്കുക, പകര്‍ത്തുക, വെട്ടിമാറ്റുക എന്നിവ നിങ്ങള്‍ക്കു് \"%1\" അല്ലെങ്കില്‍ \"%2\"ല്‍ "
-"നടത്തുവാന്‍ സാധ്യമല്ല."
+"\"%1\" അല്ലെങ്കിൽ \"%2\" എന്നിവയിൽ നിന്ന് മാത്രമേ ഫോണ്ടുകൾ നീക്കം ചെയ്യാൻ "
+"കഴിയൂ."
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:501
@@ -1520,7 +1538,7 @@ msgstr "ദയവായി \"%1\" അല്ലങ്കില്‍ \"%2\" വ�
 #: kio/KioFonts.cpp:521
 #, kde-format
 msgid "No special methods supported."
-msgstr ""
+msgstr "പ്രത്യേക രീതികളൊന്നും പിന്തുണയ്ക്കുന്നില്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:595
@@ -1530,45 +1548,44 @@ msgstr "അക്ഷരസഞ്ചയങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:724
-#, fuzzy, kde-format
+#, kde-format
 msgid "Failed to start the system daemon"
-msgstr "അക്ഷരസഞ്ചയ പ്രിന്റര്‍ ആരംഭിക്കുവാനായില്ല."
+msgstr "സിസ്റ്റം ഡീമൺ ആരംഭിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:727
 #, kde-format
 msgid "Backend died"
-msgstr ""
+msgstr "ബാക്കെൻഡ് മരിച്ചു"
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:730
-#, fuzzy, kde-format
+#, kde-format
 msgid "%1 is a bitmap font, and these have been disabled on your system."
 msgstr ""
-"ബിറ്റ്മാപ് അക്ഷരസംഞ്ചയങ്ങള്‍ നിങ്ങളുടെ സിസ്റ്റത്തില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിക്കുന്നു, അതിനാല്‍ അവ "
-"ഇന്‍സ്റ്റോള്‍ ചെയ്യുവാന്‍ സാധ്യമല്ല."
+"%1 ഒരു ബിറ്റ്മാപ്പ് ഫോണ്ടാണ്, ഇവ നിങ്ങളുടെ സിസ്റ്റത്തിൽ "
+"പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:733
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "%1 contains the font <b>%2</b>, which is already installed on your system."
 msgstr ""
-"%1 ഫയലില്‍ അക്ഷരസഞ്ചയമടങ്ങുന്നു:\n"
-"%2\n"
-"ഈ പേരില്‍ ഒരു അക്ഷരസഞ്ചയം നിലവിലുണ്ടു്.\n"
+"%1 ൽ <b>%2 </b> ഫോണ്ട് അടങ്ങിയിരിക്കുന്നു , ഇത് ഇതിനകം നിങ്ങളുടെ സിസ്റ്റത്തി"
+"ൽ ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ട്."
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:736
-#, fuzzy, kde-format
+#, kde-format
 msgid "%1 is not a font."
-msgstr "അക്ഷരസഞ്ചയം ലഭ്യമാക്കുവാന്‍ സാധ്യമായില്ല."
+msgstr "%1 ഒരു ഫോണ്ട് അല്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: kio/KioFonts.cpp:739
-#, fuzzy, kde-format
+#, kde-format
 msgid "Could not remove all files associated with %1"
-msgstr "%1-നോടനുബന്ധിച്ചുള്ള കൂടുതല്‍ ഫയലുകള്‍ തെരയുന്നു..."
+msgstr "%1 മായി ബന്ധപ്പെട്ട എല്ലാ ഫയലുകളും നീക്കം ചെയ്യാനായില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: lib/Fc.cpp:425 lib/KfiConstants.h:124
@@ -1865,7 +1882,7 @@ msgstr ""
 #: viewpart/CharTip.cpp:72
 #, kde-format
 msgid "Letter, Lowercase"
-msgstr ""
+msgstr "അക്ഷരം, ചെറിയ അക്ഷരം"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/CharTip.cpp:74
@@ -1889,7 +1906,7 @@ msgstr ""
 #: viewpart/CharTip.cpp:80
 #, kde-format
 msgid "Letter, Uppercase"
-msgstr ""
+msgstr "അക്ഷരം, വലിയ അക്ഷരം"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/CharTip.cpp:82
@@ -1919,7 +1936,7 @@ msgstr "അക്കം, ഡെസിമല്‍ അക്കം"
 #: viewpart/CharTip.cpp:90
 #, kde-format
 msgid "Number, Letter"
-msgstr ""
+msgstr "സംഖ്യ, അക്ഷരം"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/CharTip.cpp:92
@@ -1949,19 +1966,19 @@ msgstr ""
 #: viewpart/CharTip.cpp:100
 #, kde-format
 msgid "Punctuation, Final Quote"
-msgstr ""
+msgstr "വിരാമചിഹ്നം, അന്തിമ ഉദ്ധരണി"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/CharTip.cpp:102
 #, kde-format
 msgid "Punctuation, Initial Quote"
-msgstr ""
+msgstr "വിരാമചിഹ്നം, പ്രാരംഭ ഉദ്ധരണി"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/CharTip.cpp:104
 #, kde-format
 msgid "Punctuation, Other"
-msgstr ""
+msgstr "വിരാമചിഹ്നം, മറ്റുള്ളവ"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/CharTip.cpp:106
@@ -2055,9 +2072,9 @@ msgstr ""
 
 #. +> trunk5
 #: viewpart/FontViewPart.cpp:108
-#, fuzzy, kde-format
+#, kde-format
 msgid "Install…"
-msgstr "ഇന്‍സ്റ്റാള്‍ ചെയ്യുന്നു"
+msgstr "ഇന്‍സ്റ്റാള്‍…"
 
 #. +> stable5 plasma5lts
 #: viewpart/FontViewPart.cpp:110
@@ -2067,9 +2084,9 @@ msgstr "ഇന്‍സ്റ്റോള്‍ ചെയ്യുക..."
 
 #. +> trunk5
 #: viewpart/FontViewPart.cpp:129
-#, fuzzy, kde-format
+#, kde-format
 msgid "Change Text…"
-msgstr "വാചകം മാറ്റുക..."
+msgstr "വാചകം മാറ്റുക…"
 
 #. +> stable5 plasma5lts
 #: viewpart/FontViewPart.cpp:131
@@ -2484,7 +2501,7 @@ msgstr ""
 #: viewpart/UnicodeBlocks.h:73
 #, kde-format
 msgid "Superscripts and Subscripts"
-msgstr ""
+msgstr "സൂപ്പർസ്ക്രിപ്റ്റുകളും സബ്സ്ക്രിപ്റ്റുകളും"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:74
@@ -2538,7 +2555,7 @@ msgstr "നിയന്ത്രണ ചിത്രങ്ങള്‍"
 #: viewpart/UnicodeBlocks.h:82
 #, kde-format
 msgid "Optical Character Recognition"
-msgstr ""
+msgstr "ഒപ്റ്റിക്കൽ കാരക്റ്റർ റെക്കഗ്നിഷൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:83
@@ -2580,7 +2597,7 @@ msgstr "ഡിങ്ങ്ബാറ്റ്സ്"
 #: viewpart/UnicodeBlocks.h:89
 #, kde-format
 msgid "Miscellaneous Mathematical Symbols-A"
-msgstr ""
+msgstr "വിവിധ ഗണിത ചിഹ്നങ്ങൾ-A"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:90
@@ -2604,19 +2621,19 @@ msgstr "സപ്ലിമെന്റല്‍ ആരോ-ബി"
 #: viewpart/UnicodeBlocks.h:93
 #, kde-format
 msgid "Miscellaneous Mathematical Symbols-B"
-msgstr ""
+msgstr "വിവിധ ഗണിത ചിഹ്നങ്ങൾ-B"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:94
 #, kde-format
 msgid "Supplemental Mathematical Operators"
-msgstr ""
+msgstr "അനുബന്ധ ഗണിതചിഹ്നങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:95
 #, kde-format
 msgid "Miscellaneous Symbols and Arrows"
-msgstr ""
+msgstr "വിവിധ ചിഹ്നങ്ങളും അമ്പുകളും"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:96 viewpart/UnicodeScripts.h:33
@@ -2658,7 +2675,7 @@ msgstr "എത്യോപിക് എക്സ്റ്റെന്റഡ്"
 #: viewpart/UnicodeBlocks.h:102
 #, kde-format
 msgid "Supplemental Punctuation"
-msgstr ""
+msgstr "അനുബന്ധ വിരാമചിഹ്നം"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:103
@@ -2826,7 +2843,7 @@ msgstr ""
 #: viewpart/UnicodeBlocks.h:130
 #, kde-format
 msgid "Private Use Area"
-msgstr ""
+msgstr "സ്വകാര്യ ഉപയോഗ മേഖല"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:131
@@ -2838,13 +2855,13 @@ msgstr ""
 #: viewpart/UnicodeBlocks.h:132
 #, kde-format
 msgid "Alphabetic Presentation Forms"
-msgstr ""
+msgstr "അറബിക് അവതരണ ഫോമുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:133
 #, kde-format
 msgid "Arabic Presentation Forms-A"
-msgstr ""
+msgstr "അറബിക് അവതരണ ഫോമുകൾ-A"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:134
@@ -3024,7 +3041,7 @@ msgstr ""
 #: viewpart/UnicodeBlocks.h:163
 #, kde-format
 msgid "Mathematical Alphanumeric Symbols"
-msgstr ""
+msgstr "ഗണിതശാസ്ത്ര ആൽഫാന്യൂമെറിക് ചിഹ്നങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: viewpart/UnicodeBlocks.h:164
