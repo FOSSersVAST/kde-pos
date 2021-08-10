@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-16 08:55+0200\n"
-"PO-Revision-Date: 2021-02-26 16:23+0000\n"
-"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"PO-Revision-Date: 2021-08-12 11:59+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
@@ -92,6 +92,8 @@ msgid ""
 "Enables test mode and specifies the layout javascript file to set up the "
 "testing environment"
 msgstr ""
+"ടെസ്റ്റ് മോഡ് പ്രവർത്തനക്ഷമമാക്കുകയും ടെസ്റ്റിംഗ് പരിസ്ഥിതി "
+"സജ്ജീകരിക്കുന്നതിന് ലേഔട്ട് ജാവാസ്ക്രിപ്റ്റ് ഫയൽ വ്യക്തമാക്കുകയും ചെയ്യുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:140
@@ -103,7 +105,7 @@ msgstr "ഫയൽ"
 #: main.cpp:144
 #, kde-format
 msgid "Lists the available options for user feedback"
-msgstr ""
+msgstr "ഉപയോക്തൃ അഭിപ്രായത്തിനായി ലഭ്യമായ ഓപ്ഷനുകൾ പട്ടികപ്പെടുത്തുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: main.cpp:240
@@ -234,7 +236,7 @@ msgstr "പണിയിടം ഒളിപ്പിക്കുക"
 #: shellcorona.cpp:176
 #, kde-format
 msgid "Show Activity Switcher"
-msgstr ""
+msgstr "പ്രവൃത്തി സ്വിച്ചർ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: shellcorona.cpp:187
@@ -250,15 +252,15 @@ msgstr "പ്രവർത്തനങ്ങൾ..."
 
 #. +> trunk5 stable5 plasma5lts
 #: shellcorona.cpp:195
-#, fuzzy, kde-format
+#, kde-format
 msgid "Switch to Previous Activity"
-msgstr "ഇപ്പോഴത്തെ പ്രവർത്തനം നിർത്തുക"
+msgstr "മുമ്പത്തെ പ്രവർത്തനത്തിലേക്ക് മാറുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: shellcorona.cpp:203
-#, fuzzy, kde-format
+#, kde-format
 msgid "Switch to Next Activity"
-msgstr "ഇപ്പോഴത്തെ പ്രവർത്തനം നിർത്തുക"
+msgstr "അടുത്ത പ്രവർത്തനത്തിലേക്ക് മാറുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: shellcorona.cpp:219
@@ -314,10 +316,10 @@ msgstr "ഒരിക്കലും കാണിക്കാതിരിക്�
 #: userfeedback.cpp:49
 #, kde-format
 msgid "Panel Count"
-msgstr ""
+msgstr "പാളി എണ്ണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: userfeedback.cpp:53
 #, kde-format
 msgid "Counts the panels"
-msgstr ""
+msgstr "പാളികൾ എണ്ണുന്നു"
