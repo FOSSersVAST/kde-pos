@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-04 09:08+0200\n"
-"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/BarcodePage.qml:40
@@ -94,9 +94,9 @@ msgstr "ഓർമ്മച്ചെപ്പ് ശൂന്യമാണ്"
 
 #. +> trunk5
 #: contents/ui/clipboard.qml:67
-#, fuzzy, kde-format
+#, kde-format
 msgid "Configure Clipboard…"
-msgstr "ഓർമ്മച്ചെപ്പ് ക്രമീകരിക്കുക..."
+msgstr "ഓർമ്മച്ചെപ്പ് ക്രമീകരിക്കുക…"
 
 #. +> stable5 plasma5lts
 #: contents/ui/clipboard.qml:67
@@ -112,9 +112,9 @@ msgstr "ചരിത്രം മായ്ക്കുക"
 
 #. +> trunk5
 #: contents/ui/ClipboardPage.qml:89
-#, fuzzy, kde-format
+#, kde-format
 msgid "Search…"
-msgstr "തിരയുക..."
+msgstr "തിരയുക…"
 
 #. +> stable5 plasma5lts
 #: contents/ui/ClipboardPage.qml:89
@@ -156,7 +156,7 @@ msgstr "ചരിത്രത്തിൽ നിന്ന് നീക്കം�
 #: contents/ui/Menu.qml:70
 #, kde-format
 msgid "No matches"
-msgstr ""
+msgstr "പൊരുത്തങ്ങളൊന്നുമില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: contents/ui/UrlItemDelegate.qml:112
