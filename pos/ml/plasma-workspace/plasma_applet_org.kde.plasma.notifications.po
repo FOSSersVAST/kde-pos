@@ -8,28 +8,28 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-07-28 09:12+0200\n"
-"PO-Revision-Date: 2021-03-05 12:23+0000\n"
+"PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
-"org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5
 #: fileinfo.cpp:181
 #, kde-format
 msgid "Open with %1"
-msgstr ""
+msgstr "%1 ഉപയോഗിച്ച് തുറക്കുക"
 
 #. +> trunk5
 #: fileinfo.cpp:185
 #, kde-format
 msgid "Open with…"
-msgstr ""
+msgstr "ഇതിലൂടെ തുറക്കു…"
 
 #. +> trunk5 stable5 plasma5lts
 #: filemenu.cpp:127 package/contents/ui/JobItem.qml:271
@@ -48,7 +48,7 @@ msgstr "പകർത്തുക (&C)"
 #, kde-format
 msgctxt "@action:incontextmenu"
 msgid "Copy Location"
-msgstr ""
+msgstr "പാത പകർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: filemenu.cpp:201
@@ -334,9 +334,9 @@ msgstr "പുനരാരംഭിക്കുക"
 #. +> trunk5
 #: package/contents/ui/JobItem.qml:235
 #: package/contents/ui/ThumbnailStrip.qml:159
-#, fuzzy, kde-format
+#, kde-format
 msgid "More Options…"
-msgstr "കൂടുതൽ സാധ്യതകൾ..."
+msgstr "കൂടുതൽ സാധ്യതകൾ…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/JobItem.qml:246
@@ -355,7 +355,7 @@ msgstr "തുറക്കുക"
 #: package/contents/ui/JobItem.qml:284
 #, kde-format
 msgid "Open with..."
-msgstr ""
+msgstr "ഇതിലൂടെ തുറക്കു..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:62
@@ -381,15 +381,15 @@ msgstr "%1 വരെ ശല്യപ്പെടുത്തരുത്"
 
 #. +> trunk5 stable5
 #: package/contents/ui/main.qml:181
-#, fuzzy, kde-format
+#, kde-format
 msgid "Clear All Notifications"
-msgstr "അറിയിപ്പുകൾ വേണം"
+msgstr "എല്ലാ അറിയിപ്പുകളും മായ്ക്കുക"
 
 #. +> trunk5
 #: package/contents/ui/main.qml:191
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Configure Event Notifications and Actions…"
-msgstr "സംഭവ അറിയിപ്പുകളും നടപടികളും ക്രമീകരിക്കുക... (&C)"
+msgstr "&സംഭവ അറിയിപ്പുകളും നടപടികളും ക്രമീകരിക്കുക…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:191
@@ -500,10 +500,10 @@ msgstr "മറുപടി"
 
 #. +> trunk5
 #: package/contents/ui/NotificationReplyField.qml:50
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Text field placeholder"
 msgid "Type a reply…"
-msgstr "ഒരു മറുപടി ടൈപ്പുചെയ്യുക..."
+msgstr "ഒരു മറുപടി ടൈപ്പുചെയ്യുക…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/NotificationReplyField.qml:50
