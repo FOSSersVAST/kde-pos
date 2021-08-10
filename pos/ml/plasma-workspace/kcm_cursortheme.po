@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-01 09:16+0200\n"
-"PO-Revision-Date: 2021-01-05 19:56+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
-"discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2021-08-12 11:59+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
@@ -182,9 +182,9 @@ msgstr "വലുപ്പം:"
 
 #. +> trunk5
 #: package/contents/ui/main.qml:146
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Install from File…"
-msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക(&I)..."
+msgstr "&ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:146
@@ -194,9 +194,9 @@ msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ
 
 #. +> trunk5
 #: package/contents/ui/main.qml:152
-#, fuzzy, kde-format
+#, kde-format
 msgid "&Get New Cursors…"
-msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക(&G)..."
+msgstr "&പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:152
@@ -224,6 +224,9 @@ msgid ""
 "session, without accidentally setting it to one that is either not "
 "available, or which is already set."
 msgstr ""
+"അബദ്ധവശാൽ അത് ലഭ്യമല്ലാത്തതോ അല്ലെങ്കിൽ ഇതിനകം സജ്ജീകരിച്ചിട്ടുള്ളതോ ആയ "
+"ഒന്നിലേക്ക് ക്രമീകരിക്കാതെ, നിലവിലെ പ്ലാസ്മ സെഷനായി ചൂണ്ടുവിരല്‍ തീം "
+"സജ്ജീകരിക്കാൻ ഈ ഉപകരണം നിങ്ങളെ അനുവദിക്കുന്നു."
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:52
@@ -232,13 +235,16 @@ msgid ""
 "The name of the cursor theme you wish to set for your current Plasma session "
 "(passing a full path will only use the last part of the path)"
 msgstr ""
+"നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനായി നിങ്ങൾ സജ്ജമാക്കാൻ ആഗ്രഹിക്കുന്ന "
+"ചൂണ്ടുവിരല്‍ തീമിന്റെ പേര് (ഒരു പൂർണ്ണ പാതയിലൂടെ കടന്നുപോകുന്നത് പാതയുടെ അവസാ"
+"ന ഭാഗം മാത്രമേ ഉപയോഗിക്കൂ)"
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:53
 #, kde-format
 msgid ""
 "Show all the themes available on the system (and which is the current theme)"
-msgstr ""
+msgstr "സിസ്റ്റത്തിൽ ലഭ്യമായ എല്ലാ തീമുകളും കാണിക്കുക (കൂടാതെ നിലവിലെ തീമും)"
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:74
@@ -247,6 +253,8 @@ msgid ""
 "The requested theme \"%1\" is already set as the theme for the current "
 "Plasma session."
 msgstr ""
+"അഭ്യർത്ഥിച്ച തീം \"%1\" നിലവിലെ പ്ലാസ്മ സെഷന്റെ തീം ആയി ഇതിനകം "
+"സജ്ജീകരിച്ചിരിക്കുന്നു."
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:85
@@ -254,14 +262,17 @@ msgstr ""
 msgid ""
 "Successfully applied the mouse cursor theme %1 to your current Plasma session"
 msgstr ""
+"നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനിൽ ചൂണ്ടുവിരല്‍ തീം %1 വിജയകരമായി പ്രയോഗിച്ചു"
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:87
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "You have to restart the Plasma session for your newly applied mouse cursor "
 "theme to display correctly."
-msgstr "ഈ മാറ്റങ്ങള്‍ പ്രയോഗത്തില്‍ വരുവാന്‍ പ്ലാസ്മ പുനരാരംഭിക്കണം."
+msgstr ""
+"നിങ്ങളുടെ പുതുതായി പ്രയോഗിച്ച ചൂണ്ടുവിരല്‍ തീം ശരിയായി പ്രദർശിപ്പിക്കുന്നതിന്"
+" നിങ്ങൾ പ്ലാസ്മ സെഷൻ പുനരാരംഭിക്കേണ്ടതുണ്ട്."
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:97
@@ -270,12 +281,13 @@ msgid ""
 "Could not find theme \"%1\". The theme should be one of the following "
 "options: %2"
 msgstr ""
+"\"%1\" തീം കണ്ടെത്താനായില്ല. തീം ഇനിപ്പറയുന്ന ഓപ്ഷനുകളിൽ ഒന്നായിരിക്കണം: %2"
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:105
 #, kde-format
 msgid "You have the following mouse cursor themes on your system:"
-msgstr ""
+msgstr "നിങ്ങളുടെ സിസ്റ്റത്തിൽ ഇനിപ്പറയുന്ന ചൂണ്ടുവിരല്‍ തീമുകൾ ഉണ്ട്:"
 
 #. +> trunk5 stable5 plasma5lts
 #: xcursor/thememodel.cpp:79
