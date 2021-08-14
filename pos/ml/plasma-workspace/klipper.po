@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
-"PO-Revision-Date: 2021-02-27 12:15+0000\n"
-"Last-Translator: Adithya K <adithyak04@gmail.com>\n"
-"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
-"കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
+"PO-Revision-Date: 2021-08-15 10:59+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
+"Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. i18n: ectx: property (text), widget (QCheckBox, kcfg_ReplayActionInHistory)
 #. +> trunk5 stable5 plasma5lts
@@ -359,7 +359,7 @@ msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രത്�
 #: historyimageitem.cpp:51
 #, kde-format
 msgid "%1x%2 %3bpp"
-msgstr ""
+msgstr "%1x%2 %3bpp"
 
 #. +> trunk5 stable5 plasma5lts
 #: klipper.cpp:130
@@ -414,13 +414,13 @@ msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്ത�
 #: klipper.cpp:186
 #, kde-format
 msgid "&Show Barcode…"
-msgstr ""
+msgstr "ബാർകോഡ് കാണിക്കുക… (&S)"
 
 #. +> stable5 plasma5lts
 #: klipper.cpp:186
 #, kde-format
 msgid "&Show Barcode..."
-msgstr ""
+msgstr "ബാർകോഡ് കാണിക്കുക... (&S)"
 
 #. +> trunk5 stable5 plasma5lts
 #: klipper.cpp:194
@@ -438,7 +438,7 @@ msgstr "ചരിത്രത്തിലെ മുമ്പുള്ള ഇന�
 #: klipper.cpp:204
 #, kde-format
 msgid "Open Klipper at Mouse Position"
-msgstr ""
+msgstr "മൗസ് സ്ഥാനത്ത് ക്ലിപ്പർ തുറക്കുക"
 
 #. +> trunk5 stable5
 #: klipper.cpp:488
@@ -448,16 +448,20 @@ msgid ""
 "You can enable URL actions later in the <interface>Actions</interface> page "
 "of the Clipboard applet's configuration window"
 msgstr ""
+"ക്ലിപ്പ്ബോർഡ് ആപ്പ്‌ലെറ്റിന്റെ ക്രമീകരണ ജാലകത്തിലെ <interface>പ്രവർത്തനങ്ങൾ</"
+"interface> താളിൽ നിങ്ങൾക്ക് പിന്നീട് URL പ്രവർത്തനങ്ങൾ "
+"പ്രവർത്തനക്ഷമമാക്കാനാകും"
 
 #. +> plasma5lts
 #: klipper.cpp:503
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "You can enable URL actions later by left-clicking on the Klipper icon and "
 "selecting 'Enable Clipboard Actions'"
 msgstr ""
-"ക്ലിപ്പര്‍ ചിഹ്നത്തി മൌസിന്റെ വലതു ബട്ടണ്‍ അമര്‍ത്തി 'പ്രവൃത്തികള്‍ സജീവമാക്കുക' എന്നത് തെരഞ്ഞെടുത്താല്‍ "
-"നിങ്ങള്‍ക്ക് URL പ്രവൃത്തികള്‍ പിന്നീട് സജീവമാക്കാം."
+"ക്ലിപ്പര്‍ ചിഹ്നത്തിൽ മൗസിന്റെ വലതു ബട്ടണ്‍ അമര്‍ത്തി 'പ്രവൃത്തികള്‍ "
+"സജീവമാക്കുക' എന്നത് തെരഞ്ഞെടുത്താല്‍ നിങ്ങള്‍ക്ക് URL പ്രവൃത്തികള്‍ പിന്നീട് "
+"സജീവമാക്കാം"
 
 #. +> trunk5 stable5 plasma5lts
 #: klipper.cpp:523
@@ -493,7 +497,7 @@ msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്ത�
 #: klipper.cpp:940
 #, kde-format
 msgid "Mobile Barcode"
-msgstr ""
+msgstr "മൊബൈൽ ബാർകോഡ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: klipper.cpp:987
@@ -574,6 +578,11 @@ msgid ""
 "entered into the clipboard history, though it is still available for pasting "
 "using the middle mouse button."
 msgstr ""
+"മൗസ് അല്ലെങ്കിൽ കീബോർഡ് ഉപയോഗിച്ച് സ്ക്രീനിന്റെ ഒരു പ്രദേശം തിരഞ്ഞെടുക്കുമ്പോ"
+"ൾ, ഇതിനെ \"സെലക്ഷൻ\" എന്ന് വിളിക്കുന്നു.<br/>ഈ ഓപ്‌ഷൻ "
+"സജ്ജീകരിച്ചിട്ടുണ്ടെങ്കിൽ, ക്ലിപ്പ്ബോർഡ് ചരിത്രത്തിലേക്ക് സെലക്ഷൻ "
+"നൽകിയിട്ടില്ല, എന്നിരുന്നാലും ഇത് മധ്യ മൗസ് ബട്ടൺ ഉപയോഗിച്ച് ഒട്ടിക്കാൻ "
+"എപ്പോഴും ലഭ്യമാക്കുന്നു."
 
 #. i18n: ectx: label, entry (SyncClipboards), group (General)
 #. +> trunk5 stable5 plasma5lts
@@ -613,27 +622,31 @@ msgid ""
 "selections are stored in the history, while images and other selections are "
 "not."
 msgstr ""
+"മൗസ് അല്ലെങ്കിൽ കീബോർഡ് ഉപയോഗിച്ച് സ്ക്രീനിന്റെ ഒരു പ്രദേശം തിരഞ്ഞെടുക്കുമ്പോ"
+"ൾ, ഇതിനെ \"സെലക്ഷൻ\" എന്ന് വിളിക്കുന്നു.<br/>ഈ ഓപ്ഷൻ "
+"തിരഞ്ഞെടുത്തിട്ടുണ്ടെങ്കിൽ, പദാവലികൾ മാത്രമേ തിരഞ്ഞെടുക്കപ്പെടുകയുള്ളൂ, "
+"അതേസമയം ചിത്രങ്ങളും മറ്റും തിരഞ്ഞെടുക്കുകയില്ല."
 
 #. i18n: ectx: label, entry (UseGUIRegExpEditor), group (General)
 #. +> trunk5 stable5 plasma5lts
 #: klipper.kcfg:44
 #, kde-format
 msgid "Use graphical regexp editor"
-msgstr ""
+msgstr "ഗ്രാഫിക്കൽ regexp എഡിറ്റർ ഉപയോഗിക്കുക"
 
 #. i18n: ectx: label, entry (URLGrabberEnabled), group (General)
 #. +> trunk5 stable5 plasma5lts
 #: klipper.kcfg:48
 #, kde-format
 msgid "URL grabber enabled"
-msgstr ""
+msgstr "URL ഗ്രാബർ പ്രവർത്തനക്ഷമമാക്കി"
 
 #. i18n: ectx: label, entry (NoActionsForWM_CLASS), group (General)
 #. +> trunk5 stable5 plasma5lts
 #: klipper.kcfg:53
 #, kde-format
 msgid "No actions for WM_CLASS"
-msgstr ""
+msgstr "WM_CLASS - ന് പ്രവർത്തികളൊന്നുമില്ല"
 
 #. i18n: ectx: label, entry (TimeoutForActionPopups), group (General)
 #. +> trunk5 stable5 plasma5lts
