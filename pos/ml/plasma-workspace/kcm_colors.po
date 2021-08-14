@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-03 10:47+0200\n"
 "PO-Revision-Date: 2021-08-14 10:18+0000\n"
-"Last-Translator: Abin <abin.gecb@gmail.com>\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -305,7 +305,7 @@ msgstr "!"
 #: editor/preview.ui:193
 #, kde-format
 msgid "Selection Neutral Text against Selection Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്ന് ന്യൂട്രൽ  പദാവലി തിരഞ്ഞെടുക്കപ്പെട്ടു"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്ന് ന്യൂട്രൽ പദാവലി തിരഞ്ഞെടുക്കപ്പെട്ടു"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
