@@ -378,7 +378,7 @@ msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന�
 #: editor/preview.ui:297
 #, kde-format
 msgid "View Inactive Text against View Normal Background"
-msgstr ""
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്ന് നിര്‍ജ്ജീവ പദാവലി കാണുക"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView5)
 #. +> trunk5 stable5 plasma5lts
