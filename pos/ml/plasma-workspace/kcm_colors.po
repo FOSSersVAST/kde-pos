@@ -392,7 +392,7 @@ msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന�
 #: editor/preview.ui:317
 #, kde-format
 msgid "View Neutral Text against View Normal Background"
-msgstr ""
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്ന് ന്യൂട്രൽ പദാവലി കാണുക"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView7)
 #. +> trunk5 stable5 plasma5lts
