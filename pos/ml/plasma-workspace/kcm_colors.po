@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-03 10:47+0200\n"
 "PO-Revision-Date: 2021-08-14 10:19+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: Abin <abin.gecb@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -364,7 +364,7 @@ msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന�
 #: editor/preview.ui:277
 #, kde-format
 msgid "View Visited Text against View Normal Background"
-msgstr ""
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിന്ന് സന്ദർശിച്ച പദാവലി കാണുക"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelView2)
 #. +> trunk5 stable5 plasma5lts
