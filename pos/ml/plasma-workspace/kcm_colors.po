@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-03 10:47+0200\n"
-"PO-Revision-Date: 2021-08-15 10:59+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"PO-Revision-Date: 2021-08-17 12:59+0000\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -987,7 +987,7 @@ msgstr "സജീവമല്ലാത്ത ജാലകത്തിനുള�
 #: editor/scmeditoroptions.ui:24
 #, kde-format
 msgid "Use different colors for in&active selections"
-msgstr ""
+msgstr "നിഷ്ക്രിയമായ തിരഞ്ഞെടുപ്പുകൾക്കായി വ്യത്യസ്ത നിറങ്ങൾ ഉപയോഗിക്കുക"
 
 #. i18n: ectx: property (text), widget (QCheckBox, shadeSortedColumn)
 #. +> trunk5 stable5 plasma5lts
@@ -1001,7 +1001,7 @@ msgstr "പട്ടികകളില്‍ ക്രമീകരിച്ച�
 #: editor/scmeditoroptions.ui:38
 #, kde-format
 msgid "Shading of frames and lighting (\"3D\") effects"
-msgstr ""
+msgstr "ഫ്രെയിമുകളുടെ നിഴലും ലൈറ്റിംഗ് (\"3D\") ഇഫക്റ്റുകളും"
 
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
 #. +> trunk5 stable5 plasma5lts
@@ -1035,9 +1035,9 @@ msgstr "വ്യത്യയം (contrast)"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack0)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:35 editor/setpreview.ui:189
-#, fuzzy, kde-format
+#, kde-format
 msgid "Normal Text on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിലുള്ള സാധാരണ പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -1045,7 +1045,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelBack0)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:38 editor/setpreview.ui:192
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "normal"
 msgstr "സാധാരണ"
@@ -1053,9 +1053,9 @@ msgstr "സാധാരണ"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelFore3)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:56
-#, fuzzy, kde-format
+#, kde-format
 msgid "Link Text on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ കണ്ണി പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -1063,7 +1063,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelBack3)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:59 editor/setpreview.ui:214
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "link"
 msgstr "കണ്ണി"
@@ -1071,9 +1071,9 @@ msgstr "കണ്ണി"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelFore4)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:77
-#, fuzzy, kde-format
+#, kde-format
 msgid "Visited Text on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ സന്ദർശിച്ച പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -1081,7 +1081,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelBack4)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:80 editor/setpreview.ui:236
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "visited"
 msgstr "സന്ദര്‍ശിച്ചതു്"
@@ -1089,9 +1089,9 @@ msgstr "സന്ദര്‍ശിച്ചതു്"
 #. i18n: ectx: property (toolTip), widget (QWidget, widgetFore2)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:90
-#, fuzzy, kde-format
+#, kde-format
 msgid "Active Text on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിലുള്ള സജീവ പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -1099,7 +1099,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelBack2)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:96 editor/setpreview.ui:253
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "active"
 msgstr "സജീവം"
@@ -1107,15 +1107,15 @@ msgstr "സജീവം"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelFore1)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:109
-#, fuzzy, kde-format
+#, kde-format
 msgid "Inactive Text on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നിഷ്‌ക്രിയ പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QLabel, labelFore1)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:112
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "inactive"
 msgstr "സജീവമല്ലാത്ത"
@@ -1123,9 +1123,9 @@ msgstr "സജീവമല്ലാത്ത"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelFore5)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:125
-#, fuzzy, kde-format
+#, kde-format
 msgid "Negative Text on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ നെഗറ്റീവ് പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -1133,7 +1133,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelBack5)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:128 editor/setpreview.ui:286
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "negative"
 msgstr "നെഗറ്റിവ്"
@@ -1141,9 +1141,9 @@ msgstr "നെഗറ്റിവ്"
 #. i18n: ectx: property (toolTip), widget (QLabel, labelFore6)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:141
-#, fuzzy, kde-format
+#, kde-format
 msgid "Neutral Text on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിലുള്ള നിഷ്പക്ഷ പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -1151,17 +1151,17 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelBack6)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:144 editor/setpreview.ui:303
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "neutral"
-msgstr "ന്യൂട്രല്‍"
+msgstr "നിഷ്പക്ഷം"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelFore7)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:157
-#, fuzzy, kde-format
+#, kde-format
 msgid "Positive Text on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ പോസിറ്റീവ് പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
@@ -1169,7 +1169,7 @@ msgstr "സാധാരണ പശ്ചാത്തലം"
 #. i18n: ectx: property (text), widget (QLabel, labelBack7)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:160 editor/setpreview.ui:320
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "positive"
 msgstr "പോസിറ്റിവ്"
@@ -1177,18 +1177,18 @@ msgstr "പോസിറ്റിവ്"
 #. i18n: ectx: property (toolTip), widget (QWidget, widgetFore8)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:170
-#, fuzzy, kde-format
+#, kde-format
 msgid "Hover on Normal Background"
-msgstr "സാധാരണ പശ്ചാത്തലം"
+msgstr "സാധാരണ പശ്ചാത്തലത്തിൽ ഹോവർ ചെയ്യുക"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QLabel, labelFore8)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:176
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "hover"
-msgstr "മുകളില്‍ വരുന്ന"
+msgstr "ഹോവർ ചെയ്യുക"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack3)
 #. +> trunk5 stable5 plasma5lts
@@ -1199,6 +1199,9 @@ msgid ""
 "(Note: Link Background is derived from Link Text and cannot be separately "
 "configured at this time)"
 msgstr ""
+"കണ്ണി പശ്ചാത്തലത്തിൽ കണ്ണി പദാവലി\n"
+"(കുറിപ്പ്: കണ്ണി പദാവലിയിൽ നിന്ന് കണ്ണി പശ്ചാത്തലം ഉരുത്തിരിഞ്ഞതാണ്, ഇപ്പോൾ "
+"അത് പ്രത്യേകമായി ക്രമീകരിക്കാൻ കഴിയില്ല)"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack4)
 #. +> trunk5 stable5 plasma5lts
@@ -1209,6 +1212,9 @@ msgid ""
 "(Note: Visited Background is derived from Visited Text and cannot be "
 "separately configured at this time)"
 msgstr ""
+"സന്ദർശിച്ച പശ്ചാത്തലത്തിൽ സന്ദർശിച്ച പദാവലി\n"
+"(കുറിപ്പ്: സന്ദർശിച്ച പശ്ചാത്തലം സന്ദർശിച്ച പദാവലിയിൽ നിന്ന് ഉരുത്തിരിഞ്ഞതാണ്"
+", ഇപ്പോൾ പ്രത്യേകമായി ക്രമീകരിക്കാൻ കഴിയില്ല)"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack2)
 #. +> trunk5 stable5 plasma5lts
@@ -1219,19 +1225,22 @@ msgid ""
 "(Note: Active Background is derived from Active Text and cannot be "
 "separately configured at this time)"
 msgstr ""
+"സജീവ പശ്ചാത്തലത്തിലുള്ള സജീവ പദാവലി\n"
+"(കുറിപ്പ്: സജീവ പശ്ചാത്തലം സജീവ പദാവലിയിൽ നിന്ന് ഉരുത്തിരിഞ്ഞതാണ്, ഇപ്പോൾ "
+"പ്രത്യേകമായി ക്രമീകരിക്കാൻ കഴിയില്ല)"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack1)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:266
-#, fuzzy, kde-format
+#, kde-format
 msgid "Inactive Text on Alternate Background"
-msgstr "മറ്റൊരു പശ്ചാത്തലം"
+msgstr "ഇതര പശ്ചാത്തലത്തിൽ നിഷ്‌ക്രിയ പദാവലി"
 
 #. i18n: see kdebase/workspace/kcontrol/colors/README.i18n
 #. i18n: ectx: property (text), widget (QLabel, labelBack1)
 #. +> trunk5 stable5 plasma5lts
 #: editor/setpreview.ui:269
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "color-kcm-set-preview"
 msgid "alternate"
 msgstr "പകരമായി"
@@ -1245,6 +1254,9 @@ msgid ""
 "(Note: Negative Background is derived from Negative Text and cannot be "
 "separately configured at this time)"
 msgstr ""
+"നെഗറ്റീവ് പശ്ചാത്തലത്തിൽ നെഗറ്റീവ് പദാവലി\n"
+"(കുറിപ്പ്: നെഗറ്റീവ് പശ്ചാത്തലം നെഗറ്റീവ് പദാവലിയിൽ നിന്ന് ഉരുത്തിരിഞ്ഞതാണ്, "
+"ഇപ്പോൾ പ്രത്യേകമായി ക്രമീകരിക്കാൻ കഴിയില്ല)"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack6)
 #. +> trunk5 stable5 plasma5lts
@@ -1255,6 +1267,9 @@ msgid ""
 "(Note: Neutral Background is derived from Neutral Text and cannot be "
 "separately configured at this time)"
 msgstr ""
+"ന്യൂട്രൽ പശ്ചാത്തലത്തിൽ ന്യൂട്രൽ പദാവലി\n"
+"(കുറിപ്പ്: ന്യൂട്രൽ പശ്ചാത്തലം ന്യൂട്രൽ പദാവലിയിൽ നിന്ന് ഉരുത്തിരിഞ്ഞതാണ്, ഈ "
+"സമയത്ത് പ്രത്യേകമായി ക്രമീകരിക്കാൻ കഴിയില്ല)"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelBack7)
 #. +> trunk5 stable5 plasma5lts
@@ -1265,6 +1280,9 @@ msgid ""
 "(Note: Positive Background is derived from Positive Text and cannot be "
 "separately configured at this time)"
 msgstr ""
+"പോസിറ്റീവ് പശ്ചാത്തലത്തിൽ പോസിറ്റീവ് പദാവലി\n"
+"(കുറിപ്പ്: പോസിറ്റീവ് പശ്ചാത്തലം പോസിറ്റീവ് പദാവലിയിൽ നിന്ന് ഉരുത്തിരിഞ്ഞതാണ്"
+", ഇപ്പോൾ പ്രത്യേകമായി ക്രമീകരിക്കാൻ കഴിയില്ല)"
 
 #. i18n: ectx: property (toolTip), widget (QLabel, labelFore9)
 #. +> trunk5 stable5 plasma5lts
@@ -1286,7 +1304,7 @@ msgstr "ദൃഷ്ടി കേന്ദ്രം"
 #: package/contents/ui/main.qml:35
 #, kde-format
 msgid "This module lets you choose the color scheme."
-msgstr ""
+msgstr "നിറക്കൂട്ടു് തിരഞ്ഞെടുക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:92
@@ -1294,6 +1312,7 @@ msgstr ""
 msgid ""
 "The color scheme '%1' is not installed. Selecting the default theme instead."
 msgstr ""
+"നിറക്കൂട്ടു് '%1' ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല. പകരം തനത് തീം തിരഞ്ഞെടുക്കുന്നു."
 
 #. +> plasma5lts
 #: package/contents/ui/main.qml:96
@@ -1309,9 +1328,9 @@ msgstr "എല്ലാ സ്കീമുകളും"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:111
-#, fuzzy, kde-format
+#, kde-format
 msgid "Light Schemes"
-msgstr "&നിറക്കൂട്ടു്"
+msgstr "ലൈറ്റ് സ്കീമുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:112
@@ -1321,41 +1340,41 @@ msgstr "ഇരുണ്ട സ്കീമുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:172
-#, fuzzy, kde-format
+#, kde-format
 msgid "Window Title"
-msgstr "ജാലകത്തിനുള്ള പദാവലി"
+msgstr "വിൻഡോ ശീർഷകം"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:194
-#, fuzzy, kde-format
+#, kde-format
 msgid "Window text"
 msgstr "ജാലകത്തിനുള്ള പദാവലി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:201
-#, fuzzy, kde-format
+#, kde-format
 msgid "Button"
 msgstr "ബട്ടണ്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:235
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Hyperlink"
 msgid "link"
 msgstr "കണ്ണി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:237
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "Visited hyperlink"
 msgid "visited"
 msgstr "സന്ദര്‍ശിച്ചതു്"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:244
-#, fuzzy, kde-format
+#, kde-format
 msgid "Normal text"
-msgstr "സാധരണ പദാവലി"
+msgstr "സാധാരണ പദാവലി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:252
@@ -1365,9 +1384,9 @@ msgstr "സന്ദര്‍ശിച്ച പദാവലി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:259
-#, fuzzy, kde-format
+#, kde-format
 msgid "Disabled text"
-msgstr "പ്രവര്‍ത്തനരഹിതം"
+msgstr "അപ്രാപ്തമാക്കിയ പദാവലി"
 
 #. +> trunk5
 #: package/contents/ui/main.qml:277
@@ -1377,33 +1396,33 @@ msgstr "നിറക്കൂട്ടു് ചിട്ടപെടുത്�
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:277
-#, fuzzy, kde-format
+#, kde-format
 msgid "Edit Color Scheme..."
-msgstr "നിറക്കൂട്ടു് എടുക്കുക..."
+msgstr "നിറക്കൂട്ടു് എഡിറ്റ് ചെയ്യുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:283
-#, fuzzy, kde-format
+#, kde-format
 msgid "Remove Color Scheme"
-msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
+msgstr "നിറക്കൂട്ടു് നീക്കം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:290
-#, fuzzy, kde-format
+#, kde-format
 msgid "Restore Color Scheme"
-msgstr "നിറക്കൂട്ടു് എടുക്കുക"
+msgstr "നിറക്കൂട്ടു് പുനഃസ്ഥാപിക്കുക"
 
 #. +> trunk5
 #: package/contents/ui/main.qml:334
 #, kde-format
 msgid "Install from File…"
-msgstr ""
+msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക…"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:334
 #, kde-format
 msgid "Install from File..."
-msgstr ""
+msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക..."
 
 #. +> trunk5
 #: package/contents/ui/main.qml:339
@@ -1413,21 +1432,21 @@ msgstr "പുതിയ നിറക്കൂട്ടുകള്‍ ലഭ്�
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:339
-#, fuzzy, kde-format
+#, kde-format
 msgid "Get New Color Schemes..."
-msgstr "&പുതിയ നിറക്കൂട്ടുകള്‍ ലഭ്യമാക്കുക..."
+msgstr "പുതിയ നിറക്കൂട്ടുകള്‍ ലഭ്യമാക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:390
-#, fuzzy, kde-format
+#, kde-format
 msgid "Open Color Scheme"
-msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
+msgstr "നിറക്കൂട്ടു് തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:392
 #, kde-format
 msgid "Color Scheme Files (*.colors)"
-msgstr ""
+msgstr "നിറക്കൂട്ടു് ഫയലുകൾ (*.colors)"
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:50
@@ -1437,6 +1456,9 @@ msgid ""
 "without accidentally setting it to one that is either not available, or "
 "which is already set."
 msgstr ""
+"നിലവിലെ പ്ലാസ്മ സെഷനായി കളർ സ്കീം ക്രമീകരിക്കാൻ ഈ ഉപകരണം നിങ്ങളെ "
+"അനുവദിക്കുന്നു, അബദ്ധത്തിൽ അത് ലഭ്യമല്ലാത്തതോ അല്ലെങ്കിൽ ഇതിനകം "
+"സജ്ജീകരിച്ചിരിക്കുന്നതോ ആയ ഒന്നിലേക്ക് ക്രമീകരിക്കാതെ."
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:54
@@ -1445,6 +1467,8 @@ msgid ""
 "The name of the color scheme you wish to set for your current Plasma session "
 "(passing a full path will only use the last part of the path)"
 msgstr ""
+"നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനായി നിങ്ങൾ സജ്ജമാക്കാൻ ആഗ്രഹിക്കുന്ന വർണ്ണ "
+"സ്കീമിന്റെ പേര് (ഒരു പൂർണ്ണ പാത നൽകുന്നതിന്റെ അവസാന ഭാഗം മാത്രമേ ഉപയോഗിക്കൂ)"
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:56
@@ -1453,6 +1477,7 @@ msgid ""
 "Show all the color schemes available on the system (and which is the current "
 "theme)"
 msgstr ""
+"സിസ്റ്റത്തിൽ ലഭ്യമായ എല്ലാ വർണ്ണ സ്കീമുകളും കാണിക്കുക (കൂടാതെ നിലവിലെ തീമും)"
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:80
@@ -1461,12 +1486,14 @@ msgid ""
 "The requested theme \"%1\" is already set as the theme for the current "
 "Plasma session."
 msgstr ""
+"അഭ്യർത്ഥിച്ച തീം \"%1\" നിലവിലെ പ്ലാസ്മ സെഷന്റെ തീം ആയി ഇതിനകം "
+"സജ്ജീകരിച്ചിരിക്കുന്നു."
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:102
 #, kde-format
 msgid "Successfully applied the color scheme %1 to your current Plasma session"
-msgstr ""
+msgstr "നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനിൽ നിറക്കൂട്ടു് %1 വിജയകരമായി പ്രയോഗിച്ചു"
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:104
@@ -1475,6 +1502,7 @@ msgid ""
 "Could not find theme \"%1\". The theme should be one of the following "
 "options: %2"
 msgstr ""
+"\"%1\" തീം കണ്ടെത്താനായില്ല. തീം ഇനിപ്പറയുന്ന ഓപ്ഷനുകളിൽ ഒന്നായിരിക്കണം: %2"
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:111
@@ -1482,7 +1510,7 @@ msgstr ""
 msgid ""
 "You have managed to pass an empty color scheme name, which isn't supported "
 "behavior."
-msgstr ""
+msgstr "പിന്തുണ നൽകാത്ത രീതിയിൽ ഒരു ശൂന്യമായ നിറക്കൂട്ടു് നാമം നിങ്ങൾ കൈമാറി."
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:115
@@ -1491,12 +1519,14 @@ msgid ""
 "The file you attempted to set as your scheme, %1, could not be identified as "
 "a color scheme."
 msgstr ""
+"നിങ്ങളുടെ സ്കീമായി സജ്ജീകരിക്കാൻ ശ്രമിച്ച ഫയൽ, %1, ഒരു വർണ്ണ സ്കീമായി "
+"തിരിച്ചറിയാൻ കഴിഞ്ഞില്ല."
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:120
 #, kde-format
 msgid "You have the following color schemes on your system:"
-msgstr ""
+msgstr "നിങ്ങളുടെ സിസ്റ്റത്തിൽ ഇനിപ്പറയുന്ന വർണ്ണ സ്കീമുകൾ ഉണ്ട്:"
 
 #. +> trunk5 stable5
 #: plasma-apply-colorscheme.cpp:125
