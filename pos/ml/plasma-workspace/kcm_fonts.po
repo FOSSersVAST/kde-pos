@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
-"PO-Revision-Date: 2021-08-16 13:35+0000\n"
+"PO-Revision-Date: 2021-08-16 13:39+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -49,14 +49,14 @@ msgstr "ആന്റോണിസ് സിയപലിയോകാസ്"
 #: fontsaasettingsbase.kcfg:9
 #, kde-format
 msgid "Force font DPI Wayland"
-msgstr "ഡിപിഐ വേലൻഡിലേക്ക് ഫോണ്ട് നിർബന്ധിക്കുക"
+msgstr "വേലൻഡിൽ ഫോണ്ട് ഡിപിഐ നിർബന്ധിക്കുക"
 
 #. i18n: ectx: label, entry (forceFontDPI), group (General)
 #. +> trunk5 stable5
 #: fontsaasettingsbase.kcfg:13
-#, fuzzy, kde-format
+#, kde-format
 msgid "Force font DPI on X11"
-msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
+msgstr "X11ൽ ഫോണ്ട് ഡിപിഐ നിർബന്ധിക്കുക"
 
 #. i18n: ectx: label, entry (font), group (General)
 #. +> trunk5 stable5
@@ -68,9 +68,9 @@ msgstr "സാധാരണ"
 #. i18n: ectx: label, entry (fixed), group (General)
 #. +> trunk5 stable5
 #: fontssettings.kcfg:21
-#, fuzzy, kde-format
+#, kde-format
 msgid "Fixed width font"
-msgstr "തുല്ല്യ വീതി"
+msgstr "തുല്യ വീതിയുള്ള ഫോണ്ട്"
 
 #. i18n: ectx: label, entry (smallestReadableFont), group (General)
 #. +> trunk5 stable5
