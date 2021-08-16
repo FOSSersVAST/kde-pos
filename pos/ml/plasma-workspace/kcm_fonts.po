@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
-"PO-Revision-Date: 2021-08-16 13:41+0000\n"
+"PO-Revision-Date: 2021-08-16 13:42+0000\n"
 "Last-Translator: anuraghkp <kpanuragh@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -193,13 +193,13 @@ msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:49
-#, fuzzy, kde-format
+#, kde-format
 msgid ""
 "Some changes such as anti-aliasing or DPI will only affect newly started "
 "applications."
 msgstr ""
-"<p>ആന്റി-അലിയാസിങ് പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ.</"
-"p>"
+"ആന്റി-അലിയാസിങ് പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ "
+"മാത്രമേ ലഭ്യമാകുള്ളൂ."
 
 #. +> trunk5 stable5
 #: package/contents/ui/main.qml:63
