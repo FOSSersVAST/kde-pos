@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
 "PO-Revision-Date: 2021-08-16 13:35+0000\n"
-"Last-Translator: anuraghkp <kpanuragh@gmail.com>\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -216,7 +216,8 @@ msgid ""
 "The recommended way to scale the user interface is using the global screen "
 "scaling feature."
 msgstr ""
-"ഉപയോക്തൃ ഇന്റർഫേസ് വലുതാക്കാനുള്ള നല്ല മാർഗം ആഗോള സ്ക്രീൻ വലുതാക്കുന്നതാണ്"
+"ഉപയോക്തൃ ഇന്റർഫേസ് വലുതാക്കാനുള്ള നല്ല മാർഗം ആഗോള സ്ക്രീൻ വലുപ്പ മാറ്റൽ "
+"പ്രക്രിയ ഉപയോഗിക്കുന്നതാണ്."
 
 #. +> trunk5
 #: package/contents/ui/main.qml:95
