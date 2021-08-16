@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
-"PO-Revision-Date: 2021-08-16 13:34+0000\n"
+"PO-Revision-Date: 2021-08-16 13:35+0000\n"
 "Last-Translator: anuraghkp <kpanuragh@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -47,9 +47,9 @@ msgstr "ആന്റോണിസ് സിയപലിയോകാസ്"
 #. i18n: ectx: label, entry (forceFontDPIWayland), group (General)
 #. +> trunk5 stable5
 #: fontsaasettingsbase.kcfg:9
-#, fuzzy, kde-format
+#, kde-format
 msgid "Force font DPI Wayland"
-msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
+msgstr "ഡിപിഐ വേലൻഡിലേക്ക് ഫോണ്ട് നിർബന്ധിക്കുക"
 
 #. i18n: ectx: label, entry (forceFontDPI), group (General)
 #. +> trunk5 stable5
