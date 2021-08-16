@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
-"PO-Revision-Date: 2021-08-15 10:59+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"PO-Revision-Date: 2021-08-16 13:45+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ്  <smc-discuss@googlegroups.com>\n"
 "Language: ml\n"
@@ -87,9 +87,9 @@ msgstr "പ്രവൃത്തി കളയുക"
 #. i18n: ectx: property (text), widget (QPushButton, pbAdvanced)
 #. +> trunk5 stable5 plasma5lts
 #: actionsconfig.ui:85
-#, fuzzy, kde-format
+#, kde-format
 msgid "Advanced..."
-msgstr "മെച്ചപ്പെട്ട"
+msgstr "വിസ്തരിച്ച..."
 
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #. +> trunk5 stable5 plasma5lts
@@ -117,14 +117,14 @@ msgstr[1] " സെക്കന്റുകള്‍"
 #, kde-format
 msgid " entry"
 msgid_plural " entries"
-msgstr[0] "എന്‍ട്രി"
-msgstr[1] "എന്‍ട്രികള്‍"
+msgstr[0] " എന്‍ട്രി"
+msgstr[1] " എന്‍ട്രികള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: configdialog.cpp:248
 #, kde-format
 msgid "Advanced Settings"
-msgstr "പുരോഗമിച്ച ക്രമികരണങ്ങള്‍"
+msgstr "വിസ്തരിച്ച ക്രമികരണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: configdialog.cpp:272
@@ -148,7 +148,7 @@ msgstr "പ്രവൃത്തികള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: configdialog.cpp:273
-#, fuzzy, kde-format
+#, kde-format
 msgid "Actions Configuration"
 msgstr "പ്രവൃത്തികളുടെ സജ്ജീകരണം"
 
