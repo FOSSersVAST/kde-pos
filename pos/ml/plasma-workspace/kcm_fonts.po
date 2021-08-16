@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
 "PO-Revision-Date: 2021-08-16 13:41+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: anuraghkp <kpanuragh@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -96,9 +96,9 @@ msgstr "മെനു അക്ഷരസഞ്ചയം"
 #. i18n: ectx: label, entry (activeFont), group (WM)
 #. +> trunk5 stable5
 #: fontssettings.kcfg:71
-#, fuzzy, kde-format
+#, kde-format
 msgid "Window title font"
-msgstr "ജാലകത്തിനുള്ള തലക്കെട്ടു്"
+msgstr "വിന്ഡോ തലക്കെട്ടിനുള്ള ഫോണ്ട്"
 
 #. +> trunk5 stable5 plasma5lts
 #: kxftconfig.cpp:467
