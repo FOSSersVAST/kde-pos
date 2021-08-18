@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-07-19 10:08+0200\n"
-"PO-Revision-Date: 2021-08-12 11:59+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"PO-Revision-Date: 2021-08-19 13:59+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
 "Language: ml\n"
@@ -169,7 +169,7 @@ msgstr "മറച്ചിരിക്കുന്ന ചിഹ്നങ്ങ�
 #: systemtraymodel.cpp:58
 #, kde-format
 msgid " (Automatic load)"
-msgstr "(താനേ ലോഡ് ചെയ്യുക)"
+msgstr " (താനേ ലോഡ് ചെയ്തത്)"
 
 #. +> trunk5 stable5
 #: systemtraymodel.cpp:137
@@ -178,4 +178,4 @@ msgctxt ""
 "Suffix added to the applet name if the applet is autoloaded via DBus "
 "activation"
 msgid "%1 (Automatic load)"
-msgstr "%1 (താനേ ലോഡ് ചെയ്യുക)"
+msgstr "%1 (താനേ ലോഡ് ചെയ്തത്)"
