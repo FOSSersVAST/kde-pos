@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kfontinst\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-07-30 08:46+0200\n"
-"PO-Revision-Date: 2021-08-12 11:59+0000\n"
+"PO-Revision-Date: 2021-08-19 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -44,7 +44,7 @@ msgstr ""
 #: apps/Installer.cpp:56 kcmfontinst/KCmFontInst.cpp:976
 #, kde-format
 msgid "Where to Install"
-msgstr "എവിടെ ഇന്‍സ്റ്റോള്‍ ചെയ്യണം"
+msgstr "എവിടെ ഇന്‍സ്റ്റാള്‍ ചെയ്യണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: apps/Installer.cpp:128
@@ -983,6 +983,15 @@ msgid ""
 "folder -  \"%1\" for fonts available to just yourself, or  \"%2\" for system-"
 "wide fonts (available to all).</p>"
 msgstr ""
+"<h1>അക്ഷരസഞ്ചയ ഇൻസ്റ്റാളർ </h1><p> ട്രൂ ടൈപ്പ്, ടൈപ്പ് 1, ബിറ്റ്മാപ്പ് "
+"അക്ഷരസഞ്ചയങ്ങൾ ഇൻസ്റ്റാൾ ചെയ്യാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ "
+"അനുവദിക്കുന്നു.</p><p>നിങ്ങൾക്ക് കോൺക്വറർ ഉപയോഗിച്ചും അക്ഷരസഞ്ചയങ്ങൾ ഇൻസ്റ്റാ"
+"ൾ ചെയ്യാം: ഇതിനായി കോൺക്വററിന്റെ ലൊക്കേഷൻ ബാറിൽ fonts:/ എന്ന് ടൈപ്പ് ചെയ്യു"
+"ക. ഇത് നിങ്ങളുടെ സിസ്റ്റത്തിൽ ലഭ്യമായ അക്ഷരസഞ്ചയങ്ങൾ പ്രദർശിപ്പിക്കും. ഒരു "
+"അക്ഷരസഞ്ചയം ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന്, അത് ഉചിതമായ ഫോൾഡറിലേക്ക് പകർത്തുക - "
+"നിങ്ങൾക്ക് മാത്രമായി ലഭ്യമാക്കേണ്ട അക്ഷരസഞ്ചയങ്ങൾക്കായി \"%1\" ലേക്കും "
+"സിസ്റ്റം മുഴുവൻ ലഭ്യമാക്കുന്നതിനായി \"%2\" ലേക്കും(എല്ലാവർക്കും "
+"ലഭ്യമാണ്).</p>"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:454
@@ -1386,7 +1395,11 @@ msgid_plural ""
 "<p>Do you really want to enable these %1 fonts contained within group '<b>"
 "%2</b>'?</p>"
 msgstr[0] ""
+"<p>'<b>%2</b>' ഗ്രൂപ്പിൽ അടങ്ങിയിരിക്കുന്ന ഈ അക്ഷരസഞ്ചയം പ്രാപ്തമാക്കാൻ നിങ്"
+"ങൾ ശരിക്കും ആഗ്രഹിക്കുന്നുണ്ടോ?</p>"
 msgstr[1] ""
+"<p>'<b>%2</b>' ഗ്രൂപ്പിൽ അടങ്ങിയിരിക്കുന്ന ഈ %1 അക്ഷരസഞ്ചയങ്ങൾ പ്രാപ്തമാക്കാ"
+"ൻ നിങ്ങൾ ശരിക്കും ആഗ്രഹിക്കുന്നുണ്ടോ?</p>"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:1167
@@ -1398,7 +1411,11 @@ msgid_plural ""
 "<p>Do you really want to disable these %1 fonts contained within group '<b>"
 "%2</b>'?</p>"
 msgstr[0] ""
+"<p>'<b>%2 </b>' ഗ്രൂപ്പിൽ അടങ്ങിയിരിക്കുന്ന ഈ അക്ഷരസഞ്ചയം പ്രവർത്തനരഹിതമാക്കാ"
+"ൻ നിങ്ങൾ ശരിക്കും ആഗ്രഹിക്കുന്നുണ്ടോ?</p>"
 msgstr[1] ""
+"<p>'<b>%2 </b>' ഗ്രൂപ്പിൽ അടങ്ങിയിരിക്കുന്ന ഈ %1 അക്ഷരസഞ്ചയങ്ങൾ "
+"പ്രവർത്തനരഹിതമാക്കാൻ നിങ്ങൾ ശരിക്കും ആഗ്രഹിക്കുന്നുണ്ടോ?</p>"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmfontinst/KCmFontInst.cpp:1173 kcmfontinst/KCmFontInst.cpp:1174
