@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-01 09:16+0200\n"
-"PO-Revision-Date: 2021-08-12 11:59+0000\n"
+"PO-Revision-Date: 2021-08-19 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
@@ -24,13 +24,13 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Shiju Alex,Subin Siby"
+msgstr "Shiju Alex,Subin Siby, Vivek K J"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "shijualexonline@gmail.com,mail@subinsb.com"
+msgstr "shijualexonline@gmail.com,mail@subinsb.com,vivekkj2004@gmail.com"
 
 #. i18n: ectx: label, entry (cursorTheme), group (Mouse)
 #. +> trunk5 stable5
@@ -115,8 +115,8 @@ msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
 "replace it with this one?"
 msgstr ""
-"താങ്കളുടെ ചിഹ്നം പ്രമേയം ഫോള്‍ഡറില്‍ %1 എന്ന പേരിൽ നിലവിലുണ്ട്. താങ്കള്‍ക്കു അതിനെ ഈ പ്രമേയം "
-"കൊണ്ടു മാറ്റിയെഴുതണോ?"
+"%1 എന്ന പേരിലുള്ള ഒരു പ്രമേയം നിങ്ങളുടെ ചിഹ്ന പ്രമേയ അറയിൽ ഇതിനകം നിലവിലുണ്ട്"
+". നിങ്ങൾക്ക് ഇത് മാറ്റിസ്ഥാപിക്കണോ?"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmcursortheme.cpp:463
@@ -137,8 +137,8 @@ msgid ""
 "<qt>You cannot delete the theme you are currently using.<br />You have to "
 "switch to another theme first.</qt>"
 msgstr ""
-"<qt>നിലവില്‍ ഉപയോഗിച്ചു കൊണ്ടിരിക്കുന്ന പ്രമേയം കളയാൻ താങ്കള്‍ക്കു സാധിക്കില്ല.<br />ആദ്യം "
-"മറ്റൊരു പ്രമേയത്തിലേക്ക് മാറേണ്ടതാണു.</qt>"
+"<qt>നിലവില്‍ ഉപയോഗിച്ചു കൊണ്ടിരിക്കുന്ന പ്രമേയം കളയാൻ താങ്കള്‍ക്കു സാധിക്കില്"
+"ല.<br />ആദ്യം മറ്റൊരു പ്രമേയത്തിലേക്ക് മാറേണ്ടതാണു.</qt>"
 
 #. +> plasma5lts
 #: kcmcursortheme.cpp:570
@@ -147,8 +147,9 @@ msgid ""
 "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
 "will delete all the files installed by this theme.</qt>"
 msgstr ""
-"<qt><i>%1</i> എന്ന ചൂണ്ടുവിരൽ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />ഈ പ്രവര്‍"
-"ത്തനം %1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
+"<qt><i>%1</i> എന്ന ചൂണ്ടുവിരൽ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ"
+"?<br />ഈ പ്രവര്‍ത്തനം %1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം "
+"മായ്ക്കും.</qt>"
 
 #. +> plasma5lts
 #: kcmcursortheme.cpp:576
@@ -184,25 +185,25 @@ msgstr "വലുപ്പം:"
 #: package/contents/ui/main.qml:146
 #, kde-format
 msgid "&Install from File…"
-msgstr "&ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക…"
+msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക… (&I)"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:146
 #, kde-format
 msgid "&Install from File..."
-msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക(&I)..."
+msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക... (&I)"
 
 #. +> trunk5
 #: package/contents/ui/main.qml:152
 #, kde-format
 msgid "&Get New Cursors…"
-msgstr "&പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക…"
+msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക… (&G)"
 
 #. +> stable5 plasma5lts
 #: package/contents/ui/main.qml:152
 #, kde-format
 msgid "&Get New Cursors..."
-msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക(&G)..."
+msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക... (&G)"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:202
@@ -225,7 +226,7 @@ msgid ""
 "available, or which is already set."
 msgstr ""
 "അബദ്ധവശാൽ അത് ലഭ്യമല്ലാത്തതോ അല്ലെങ്കിൽ ഇതിനകം സജ്ജീകരിച്ചിട്ടുള്ളതോ ആയ "
-"ഒന്നിലേക്ക് ക്രമീകരിക്കാതെ, നിലവിലെ പ്ലാസ്മ സെഷനായി ചൂണ്ടുവിരല്‍ തീം "
+"ഒന്നിലേക്ക് ക്രമീകരിക്കാതെ, നിലവിലെ പ്ലാസ്മ സെഷനായി ചൂണ്ടുവിരല്‍ പ്രമേയം "
 "സജ്ജീകരിക്കാൻ ഈ ഉപകരണം നിങ്ങളെ അനുവദിക്കുന്നു."
 
 #. +> trunk5 stable5
@@ -236,15 +237,16 @@ msgid ""
 "(passing a full path will only use the last part of the path)"
 msgstr ""
 "നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനായി നിങ്ങൾ സജ്ജമാക്കാൻ ആഗ്രഹിക്കുന്ന "
-"ചൂണ്ടുവിരല്‍ തീമിന്റെ പേര് (ഒരു പൂർണ്ണ പാതയിലൂടെ കടന്നുപോകുന്നത് പാതയുടെ അവസാ"
-"ന ഭാഗം മാത്രമേ ഉപയോഗിക്കൂ)"
+"ചൂണ്ടുവിരല്‍ തീമിന്റെ പേര് (ഒരു പൂർണ്ണ പാത നൽകിയാലും അതിന്റെ അവസാന ഭാഗം "
+"മാത്രമേ ഉപയോഗിക്കൂ)"
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:53
 #, kde-format
 msgid ""
 "Show all the themes available on the system (and which is the current theme)"
-msgstr "സിസ്റ്റത്തിൽ ലഭ്യമായ എല്ലാ തീമുകളും കാണിക്കുക (കൂടാതെ നിലവിലെ തീമും)"
+msgstr ""
+"സിസ്റ്റത്തിൽ ലഭ്യമായ എല്ലാ പ്രമേയങ്ങളും കാണിക്കുക (കൂടാതെ നിലവിലെ തീമും)"
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:74
@@ -253,7 +255,7 @@ msgid ""
 "The requested theme \"%1\" is already set as the theme for the current "
 "Plasma session."
 msgstr ""
-"അഭ്യർത്ഥിച്ച തീം \"%1\" നിലവിലെ പ്ലാസ്മ സെഷന്റെ തീം ആയി ഇതിനകം "
+"അഭ്യർത്ഥിച്ച പ്രമേയം \"%1\" നിലവിലെ പ്ലാസ്മ സെഷന്റെ പ്രമേയം ആയി ഇതിനകം "
 "സജ്ജീകരിച്ചിരിക്കുന്നു."
 
 #. +> trunk5 stable5
@@ -262,7 +264,8 @@ msgstr ""
 msgid ""
 "Successfully applied the mouse cursor theme %1 to your current Plasma session"
 msgstr ""
-"നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനിൽ ചൂണ്ടുവിരല്‍ തീം %1 വിജയകരമായി പ്രയോഗിച്ചു"
+"നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനിൽ ചൂണ്ടുവിരല്‍ പ്രമേയം %1 വിജയകരമായി "
+"പ്രയോഗിച്ചു"
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:87
@@ -271,8 +274,8 @@ msgid ""
 "You have to restart the Plasma session for your newly applied mouse cursor "
 "theme to display correctly."
 msgstr ""
-"നിങ്ങളുടെ പുതുതായി പ്രയോഗിച്ച ചൂണ്ടുവിരല്‍ തീം ശരിയായി പ്രദർശിപ്പിക്കുന്നതിന്"
-" നിങ്ങൾ പ്ലാസ്മ സെഷൻ പുനരാരംഭിക്കേണ്ടതുണ്ട്."
+"നിങ്ങളുടെ പുതുതായി പ്രയോഗിച്ച ചൂണ്ടുവിരല്‍ പ്രമേയം ശരിയായി "
+"പ്രദർശിപ്പിക്കുന്നതിന് നിങ്ങൾ പ്ലാസ്മ സെഷൻ പുനരാരംഭിക്കേണ്ടതുണ്ട്."
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:97
@@ -281,13 +284,14 @@ msgid ""
 "Could not find theme \"%1\". The theme should be one of the following "
 "options: %2"
 msgstr ""
-"\"%1\" തീം കണ്ടെത്താനായില്ല. തീം ഇനിപ്പറയുന്ന ഓപ്ഷനുകളിൽ ഒന്നായിരിക്കണം: %2"
+"\"%1\" പ്രമേയം കണ്ടെത്താനായില്ല. പ്രമേയം ഇനിപ്പറയുന്ന ഓപ്ഷനുകളിൽ "
+"ഒന്നായിരിക്കണം: %2"
 
 #. +> trunk5 stable5
 #: plasma-apply-cursortheme.cpp:105
 #, kde-format
 msgid "You have the following mouse cursor themes on your system:"
-msgstr "നിങ്ങളുടെ സിസ്റ്റത്തിൽ ഇനിപ്പറയുന്ന ചൂണ്ടുവിരല്‍ തീമുകൾ ഉണ്ട്:"
+msgstr "നിങ്ങളുടെ സിസ്റ്റത്തിൽ ഇനിപ്പറയുന്ന ചൂണ്ടുവിരല്‍ പ്രമേയങ്ങൾ ഉണ്ട്:"
 
 #. +> trunk5 stable5 plasma5lts
 #: xcursor/thememodel.cpp:79
