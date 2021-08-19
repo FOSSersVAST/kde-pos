@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
 "PO-Revision-Date: 2021-08-20 15:59+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -147,31 +147,31 @@ msgstr "സിസ്റ്റം ക്രമീകരണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
 #: kxftconfig.cpp:507
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "medium hinting"
 msgid "Medium"
 msgstr "മദ്ധ്യം"
 
 #. +> trunk5 stable5 plasma5lts
 #: kxftconfig.cpp:509
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "no hinting"
 msgid "None"
-msgstr "ഒന്നുമല്ല"
+msgstr "ഒന്നുമില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: kxftconfig.cpp:511
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "slight hinting"
 msgid "Slight"
 msgstr "ചെറുതായി"
 
 #. +> trunk5 stable5 plasma5lts
 #: kxftconfig.cpp:513
-#, fuzzy, kde-format
+#, kde-format
 msgctxt "full hinting"
 msgid "Full"
-msgstr "പൂര്‍ണ്ണം"
+msgstr "പൂർണ്ണമായി"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:33
