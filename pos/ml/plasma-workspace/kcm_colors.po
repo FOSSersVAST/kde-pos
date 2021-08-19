@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-03 10:47+0200\n"
-"PO-Revision-Date: 2021-08-17 12:59+0000\n"
+"PO-Revision-Date: 2021-08-19 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -1006,9 +1006,9 @@ msgstr "ഫ്രെയിമുകളുടെ നിഴലും ലൈറ്�
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox_5)
 #. +> trunk5 stable5 plasma5lts
 #: editor/scmeditoroptions.ui:41
-#, fuzzy, kde-format
+#, kde-format
 msgid "Shading"
-msgstr "ചുരുക്കുക"
+msgstr "നിഴലിമ"
 
 #. i18n: ectx: property (text), widget (QLabel, label_9)
 #. +> trunk5 stable5 plasma5lts
