@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kcmstyle\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-01 09:16+0200\n"
-"PO-Revision-Date: 2021-08-12 11:59+0000\n"
+"PO-Revision-Date: 2021-08-19 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
 "Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
@@ -23,19 +23,19 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "അനി പീറ്റര്‍"
+msgstr "അനി പീറ്റര്‍, വിവേക് കെ ജെ"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com"
+msgstr "peter.ani@gmail.com,vivekkj2004@gmail.com"
 
 #. +> trunk5 stable5 plasma5lts
 #: gtkpage.cpp:79
 #, kde-format
 msgid "%1 is not a valid GTK Theme archive."
-msgstr "%1 സാധുവായ GTK തീം ശേഖരമല്ല."
+msgstr "%1 സാധുവായ GTK പ്രമേയ ശേഖരമല്ല."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmstyle.cpp:92
@@ -47,7 +47,8 @@ msgstr "ആപ്ലിക്കേഷൻ രൂപഭംഗി"
 #: kcmstyle.cpp:96
 #, kde-format
 msgid "(c) 2002 Karol Szwed, Daniel Molkentin, (c) 2019 Kai Uwe Broulik"
-msgstr "(c) 2002 കാരള്‍ സ്വെഡ്, ഡാനിയല്‍ മോല്‍ക്കെന്‍ടിന്‍, (c) 2019 കൈ ഉവെ ബ്രൗളിക്"
+msgstr ""
+"(c) 2002 കാരള്‍ സ്വെഡ്, ഡാനിയല്‍ മോല്‍ക്കെന്‍ടിന്‍, (c) 2019 കൈ ഉവെ ബ്രൗളിക്"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmstyle.cpp:98
@@ -71,7 +72,7 @@ msgstr "കൈ ഉവെ ബ്രൗളിക്"
 #: kcmstyle.cpp:189 kcmstyle.cpp:196
 #, kde-format
 msgid "There was an error loading the configuration dialog for this style."
-msgstr "ഈ രിതിയ്ക്കുള്ള ക്രമീകരണ ഡയലോഗ് ലഭ്യമാക്കുന്നതില്‍ പിശകു്."
+msgstr "ഈ രീതിയ്ക്കുള്ള ക്രമീകരണ ഡയലോഗ് ലഭ്യമാക്കുന്നതില്‍ പിശകു്."
 
 #. +> trunk5 stable5 plasma5lts
 #: kcmstyle.cpp:309
@@ -119,7 +120,7 @@ msgstr "വാചകം മാത്രം"
 #: package/contents/ui/EffectSettingsPopup.qml:74
 #, kde-format
 msgid "Beside icons"
-msgstr "ചിഹ്നങ്ങൾക്ക് പുറമെ"
+msgstr "ചിഹ്നങ്ങൾക്ക് സമീപം"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/EffectSettingsPopup.qml:75
@@ -155,19 +156,19 @@ msgstr "ഗ്നോം/GTK3 ആപ്ലിക്കേഷൻ രൂപഭം�
 #: package/contents/ui/GtkStylePage.qml:58
 #, kde-format
 msgid "GTK theme:"
-msgstr "GTK തീം:"
+msgstr "GTK പ്രമേയം:"
 
 #. +> plasma5lts
 #: package/contents/ui/GtkStylePage.qml:58
 #, kde-format
 msgid "GTK2 theme:"
-msgstr "GTK2 തീം:"
+msgstr "GTK2 പ്രമേയം:"
 
 #. +> plasma5lts
 #: package/contents/ui/GtkStylePage.qml:98
 #, kde-format
 msgid "GTK3 theme:"
-msgstr "GTK3 തീം:"
+msgstr "GTK3 പ്രമേയം:"
 
 #. +> trunk5
 #: package/contents/ui/GtkStylePage.qml:90
@@ -191,7 +192,7 @@ msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ
 #: package/contents/ui/GtkStylePage.qml:109
 #, kde-format
 msgid "Install from File..."
-msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക ..."
+msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക..."
 
 #. +> trunk5
 #: package/contents/ui/GtkStylePage.qml:114
@@ -203,37 +204,37 @@ msgstr "പുതിയ ഗ്നോം/GTK അപ്ലിക്കേഷൻ �
 #: package/contents/ui/GtkStylePage.qml:114
 #, kde-format
 msgid "Get New GNOME/GTK Application Styles..."
-msgstr "പുതിയ ഗ്നോം/GTK അപ്ലിക്കേഷൻ രൂപഭംഗികൾ നേടുക ..."
+msgstr "പുതിയ ഗ്നോം/GTK അപ്ലിക്കേഷൻ രൂപഭംഗികൾ നേടുക..."
 
 #. +> plasma5lts
 #: package/contents/ui/GtkStylePage.qml:157
 #, kde-format
 msgid "Download New GNOME/GTK Application Styles..."
-msgstr "പുതിയ ഗ്നോം/GTK അപ്ലിക്കേഷൻ രൂപഭംഗികൾ ഡൗൺലോ‍ഡ് ചെയ്യുക..."
+msgstr "പുതിയ ഗ്നോം/GTK അപ്ലിക്കേഷൻ രൂപഭംഗികൾ ഡൗൺലോ‍ഡുക..."
 
 #. +> plasma5lts
 #: package/contents/ui/GtkStylePage.qml:165
 #, kde-format
 msgid "Download New GNOME/GTK2 Application Styles..."
-msgstr "പുതിയ ഗ്നോം/GTK2 അപ്ലിക്കേഷൻ രൂപഭംഗികൾ ഡൗൺലോഡ് ചെയ്യുക..."
+msgstr "പുതിയ ഗ്നോം/GTK2 അപ്ലിക്കേഷൻ രൂപഭംഗികൾ ഡൗൺലോ‍ഡുക..."
 
 #. +> plasma5lts
 #: package/contents/ui/GtkStylePage.qml:182
 #, kde-format
 msgid "Download New GNOME/GTK3 Application Styles..."
-msgstr "പുതിയ ഗ്നോം/GTK3 അപ്ലിക്കേഷൻ രൂപഭംഗികൾ ഡൗൺലോഡ് ചെയ്യുക..."
+msgstr "പുതിയ ഗ്നോം/GTK3 അപ്ലിക്കേഷൻ രൂപഭംഗികൾ ഡൗൺലോ‍ഡുക..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/GtkStylePage.qml:163
 #, kde-format
 msgid "Select GTK Theme Archive"
-msgstr "GTK തീം ശേഖരം തിരഞ്ഞെടുക്കുക"
+msgstr "GTK പ്രമേയ ശേഖരം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/GtkStylePage.qml:165
 #, kde-format
 msgid "GTK Theme Archive (*.tar.xz *.tar.gz *.tar.bz2)"
-msgstr "GTK തീം ശേഖരം (*.tar.xz *.tar.gz *.tar.bz2)"
+msgstr "GTK പ്രമേയ ശേഖരം (*.tar.xz *.tar.gz *.tar.bz2)"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:31
@@ -242,8 +243,8 @@ msgid ""
 "This module allows you to modify the visual appearance of applications' user "
 "interface elements."
 msgstr ""
-"അപ്ലിക്കേഷനുകളുടെ ഉപയോക്തൃ വിനിമയതല ഘടകങ്ങളുടെ ദൃശ്യരൂപം പരിഷ്ക്കരിക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ "
-"അനുവദിക്കുന്നു."
+"അപ്ലിക്കേഷനുകളുടെ ഉപയോക്തൃ വിനിമയതല ഘടകങ്ങളുടെ ദൃശ്യരൂപം പരിഷ്ക്കരിക്കാൻ ഈ "
+"മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
 
 #. +> trunk5
 #: package/contents/ui/main.qml:110
