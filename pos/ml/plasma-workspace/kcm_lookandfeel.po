@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: plasma-sdk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-06-03 10:47+0200\n"
-"PO-Revision-Date: 2021-08-12 11:59+0000\n"
+"PO-Revision-Date: 2021-08-20 15:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -113,7 +113,7 @@ msgstr "പാക്കേജിന്റെ പേര്"
 #: lnftool.cpp:64
 #, kde-format
 msgid "Reset the Plasma Desktop layout"
-msgstr "പ്ലാസ്മ ഡെസ്ക്ടോപ്പ് ലേ ഔട്ട്  പുനർ സജ്ജമാക്കുക"
+msgstr "പ്ലാസ്മ ഡെസ്ക്ടോപ്പ് ലേഔട്ട് പുനർസജ്ജമാക്കുക"
 
 #. i18n: ectx: label, entry (lookAndFeelPackage), group (KDE)
 #. +> trunk5 stable5
