@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-16 09:37+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2020-11-25 19:53+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,55 +20,55 @@ msgstr ""
 "X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:77
+#: baloosearchrunner.cpp:63
 #, kde-format
 msgid "Open Containing Folder"
 msgstr "അടങ്ങിയിരിക്കുന്ന അറ തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:93
+#: baloosearchrunner.cpp:79
 #, kde-format
 msgid "Audio"
 msgstr "ശബ്ദം"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:94
+#: baloosearchrunner.cpp:80
 #, kde-format
 msgid "Image"
 msgstr "ചിത്രം"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:95
+#: baloosearchrunner.cpp:81
 #, kde-format
 msgid "Video"
 msgstr "ചലച്ചിത്രം"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:96
+#: baloosearchrunner.cpp:82
 #, kde-format
 msgid "Spreadsheet"
 msgstr "സ്പ്രെഡ്ഷീറ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:97
+#: baloosearchrunner.cpp:83
 #, kde-format
 msgid "Presentation"
 msgstr "അവതരണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:98
+#: baloosearchrunner.cpp:84
 #, kde-format
 msgid "Folder"
 msgstr "അറ"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:99
+#: baloosearchrunner.cpp:85
 #, kde-format
 msgid "Document"
 msgstr "ഡോക്യുമെന്റ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: baloosearchrunner.cpp:100
+#: baloosearchrunner.cpp:86
 #, kde-format
 msgid "Archive"
 msgstr "ശേഖരം"

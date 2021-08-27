@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-11 09:42+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-04-11 13:39+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -18,13 +18,13 @@ msgstr ""
 "X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: logout.cpp:366
+#: logout.cpp:350
 #, kde-format
 msgid "Logout canceled by '%1'"
 msgstr "പുറത്തിറങ്ങുന്നതു് %1 റദ്ദാക്കി"
 
 #. +> trunk5 stable5
-#: main.cpp:52
+#: main.cpp:37
 #, kde-format
 msgid ""
 "The reliable Plasma session manager that talks the standard X11R6 \n"
@@ -44,61 +44,61 @@ msgstr ""
 "സെഷൻ മാനേജുമെന്റ് പ്രോട്ടോക്കോൾ (എക്സ്എസ്എംപി)."
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:128
+#: main.cpp:113
 #, kde-format
 msgid "$HOME not set!"
 msgstr "$HOME സജ്ജമാക്കിയിട്ടില്ല!"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:132 main.cpp:138
+#: main.cpp:117 main.cpp:123
 #, kde-format
 msgid "$HOME directory (%1) does not exist."
 msgstr "$HOME ഹോം കൂട (%1) നിലവിലില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:134
+#: main.cpp:119
 #, kde-format
 msgid "No write access to $HOME directory (%1)."
 msgstr "$HOME കൂടയിലേക്ക് എഴുത്തവകാശമില്ല (%1)."
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:140
+#: main.cpp:125
 #, kde-format
 msgid "No read access to $HOME directory (%1)."
 msgstr "$HOME കൂടയിലേക്ക് വായനാവകാശമില്ല (%1)."
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:144
+#: main.cpp:129
 #, kde-format
 msgid "$HOME directory (%1) is out of disk space."
 msgstr "$HOME കൂടയിൽ (%1) ഡിസ്ക് ഇടമില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:147
+#: main.cpp:132
 #, kde-format
 msgid "Writing to the $HOME directory (%2) failed with the error '%1'"
 msgstr "$HOME കൂടയിലേക്ക് (%2) എഴുതുന്നത് '%1' പിശക് കാരണം പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:160 main.cpp:195
+#: main.cpp:145 main.cpp:180
 #, kde-format
 msgid "No write access to '%1'."
 msgstr "'%1' ലേക്ക് എഴുത്തവകാശമില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:162 main.cpp:197
+#: main.cpp:147 main.cpp:182
 #, kde-format
 msgid "No read access to '%1'."
 msgstr "'%1' ലേക്ക് വായനാവകാശമില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:170 main.cpp:183
+#: main.cpp:155 main.cpp:168
 #, kde-format
 msgid "Temp directory (%1) is out of disk space."
 msgstr "താൽക്കാലിക കൂടയിൽ (%1) ഡിസ്ക് ഇടമില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:173 main.cpp:186
+#: main.cpp:158 main.cpp:171
 #, kde-format
 msgid ""
 "Writing to the temp directory (%2) failed with\n"
@@ -108,7 +108,7 @@ msgstr ""
 "     %1 പിശക് കാരണം  പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5
-#: main.cpp:201
+#: main.cpp:186
 #, kde-format
 msgid ""
 "The following installation problem was detected\n"
@@ -128,7 +128,7 @@ msgstr ""
 "ഇനിപ്പറയുന്ന ഇൻസ്റ്റാളേഷൻ പ്രശ്നം കണ്ടെത്തി:"
 
 #. +> trunk5 stable5
-#: main.cpp:204
+#: main.cpp:189
 #, kde-format
 msgid ""
 "\n"
@@ -152,31 +152,31 @@ msgstr ""
 "കെഡിഇ ആരംഭിക്കാൻ കഴിഞ്ഞില്ല.\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:211
+#: main.cpp:196
 #, kde-format
 msgid "Plasma Workspace installation problem!"
 msgstr "പ്ലാസ്മ പണിയിടം ഇൻസ്റ്റാളേഷൻ പ്രശ്നം!"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:251
+#: main.cpp:236
 #, kde-format
 msgid "Restores the saved user session if available"
 msgstr "ഉപയോക്താവിന്റെ സൂക്ഷിച്ചിരിക്കുന്ന സെഷന്‍ തിരികെ കൊണ്ടുവരുന്നു ലഭ്യമാണെങ്കില്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:254
+#: main.cpp:239
 #, kde-format
 msgid "Also allow remote connections"
 msgstr "വിദൂര കണക്ഷനുകളും അനുവദിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:257
+#: main.cpp:242
 #, kde-format
 msgid "Starts the session in locked mode"
 msgstr "ലോക്കുചെയ്ത മോഡിൽ സെഷൻ ആരംഭിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:261
+#: main.cpp:246
 #, kde-format
 msgid ""
 "Starts without lock screen support. Only needed if other component provides "
@@ -202,31 +202,31 @@ msgid "wm"
 msgstr "wm"
 
 #. +> trunk5 stable5
-#: server.cpp:873
+#: server.cpp:857
 #, kde-format
 msgid "Session Management"
 msgstr "സെഷന്‍ നടത്തിപ്പുകാരന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: server.cpp:876
+#: server.cpp:860
 #, kde-format
 msgid "Log Out"
 msgstr "പുറത്തിറങ്ങുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: server.cpp:881
+#: server.cpp:865
 #, kde-format
 msgid "Log Out Without Confirmation"
 msgstr "സ്ഥിരീകരണമില്ലാതെ പുറത്ത് കടക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: server.cpp:886
+#: server.cpp:870
 #, kde-format
 msgid "Halt Without Confirmation"
 msgstr "സ്ഥിരീകരണമില്ലാതെ നിർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: server.cpp:891
+#: server.cpp:875
 #, kde-format
 msgid "Reboot Without Confirmation"
 msgstr "സ്ഥിരീകരണമില്ലാതെ പുനഃരാരംഭിക്കുക"

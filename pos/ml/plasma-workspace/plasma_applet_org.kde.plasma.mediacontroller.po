@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-03 11:06+0200\n"
+"POT-Creation-Date: 2021-08-20 09:26+0200\n"
 "PO-Revision-Date: 2021-02-18 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/ExpandedRepresentation.qml:241 contents/ui/main.qml:90
+#: contents/ui/ExpandedRepresentation.qml:230 contents/ui/main.qml:77
 #, kde-format
 msgid "No media playing"
 msgstr "മീഡിയ പ്ലേ ചെയ്യുന്നില്ല"
@@ -33,102 +33,102 @@ msgid "%1 – %2"
 msgstr "%1 – %2"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/ExpandedRepresentation.qml:335
-#: contents/ui/ExpandedRepresentation.qml:406
+#: contents/ui/ExpandedRepresentation.qml:324
+#: contents/ui/ExpandedRepresentation.qml:395
 #, kde-format
 msgctxt "Remaining time for song e.g -5:42"
 msgid "-%1"
 msgstr "-%1"
 
 #. +> trunk5 stable5
-#: contents/ui/ExpandedRepresentation.qml:432
+#: contents/ui/ExpandedRepresentation.qml:421
 #, kde-format
 msgid "Shuffle"
 msgstr "കലർത്തുക"
 
 #. +> trunk5 stable5
-#: contents/ui/ExpandedRepresentation.qml:486
+#: contents/ui/ExpandedRepresentation.qml:475
 #, kde-format
 msgid "Repeat Track"
 msgstr "ട്രാക്ക് ആവർത്തിക്കുക"
 
 #. +> trunk5 stable5
-#: contents/ui/ExpandedRepresentation.qml:486
+#: contents/ui/ExpandedRepresentation.qml:475
 #, kde-format
 msgid "Repeat"
 msgstr "ആവർത്തിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:104
+#: contents/ui/main.qml:91
 #, kde-format
 msgctxt "Open player window or bring it to the front if already open"
 msgid "Open"
 msgstr "തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:108
+#: contents/ui/main.qml:95
 #, kde-format
 msgctxt "Play previous track"
 msgid "Previous Track"
 msgstr "മുൻപത്തെ ട്രാക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:116
+#: contents/ui/main.qml:103
 #, kde-format
 msgctxt "Pause playback"
 msgid "Pause"
 msgstr "താത്കാലികമായി നിർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:121
+#: contents/ui/main.qml:108
 #, kde-format
 msgctxt "Start playback"
 msgid "Play"
 msgstr "പ്ലേ"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:127
+#: contents/ui/main.qml:114
 #, kde-format
 msgctxt "Play next track"
 msgid "Next Track"
 msgstr "അടുത്ത ട്രാക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:133
+#: contents/ui/main.qml:120
 #, kde-format
 msgctxt "Stop playback"
 msgid "Stop"
 msgstr "നിർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:141
+#: contents/ui/main.qml:128
 #, kde-format
 msgctxt "Quit player"
 msgid "Quit"
 msgstr "പുറത്തുകടക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:294
+#: contents/ui/main.qml:281
 #, kde-format
 msgid "Choose player automatically"
 msgstr "പ്ലയർ സ്വയമേവ തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:331
+#: contents/ui/main.qml:318
 #, kde-format
 msgctxt "by Artist (player name)"
 msgid "by %1 (%2)"
 msgstr "%1 (%2) വക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:342
+#: contents/ui/main.qml:329
 #, kde-format
 msgctxt "by Artist (paused, player name)"
 msgid "by %1 (paused, %2)"
 msgstr "%1 ന്റെ (താത്കാലികമായി നിർത്തി, %2)"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/main.qml:342
+#: contents/ui/main.qml:329
 #, kde-format
 msgctxt "Paused (player name)"
 msgid "Paused (%1)"

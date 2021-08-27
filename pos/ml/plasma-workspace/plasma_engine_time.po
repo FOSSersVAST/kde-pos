@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 12:22+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-03-05 12:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,73 +20,73 @@ msgstr ""
 "X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:58
+#: timesource.cpp:45
 #, kde-format
 msgid "Local"
 msgstr "തദ്ദേശ"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:73
+#: timesource.cpp:60
 #, kde-format
 msgid "Timezone"
 msgstr "സമയമേഖല"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:78 timesource.cpp:81 timesource.cpp:85
+#: timesource.cpp:65 timesource.cpp:68 timesource.cpp:72
 #, kde-format
 msgid "Timezone City"
 msgstr "സമയമേഖലാ നഗരം"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:80 timesource.cpp:83
+#: timesource.cpp:67 timesource.cpp:70
 #, kde-format
 msgid "Timezone Continent"
 msgstr "സമയമേഖലാ ഭൂഖണ്ഡം"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:84
+#: timesource.cpp:71
 #, kde-format
 msgid "Timezone Country"
 msgstr "സമയമേഖലാ രാജ്യം"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:109
+#: timesource.cpp:96
 #, kde-format
 msgid "Offset"
 msgstr "ഓഫ്സെറ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:112
+#: timesource.cpp:99
 #, kde-format
 msgid "Timezone Abbreviation"
 msgstr "സമയമേഖലയുടെ ചുരുക്കെഴുത്ത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:143 timesource.cpp:162 timesource.cpp:183
+#: timesource.cpp:130 timesource.cpp:149 timesource.cpp:170
 #, kde-format
 msgid "DateTime"
 msgstr "തിയ്യതിസമയം"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:158
+#: timesource.cpp:145
 #, kde-format
 msgid "Latitude"
 msgstr "അക്ഷാംശം"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:159
+#: timesource.cpp:146
 #, kde-format
 msgid "Longitude"
 msgstr "രേഖാംശം"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:160
+#: timesource.cpp:147
 #, kde-format
 msgid "Solar"
 msgstr "സൗരം"
 
 #. +> trunk5 stable5 plasma5lts
-#: timesource.cpp:161
+#: timesource.cpp:148
 #, kde-format
 msgid "Moon"
 msgstr "ചന്ദ്രൻ"

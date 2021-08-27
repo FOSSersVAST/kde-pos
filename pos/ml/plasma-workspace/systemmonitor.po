@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-22 12:42+0100\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2020-11-21 10:54+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,13 +20,13 @@ msgstr ""
 "X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: kdedksysguard.cpp:52
+#: kdedksysguard.cpp:40
 #, kde-format
 msgid "Show System Activity"
 msgstr "സിസ്റ്റം പ്രവർത്തനം കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: ksystemactivitydialog.cpp:41
+#: ksystemactivitydialog.cpp:29
 #, kde-format
 msgid "System Activity"
 msgstr "സിസ്റ്റം പ്രവർത്തനം"

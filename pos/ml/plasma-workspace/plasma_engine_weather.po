@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_engine_weather\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-11 09:42+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-03-08 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -35,15 +35,15 @@ msgid "clear intervals"
 msgstr "വ്യക്തമായ ഇടവേളകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:3 ions/wetter.com/ion_wettercom.cpp:233
+#: bbcukmet_i18n.dat:3 ions/wetter.com/ion_wettercom.cpp:220
 #, kde-format
 msgctxt "weather condition"
 msgid "clear sky"
 msgstr "തെളിഞ്ഞ ആകാശം"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:4 ions/wetter.com/ion_wettercom.cpp:171
-#: ions/wetter.com/ion_wettercom.cpp:172
+#: bbcukmet_i18n.dat:4 ions/wetter.com/ion_wettercom.cpp:158
+#: ions/wetter.com/ion_wettercom.cpp:159
 #, kde-format
 msgctxt "weather condition"
 msgid "cloudy"
@@ -78,8 +78,8 @@ msgid "cloudy with sleet"
 msgstr "മേഘാവൃതവും ഘനീഭവിച്ചമഴയും"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:9 ions/wetter.com/ion_wettercom.cpp:180
-#: ions/wetter.com/ion_wettercom.cpp:181 ions/wetter.com/ion_wettercom.cpp:183
+#: bbcukmet_i18n.dat:9 ions/wetter.com/ion_wettercom.cpp:167
+#: ions/wetter.com/ion_wettercom.cpp:168 ions/wetter.com/ion_wettercom.cpp:170
 #, kde-format
 msgctxt "weather condition"
 msgid "drizzle"
@@ -135,7 +135,7 @@ msgid "hazy"
 msgstr "മൂടികെട്ടിയ"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:17 ions/wetter.com/ion_wettercom.cpp:191
+#: bbcukmet_i18n.dat:17 ions/wetter.com/ion_wettercom.cpp:178
 #, kde-format
 msgctxt "weather condition"
 msgid "heavy rain"
@@ -163,14 +163,14 @@ msgid "heavy shower"
 msgstr "ശക്തമായ മഴചൊരിയല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:21 ions/wetter.com/ion_wettercom.cpp:204
+#: bbcukmet_i18n.dat:21 ions/wetter.com/ion_wettercom.cpp:191
 #, kde-format
 msgctxt "weather condition"
 msgid "heavy showers"
 msgstr "ശക്തമായ മഴചൊരിയലുകള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:22 ions/wetter.com/ion_wettercom.cpp:200
+#: bbcukmet_i18n.dat:22 ions/wetter.com/ion_wettercom.cpp:187
 #, kde-format
 msgctxt "weather condition"
 msgid "heavy snow"
@@ -198,8 +198,8 @@ msgid "light cloud"
 msgstr "വെണ്‍മേഘം"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:26 ions/wetter.com/ion_wettercom.cpp:188
-#: ions/wetter.com/ion_wettercom.cpp:189
+#: bbcukmet_i18n.dat:26 ions/wetter.com/ion_wettercom.cpp:175
+#: ions/wetter.com/ion_wettercom.cpp:176
 #, kde-format
 msgctxt "weather condition"
 msgid "light rain"
@@ -227,15 +227,15 @@ msgid "light shower"
 msgstr "ചെറിയ മഴചൊരിയല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:30 ions/wetter.com/ion_wettercom.cpp:202
+#: bbcukmet_i18n.dat:30 ions/wetter.com/ion_wettercom.cpp:189
 #, kde-format
 msgctxt "weather condition"
 msgid "light showers"
 msgstr "ചെറിയ മഴചൊരിയലുകള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:31 ions/wetter.com/ion_wettercom.cpp:197
-#: ions/wetter.com/ion_wettercom.cpp:198
+#: bbcukmet_i18n.dat:31 ions/wetter.com/ion_wettercom.cpp:184
+#: ions/wetter.com/ion_wettercom.cpp:185
 #, kde-format
 msgctxt "weather condition"
 msgid "light snow"
@@ -249,7 +249,7 @@ msgid "light snow shower"
 msgstr "ഇളം മഞ്ഞുപാതം"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:33 ions/wetter.com/ion_wettercom.cpp:207
+#: bbcukmet_i18n.dat:33 ions/wetter.com/ion_wettercom.cpp:194
 #, kde-format
 msgctxt "weather condition"
 msgid "light snow showers"
@@ -319,7 +319,7 @@ msgid "sleet showers"
 msgstr "ഘനീഭവിച്ച മഴചൊരിയലുകള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:43 ions/wetter.com/ion_wettercom.cpp:220
+#: bbcukmet_i18n.dat:43 ions/wetter.com/ion_wettercom.cpp:207
 #, kde-format
 msgctxt "weather condition"
 msgid "sunny"
@@ -340,8 +340,8 @@ msgid "thick cloud"
 msgstr "കനത്ത മേഘം"
 
 #. +> trunk5 stable5 plasma5lts
-#: bbcukmet_i18n.dat:46 ions/wetter.com/ion_wettercom.cpp:209
-#: ions/wetter.com/ion_wettercom.cpp:210
+#: bbcukmet_i18n.dat:46 ions/wetter.com/ion_wettercom.cpp:196
+#: ions/wetter.com/ion_wettercom.cpp:197
 #, kde-format
 msgctxt "weather condition"
 msgid "thunderstorm"
@@ -3141,321 +3141,321 @@ msgid "Windy"
 msgstr "കാറ്റുള്ള"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:530
+#: ions/bbcukmet/ion_bbcukmet.cpp:517
 #, kde-format
 msgid "UK"
 msgstr "യുകെ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:531
+#: ions/bbcukmet/ion_bbcukmet.cpp:518
 #, kde-format
 msgid "USA"
 msgstr "അമേരിക്കന്‍ ഐക്യനാടുകള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:976
+#: ions/bbcukmet/ion_bbcukmet.cpp:963
 #, kde-format
 msgctxt "Short for Today"
 msgid "Today"
 msgstr "ഇന്ന്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:977
+#: ions/bbcukmet/ion_bbcukmet.cpp:964
 #, kde-format
 msgctxt "Short for Tonight"
 msgid "Tonight"
 msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:979 ions/envcan/ion_envcan.cpp:1564
+#: ions/bbcukmet/ion_bbcukmet.cpp:966 ions/envcan/ion_envcan.cpp:1551
 #, kde-format
 msgctxt "Short for Saturday"
 msgid "Sat"
 msgstr "ശനി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:980 ions/envcan/ion_envcan.cpp:1565
+#: ions/bbcukmet/ion_bbcukmet.cpp:967 ions/envcan/ion_envcan.cpp:1552
 #, kde-format
 msgctxt "Short for Sunday"
 msgid "Sun"
 msgstr "ഞായര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:981 ions/envcan/ion_envcan.cpp:1566
+#: ions/bbcukmet/ion_bbcukmet.cpp:968 ions/envcan/ion_envcan.cpp:1553
 #, kde-format
 msgctxt "Short for Monday"
 msgid "Mon"
 msgstr "തിങ്കള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:982 ions/envcan/ion_envcan.cpp:1567
+#: ions/bbcukmet/ion_bbcukmet.cpp:969 ions/envcan/ion_envcan.cpp:1554
 #, kde-format
 msgctxt "Short for Tuesday"
 msgid "Tue"
 msgstr "ചൊവ്വ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:983 ions/envcan/ion_envcan.cpp:1568
+#: ions/bbcukmet/ion_bbcukmet.cpp:970 ions/envcan/ion_envcan.cpp:1555
 #, kde-format
 msgctxt "Short for Wednesday"
 msgid "Wed"
 msgstr "ബുധന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:984 ions/envcan/ion_envcan.cpp:1569
+#: ions/bbcukmet/ion_bbcukmet.cpp:971 ions/envcan/ion_envcan.cpp:1556
 #, kde-format
 msgctxt "Short for Thursday"
 msgid "Thu"
 msgstr "വ്യാഴം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:985 ions/envcan/ion_envcan.cpp:1570
+#: ions/bbcukmet/ion_bbcukmet.cpp:972 ions/envcan/ion_envcan.cpp:1557
 #, kde-format
 msgctxt "Short for Friday"
 msgid "Fri"
 msgstr "വെള്ളി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/bbcukmet/ion_bbcukmet.cpp:998
+#: ions/bbcukmet/ion_bbcukmet.cpp:985
 #, kde-format
 msgctxt "credit line, keep string short"
 msgid "Data from BBC Weather"
 msgstr "ബിബിസി കാലാവസ്ഥയിൽ നിന്നുമുള്ള ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:914 ions/envcan/ion_envcan.cpp:916
-#: ions/envcan/ion_envcan.cpp:1416 ions/envcan/ion_envcan.cpp:1557
-#: ions/envcan/ion_envcan.cpp:1573 ions/noaa/ion_noaa.cpp:378
-#: ions/noaa/ion_noaa.cpp:563
+#: ions/envcan/ion_envcan.cpp:901 ions/envcan/ion_envcan.cpp:903
+#: ions/envcan/ion_envcan.cpp:1403 ions/envcan/ion_envcan.cpp:1544
+#: ions/envcan/ion_envcan.cpp:1560 ions/noaa/ion_noaa.cpp:365
+#: ions/noaa/ion_noaa.cpp:550
 #, kde-format
 msgid "N/A"
 msgstr "N/A"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1561
+#: ions/envcan/ion_envcan.cpp:1548
 #, kde-format
 msgid "day"
 msgstr "ദിവസം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1562
+#: ions/envcan/ion_envcan.cpp:1549
 #, kde-format
 msgctxt "Short for tonight"
 msgid "nite"
 msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1563
+#: ions/envcan/ion_envcan.cpp:1550
 #, kde-format
 msgctxt "Short for night, appended to the end of the weekday"
 msgid "nt"
 msgstr "രാത്രി"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1594
+#: ions/envcan/ion_envcan.cpp:1581
 #, kde-format
 msgctxt "precipitation total, very little"
 msgid "Trace"
 msgstr "നാമമാത്രം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/envcan/ion_envcan.cpp:1620
+#: ions/envcan/ion_envcan.cpp:1607
 #, kde-format
 msgctxt "credit line, keep string short"
 msgid "Data from Environment and Climate Change Canada"
 msgstr "പരിസ്ഥിതി, കാലാവസ്ഥാ വ്യതിയാനം കാനഡയിൽ നിന്നുള്ള ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/noaa/ion_noaa.cpp:646
+#: ions/noaa/ion_noaa.cpp:633
 #, kde-format
 msgctxt "credit line, keep string short)"
 msgid "Data from NOAA National Weather Service"
 msgstr "NOAA ദേശീയ കാലാവസ്ഥ സേവനത്തിൽ നിന്നുള്ള ഡാറ്റ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:169 ions/wetter.com/ion_wettercom.cpp:170
+#: ions/wetter.com/ion_wettercom.cpp:156 ions/wetter.com/ion_wettercom.cpp:157
 #, kde-format
 msgctxt "weather condition"
 msgid "few clouds"
 msgstr "ഒറ്റപ്പെട്ട മേഘങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:173 ions/wetter.com/ion_wettercom.cpp:174
+#: ions/wetter.com/ion_wettercom.cpp:160 ions/wetter.com/ion_wettercom.cpp:161
 #, kde-format
 msgctxt "weather condition"
 msgid "overcast"
 msgstr "മഴക്കാര്‍ മൂടിയ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:175 ions/wetter.com/ion_wettercom.cpp:176
-#: ions/wetter.com/ion_wettercom.cpp:177
+#: ions/wetter.com/ion_wettercom.cpp:162 ions/wetter.com/ion_wettercom.cpp:163
+#: ions/wetter.com/ion_wettercom.cpp:164
 #, kde-format
 msgctxt "weather condition"
 msgid "haze"
 msgstr "മൂടല്‍ മഞ്ഞ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:178 ions/wetter.com/ion_wettercom.cpp:179
+#: ions/wetter.com/ion_wettercom.cpp:165 ions/wetter.com/ion_wettercom.cpp:166
 #, kde-format
 msgctxt "weather condition"
 msgid "fog with icing"
 msgstr "മഞ്ഞുകട്ടയുള്ള കോടമഞ്ഞു്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:182
+#: ions/wetter.com/ion_wettercom.cpp:169
 #, kde-format
 msgctxt "weather condition"
 msgid "light drizzle"
 msgstr "ഇളം ചാറ്റല്‍ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:184
+#: ions/wetter.com/ion_wettercom.cpp:171
 #, kde-format
 msgctxt "weather condition"
 msgid "heavy drizzle"
 msgstr "കനത്ത ചാറ്റല്‍ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:185
+#: ions/wetter.com/ion_wettercom.cpp:172
 #, kde-format
 msgctxt "weather condition"
 msgid "freezing drizzle"
 msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന ചാറ്റല്‍ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:186
+#: ions/wetter.com/ion_wettercom.cpp:173
 #, kde-format
 msgctxt "weather condition"
 msgid "heavy freezing drizzle"
 msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന കനത്ത ചാറ്റല്‍ മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:187
+#: ions/wetter.com/ion_wettercom.cpp:174
 #, kde-format
 msgctxt "weather condition"
 msgid "rain"
 msgstr "മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:190
+#: ions/wetter.com/ion_wettercom.cpp:177
 #, kde-format
 msgctxt "weather condition"
 msgid "moderate rain"
 msgstr "സാമാന്യം നല്ല മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:192
+#: ions/wetter.com/ion_wettercom.cpp:179
 #, kde-format
 msgctxt "weather condition"
 msgid "light freezing rain"
 msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന നനുത്ത മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:193
+#: ions/wetter.com/ion_wettercom.cpp:180
 #, kde-format
 msgctxt "weather condition"
 msgid "freezing rain"
 msgstr "ഉറഞ്ഞുകട്ടിയാകുന്ന മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:194
+#: ions/wetter.com/ion_wettercom.cpp:181
 #, kde-format
 msgctxt "weather condition"
 msgid "light rain snow"
 msgstr "ഇളം മഞ്ഞുമഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:195
+#: ions/wetter.com/ion_wettercom.cpp:182
 #, kde-format
 msgctxt "weather condition"
 msgid "heavy rain snow"
 msgstr "ശക്തമായ മഞ്ഞുമഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:196
+#: ions/wetter.com/ion_wettercom.cpp:183
 #, kde-format
 msgctxt "weather condition"
 msgid "snow"
 msgstr "മഞ്ഞു്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:199
+#: ions/wetter.com/ion_wettercom.cpp:186
 #, kde-format
 msgctxt "weather condition"
 msgid "moderate snow"
 msgstr "സാമാന്യം നല്ല മഞ്ഞു്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:201 ions/wetter.com/ion_wettercom.cpp:203
+#: ions/wetter.com/ion_wettercom.cpp:188 ions/wetter.com/ion_wettercom.cpp:190
 #, kde-format
 msgctxt "weather condition"
 msgid "showers"
 msgstr "മഴ"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:205
+#: ions/wetter.com/ion_wettercom.cpp:192
 #, kde-format
 msgctxt "weather condition"
 msgid "light snow rain showers"
 msgstr "ഇളം മഞ്ഞോടു് കൂടിയ മഴ പെയ്യല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:206
+#: ions/wetter.com/ion_wettercom.cpp:193
 #, kde-format
 msgctxt "weather condition"
 msgid "heavy snow rain showers"
 msgstr "ശക്തമായ മഞ്ഞോടു് കൂടിയ മഴ പെയ്യല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:208
+#: ions/wetter.com/ion_wettercom.cpp:195
 #, kde-format
 msgctxt "weather condition"
 msgid "snow showers"
 msgstr "മഞ്ഞു് പെയ്യല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:211
+#: ions/wetter.com/ion_wettercom.cpp:198
 #, kde-format
 msgctxt "weather condition"
 msgid "light thunderstorm"
 msgstr "ചെറിയ തോതിലുള്ള ഇടിമിന്നല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:212
+#: ions/wetter.com/ion_wettercom.cpp:199
 #, kde-format
 msgctxt "weather condition"
 msgid "heavy thunderstorm"
 msgstr "കനത്ത ഇടിമിന്നലോടുകൂടിയ കാറ്റും മഴയും"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:213
+#: ions/wetter.com/ion_wettercom.cpp:200
 #, kde-format
 msgctxt "weather condition"
 msgid "n/a"
 msgstr "ലഭ്യമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:374
+#: ions/wetter.com/ion_wettercom.cpp:361
 #, kde-format
 msgctxt "Geographical location: city, state, ISO-country-code"
 msgid "%1, %2, %3"
 msgstr "%1, %2, %3"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:376
+#: ions/wetter.com/ion_wettercom.cpp:363
 #, kde-format
 msgctxt "Geographical location: quarter (city), state, ISO-country-code"
 msgid "%1 (%2), %3, %4"
 msgstr "%1 (%2), %3, %4"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:697
+#: ions/wetter.com/ion_wettercom.cpp:684
 #, kde-format
 msgid "Day"
 msgstr "ദിവസം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ions/wetter.com/ion_wettercom.cpp:707
+#: ions/wetter.com/ion_wettercom.cpp:694
 #, kde-format
 msgid "Night"
 msgstr "രാത്രി"

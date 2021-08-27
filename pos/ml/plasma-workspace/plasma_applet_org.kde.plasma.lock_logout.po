@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeplasma-addons\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-26 08:49+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -14,13 +14,13 @@ msgstr ""
 "X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/config/config.qml:26
+#: contents/config/config.qml:13
 #, kde-format
 msgid "General"
 msgstr "പൊതു"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/ConfigGeneral.qml:48
+#: contents/ui/ConfigGeneral.qml:36
 #, kde-format
 msgctxt ""
 "Heading for a list of actions (leave, lock, switch user, hibernate, suspend)"
@@ -28,10 +28,22 @@ msgid "Show actions:"
 msgstr "പ്രവർത്തികൾ കാണിക്കുക:"
 
 #. +> trunk5 stable5
-#: contents/ui/ConfigGeneral.qml:49
+#: contents/ui/ConfigGeneral.qml:37
 #, kde-format
 msgid "Logout"
 msgstr "പുറത്തിറങ്ങുക"
+
+#. +> trunk5 stable5
+#: contents/ui/ConfigGeneral.qml:43
+#, kde-format
+msgid "Shutdown"
+msgstr "അടയ്ക്കുക"
+
+#. +> trunk5 stable5
+#: contents/ui/ConfigGeneral.qml:48
+#, kde-format
+msgid "Reboot"
+msgstr "പുനഃരാരംഭിക്കുക"
 
 #. +> plasma5lts
 #: contents/ui/ConfigGeneral.qml:51
@@ -39,38 +51,26 @@ msgstr "പുറത്തിറങ്ങുക"
 msgid "Leave"
 msgstr "പോവുക"
 
-#. +> trunk5 stable5
-#: contents/ui/ConfigGeneral.qml:55
-#, kde-format
-msgid "Shutdown"
-msgstr "അടയ്ക്കുക"
-
-#. +> trunk5 stable5
-#: contents/ui/ConfigGeneral.qml:60
-#, kde-format
-msgid "Reboot"
-msgstr "പുനഃരാരംഭിക്കുക"
-
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/ConfigGeneral.qml:65 contents/ui/data.js:5
+#: contents/ui/ConfigGeneral.qml:53 contents/ui/data.js:5
 #, kde-format
 msgid "Lock"
 msgstr "പൂട്ടുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/ConfigGeneral.qml:70
+#: contents/ui/ConfigGeneral.qml:58
 #, kde-format
 msgid "Switch User"
 msgstr "ഉപയോക്താവിനെ മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/ConfigGeneral.qml:75 contents/ui/data.js:46
+#: contents/ui/ConfigGeneral.qml:63 contents/ui/data.js:46
 #, kde-format
 msgid "Hibernate"
 msgstr "ഹൈബർ‌നേറ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/ui/ConfigGeneral.qml:80 contents/ui/data.js:39
+#: contents/ui/ConfigGeneral.qml:68 contents/ui/data.js:39
 #, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"

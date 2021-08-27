@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-26 08:49+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2020-11-20 06:03+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Weblate 4.0.4\n"
 
 #. +> trunk5
-#: kdisplaymanager.cpp:782
+#: kdisplaymanager.cpp:769
 #, fuzzy, kde-format
 msgctxt "user: …"
 msgid "%1: TTY login"
@@ -34,7 +34,7 @@ msgid "%1: TTY login"
 msgstr "%1: TTY ലോഗിന്‍"
 
 #. +> trunk5
-#: kdisplaymanager.cpp:787
+#: kdisplaymanager.cpp:774
 #, fuzzy, kde-format
 msgctxt "… location (TTY or X display)"
 msgid "Unused"
@@ -48,13 +48,13 @@ msgid "Unused"
 msgstr "ഉപയോഗിക്കാത്തവ"
 
 #. +> trunk5 stable5 plasma5lts
-#: kdisplaymanager.cpp:788
+#: kdisplaymanager.cpp:775
 #, kde-format
 msgid "X login on remote host"
 msgstr "റിമോട്ട് ഹോസ്റ്റിലുള്ള X ലോഗിന്‍"
 
 #. +> trunk5
-#: kdisplaymanager.cpp:788
+#: kdisplaymanager.cpp:775
 #, fuzzy, kde-format
 msgctxt "… host"
 msgid "X login on %1"
@@ -68,14 +68,14 @@ msgid "X login on %1"
 msgstr "%1-ലുള്ള X ലോഗിന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kdisplaymanager.cpp:790
+#: kdisplaymanager.cpp:777
 #, kde-format
 msgctxt "user: session type"
 msgid "%1: %2"
 msgstr "%1: %2"
 
 #. +> trunk5 stable5 plasma5lts
-#: kdisplaymanager.cpp:801
+#: kdisplaymanager.cpp:788
 #, kde-format
 msgctxt "session (location)"
 msgid "%1 (%2)"

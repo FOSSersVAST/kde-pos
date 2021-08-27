@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-22 12:42+0100\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-03-08 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,86 +20,86 @@ msgstr ""
 "X-Generator: Weblate 4.4\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: multiplexedservice.cpp:81
+#: multiplexedservice.cpp:68
 #, kde-format
 msgctxt "Name for global shortcuts category"
 msgid "Media Controller"
 msgstr "മീഡിയ നിയന്ത്രകൻ"
 
 #. +> trunk5 stable5 plasma5lts
-#: multiplexedservice.cpp:83
+#: multiplexedservice.cpp:70
 #, kde-format
 msgid "Play/Pause media playback"
 msgstr "മീഡിയ പ്ലേബാക്ക് പ്ലേ ചെയ്യുക/താൽക്കാലികമായി നിർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: multiplexedservice.cpp:101
+#: multiplexedservice.cpp:88
 #, kde-format
 msgid "Media playback next"
 msgstr "മീഡിയ പ്ലേബാക്ക് അടുത്തത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: multiplexedservice.cpp:110
+#: multiplexedservice.cpp:97
 #, kde-format
 msgid "Media playback previous"
 msgstr "മീഡിയ പ്ലേബാക്ക് മുമ്പത്തേത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: multiplexedservice.cpp:119
+#: multiplexedservice.cpp:106
 #, kde-format
 msgid "Stop media playback"
 msgstr "മീഡിയ പ്ലേബാക്ക് നിർത്തുക"
 
 #. +> trunk5 stable5
-#: multiplexedservice.cpp:128
+#: multiplexedservice.cpp:115
 #, kde-format
 msgid "Pause media playback"
 msgstr "മീഡിയ പ്ലേബാക്ക് താൽക്കാലികമായി നിർത്തുക"
 
 #. +> trunk5 stable5
-#: multiplexedservice.cpp:137
+#: multiplexedservice.cpp:124
 #, kde-format
 msgid "Play media playback"
 msgstr "മീഡിയ പ്ലേബാക്ക് പ്ലേ ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: multiplexedservice.cpp:146
+#: multiplexedservice.cpp:133
 #, kde-format
 msgid "Media volume up"
 msgstr "മീഡിയ ശബ്ദം കൂട്ടുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: multiplexedservice.cpp:155
+#: multiplexedservice.cpp:142
 #, kde-format
 msgid "Media volume down"
 msgstr "മീഡിയ ശബ്ദം കുറയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: playeractionjob.cpp:182
+#: playeractionjob.cpp:169
 #, kde-format
 msgid "The media player '%1' cannot perform the action '%2'."
 msgstr "'%1' എന്ന മീഡിയ പ്ലെയറിന് '%2' പ്രവർത്തനം നടത്താനായില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: playeractionjob.cpp:184
+#: playeractionjob.cpp:171
 #, kde-format
 msgid "Attempting to perform the action '%1' failed with the message '%2'."
 msgstr "'%1' പ്രവർത്തനം നടത്താൻ ശ്രമിക്കുന്നത് '%2' സന്ദേശത്തിൽ പരാജയപ്പെട്ടു."
 
 #. +> trunk5 stable5 plasma5lts
-#: playeractionjob.cpp:186
+#: playeractionjob.cpp:173
 #, kde-format
 msgid "The argument '%1' for the action '%2' is missing or of the wrong type."
 msgstr "'%2' പ്രവർത്തനത്തിനായുള്ള '%1' വാദം കാണുന്നില്ല അല്ലെങ്കിൽ തെറ്റായ തരത്തിലാണ്."
 
 #. +> trunk5 stable5 plasma5lts
-#: playeractionjob.cpp:188
+#: playeractionjob.cpp:175
 #, kde-format
 msgid "The operation '%1' is unknown."
 msgstr "'%1' പ്രവർത്തനം അജ്ഞാതമാണ്."
 
 #. +> trunk5 stable5 plasma5lts
-#: playeractionjob.cpp:190
+#: playeractionjob.cpp:177
 #, kde-format
 msgid "Unknown error."
 msgstr "അജ്ഞാത പിശക്."

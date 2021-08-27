@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-16 08:55+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2020-11-25 19:54+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -32,48 +32,48 @@ msgid "Your emails"
 msgstr "vivekkj2004@gmail.com"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:33 translations.cpp:40
+#: package/contents/ui/main.qml:20 translations.cpp:27
 #, kde-format
 msgid "Language"
 msgstr "ഭാഷ"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:109
+#: package/contents/ui/main.qml:96
 #, kde-format
 msgctxt "@title:window"
 msgid "Add Languages"
 msgstr "ഭാഷകൾ ചേർക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:129
+#: package/contents/ui/main.qml:116
 #, kde-format
 msgctxt "@action:button"
 msgid "Add"
 msgstr "ചേർക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:155
+#: package/contents/ui/main.qml:142
 #, kde-format
 msgctxt "@info"
 msgid "There are no additional languages available on this system."
 msgstr "ഈ സിസ്റ്റത്തിൽ അധിക ഭാഷകളൊന്നും ലഭ്യമല്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:165
+#: package/contents/ui/main.qml:152
 #, kde-format
 msgctxt "@info"
 msgid "Your changes will take effect the next time you log in."
 msgstr "അടുത്ത തവണ നിങ്ങൾ ലോഗിൻ ചെയ്യുമ്പോൾ നിങ്ങളുടെ മാറ്റങ്ങൾ പ്രാബല്യത്തിൽ വരും."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:166
+#: package/contents/ui/main.qml:153
 #, kde-format
 msgctxt "@info"
 msgid "There are currently no preferred languages configured."
 msgstr "നിലവിൽ ഇഷ്ടപ്പെട്ട ഭാഷകളൊന്നും ക്രമീകരിച്ചിട്ടില്ല."
 
 #. +> trunk5
-#: package/contents/ui/main.qml:183
+#: package/contents/ui/main.qml:170
 #, fuzzy, kde-format
 msgctxt "@info %2 is the language code"
 msgid ""
@@ -120,14 +120,14 @@ msgstr[1] ""
 "താൽ‌പ്പര്യമുണ്ടെങ്കിൽ‌, ദയവായി പ്രാദേശികവൽക്കരണ ഫയലുകൾ‌ ഇൻ‌സ്റ്റാൾ‌ ചെയ്‌ത് ഭാഷ വീണ്ടും ചേർ‌ക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:186
+#: package/contents/ui/main.qml:173
 #, kde-format
 msgctxt "@info separator in list of language codes"
 msgid "', '"
 msgstr "', '"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:197
+#: package/contents/ui/main.qml:184
 #, kde-format
 msgid ""
 "The language at the top of this list is the one you want to see and use most "
@@ -136,35 +136,35 @@ msgstr ""
 "ഈ പട്ടികയുടെ മുകളിലുള്ള ഭാഷയാണ് നിങ്ങൾ ഏറ്റവും കൂടുതൽ കാണാനും ഉപയോഗിക്കാനും ആഗ്രഹിക്കുന്നത്."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:269
+#: package/contents/ui/main.qml:256
 #, kde-format
 msgctxt "@item:inlistbox 1 = Language name"
 msgid "%1 (Default)"
 msgstr "%1 (തനതായത്)"
 
 #. +> trunk5 stable5
-#: package/contents/ui/main.qml:281
+#: package/contents/ui/main.qml:268
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Install Missing Packages"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:288
+#: package/contents/ui/main.qml:275
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Promote to default"
 msgstr "തനതായി സ്ഥാപിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:294
+#: package/contents/ui/main.qml:281
 #, kde-format
 msgctxt "@info:tooltip"
 msgid "Remove"
 msgstr "കളയുക"
 
 #. +> trunk5
-#: package/contents/ui/main.qml:316
+#: package/contents/ui/main.qml:303
 #, fuzzy, kde-format
 msgctxt "@action:button"
 msgid "Add languages…"
@@ -178,7 +178,7 @@ msgid "Add languages..."
 msgstr "ഭാഷകൾ ചേർക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
-#: translationsmodel.cpp:98 translationsmodel.cpp:109
+#: translationsmodel.cpp:85 translationsmodel.cpp:96
 #, kde-format
 msgctxt "%1 is language name, %2 is language code name"
 msgid "%1 (%2)"

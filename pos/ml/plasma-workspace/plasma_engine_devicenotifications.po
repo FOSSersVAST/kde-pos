@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-14 11:00+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,56 +20,56 @@ msgstr ""
 "X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5
-#: ksolidnotify.cpp:162
+#: ksolidnotify.cpp:149
 #, kde-format
 msgid "Device Status"
 msgstr "ഉപകരണ നില"
 
 #. +> trunk5 stable5
-#: ksolidnotify.cpp:162
+#: ksolidnotify.cpp:149
 #, kde-format
 msgid "A device can now be safely removed"
 msgstr "ഈ ഉപകരണം ഇപ്പോൾ സുരക്ഷിതമായി നീക്കംചെയ്യാം"
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:163
+#: ksolidnotify.cpp:150
 #, kde-format
 msgid "This device can now be safely removed."
 msgstr "ഈ ഉപകരണം ഇപ്പോൾ സുരക്ഷിതമായി നീക്കംചെയ്യാം."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:170
+#: ksolidnotify.cpp:157
 #, kde-format
 msgid "You are not authorized to mount this device."
 msgstr "ഈ ഉപകരണം ഘടിപ്പിക്കാൻ നിങ്ങൾക്ക് അധികാരമില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:173
+#: ksolidnotify.cpp:160
 #, kde-format
 msgctxt "Remove is less technical for unmount"
 msgid "You are not authorized to remove this device."
 msgstr "ഈ ഉപകരണം നീക്കം ചെയ്യാൻ നിങ്ങൾക്ക് അധികാരമില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:176
+#: ksolidnotify.cpp:163
 #, kde-format
 msgid "You are not authorized to eject this disc."
 msgstr "ഈ ഡിസ്ക് തള്ളിനീക്കാൻ നിങ്ങൾക്ക് അധികാരമില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:183
+#: ksolidnotify.cpp:170
 #, kde-format
 msgid "Could not mount this device as it is busy."
 msgstr "തിരക്കായതിനാൽ ഈ ഉപകരണം ഘടിപ്പിക്കാൻ കഴിഞ്ഞില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:213
+#: ksolidnotify.cpp:200
 #, kde-format
 msgid "One or more files on this device are open within an application."
 msgstr "ഈ ഉപകരണത്തിലെ ഒന്നോ അതിലധികമോ ഫയലുകൾ ഒരു പ്രയോഗത്തിൽ തുറന്നിരിക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:215
+#: ksolidnotify.cpp:202
 #, kde-format
 msgid "One or more files on this device are opened in application \"%2\"."
 msgid_plural ""
@@ -78,27 +78,27 @@ msgstr[0] "ഈ ഉപകരണത്തിലെ ഒന്നോ അതിലധ
 msgstr[1] "ഈ ഉപകരണത്തിലെ ഒന്നോ അതിലധികമോ ഫയലുകൾ \"%2\" അപ്ലിക്കേഷനുകളിൽ തുറന്നിരിക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:218
+#: ksolidnotify.cpp:205
 #, kde-format
 msgctxt "separator in list of apps blocking device unmount"
 msgid ", "
 msgstr ", "
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:235
+#: ksolidnotify.cpp:222
 #, kde-format
 msgid "Could not mount this device."
 msgstr "ഈ ഉപകരണം ഘടിപ്പിക്കാനായില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:238
+#: ksolidnotify.cpp:225
 #, kde-format
 msgctxt "Remove is less technical for unmount"
 msgid "Could not remove this device."
 msgstr "ഈ ഉപകരണം നീക്കം ചെയ്യാനായില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: ksolidnotify.cpp:241
+#: ksolidnotify.cpp:228
 #, kde-format
 msgid "Could not eject this disc."
 msgstr "ഈ ഡിസ്ക് തള്ളിനീക്കാൻ കഴിഞ്ഞില്ല."

@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-desktop\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-26 08:49+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,37 +20,37 @@ msgstr ""
 "X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/actionlist.cpp:96
+#: plugin/actionlist.cpp:83
 #, kde-format
 msgid "Open with:"
 msgstr "ഇതിലൂടെ തുറക്കു:"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/actionlist.cpp:109
+#: plugin/actionlist.cpp:96
 #, kde-format
 msgid "Properties"
 msgstr "ഗുണഗണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/actionlist.cpp:156
+#: plugin/actionlist.cpp:143
 #, kde-format
 msgid "Add to Desktop"
 msgstr "പണിയിടത്തിലേക്ക് ചേര്‍ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/actionlist.cpp:161
+#: plugin/actionlist.cpp:148
 #, kde-format
 msgid "Add to Panel (Widget)"
 msgstr "പാളിയിലേക്ക് ചേര്‍ക്കുക (വിഡ്ജറ്റ്)"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/actionlist.cpp:166
+#: plugin/actionlist.cpp:153
 #, kde-format
 msgid "Pin to Task Manager"
 msgstr "ടാസ്ക് മാനേജറിലേക്ക് പിൻ ചെയ്യുക"
 
 #. +> trunk5 stable5
-#: plugin/actionlist.cpp:316 plugin/rootmodel.cpp:444
+#: plugin/actionlist.cpp:304 plugin/rootmodel.cpp:431
 #, kde-format
 msgid "Recent Files"
 msgstr "സമീപകാല ഫയലുകൾ"
@@ -62,7 +62,7 @@ msgid "Recent Documents"
 msgstr "അടുത്തിടേയുള്ള പ്രമാണങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: plugin/actionlist.cpp:326
+#: plugin/actionlist.cpp:314
 #, kde-format
 msgid "Forget Recent Files"
 msgstr "സമീപകാല ഫയലുകൾ മറക്കുക"
@@ -74,7 +74,7 @@ msgid "Forget Recent Documents"
 msgstr "അടുത്തിടേയുള്ള പ്രമാണങ്ങള്‍ മറക്കുക"
 
 #. +> trunk5
-#: plugin/actionlist.cpp:389
+#: plugin/actionlist.cpp:393
 #, kde-format
 msgid "Edit Application…"
 msgstr "പ്രയോഗം തിരുത്തുക…"
@@ -86,7 +86,7 @@ msgid "Edit Application..."
 msgstr "പ്രയോഗം തിരുത്തുക..."
 
 #. +> trunk5
-#: plugin/actionlist.cpp:433
+#: plugin/actionlist.cpp:437
 #, kde-format
 msgctxt "@action opens a software center with the application"
 msgid "Uninstall or Manage Add-Ons…"
@@ -100,65 +100,65 @@ msgid "Uninstall or Manage Add-Ons..."
 msgstr "ആഡ്-ഓണുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക അല്ലെങ്കിൽ കൈകാര്യം ചെയ്യുക ..."
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/appentry.cpp:198
+#: plugin/appentry.cpp:185
 #, kde-format
 msgid "Hide Application"
 msgstr "പ്രയോഗം മറയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/appentry.cpp:262
+#: plugin/appentry.cpp:249
 #, kde-format
 msgctxt "App name (Generic name)"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/appentry.cpp:264
+#: plugin/appentry.cpp:251
 #, kde-format
 msgctxt "Generic name (App name)"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/appsmodel.cpp:44 plugin/appsmodel.cpp:68 plugin/computermodel.cpp:111
-#: plugin/computermodel.cpp:239 plugin/recentusagemodel.cpp:167
-#: plugin/recentusagemodel.cpp:224
+#: plugin/appsmodel.cpp:31 plugin/appsmodel.cpp:55 plugin/computermodel.cpp:98
+#: plugin/computermodel.cpp:226 plugin/recentusagemodel.cpp:156
+#: plugin/recentusagemodel.cpp:218
 #, kde-format
 msgid "Applications"
 msgstr "പ്രയോഗങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/appsmodel.cpp:163
+#: plugin/appsmodel.cpp:150
 #, kde-format
 msgid "Unhide Applications in this Submenu"
 msgstr "ഈ ഉപമെനുവിലെ അപ്ലിക്കേഷനുകൾ മറയ്ക്കാതിരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/appsmodel.cpp:172
+#: plugin/appsmodel.cpp:159
 #, kde-format
 msgid "Unhide Applications in '%1'"
 msgstr "'%1' ലെ അപ്ലിക്കേഷനുകൾ മറയ്ക്കാതിരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/computermodel.cpp:105
+#: plugin/computermodel.cpp:92
 #, kde-format
 msgid "Show KRunner"
 msgstr "കെറണ്ണര്‍ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/computermodel.cpp:109
+#: plugin/computermodel.cpp:96
 #, kde-format
 msgid "Search, calculate, or run a command"
 msgstr "തിരയുക, കണക്കുകൂട്ടുക അല്ലെങ്കില്‍ ആജ്ഞ നടപ്പിലാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/computermodel.cpp:162
+#: plugin/computermodel.cpp:149
 #, kde-format
 msgid "Computer"
 msgstr "കമ്പ്യൂട്ടര്‍"
 
 #. +> trunk5
-#: plugin/contactentry.cpp:120 plugin/recentcontactsmodel.cpp:95
+#: plugin/contactentry.cpp:107 plugin/recentcontactsmodel.cpp:82
 #, kde-format
 msgid "Show Contact Information…"
 msgstr "ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ കാണിക്കുക…"
@@ -171,29 +171,35 @@ msgstr "ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ �
 
 #. i18n.
 #. +> trunk5 stable5 plasma5lts
-#: plugin/kastatsfavoritesmodel.cpp:480 plugin/rootmodel.cpp:431
-#: plugin/simplefavoritesmodel.cpp:44
+#: plugin/kastatsfavoritesmodel.cpp:467 plugin/rootmodel.cpp:418
+#: plugin/simplefavoritesmodel.cpp:31
 #, kde-format
 msgid "Favorites"
 msgstr "പ്രിയപ്പെട്ടവ"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/recentcontactsmodel.cpp:53
+#: plugin/recentcontactsmodel.cpp:40
 #, kde-format
 msgid "Contacts"
 msgstr "പരിചയക്കാര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/recentcontactsmodel.cpp:86
+#: plugin/recentcontactsmodel.cpp:73
 #, kde-format
 msgid "Forget Contact"
 msgstr "പരിചയത്തെ മറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/recentcontactsmodel.cpp:90 plugin/recentcontactsmodel.cpp:166
+#: plugin/recentcontactsmodel.cpp:77 plugin/recentcontactsmodel.cpp:153
 #, kde-format
 msgid "Forget All Contacts"
 msgstr "എല്ലാ പരിചയക്കാരെയും മറക്കുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: plugin/recentusagemodel.cpp:154
+#, kde-format
+msgid "Recently Used"
+msgstr "അടുത്തിടെ ഉപയോഗിച്ചവ"
 
 #. +> plasma5lts
 #: plugin/recentusagemodel.cpp:157 plugin/recentusagemodel.cpp:289
@@ -201,32 +207,26 @@ msgstr "എല്ലാ പരിചയക്കാരെയും മറക്�
 msgid "Documents"
 msgstr "പ്രമാണങ്ങള്‍"
 
-#. +> trunk5 stable5 plasma5lts
-#: plugin/recentusagemodel.cpp:165
-#, kde-format
-msgid "Recently Used"
-msgstr "അടുത്തിടെ ഉപയോഗിച്ചവ"
-
 #. +> trunk5 stable5
-#: plugin/recentusagemodel.cpp:170 plugin/recentusagemodel.cpp:298
+#: plugin/recentusagemodel.cpp:159 plugin/recentusagemodel.cpp:292
 #, kde-format
 msgid "Files"
 msgstr "ഫയലുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/recentusagemodel.cpp:242
+#: plugin/recentusagemodel.cpp:236
 #, kde-format
 msgid "Forget Application"
 msgstr "പ്രയോഗത്തെ മറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/recentusagemodel.cpp:332
+#: plugin/recentusagemodel.cpp:326
 #, kde-format
 msgid "Open Containing Folder"
 msgstr "അടങ്ങിയിരിക്കുന്ന അറ തുറക്കുക"
 
 #. +> trunk5 stable5
-#: plugin/recentusagemodel.cpp:335
+#: plugin/recentusagemodel.cpp:329
 #, kde-format
 msgid "Forget File"
 msgstr "ഫയൽ മറക്കുക"
@@ -238,19 +238,19 @@ msgid "Forget Document"
 msgstr "പ്രമാണത്തെ മറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/recentusagemodel.cpp:464
+#: plugin/recentusagemodel.cpp:475
 #, kde-format
 msgid "Forget All"
 msgstr "എല്ലാം മറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/recentusagemodel.cpp:466
+#: plugin/recentusagemodel.cpp:477
 #, kde-format
 msgid "Forget All Applications"
 msgstr "എല്ലാ പ്രയോഗങ്ങളും മറക്കുക"
 
 #. +> trunk5 stable5
-#: plugin/recentusagemodel.cpp:469
+#: plugin/recentusagemodel.cpp:480
 #, kde-format
 msgid "Forget All Files"
 msgstr "എല്ലാ ഫയലുകളും മറക്കുക"
@@ -262,31 +262,31 @@ msgid "Forget All Documents"
 msgstr "എല്ലാ പ്രമാണങ്ങളും മറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/rootmodel.cpp:108
+#: plugin/rootmodel.cpp:95
 #, kde-format
 msgid "Hide %1"
 msgstr "%1 മറയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/rootmodel.cpp:413
+#: plugin/rootmodel.cpp:400
 #, kde-format
 msgid "All Applications"
 msgstr "എല്ലാ പ്രയോഗങ്ങളും"
 
 #. +> trunk5 stable5
-#: plugin/rootmodel.cpp:425
+#: plugin/rootmodel.cpp:412
 #, kde-format
 msgid "This shouldn't be visible! Use KICKER_FAVORITES_MODEL"
 msgstr "ഇത് ദൃശ്യമാകില്ല! KICKER_FAVORITES_MODEL ഉപയോഗിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/rootmodel.cpp:437
+#: plugin/rootmodel.cpp:424
 #, kde-format
 msgid "Recent Contacts"
 msgstr "അടുത്തിടെയുള്ള ബന്ധങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: plugin/rootmodel.cpp:444
+#: plugin/rootmodel.cpp:431
 #, kde-format
 msgid "Often Used Files"
 msgstr "കൂടെക്കൂടെ ഉപയോഗിച്ച ഫയലുകൾ"
@@ -298,136 +298,136 @@ msgid "Often Used Documents"
 msgstr "കൂടെക്കൂടെ ഉപയോഗിച്ച പ്രമാണങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/rootmodel.cpp:453
+#: plugin/rootmodel.cpp:440
 #, kde-format
 msgid "Recent Applications"
 msgstr "അടുത്തിടേയുള്ള പ്രയോഗങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/rootmodel.cpp:453
+#: plugin/rootmodel.cpp:440
 #, kde-format
 msgid "Often Used Applications"
 msgstr "കൂടെക്കൂടെ ഉപയോഗിച്ച പ്രയോഗങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/rootmodel.cpp:467
+#: plugin/rootmodel.cpp:454
 #, kde-format
 msgid "Power / Session"
 msgstr "ഊർജ്ജം / സെഷൻ"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/runnermodel.cpp:239
+#: plugin/runnermodel.cpp:226
 #, kde-format
 msgid "Search results"
 msgstr "തിരച്ചില്‍ ഫലങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:207
+#: plugin/systementry.cpp:194
 #, kde-format
 msgid "Lock"
 msgstr "പൂട്ടുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:210
+#: plugin/systementry.cpp:197
 #, kde-format
 msgid "Log Out"
 msgstr "പുറത്തിറങ്ങുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:213 plugin/systementry.cpp:281
+#: plugin/systementry.cpp:200 plugin/systementry.cpp:268
 #, kde-format
 msgid "Save Session"
 msgstr "ഈ സെഷന്‍ സൂക്ഷിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:216
+#: plugin/systementry.cpp:203
 #, kde-format
 msgid "Switch User"
 msgstr "ഉപയോക്താവിനെ മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:219
+#: plugin/systementry.cpp:206
 #, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr "ഉറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:222
+#: plugin/systementry.cpp:209
 #, kde-format
 msgid "Hibernate"
 msgstr "നിഷ്ക്രിയമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:225
+#: plugin/systementry.cpp:212
 #, kde-format
 msgid "Restart"
 msgstr "പുനരാരംഭിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:228
+#: plugin/systementry.cpp:215
 #, kde-format
 msgid "Shut Down"
 msgstr "അടച്ചുപൂട്ടുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:241 plugin/systementry.cpp:244
-#: plugin/systementry.cpp:247 plugin/systementry.cpp:250
+#: plugin/systementry.cpp:228 plugin/systementry.cpp:231
+#: plugin/systementry.cpp:234 plugin/systementry.cpp:237
 #, kde-format
 msgid "Session"
 msgstr "സെഷന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:253 plugin/systementry.cpp:256
-#: plugin/systementry.cpp:259 plugin/systementry.cpp:262
+#: plugin/systementry.cpp:240 plugin/systementry.cpp:243
+#: plugin/systementry.cpp:246 plugin/systementry.cpp:249
 #, kde-format
 msgid "System"
 msgstr "സംവിധാനം"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:275
+#: plugin/systementry.cpp:262
 #, kde-format
 msgid "Lock screen"
 msgstr "സ്ക്രീന്‍ പൂട്ടുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:278
+#: plugin/systementry.cpp:265
 #, kde-format
 msgid "End session"
 msgstr "സെഷന്‍ നിര്‍ത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:284
+#: plugin/systementry.cpp:271
 #, kde-format
 msgid "Start a parallel session as a different user"
 msgstr "മറ്റൊരു ഉപയോക്താവായി സമാന്തരസെഷന്‍ ആരംഭിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:287
+#: plugin/systementry.cpp:274
 #, kde-format
 msgid "Suspend to RAM"
 msgstr "റാമിലേക്ക് മയക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:290
+#: plugin/systementry.cpp:277
 #, kde-format
 msgid "Suspend to disk"
 msgstr "ഡിസ്കിലേക്ക് മയക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:293
+#: plugin/systementry.cpp:280
 #, kde-format
 msgid "Restart computer"
 msgstr "കമ്പ്യൂട്ടര്‍ പുനരാരംഭിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systementry.cpp:296
+#: plugin/systementry.cpp:283
 #, kde-format
 msgid "Turn off computer"
 msgstr "കമ്പ്യൂട്ടര്‍ നിര്‍ത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: plugin/systemmodel.cpp:44
+#: plugin/systemmodel.cpp:31
 #, kde-format
 msgid "System actions"
 msgstr "സംവിധാനത്തിന്റെ നടപടികള്‍"

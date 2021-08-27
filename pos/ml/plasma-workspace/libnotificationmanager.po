@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-04 14:26+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2020-11-25 19:54+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,7 +20,7 @@ msgstr ""
 "X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: job_p.cpp:189 job_p.cpp:201 job_p.cpp:214
+#: job_p.cpp:175 job_p.cpp:187 job_p.cpp:200
 #, kde-format
 msgctxt "Copying n files to location"
 msgid "%1 file to %2"
@@ -29,14 +29,14 @@ msgstr[0] "%1 ഫയൽ %2 ലേക്ക്"
 msgstr[1] "%1 ഫയലുകൾ %2 ലേക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: job_p.cpp:191
+#: job_p.cpp:177
 #, kde-format
 msgctxt "Copying unknown amount of files to location"
 msgid "to %1"
 msgstr "%1 ലേക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: job_p.cpp:193 job_p.cpp:206 job_p.cpp:224
+#: job_p.cpp:179 job_p.cpp:192 job_p.cpp:210
 #, kde-format
 msgctxt "Copying n files"
 msgid "%1 file"
@@ -45,14 +45,14 @@ msgstr[0] "%1 ഫയൽ"
 msgstr[1] "%1 ഫയലുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: job_p.cpp:199
+#: job_p.cpp:185
 #, kde-format
 msgctxt "Copying file to location"
 msgid "%1 to %2"
 msgstr "%1 ൽ നിന്ന് %2 ലേക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: job_p.cpp:211
+#: job_p.cpp:197
 #, kde-format
 msgctxt "Copying n of m files to locaton"
 msgid "%2 of %1 file to %3"
@@ -61,7 +61,7 @@ msgstr[0] "%1 ൽ %2 ഫയൽ %3 ലേക്ക്"
 msgstr[1] "%1 ൽ %2 ഫയലുകൾ %3 ലേക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: job_p.cpp:221
+#: job_p.cpp:207
 #, kde-format
 msgctxt "Copying n of m files"
 msgid "%2 of %1 file"
@@ -70,7 +70,7 @@ msgstr[0] "%1 ൽ %2 ഫയൽ"
 msgstr[1] "%1 ൽ %2 ഫയലുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: jobsmodel_p.cpp:486
+#: jobsmodel_p.cpp:472
 #, kde-format
 msgid "Application closed unexpectedly."
 msgstr "പ്രയോഗം അപ്രതീക്ഷിതമായി അടഞ്ഞു."

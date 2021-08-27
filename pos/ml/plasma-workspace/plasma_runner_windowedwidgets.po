@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-22 12:42+0100\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2020-11-25 19:54+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,20 +20,20 @@ msgstr ""
 "X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: windowedwidgetsrunner.cpp:42
+#: windowedwidgetsrunner.cpp:30
 #, kde-format
 msgid "Finds Plasma widgets whose name or description match :q:"
 msgstr ":q: വുമായി പേരോ വിവരണമോ പൊരുത്തപ്പെടുന്ന പ്ലാസ്മ വിഡ്ജറ്റുകൾ കണ്ടെത്തുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: windowedwidgetsrunner.cpp:43 windowedwidgetsrunner.cpp:64
+#: windowedwidgetsrunner.cpp:31 windowedwidgetsrunner.cpp:52
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "mobile applications"
 msgstr "mobile applications"
 
 #. +> trunk5 stable5 plasma5lts
-#: windowedwidgetsrunner.cpp:44
+#: windowedwidgetsrunner.cpp:32
 #, kde-format
 msgid "list all Plasma widgets that can run as standalone applications"
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-22 12:42+0100\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2020-11-25 19:54+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -20,19 +20,19 @@ msgstr ""
 "X-Generator: Weblate 4.3.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: notificationaction.cpp:36
+#: notificationaction.cpp:24
 #, kde-format
 msgid "The notification dataEngine is not set."
 msgstr "അറിയിപ്പ് ഡാറ്റാ എഞ്ചിൻ സജ്ജമാക്കിയിട്ടില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: notificationaction.cpp:46
+#: notificationaction.cpp:34
 #, kde-format
 msgid "Invalid destination: %1"
 msgstr "തെറ്റായ ലക്ഷ്യസ്ഥാനം: %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: notificationsengine.cpp:100
+#: notificationsengine.cpp:87
 #, kde-format
 msgid "Unknown Application"
 msgstr "അപരിചിതമായ പ്രയോഗം"

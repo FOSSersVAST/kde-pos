@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freespacenotifier trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-26 08:49+0200\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-08-07 20:47+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -17,6 +17,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.7.2\n"
+
+#. +> trunk5
+#: freespacenotifier.cpp:91
+#, kde-format
+msgid "Configure Warning…"
+msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക…"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:95 freespacenotifier.cpp:106 freespacenotifier.cpp:127
@@ -29,12 +35,6 @@ msgstr "ഡിസ്കില്‍ സ്ഥലം കുറവാണ്"
 #, kde-format
 msgid "Remaining space in your Home folder: %1 MiB"
 msgstr "ഹോം അറയില്‍ ബാക്കിയുള്ള സ്ഥലം: %1 MiB"
-
-#. +> trunk5
-#: freespacenotifier.cpp:102
-#, kde-format
-msgid "Configure Warning…"
-msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക…"
 
 #. +> stable5
 #: freespacenotifier.cpp:102
@@ -50,13 +50,13 @@ msgid "Configure Warning..."
 msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക..."
 
 #. +> trunk5 stable5
-#: freespacenotifier.cpp:106
+#: freespacenotifier.cpp:95
 #, kde-format
 msgid "Open in Filelight"
 msgstr "ഫയൽലൈറ്റില്‍ തുറക്കുക"
 
 #. +> trunk5 stable5
-#: freespacenotifier.cpp:109
+#: freespacenotifier.cpp:98
 #, kde-format
 msgid "Open in File Manager"
 msgstr "ഫയല്‍ മാനേജറിൽ തുറക്കുക"
@@ -122,7 +122,7 @@ msgid " MiB"
 msgstr " MiB"
 
 #. +> trunk5 stable5
-#: module.cpp:45
+#: module.cpp:34
 #, kde-format
 msgid ""
 "Your Home folder is running out of disk space, you have %1 MiB remaining "
@@ -130,7 +130,7 @@ msgid ""
 msgstr "നിങ്ങളുടെ ഹോം അറ നിറയാറായിരിക്കുന്നു, %1 MiB മാത്രമേ ബാക്കിയുള്ളു (%2%)."
 
 #. +> trunk5 stable5
-#: module.cpp:51
+#: module.cpp:40
 #, kde-format
 msgid ""
 "Your Root partition is running out of disk space, you have %1 MiB remaining "
@@ -138,7 +138,7 @@ msgid ""
 msgstr "നിങ്ങളുടെ റുട്ട് പാർട്ടീഷൻ നിറയാറായിരിക്കുന്നു, %1 MiB മാത്രമേ ബാക്കിയുള്ളു (%2%)."
 
 #. +> trunk5 stable5 plasma5lts
-#: module.cpp:68
+#: module.cpp:57
 #, kde-format
 msgctxt "The settings dialog main page name, as in 'general settings'"
 msgid "General"

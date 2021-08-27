@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-25 14:58+0100\n"
+"POT-Creation-Date: 2021-08-15 12:13+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,110 +20,110 @@ msgstr ""
 "X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:28
+#: keystate.cpp:15
 #, kde-format
 msgid "Shift"
 msgstr "ഷിഫ്റ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:29
+#: keystate.cpp:16
 #, kde-format
 msgid "Ctrl"
 msgstr "Ctrl"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:30
+#: keystate.cpp:17
 #, kde-format
 msgid "Alt"
 msgstr "Alt"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:31
+#: keystate.cpp:18
 #, kde-format
 msgid "Meta"
 msgstr "Meta"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:32
+#: keystate.cpp:19
 #, kde-format
 msgid "Super"
 msgstr "Super"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:33
+#: keystate.cpp:20
 #, kde-format
 msgid "Hyper"
 msgstr "Hyper"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:34
+#: keystate.cpp:21
 #, kde-format
 msgid "AltGr"
 msgstr "AltGr"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:35
+#: keystate.cpp:22
 #, kde-format
 msgid "Num Lock"
 msgstr "നം ലോക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:36
+#: keystate.cpp:23
 #, kde-format
 msgid "Caps Lock"
 msgstr "ക്യാപ്സ് ലോക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:37
+#: keystate.cpp:24
 #, kde-format
 msgid "Scroll Lock"
 msgstr "സ്ക്രോൾ ലോക്ക്"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:39
+#: keystate.cpp:26
 #, kde-format
 msgid "Left Button"
 msgstr "ഇടതു ബട്ടൺ"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:40
+#: keystate.cpp:27
 #, kde-format
 msgid "Right Button"
 msgstr "വലതു ബട്ടൺ"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:41
+#: keystate.cpp:28
 #, kde-format
 msgid "Middle Button"
 msgstr "മധ്യ ബട്ടൺ"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:42
+#: keystate.cpp:29
 #, kde-format
 msgid "First X Button"
 msgstr "ആദ്യ എക്സ് ബട്ടണ്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:43
+#: keystate.cpp:30
 #, kde-format
 msgid "Second X Button"
 msgstr "രണ്ടാമത്തെ എക്സ് ബട്ടണ്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:58 keystate.cpp:69 keystate.cpp:97 keystate.cpp:118
-#: keystate.cpp:126
+#: keystate.cpp:45 keystate.cpp:56 keystate.cpp:84 keystate.cpp:105
+#: keystate.cpp:113
 #, kde-format
 msgid "Pressed"
 msgstr "അമർത്തി"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:59 keystate.cpp:104 keystate.cpp:127
+#: keystate.cpp:46 keystate.cpp:91 keystate.cpp:114
 #, kde-format
 msgid "Latched"
 msgstr "പൂട്ടിയിരിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: keystate.cpp:60 keystate.cpp:111 keystate.cpp:128
+#: keystate.cpp:47 keystate.cpp:98 keystate.cpp:115
 #, kde-format
 msgid "Locked"
 msgstr "ലോക്ക് ചെയ്തു"
