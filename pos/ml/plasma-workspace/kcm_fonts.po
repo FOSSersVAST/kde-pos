@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-26 08:49+0200\n"
 "PO-Revision-Date: 2021-08-27 09:36+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: Abin <abin.gecb@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -231,7 +231,7 @@ msgstr "എല്ലാ അക്ഷരസഞ്ചയങ്ങളും ക്�
 #: package/contents/ui/main.qml:95
 #, kde-format
 msgid "&Adjust All Fonts..."
-msgstr "എല്ലാ അക്ഷരസഞ്ചയങ്ങളും ക്രമീകരിക്കുക... (&A)"
+msgstr "എല്ലാ ഫോണ്ടുകളും ക്രമീകരിക്കുക... (&A)"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:108
