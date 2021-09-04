@@ -1,0 +1,427 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: systemsettings\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-08-11 09:48+0200\n"
+"PO-Revision-Date: 2019-12-12 22:15+0000\n"
+"Last-Translator: Vivek KJ Pazhedath <vivekkj2004@gmail.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. +> trunk5 stable5 plasma5lts
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "പ്രവീണ്‍ അരിമ്പ്രത്തൊടിയില്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
+
+#. i18n: ectx: property (title), widget (QGroupBox, GbViewStyle)
+#. +> trunk5 stable5 plasma5lts
+#: app/configDialog.ui:9
+#, kde-format
+msgid "View Style"
+msgstr "അവതരണരീതിയുടെ ശൈലി"
+
+#. i18n: ectx: property (text), widget (QCheckBox, ChTooltips)
+#. +> trunk5 stable5 plasma5lts
+#: app/configDialog.ui:16
+#, kde-format
+msgid "Show detailed tooltips"
+msgstr "വിശദമായ സൂചനകള്‍ കാണിയ്ക്കുക"
+
+#. +> trunk5 stable5
+#: app/main.cpp:82 app/SettingsBase.cpp:63
+#, kde-format
+msgid "Info Center"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/main.cpp:84
+#, kde-format
+msgid "Centralized and convenient overview of system information."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:86 app/main.cpp:97 icons/IconMode.cpp:60
+#, kde-format
+msgid "(c) 2009, Ben Cooksley"
+msgstr "(c) 2009, ബെന്‍ കുക്ക്സ്ലി"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:93 app/SettingsBase.cpp:66 runner/systemsettingsrunner.cpp:187
+#: sidebar/package/contents/ui/introPage.qml:63
+#, kde-format
+msgid "System Settings"
+msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്ങള്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:95
+#, kde-format
+msgid "Central configuration center by KDE."
+msgstr "കെ‌ഡി‌ഇയുടെ കേന്ദ്ര ക്രമീകരണ കേന്ദ്രം"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:108 icons/IconMode.cpp:61 sidebar/SidebarMode.cpp:287
+#, kde-format
+msgid "Ben Cooksley"
+msgstr "ബെന്‍ കുക്ക്സ്ലി"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:108
+#, kde-format
+msgid "Maintainer"
+msgstr "പരിപാലകന്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:109 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:288
+#, kde-format
+msgid "Mathias Soeken"
+msgstr "മത്തിയാസ് സോക്കെന്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:109 icons/IconMode.cpp:62 sidebar/SidebarMode.cpp:288
+#, kde-format
+msgid "Developer"
+msgstr "രചയിതാവു്"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:110
+#, kde-format
+msgid "Will Stephenson"
+msgstr "വില്‍ സ്റ്റീഫന്‍സന്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/main.cpp:110
+#, kde-format
+msgid "Internal module representation, internal module model"
+msgstr "ആന്തരിക മൊഡ്യൂള്‍ പ്രതിനിധീകരണം, ആന്തരിക മൊഡ്യൂള്‍ മാതൃക"
+
+#. +> trunk5 stable5
+#: app/main.cpp:118
+#, kde-format
+msgid "List all possible modules"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/main.cpp:119 app/main.cpp:182
+#, kde-format
+msgid "Configuration module to open"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/main.cpp:120 app/main.cpp:183
+#, kde-format
+msgid "Arguments for the module"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/main.cpp:128
+#, kde-format
+msgid "The following modules are available:"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/main.cpp:145
+#, kde-format
+msgid "No description available"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: app/SettingsBase.cpp:55
+#, kde-format
+msgctxt "Search through a list of control modules"
+msgid "Search"
+msgstr "തെരയുക"
+
+#. +> trunk5
+#: app/SettingsBase.cpp:164
+#, fuzzy, kde-format
+msgid "Configure…"
+msgstr "ക്രമീകരിയ്ക്കുക"
+
+#. +> stable5 plasma5lts
+#: app/SettingsBase.cpp:165
+#, fuzzy, kde-format
+msgid "Configure..."
+msgstr "ക്രമീകരിയ്ക്കുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/SettingsBase.cpp:195
+#, kde-format
+msgid "Help"
+msgstr "സഹായം"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/SettingsBase.cpp:212
+#, kde-format
+msgctxt "General config for System Settings"
+msgid "General"
+msgstr "പൊതുവായ"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/SettingsBase.cpp:339
+#, kde-format
+msgid "System Settings was unable to find any views, and hence nothing is available to configure."
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍ക്കു് അവതരണരീതികളൊന്നും കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, അതുകൊണ്ടു് തന്നെ ക്രമീകരിയ്ക്കാന്‍ ഒന്നും ലഭ്യമല്ല."
+
+#. +> trunk5 stable5 plasma5lts
+#: app/SettingsBase.cpp:339 app/SettingsBase.cpp:400
+#, kde-format
+msgid "No views found"
+msgstr "പ്രദര്‍ശനരീതികളൊന്നും കണ്ടില്ല"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/SettingsBase.cpp:400
+#, kde-format
+msgid "System Settings was unable to find any views, and hence has nothing to display."
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍ക്കു് അവതരണരീതികളൊന്നും കണ്ടുപിടിയ്ക്കാന്‍ സാധിച്ചില്ല, അതുകൊണ്ടു് തന്നെ കാണിയ്ക്കാന്‍ ഒന്നുമില്ല."
+
+#. +> trunk5 stable5 plasma5lts
+#: app/SettingsBase.cpp:434
+#, kde-format
+msgid "About Active View"
+msgstr "സജീവമായ മൊഡ്യൂളിനെക്കുറിച്ചു്"
+
+#. +> stable5 plasma5lts
+#: app/SettingsBase.cpp:201 app/SettingsBase.cpp:461
+#, kde-format
+msgid "About Active Module"
+msgstr "സജീവമായ മൊഡ്യൂളിനെക്കുറിച്ചു്"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/SettingsBase.cpp:503
+#, kde-format
+msgid "About %1"
+msgstr "%1 ന്റെ അണിയറ വിശേഷം"
+
+#. i18n: ectx: label, entry (ShowToolTips), group (Main)
+#. +> trunk5 stable5 plasma5lts
+#: app/systemsettings.kcfg:9
+#, kde-format
+msgid "Determines whether detailed tooltips should be used"
+msgstr "വിശദമായ സൂചനകള്‍ ഉപയോഗിയ്ക്കണമോ എന്നു് തീരുമാനിയ്ക്കുന്നു"
+
+#. i18n: ectx: label, entry (ActiveView), group (Main)
+#. +> trunk5 stable5 plasma5lts
+#: app/systemsettings.kcfg:13
+#, kde-format
+msgid "Internal name for the view used"
+msgstr "ഉപയോഗിച്ച അവതരണരീതിയുടെ ആന്തരിക പേരു്"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#. +> trunk5 stable5 plasma5lts
+#: app/systemsettingsui.rc:15
+#, kde-format
+msgid "About System Settings"
+msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്ങളെക്കുറിച്ചു്"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/ToolTips/tooltipmanager.cpp:189
+#, kde-format
+msgid "Contains 1 item"
+msgid_plural "Contains %1 items"
+msgstr[0] "<i>1 ഇനം ഉള്‍ക്കൊള്ളുന്നു</i>"
+msgstr[1] "<i> %1 ഇനങ്ങള്‍ ഉള്‍ക്കൊള്ളുന്നു</i>"
+
+#. +> trunk5 stable5 plasma5lts
+#: core/ExternalAppModule.cpp:27
+#, kde-format
+msgid "%1 is an external application and has been automatically launched"
+msgstr "%1 പുറമെയുള്ളൊരു പ്രയോഗമാണു്, അതു് സ്വയം തുടങ്ങിയിട്ടുണ്ടു്"
+
+#. +> trunk5 stable5 plasma5lts
+#: core/ExternalAppModule.cpp:28
+#, kde-format
+msgid "Relaunch %1"
+msgstr "%1 വീണ്ടും തുടങ്ങുക"
+
+#. i18n: ectx: property (windowTitle), widget (QWidget, ExternalModule)
+#. +> trunk5 stable5 plasma5lts
+#: core/externalModule.ui:14
+#, kde-format
+msgid "Dialog"
+msgstr "ഡയലോഗ്"
+
+#. +> trunk5 stable5 plasma5lts
+#: core/ModuleView.cpp:167
+#, kde-format
+msgid "Reset all current changes to previous values"
+msgstr "ഇപ്പോള്‍ വരുത്തിയ എല്ലാ മാറ്റങ്ങളും മുമ്പുണ്ടായിരുന്ന വിലകളിലേയ്ക്കു് മാറ്റുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: core/ModuleView.cpp:325
+#, kde-format
+msgid ""
+"The settings of the current module have changed.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"ഇപ്പോള്‍ സജീവമായ മൊഡ്യൂളിന്റെ സജ്ജീകരണങ്ങള്‍ മാറിയിട്ടുണ്ടു്.\n"
+"മാറ്റങ്ങള്‍ നടപ്പിലാക്കണോ അതോ കളയണോ?"
+
+#. +> trunk5 stable5 plasma5lts
+#: core/ModuleView.cpp:327
+#, kde-format
+msgid "Apply Settings"
+msgstr "സജ്ജീകരണങ്ങള്‍ നടപ്പിലാക്കുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: icons/IconMode.cpp:56
+#, kde-format
+msgid "Icon View"
+msgstr "ചിഹ്നങ്ങളായി കാണുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: icons/IconMode.cpp:58
+#, kde-format
+msgid "Provides a categorized icons view of control modules."
+msgstr "നിയന്ത്രണ മൊഡ്യൂളുകളുടെ ചിഹ്നങ്ങള്‍ തരംതിരിച്ചു് കാണിയ്ക്കന്നു. "
+
+#. +> trunk5 stable5 plasma5lts
+#: icons/IconMode.cpp:61 sidebar/SidebarMode.cpp:286
+#: sidebar/SidebarMode.cpp:287
+#, kde-format
+msgid "Author"
+msgstr "രചയിതാവു്"
+
+# എല്ലാ സജ്ജീകരണങ്ങളും
+#. +> trunk5 stable5 plasma5lts
+#: icons/IconMode.cpp:65
+#, kde-format
+msgid "All Settings"
+msgstr "സജ്ജീകരണങ്ങള്‍ നടപ്പിലാക്കുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: icons/IconMode.cpp:66
+#, kde-format
+msgid "Keyboard Shortcut: %1"
+msgstr "കീബോര്‍ഡ് കുറുക്കുവഴി: %1"
+
+#. +> trunk5
+#: runner/systemsettingsrunner.cpp:185
+#, fuzzy, kde-format
+#| msgid "System Settings"
+msgid "System Information"
+msgstr "സിസ്റ്റത്തിലെ സജ്ജീകരണങ്ങള്‍"
+
+#. +> trunk5
+#: runner/systemsettingsrunner.cpp:212
+#, kde-format
+msgid "Finds system settings modules whose names or descriptions match :q:"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/package/contents/ui/CategoriesPage.qml:54
+#, kde-format
+msgid "Show menu"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/package/contents/ui/CategoriesPage.qml:80
+#, kde-format
+msgid "Show intro page"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/package/contents/ui/CategoriesPage.qml:95
+#, kde-format
+msgctxt "A search yielded no results"
+msgid "No items matching your search"
+msgstr "നിങ്ങളുടെ തിരയലുമായി പൊരുത്തപ്പെടുന്ന ഇനങ്ങളൊന്നുമില്ല"
+
+#. +> trunk5 stable5
+#: sidebar/package/contents/ui/CategoriesPage.qml:194
+#, kde-format
+msgctxt "Action to show indicators for settings with custom data. Use as short a translation as is feasible, as horizontal space is limited."
+msgid "Highlight Changed Settings"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/package/contents/ui/IntroIcon.qml:79
+#, kde-format
+msgid "Most used module number %1"
+msgstr "ഏറ്റവും കൂടുതൽ ഉപയോഗിച്ച മൊഡ്യൂൾ നമ്പർ %1"
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/package/contents/ui/introPage.qml:56
+#, kde-format
+msgid "Plasma"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/package/contents/ui/introPage.qml:82
+#, fuzzy, kde-format
+msgid "Frequently Used"
+msgstr "പതിവായി ഉപയോഗിക്കുന്നത്:"
+
+#. +> trunk5 stable5
+#: sidebar/package/contents/ui/SubCategoryPage.qml:43
+#, kde-format
+msgid "Go back"
+msgstr ""
+
+#. +> plasma5lts
+#: sidebar/package/contents/ui/SubCategoryPage.qml:54
+#, kde-format
+msgid "Back"
+msgstr "തിരികെ"
+
+#. +> trunk5 stable5
+#: sidebar/package/contents/ui/SubCategoryPage.qml:189
+#, kde-format
+msgctxt "Action to show indicators for settings with custom data"
+msgid "Highlight Changed Settings"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/SidebarMode.cpp:281
+#, kde-format
+msgid "Sidebar View"
+msgstr "സൈഡ്‌ബാർ കാഴ്ച"
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/SidebarMode.cpp:283
+#, kde-format
+msgid "Provides a categorized sidebar for control modules."
+msgstr "നിയന്ത്രണ മൊഡ്യൂളുകൾക്കായി ഒരു വർഗ്ഗീകരിച്ച സൈഡ്‌ബാർ നൽകുന്നു. "
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/SidebarMode.cpp:285
+#, kde-format
+msgid "(c) 2017, Marco Martin"
+msgstr "(c) 2017, മാർക്കോ മാർട്ടിൻ"
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/SidebarMode.cpp:286
+#, kde-format
+msgid "Marco Martin"
+msgstr "മാർക്കോ മാർട്ടിൻ"
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/SidebarMode.cpp:784
+#, kde-format
+msgid "Sidebar"
+msgstr "സൈഡ്‌ബാർ"
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/SidebarMode.cpp:826
+#, kde-format
+msgid "Most Used"
+msgstr "ഏറ്റവും കൂടുതൽ ഉപയോഗിച്ചത്"
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/ToolTips/tooltipmanager.cpp:205
+#, kde-format
+msgid "<i>Contains 1 item</i>"
+msgid_plural "<i>Contains %1 items</i>"
+msgstr[0] "<i>1 ഇനം ഉള്‍ക്കൊള്ളുന്നു</i>"
+msgstr[1] "<i>%1 ഇനങ്ങള്‍ ഉള്‍ക്കൊള്ളുന്നു</i>"

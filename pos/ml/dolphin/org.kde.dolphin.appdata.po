@@ -1,0 +1,104 @@
+# വിവേക് കെ. ജെ. <vivekkj2004@gmail.com>, 2019.
+# Subin Siby <mail@subinsb.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: org.kde.dolphin.appdata\n"
+"POT-Creation-Date: 2021-07-10 16:23+0200\n"
+"PO-Revision-Date: 2019-12-17 16:14+0530\n"
+"Last-Translator: Subin Siby <mail@subinsb.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. (itstool) path: component/name
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:6
+msgid "Dolphin"
+msgstr "ഡോൾഫിൻ"
+
+#. (itstool) path: component/summary
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:7
+msgid "File Manager"
+msgstr "ഫയല്‍ കാര്യസ്ഥന്‍"
+
+#. (itstool) path: description/p
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:9
+msgid "Dolphin is KDE's file manager that lets you navigate and browse the contents of your hard drives, USB sticks, SD cards, and more. Creating, moving, or deleting files and folders is simple and fast."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:10
+msgid "Dolphin contains plenty of productivity features that will save you time. The multiple tabs and split view features allow navigating multiple folders at the same time, and you can easily drag and drop files between views to move or copy them. Dolphin's right-click menu provides with many quick actions that let you compress, share, and duplicate files, among many other things. You can also add your own custom actions."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:11
+msgid "Dolphin is very lightweight, but at the same time, you can adapt it to your specific needs. This means that you can carry out your file management exactly the way you want to. Dolphin supports three different view modes: a classic grid view of all the files, a more detailed view, and a tree view. You can also configure most of Dolphin's behavior."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:12
+msgid "Dolphin can display files and folders from many Internet cloud services and other remote machines as if they were right there on your desktop."
+msgstr ""
+
+#. (itstool) path: description/p
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:13
+msgid "Dolphin also comes with an integrated terminal that allows you to run commands on the current folder. You can extend the capabilities of Dolphin even further with powerful plugins to adapt it to your workflow. You can use the git integration plugin to interact with git repositories, or the Nextcloud plugin to synchronize your files online, and much more."
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:21
+msgid "File management in Dolphin"
+msgstr "ഡോൾഫിനിലെ ഫയൽ കൈകാര്യം ചെയ്യൽ"
+
+#. (itstool) path: screenshot/caption
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:25
+msgid "Embedded Terminal in Dolphin"
+msgstr ""
+
+#. (itstool) path: screenshot/caption
+#. +> trunk5 stable5
+#: org.kde.dolphin.appdata.xml:29
+msgid "Dolphin lets you configure your file manager exactly how you want"
+msgstr ""
+
+#~ msgid "Dolphin is a lightweight file manager. It has been designed with ease of use and simplicity in mind, while still allowing flexibility and customisation. This means that you can do your file management exactly the way you want to do it."
+#~ msgstr "ഡോൾഫിൻ ഒരു ഭാരം കുറഞ്ഞ ഫയൽ മാനേജറാണ്. ഇത് നിർമ്മിച്ചിരിക്കുന്നത് ഉപയോഗിക്കുന്നതിനുള്ള എളുപ്പത്തിനും , മാനസികമായിയുള്ള എളുപ്പത്തിനുമാണ്, ഒപ്പം തന്നെ അഭിരുചിക്കനുസൃതമാക്കുന്നതിനും വഴക്കം നൽകുന്നതിനും അനുവദിക്കുന്നു. അതായത് നിങ്ങൾക്ക് നിങ്ങളുടെ ഫയലുകൾ  എങ്ങനെയൊക്കെ കൈകാര്യം ചെയ്യണോ അങ്ങനെ കൈകാര്യം ചെയ്യാവുന്നതാണ്."
+
+#~ msgid "Features:"
+#~ msgstr "വിശേഷതകൾ:"
+
+#~ msgid "Navigation (or breadcrumb) bar for URLs, allowing you to quickly navigate through the hierarchy of files and folders."
+#~ msgstr "ഫയലുകളുടെയും അറകളുടെയും ശ്രേണി കണ്ടുപിടിക്കുന്നതിന് URL കൾക്ക്  നാവിഗേഷൻ (അല്ലെങ്കിൽ വഴി കാട്ടുന്നതിനുള്ള) സ്ഥലം."
+
+#~ msgid "Supports several different kinds of view styles and properties and allows you to configure the view exactly how you want it."
+#~ msgstr "നിങ്ങൾക്ക് ഇഷ്ടമുള്ള രീതിയിൽ കാണുന്നതിന് ആവശ്യമായിട്ടുള്ള വിവിധ അലങ്കാര രീതികള്‍ക്ക് പിന്തുണ നൽകുന്നു."
+
+#~ msgid "Split view, allowing you to easily copy or move files between locations."
+#~ msgstr "എളുപ്പത്തിൽ ഫയലുകൾ പക‍‍ർത്തുന്നതിനും നീക്കുന്നതിനും സഹായിക്കുന്ന വേർതിരിച്ച കാഴ്ച"
+
+#~ msgid "Additional information and shortcuts are available as dock-able panels, allowing you to move them around freely and display exactly what you want."
+#~ msgstr "നിങ്ങൾക്ക് ആവശ്യമായിട്ടുള്ള കുറുക്കുവഴികളും വിവരങ്ങളും എളുപ്പത്തിൽ തുറക്കാവുന്ന ഭാഗങ്ങളായി ലഭ്യമാണ്."
+
+#~ msgid "Multiple tab support"
+#~ msgstr "അനേക  ടാബുകളുടെ പിൻതുണ"
+
+#~ msgid "Informational dialogues are displayed in an unobtrusive way."
+#~ msgstr "വിവരങ്ങൾ അച്ചടക്കമുള്ള രീതിയിൽ ദൃശ്യമാകുന്നു."
+
+#~ msgid "Undo/redo support"
+#~ msgstr "നിഷ്ക്രിയമാക്കുക/വീണ്ടും ചെയ്യുക പിന്തുണയ്ക്കുന്നു"
+
+#~ msgid "Transparent network access through the KIO system."
+#~ msgstr "KIO സിസ്റ്റത്തിലൂടെ ശൃംഖലയെ സമീപിക്കുന്നു."

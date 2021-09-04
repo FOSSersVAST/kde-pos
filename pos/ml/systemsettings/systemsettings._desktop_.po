@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: systemsettings\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-07-12 09:45+0200\n"
+"PO-Revision-Date: 2019-11-17 16:09+0530\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Language-Team: SMC <smc.org.in>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/kdesystemsettings.desktop:8
+msgctxt "GenericName"
+msgid "KDE System Settings"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/kdesystemsettings.desktop:70
+msgctxt "Name"
+msgid "KDE System Settings"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/kdesystemsettings.desktop:132 app/systemsettings.desktop:183
+msgctxt "Comment"
+msgid "Configuration tools for your computer"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: app/systemsettings.desktop:11
+msgctxt "GenericName"
+msgid "System Settings"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: app/systemsettings.desktop:95
+msgctxt "Name"
+msgid "System Settings"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
+
+#. +> trunk5 stable5
+#: app/systemsettings.desktop:236
+msgctxt "Name"
+msgid "Global Theme"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/systemsettings.desktop:278
+msgctxt "Name"
+msgid "Users"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/systemsettings.desktop:320
+msgctxt "Name"
+msgid "Screen Locking"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/systemsettings.desktop:361
+msgctxt "Name"
+msgid "Energy Saving"
+msgstr ""
+
+#. +> trunk5 stable5
+#: app/systemsettings.desktop:403
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Display and Monitor"
+msgctxt "Name"
+msgid "Display Configuration"
+msgstr "മോണിറ്ററും ഡിസ്‌പ്ലേയും"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/hidden.desktop:7
+msgctxt "Name"
+msgid "Hidden"
+msgstr "Hidden"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-appearance-color.desktop:9
+msgctxt "Name"
+msgid "Colors"
+msgstr "Colors"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-appearance-font.desktop:9
+msgctxt "Name"
+msgid "Fonts"
+msgstr "Fonts"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-appearance-icons.desktop:9
+msgctxt "Name"
+msgid "Icons"
+msgstr "ഐക്കണുകൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-appearance.desktop:11
+msgctxt "Name"
+msgid "Appearance"
+msgstr "Appearance"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-hardware-display.desktop:9
+msgctxt "Name"
+msgid "Display and Monitor"
+msgstr "മോണിറ്ററും ഡിസ്‌പ്ലേയും"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-hardware-display.desktop:76
+msgctxt "Comment"
+msgid "Display Settings"
+msgstr "പ്രദര്‍ശനത്തിന്റെ സജ്ജീകരണങ്ങള്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-hardware-input.desktop:9
+msgctxt "Name"
+msgid "Input Devices"
+msgstr "Input Devices"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-hardware-multimedia.desktop:9
+msgctxt "Name"
+msgid "Multimedia"
+msgstr "മള്‍ട്ടീമീഡിയ"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-hardware-peripherals.desktop:9
+msgctxt "Name"
+msgid "Peripherals"
+msgstr "അനുബന്ധ ഉപകരണങ്ങൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-hardware-powermanagement.desktop:9
+msgctxt "Name"
+msgid "Power Management"
+msgstr "വൈദ്യുതി നടത്തിപ്പു്"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-hardware-removable-storage.desktop:8
+msgctxt "Name"
+msgid "Removable Storage"
+msgstr "നീക്കംചെയ്യാവുന്ന സ്റ്റോറേജ്"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-hardware.desktop:9
+msgctxt "Name"
+msgid "Hardware"
+msgstr "ഹാര്‍ഡ്‌വെയര്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-network-bluetooth.desktop:9
+msgctxt "Name"
+msgid "Bluetooth"
+msgstr "ബ്ലൂടൂത്ത്"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-network-connectivity.desktop:9
+msgctxt "Name"
+msgid "Connectivity"
+msgstr "കണക്റ്റിവിറ്റി"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-network-networksettings.desktop:9
+msgctxt "Name"
+msgid "Settings"
+msgstr "സജ്ജീകരണങ്ങൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-network.desktop:8
+msgctxt "Name"
+msgid "Network"
+msgstr "ശൃംഖല"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-personalization-accessibility.desktop:8
+msgctxt "Name"
+msgid "Accessibility"
+msgstr "സാമീപ്യത"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-personalization-accountdetails.desktop:9
+msgctxt "Name"
+msgid "Account Details"
+msgstr "അക്കൗണ്ട് വിശദാംശങ്ങൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-personalization-applications.desktop:9
+msgctxt "Name"
+msgid "Applications"
+msgstr "പ്രയോഗങ്ങൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-personalization-notification.desktop:9
+msgctxt "Name"
+msgid "Notifications"
+msgstr "അറിയിപ്പുകൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-personalization-regionalsettings.desktop:9
+msgctxt "Name"
+msgid "Regional Settings"
+msgstr "പ്രാദേശിക സജ്ജീകരണങ്ങൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-personalization.desktop:9
+msgctxt "Name"
+msgid "Personalization"
+msgstr "വ്യക്തിഗതമാക്കൽ"
+
+#. +> trunk5 stable5
+#: categories/settings-root-category.desktop:9
+msgctxt "Name"
+msgid "Root"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-system-administration.desktop:9
+msgctxt "Name"
+msgid "System Administration"
+msgstr "System Administration"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-workspace-desktopbehavior.desktop:9
+msgctxt "Name"
+msgid "Workspace Behavior"
+msgstr "വർക്ക്സ്പേസിന്റെ പെരുമാറ്റം"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-workspace-search.desktop:9
+msgctxt "Name"
+msgid "Search"
+msgstr "Search"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-workspace-session.desktop:9
+msgctxt "Name"
+msgid "Startup and Shutdown"
+msgstr "സ്റ്റാർട്ടപ്പും ഷട്ട്ഡൗണും"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-workspace-shortcuts.desktop:9
+msgctxt "Name"
+msgid "Shortcuts"
+msgstr "Shortcuts"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-workspace-windowmanagement.desktop:9
+msgctxt "Name"
+msgid "Window Management"
+msgstr "വിൻഡോ നടത്തിപ്പ്"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/settings-workspace.desktop:9
+msgctxt "Name"
+msgid "Workspace"
+msgstr "വർക്ക്‌സ്‌പെയ്‌സ്"
+
+#. +> trunk5 stable5 plasma5lts
+#: categories/systemsettingscategory.desktop:4
+msgctxt "Name"
+msgid "System Settings Category"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങളുടെ വിഭാഗം"
+
+#. +> trunk5 stable5 plasma5lts
+#: core/systemsettingsexternalapp.desktop:4
+msgctxt "Name"
+msgid "System Settings External Application"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങളുടെ പുറമേയുള്ള പ്രയോഗം"
+
+#. +> trunk5 stable5 plasma5lts
+#: core/systemsettingsview.desktop:4
+msgctxt "Name"
+msgid "System Settings View"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങളുടെ അവതരണരീതി"
+
+#. +> trunk5 stable5 plasma5lts
+#: icons/settings-icon-view.desktop:6 sidebar/settings-sidebar-view.desktop:6
+msgctxt "X-KDE-Keywords"
+msgid "System Settings"
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: icons/settings-icon-view.desktop:69
+msgctxt "Name"
+msgid "Icon View"
+msgstr "ചിഹ്നങ്ങളായ അവതരണരീതി"
+
+#. +> trunk5 stable5 plasma5lts
+#: icons/settings-icon-view.desktop:149
+msgctxt "Comment"
+msgid "The KDE 4 icon view style"
+msgstr "കെഡിഇ 4 ചിഹ്ന പ്രദര്‍ശന ശൈലി"
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/package/metadata.desktop:2 sidebar/settings-sidebar-view.desktop:69
+msgctxt "Name"
+msgid "Sidebar View"
+msgstr "സൈഡ്‌ബാർ കാഴ്ച"
+
+#. +> trunk5 stable5 plasma5lts
+#: sidebar/package/metadata.desktop:52
+#: sidebar/settings-sidebar-view.desktop:119
+msgctxt "Comment"
+msgid "Categorized sidebar style"
+msgstr "വർഗ്ഗീകരിച്ച സൈഡ്‌ബാർ ശൈലി"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-application-and-system-notifications.desktop:8
+msgctxt "Name"
+msgid "Application and System Notifications"
+msgstr "പ്രയോഗത്തിന്റെയും സിസ്റ്റത്തിന്റെയും അറിയിപ്പുകൾ"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-application-appearance.desktop:8
+msgctxt "Name"
+msgid "Application Appearance"
+msgstr "അപ്ലിക്കേഷൻ രൂപം"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-desktop-appearance.desktop:9
+msgctxt "Name"
+msgid "Workspace Appearance"
+msgstr "വർക്ക്‌സ്‌പെയ്‌സ് രൂപം"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-desktop-appearance.desktop:76
+msgctxt "Comment"
+msgid "Customize the appearance of your desktop"
+msgstr "നിങ്ങളുടെ ഡെസ്ക്ടോപ്പിന്റെ രൂപം ഇച്ഛാനുസൃതമാക്കുക"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-locale.desktop:8
+msgctxt "Name"
+msgid "Locale"
+msgstr "പ്രാദേശികം"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-lost-and-found.desktop:9
+msgctxt "Name"
+msgid "Lost and Found"
+msgstr "പോയതും കണ്ടതും"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-network-and-connectivity.desktop:8
+msgctxt "Name"
+msgid "Network and Connectivity"
+msgstr "ശൃംഖലയും ബന്ധവും"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-network-settings.desktop:8
+msgctxt "Name"
+msgid "Network Settings"
+msgstr "ശൃംഖലയുടെ സജ്ജീകരണങ്ങള്‍"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-permissions.desktop:8
+msgctxt "Name"
+msgid "Permissions"
+msgstr "അനുമതികൾ"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-personal-information.desktop:8
+msgctxt "Name"
+msgid "Personal Information"
+msgstr "സ്വകാര്യ വിവരം"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-sharing.desktop:8
+msgctxt "Name"
+msgid "Sharing"
+msgstr "പങ്കിടല്‍"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-shortcuts-and-gestures.desktop:8
+msgctxt "Name"
+msgid "Shortcuts and Gestures"
+msgstr "കുറുക്കുവഴികളും ആംഗ്യങ്ങളും"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-window-behaviour.desktop:8
+msgctxt "Name"
+msgid "Window Behavior"
+msgstr "ജാലകത്തിന്റെ വിശേഷത"
+
+#. +> stable5 plasma5lts
+#: categories/old/settings-workspace-appearance-and-behavior.desktop:9
+msgctxt "Name"
+msgid "Workspace Appearance and Behavior"
+msgstr "വർക്ക്‌സ്‌പെയ്‌സ് രൂപവും പെരുമാറ്റവും"
+
+#. +> plasma5lts
+#: categories/settings-appearance-applicationstyle.desktop:9
+msgctxt "Name"
+msgid "Application Style"
+msgstr "പ്രയോഗ ശൈലി"
