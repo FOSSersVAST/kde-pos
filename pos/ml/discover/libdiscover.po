@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-26 10:54+0200\n"
-"PO-Revision-Date: 2021-09-08 12:51+0000\n"
+"PO-Revision-Date: 2021-09-09 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/discover/"
 "libdiscover/ml/>\n"
@@ -23,13 +23,13 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr ""
+msgstr "വിവേക് കെ ജെ"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr ""
+msgstr "vivekkj2004@gmail.com"
 
 #. +> stable5 plasma5lts
 #: libdiscover/appstream/AppStreamUtils.cpp:82
@@ -48,7 +48,7 @@ msgstr ""
 #: libdiscover/appstream/OdrsReviewsBackend.cpp:140
 #, kde-format
 msgid "Error while fetching reviews: %1"
-msgstr ""
+msgstr "അവലോകനങ്ങൾ ലഭ്യമാക്കുമ്പോൾ പിശക്: %1"
 
 #. +> trunk5 stable5
 #: libdiscover/appstream/OdrsReviewsBackend.cpp:186
@@ -60,42 +60,42 @@ msgstr ""
 #: libdiscover/appstream/OdrsReviewsBackend.cpp:243
 #, kde-format
 msgid "Error while submitting review: %1"
-msgstr ""
+msgstr "അവലോകനം സമർപ്പിക്കുമ്പോൾ പിശക്: %1"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:4
 #, kde-format
 msgctxt "Category"
 msgid "Dummy Category"
-msgstr ""
+msgstr "ഡമ്മി വിഭാഗം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:10
 #, kde-format
 msgctxt "Category"
 msgid "dummy"
-msgstr ""
+msgstr "ഡമ്മി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:18
 #, kde-format
 msgctxt "Category"
 msgid "dummy addons"
-msgstr ""
+msgstr "ഡമ്മി ആഡ്ഓണുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:27
 #, kde-format
 msgctxt "Category"
 msgid "dummy 1"
-msgstr ""
+msgstr "ഡമ്മി 1"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:35
 #, kde-format
 msgctxt "Category"
 msgid "dummy with stuff"
-msgstr ""
+msgstr "സാധനങ്ങൾ ഉള്ള ഡമ്മി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:42
@@ -103,28 +103,28 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "dummy 2.1"
-msgstr ""
+msgstr "ഡമ്മി 2.1"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:50
 #, kde-format
 msgctxt "Category"
 msgid "dummy with quite some stuff"
-msgstr ""
+msgstr "കുറച്ച് സാധനങ്ങളുമായി ഡമ്മി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:66
 #, kde-format
 msgctxt "Category"
 msgid "dummy 3"
-msgstr ""
+msgstr "ഡമ്മി 3"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/DummyBackend/dummy-backend-categories.xml:76
 #, kde-format
 msgctxt "Category"
 msgid "dummy 4"
-msgstr ""
+msgstr "ഡമ്മി 4"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:5
@@ -157,7 +157,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Developer Tools"
-msgstr ""
+msgstr "ഡെവലപ്പർ ഉപകരണങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:48
@@ -165,7 +165,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Debugging"
-msgstr ""
+msgstr "ഡീബഗ്ഗിംഗ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:58
@@ -173,7 +173,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Graphic Interface Design"
-msgstr ""
+msgstr "ഗ്രാഫിക് ഇന്റർഫേസ് ഡിസൈൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:67
@@ -205,7 +205,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Web Development"
-msgstr ""
+msgstr "വെബ് ഡെവലപ്മെന്റ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:108
@@ -221,7 +221,7 @@ msgstr "വിദ്യാഭ്യാസം"
 #, kde-format
 msgctxt "Category"
 msgid "Science and Engineering"
-msgstr ""
+msgstr "ശാസ്ത്രവും എഞ്ചിനീയറിംഗും"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:130
@@ -253,7 +253,7 @@ msgstr "രസതന്ത്രം"
 #, kde-format
 msgctxt "Category"
 msgid "Computer Science and Robotics"
-msgstr ""
+msgstr "കമ്പ്യൂട്ടർ സയൻസും റോബോട്ടിക്സും"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:166
@@ -325,7 +325,7 @@ msgstr "ആർക്കേഡ്"
 #, kde-format
 msgctxt "Category"
 msgid "Board Games"
-msgstr ""
+msgstr "ബോർഡ് കളികൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:251
@@ -333,7 +333,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Card Games"
-msgstr ""
+msgstr "കാർഡ് കളികൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:260
@@ -421,7 +421,7 @@ msgstr "ചിത്രകല"
 #, kde-format
 msgctxt "Category"
 msgid "Painting and Editing"
-msgstr ""
+msgstr "പെയിന്റിംഗും എഡിറ്റിംഗും"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:369
@@ -445,7 +445,7 @@ msgstr "പ്രസിദ്ധീകരണം"
 #, kde-format
 msgctxt "Category"
 msgid "Scanning and OCR"
-msgstr ""
+msgstr "സ്കാനിംഗും OCRഉം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:397
@@ -477,7 +477,7 @@ msgstr "ചാറ്റ്"
 #, kde-format
 msgctxt "Category"
 msgid "File Sharing"
-msgstr ""
+msgstr "ഫയൽ പങ്കിടൽ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:437
@@ -493,7 +493,7 @@ msgstr "മെയിൽ"
 #, kde-format
 msgctxt "Category"
 msgid "Web Browsers"
-msgstr ""
+msgstr "വെബ് ബ്രൗസറുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:458
@@ -509,7 +509,7 @@ msgstr "മൾട്ടിമീഡിയ"
 #, kde-format
 msgctxt "Category"
 msgid "Audio and Video Editors"
-msgstr ""
+msgstr "ഓഡിയോ, വീഡിയോ എഡിറ്ററുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:477
@@ -517,7 +517,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Audio Players"
-msgstr ""
+msgstr "ഓഡിയോ പ്ലെയറുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:498
@@ -525,7 +525,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Video Players"
-msgstr ""
+msgstr "വീഡിയോ പ്ലെയറുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:516
@@ -533,7 +533,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "CD and DVD"
-msgstr ""
+msgstr "സിഡിയും ഡിവിഡിയും"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:528
@@ -549,7 +549,7 @@ msgstr "ഓഫീസ്"
 #, kde-format
 msgctxt "Category"
 msgid "System Settings"
-msgstr ""
+msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakBackend.cpp:554
@@ -570,47 +570,47 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:321
 #, kde-format
 msgid "Unknown"
-msgstr ""
+msgstr "അജ്ഞാതം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:102
 #, kde-format
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:358
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:366
 #, kde-format
 msgid "Retrieving size information"
-msgstr ""
+msgstr "വലുപ്പ വിവരങ്ങൾ വീണ്ടെടുക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:360
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:368
 #, kde-format
 msgid "Unknown size"
-msgstr ""
+msgstr "അജ്ഞാത വലുപ്പം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:362
 #, kde-format
 msgctxt "@info app size"
 msgid "%1 to download, %2 on disk"
-msgstr ""
+msgstr "ഡൗൺലോഡ് ചെയ്യാൻ %1, ഡിസ്കിൽ %2"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakResource.cpp:370
 #, kde-format
 msgctxt "@info app size"
 msgid "%1 on disk"
-msgstr ""
+msgstr "ഡിസ്കിൽ %1"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:50
 #, kde-format
 msgid "Add Flathub"
-msgstr ""
+msgstr "ഫ്ലാറ്റ്ഹബ് ചേർക്കുക"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:54
@@ -628,7 +628,7 @@ msgstr ""
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:219
 #, kde-format
 msgid "Removing '%1'"
-msgstr ""
+msgstr "'%1' നീക്കം ചെയ്യുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:220
@@ -646,13 +646,13 @@ msgstr ""
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:240
 #, kde-format
 msgid "Could not find %1"
-msgstr ""
+msgstr "%1 കണ്ടെത്താനായില്ല"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:335
 #, kde-format
 msgid "%1 (user)"
-msgstr ""
+msgstr "%1 (ഉപയോക്താവ്)"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:379
@@ -684,7 +684,7 @@ msgstr ""
 #: libdiscover/backends/FwupdBackend/FwupdSourcesBackend.cpp:41
 #, kde-format
 msgid "Review EULA"
-msgstr ""
+msgstr "EULA അവലോകനം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:104
@@ -702,13 +702,13 @@ msgstr "ആപ്ലീക്കേഷനുകൾ"
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:212
 #, kde-format
 msgid "Plasma Addons"
-msgstr ""
+msgstr "പ്ലാസ്മ ആഡ്ഓണുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:212
 #, kde-format
 msgid "Application Addons"
-msgstr ""
+msgstr "ആപ്ലിക്കേഷൻ ആഡ്ഓണുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:381
@@ -728,7 +728,7 @@ msgstr ""
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:402
 #, kde-format
 msgid "Invalid %1 backend, contact your distributor."
-msgstr ""
+msgstr "അസാധുവായ %1 ബാക്കെൻഡ്, നിങ്ങളുടെ വിതരണക്കാരനെ ബന്ധപ്പെടുക."
 
 #. +> trunk5 stable5
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:421
@@ -754,7 +754,7 @@ msgstr ""
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:445
 #, kde-format
 msgid "%1: %2"
-msgstr ""
+msgstr "%1: %2"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:654
@@ -772,21 +772,21 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/AppPackageKitResource.cpp:238
 #, kde-format
 msgid "Cannot launch %1"
-msgstr ""
+msgstr "%1 സമാരംഭിക്കാനാകില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:552
 #, kde-format
 msgctxt "Category"
 msgid "Plasma Addons"
-msgstr ""
+msgstr "പ്ലാസ്മ ആഡ്ഓണുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:563
 #, kde-format
 msgctxt "Category"
 msgid "Plasma Widgets"
-msgstr ""
+msgstr "പ്ലാസ്മ വിഡ്ജറ്റുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/packagekit-backend-categories.xml:575
@@ -805,7 +805,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:673
 #, kde-format
 msgid "Cannot remove '%1'"
-msgstr ""
+msgstr "'%1' നീക്കം ചെയ്യാൻ കഴിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:18
@@ -817,67 +817,67 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:20
 #, kde-format
 msgid "No network connection available"
-msgstr ""
+msgstr "നെറ്റ്‌വർക്ക് കണക്ഷൻ ലഭ്യമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:22
 #, kde-format
 msgid "Operation not supported"
-msgstr ""
+msgstr "പ്രവർത്തനം പിന്തുണയ്ക്കുന്നില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:24
 #, kde-format
 msgid "Internal error"
-msgstr ""
+msgstr "ആന്തരിക പിശക്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:26
 #, kde-format
 msgid "GPG failure"
-msgstr ""
+msgstr "ജിപിജി തകരാറ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:28
 #, kde-format
 msgid "PackageID invalid"
-msgstr ""
+msgstr "പാക്കേജ് ഐഡി അസാധുവാണ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:30
 #, kde-format
 msgid "Package not installed"
-msgstr ""
+msgstr "പാക്കേജ് ഇൻസ്റ്റാളിയിട്ടില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:32
 #, kde-format
 msgid "Package not found"
-msgstr ""
+msgstr "പാക്കേജ് കണ്ടെത്തിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:34
 #, kde-format
 msgid "Package is already installed"
-msgstr ""
+msgstr "പാക്കേജ് ഇതിനകം ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ട്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:36
 #, kde-format
 msgid "Package download failed"
-msgstr ""
+msgstr "പാക്കേജ് ഡൗൺലോഡ് പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:38
 #, kde-format
 msgid "Package group not found"
-msgstr ""
+msgstr "പാക്കേജ് ഗ്രൂപ്പ് കണ്ടെത്തിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:40
 #, kde-format
 msgid "Package group list invalid"
-msgstr ""
+msgstr "പാക്കേജ് ഗ്രൂപ്പ് ലിസ്റ്റ് അസാധുവാണ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:42
@@ -895,25 +895,25 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:46
 #, kde-format
 msgid "Failed while creating a thread"
-msgstr ""
+msgstr "ഒരു ത്രെഡ് സൃഷ്ടിക്കുമ്പോൾ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:48
 #, kde-format
 msgid "Transaction failure"
-msgstr ""
+msgstr "ഇടപാട് പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:50
 #, kde-format
 msgid "Transaction canceled"
-msgstr ""
+msgstr "ഇടപാട് റദ്ദാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:52
 #, kde-format
 msgid "No Cache available"
-msgstr ""
+msgstr "കാഷെ ലഭ്യമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:54
@@ -925,7 +925,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:56
 #, kde-format
 msgid "Cannot remove system package"
-msgstr ""
+msgstr "സിസ്റ്റം പാക്കേജ് നീക്കം ചെയ്യാനാകില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:58
@@ -937,25 +937,25 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:60
 #, kde-format
 msgid "Initialization failure"
-msgstr ""
+msgstr "പ്രാരംഭ പരാജയം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:62
 #, kde-format
 msgid "Failed to finalize transaction"
-msgstr ""
+msgstr "ഇടപാട് അന്തിമമാക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:64
 #, kde-format
 msgid "Config parsing failed"
-msgstr ""
+msgstr "റിപ്പോസിറ്ററി കണ്ടെത്താൻ കഴിഞ്ഞില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:66
 #, kde-format
 msgid "Cannot cancel transaction"
-msgstr ""
+msgstr "ഇടപാട് റദ്ദാക്കാൻ കഴിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:68
@@ -967,7 +967,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:70
 #, kde-format
 msgid "No packages to update"
-msgstr ""
+msgstr "അപ്ഡേറ്റ് ചെയ്യാൻ പാക്കേജുകളൊന്നുമില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:72
@@ -985,13 +985,13 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:76
 #, kde-format
 msgid "Bad GPG signature found"
-msgstr ""
+msgstr "മോശം ജിപിജി ഒപ്പ് കണ്ടെത്തി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:78
 #, kde-format
 msgid "No GPG signature found"
-msgstr ""
+msgstr "ജിപിജി ഒപ്പ് കണ്ടെത്തിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:80
@@ -1003,13 +1003,13 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:82
 #, kde-format
 msgid "Repo configuration error"
-msgstr ""
+msgstr "റെപ്പോ ക്രമീകരണത്തിൽ പിശക്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:84
 #, kde-format
 msgid "No license agreement"
-msgstr ""
+msgstr "ലൈസൻസ് കരാർ ഇല്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:86
@@ -1027,43 +1027,43 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:90
 #, kde-format
 msgid "Repo not available"
-msgstr ""
+msgstr "റെപ്പോ ലഭ്യല്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:92
 #, kde-format
 msgid "Invalid package file"
-msgstr ""
+msgstr "തെറ്റായ പാക്കേജ് ഫയൽ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:94
 #, kde-format
 msgid "Package install blocked"
-msgstr ""
+msgstr "പാക്കേജ് ഇൻസ്റ്റാൾ തടഞ്ഞിരിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:96
 #, kde-format
 msgid "Corrupt package found"
-msgstr ""
+msgstr "കേടായ പാക്കേജ് കണ്ടെത്തി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:98
 #, kde-format
 msgid "All packages already installed"
-msgstr ""
+msgstr "എല്ലാ പാക്കേജുകളും ഇതിനകം ഇൻസ്റ്റാൾ ചെയ്തിട്ടുണ്ട്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:100
 #, kde-format
 msgid "File not found"
-msgstr ""
+msgstr "ഫയൽ കണ്ടെത്താനായില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:102
 #, kde-format
 msgid "No more mirrors available"
-msgstr ""
+msgstr "കൂടുതൽ മിററുകൾ ലഭ്യമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:104
@@ -1081,13 +1081,13 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:108
 #, kde-format
 msgid "No space on device left"
-msgstr ""
+msgstr "ഉപകരണത്തിൽ ഇടമില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:110
 #, kde-format
 msgid "A media change is required"
-msgstr ""
+msgstr "ഒരു മാധ്യമ മാറ്റം ആവശ്യമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:112
@@ -1099,25 +1099,25 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:114
 #, kde-format
 msgid "Update not found"
-msgstr ""
+msgstr "അപ്ഡേറ്റ് കണ്ടെത്താനായില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:116
 #, kde-format
 msgid "Cannot install from unsigned repo"
-msgstr ""
+msgstr "ഒപ്പിടാത്ത റെപ്പോയിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യാൻ കഴിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:118
 #, kde-format
 msgid "Cannot update from unsigned repo"
-msgstr ""
+msgstr "ഒപ്പിടാത്ത റെപ്പോയിൽ നിന്ന് അപ്ഡേറ്റ് ചെയ്യാൻ കഴിയില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:120
 #, kde-format
 msgid "Cannot get file list"
-msgstr ""
+msgstr "ഫയൽ ലിസ്റ്റ് ലഭിക്കുന്നില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:122
@@ -1129,37 +1129,37 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:124
 #, kde-format
 msgid "Cannot disable repository"
-msgstr ""
+msgstr "റിപ്പോസിറ്ററി പ്രവർത്തനരഹിതമാക്കാൻ കഴിഞ്ഞില്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:126
 #, kde-format
 msgid "Restricted download detected"
-msgstr ""
+msgstr "നിയന്ത്രിത ഡൗൺലോഡ് കണ്ടെത്തി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:128
 #, kde-format
 msgid "Package failed to configure"
-msgstr ""
+msgstr "പാക്കേജ് ക്രമീകരിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:130
 #, kde-format
 msgid "Package failed to build"
-msgstr ""
+msgstr "പാക്കേജ് നിർമ്മിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:132
 #, kde-format
 msgid "Package failed to install"
-msgstr ""
+msgstr "പാക്കേജ് ഇൻസ്റ്റാൾ ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:134
 #, kde-format
 msgid "Package failed to remove"
-msgstr ""
+msgstr "പാക്കേജ് നീക്കംചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:136
@@ -1171,7 +1171,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:138
 #, kde-format
 msgid "The package database changed"
-msgstr ""
+msgstr "പാക്കേജ് ഡാറ്റാബേസ് മാറ്റി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:140
@@ -1202,7 +1202,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:148
 #, kde-format
 msgid "Unfinished transaction"
-msgstr ""
+msgstr "പൂർത്തിയാക്കാത്ത ഇടപാട്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:150
@@ -1214,7 +1214,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:155
 #, kde-format
 msgid "Unknown error %1."
-msgstr ""
+msgstr "അജ്ഞാതമായ പിശക് %1."
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:164
@@ -1292,13 +1292,13 @@ msgstr "കാത്തിരിക്കുന്നു..."
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:205
 #, kde-format
 msgid "Refreshing Cache…"
-msgstr ""
+msgstr "കാഷെ പുതുക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:205
 #, kde-format
 msgid "Refreshing Cache..."
-msgstr ""
+msgstr "കാഷെ പുതുക്കുന്നു..."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:207
@@ -1334,25 +1334,25 @@ msgstr "നീക്കം ചെയ്യുക…"
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:211
 #, kde-format
 msgid "Remove..."
-msgstr ""
+msgstr "നീക്കം ചെയ്യുക..."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:213
 #, kde-format
 msgid "Downloading…"
-msgstr ""
+msgstr "ഡൗൺലോഡുന്നു…"
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:215
 #, kde-format
 msgid "Installing…"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്യുന്നു…"
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:217
 #, kde-format
 msgid "Updating…"
-msgstr ""
+msgstr "അപ്ഡേറ്റ് ചെയ്യുന്നു…"
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:219
@@ -1419,97 +1419,97 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:357
 #, kde-format
 msgid "Finished"
-msgstr ""
+msgstr "പൂർത്തിയായി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:233
 #, kde-format
 msgid "Canceled"
-msgstr ""
+msgstr "റദ്ദാക്കി"
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:235
 #, kde-format
 msgid "Waiting for lock…"
-msgstr ""
+msgstr "ലോക്കിനായി കാത്തിരിക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:235
 #, kde-format
 msgid "Waiting for lock..."
-msgstr ""
+msgstr "ലോക്കിനായി കാത്തിരിക്കുന്നു..."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:237
 #, kde-format
 msgid "Waiting for authorization…"
-msgstr ""
+msgstr "അംഗീകാരത്തിനായി കാത്തിരിക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:237
 #, kde-format
 msgid "Waiting for authorization..."
-msgstr ""
+msgstr "അംഗീകാരത്തിനായി കാത്തിരിക്കുന്നു..."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
 #, kde-format
 msgid "Copying files…"
-msgstr ""
+msgstr "ഫയലുകൾ പകർത്തുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
 #, kde-format
 msgid "Copying files..."
-msgstr ""
+msgstr "ഫയലുകൾ പകർത്തുന്നു..."
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:245
 #, kde-format
 msgid "Unknown Status"
-msgstr ""
+msgstr "അജ്ഞാത നില"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:253
 #, kde-format
 msgid "We are waiting for something."
-msgstr ""
+msgstr "ഞങ്ങൾ എന്തെങ്കിലും കാത്തിരിക്കുന്നു."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:255
 #, kde-format
 msgid "Setting up transaction…"
-msgstr ""
+msgstr "ഇടപാട് സജ്ജീകരിക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:255
 #, kde-format
 msgid "Setting up transaction..."
-msgstr ""
+msgstr "ഇടപാട് സജ്ജീകരിക്കുന്നു..."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:257
 #, kde-format
 msgid "The transaction is currently working…"
-msgstr ""
+msgstr "ഇടപാട് നിലവിൽ പ്രവർത്തിക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:257
 #, kde-format
 msgid "The transaction is currently working..."
-msgstr ""
+msgstr "ഇടപാട് നിലവിൽ പ്രവർത്തിക്കുന്നു..."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:259
 #, kde-format
 msgid "The transaction is currently removing packages…"
-msgstr ""
+msgstr "ഇടപാട് നിലവിൽ പാക്കേജുകൾ നീക്കംചെയ്യുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:259
 #, kde-format
 msgid "The transaction is currently removing packages..."
-msgstr ""
+msgstr "ഇടപാട് നിലവിൽ പാക്കേജുകൾ നീക്കംചെയ്യുന്നു..."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:261
@@ -1611,13 +1611,13 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:279
 #, kde-format
 msgid "The transaction has finished!"
-msgstr ""
+msgstr "ഇടപാട് പൂർത്തിയായി!"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:281
 #, kde-format
 msgid "The transaction was canceled"
-msgstr ""
+msgstr "ഇടപാട് റദ്ദാക്കി"
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:283
@@ -1659,53 +1659,53 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
 #, kde-format
 msgid "Currently refreshing the repository cache…"
-msgstr ""
+msgstr "നിലവിൽ റിപ്പോസിറ്ററി കാഷെ പുതുക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
 #, kde-format
 msgid "Currently refreshing the repository cache..."
-msgstr ""
+msgstr "നിലവിൽ റിപ്പോസിറ്ററി കാഷെ പുതുക്കുന്നു..."
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:297
 #, kde-format
 msgid "Unknown status %1."
-msgstr ""
+msgstr "അജ്ഞാത നില %1."
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:308
 #, kde-format
 msgctxt "update state"
 msgid "Stable"
-msgstr ""
+msgstr "സ്റ്റേബിൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:310
 #, kde-format
 msgctxt "update state"
 msgid "Unstable"
-msgstr ""
+msgstr "അൺസ്റ്റേബിൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:312
 #, kde-format
 msgctxt "update state"
 msgid "Testing"
-msgstr ""
+msgstr "ടെസ്റ്റിംഗ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:323
 #: libdiscover/resources/AbstractResource.cpp:92
 #, kde-format
 msgid "Installed"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്തു"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:325
 #, kde-format
 msgid "Not Installed"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:327
@@ -1735,61 +1735,61 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:335
 #, kde-format
 msgid "Important"
-msgstr ""
+msgstr "പ്രധാനപ്പെട്ടത്"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:337
 #, kde-format
 msgid "Security"
-msgstr ""
+msgstr "സുരക്ഷ"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:339
 #, kde-format
 msgid "Blocked"
-msgstr ""
+msgstr "തടഞ്ഞു"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:341
 #, kde-format
 msgid "Downloading"
-msgstr ""
+msgstr "ഡൗൺലോഡുന്നു"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:213
 #, kde-format
 msgid "Downloading..."
-msgstr ""
+msgstr "ഡൗൺലോഡുന്നു..."
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:343
 #, kde-format
 msgid "Updating"
-msgstr ""
+msgstr "അപ്ഡേറ്റുന്നു"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:217
 #, kde-format
 msgid "Updating..."
-msgstr ""
+msgstr "അപ്ഡേറ്റുന്നു..."
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:345
 #, kde-format
 msgid "Installing"
-msgstr ""
+msgstr "ഇൻസ്റ്റാളുന്നു"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:215
 #, kde-format
 msgid "Installing..."
-msgstr ""
+msgstr "ഇൻസ്റ്റാളുന്നു..."
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:347
 #, kde-format
 msgid "Removing"
-msgstr ""
+msgstr "നീക്കംചെയ്യുന്നു"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:349
@@ -1801,7 +1801,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:351
 #, kde-format
 msgid "Obsoleting"
-msgstr ""
+msgstr "കാലഹരണപ്പെടുന്നു"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:353
@@ -1819,7 +1819,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:359
 #, kde-format
 msgid "Reinstalling"
-msgstr ""
+msgstr "വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുന്നു"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:361
@@ -1843,26 +1843,26 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:367
 #, kde-format
 msgid "Untrusted"
-msgstr ""
+msgstr "വിശ്വസനീയമല്ലാത്തത്"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:369
 #, kde-format
 msgid "Trusted"
-msgstr ""
+msgstr "വിശ്വസനീയമായത്"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:371
 #, kde-format
 msgid "Unavailable"
-msgstr ""
+msgstr "ലഭ്യമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:108
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:141
 #, kde-format
 msgid "Offline Updates"
-msgstr ""
+msgstr "ഓഫ്‌ലൈൻ അപ്‌ഡേറ്റുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:109
@@ -1882,7 +1882,7 @@ msgstr[1] ""
 #, kde-format
 msgctxt "@action:button"
 msgid "Open Discover"
-msgstr ""
+msgstr "ഡിസ്കവർ തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitNotifier.cpp:110
@@ -1915,34 +1915,34 @@ msgstr ""
 #, kde-format
 msgid "Successfully updated %1 package"
 msgid_plural "Successfully updated %1 packages"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 പാക്കേജ് വിജയകരമായി അപ്‌ഡേറ്റുചെയ്‌തു"
+msgstr[1] "%1 പാക്കേജുകൾ വിജയകരമായി അപ്‌ഡേറ്റുചെയ്‌തു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:256
 #, kde-format
 msgctxt "package-name (version)"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:258
 #, kde-format
 msgctxt "comma separating package names"
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:305
 #, kde-format
 msgid "Obsoletes:"
-msgstr ""
+msgstr "കാലഹരണപ്പെട്ടവ:"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:306
 #, kde-format
 msgid "Release Notes:"
-msgstr ""
+msgstr "റിലീസ് കുറിപ്പുകൾ:"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:307
@@ -1954,7 +1954,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:308
 #, kde-format
 msgid "Restart:"
-msgstr ""
+msgstr "പുനരാരംഭിക്കുക:"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:311
@@ -1974,7 +1974,7 @@ msgstr[1] ""
 #: libdiscover/backends/PackageKitBackend/PackageKitResource.cpp:395
 #, kde-format
 msgid "Failed to start '%1'"
-msgstr ""
+msgstr "'%1' ആരംഭിക്കുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitSourcesBackend.cpp:92
@@ -1986,15 +1986,15 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:76
 #, kde-format
 msgid "System upgrade"
-msgstr ""
+msgstr "സിസ്റ്റം അപ്ഗ്രേഡ്"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:167
 #, kde-format
 msgid "1 package to upgrade"
 msgid_plural "%1 packages to upgrade"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "അപ്‌ഗ്രേഡുചെയ്യാൻ 1 പാക്കേജ്"
+msgstr[1] "അപ്‌ഗ്രേഡുചെയ്യാൻ %1 പാക്കേജുകൾ"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:184
@@ -2006,7 +2006,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:188
 #, kde-format
 msgid "Future"
-msgstr ""
+msgstr "ഭാവി"
 
 #. +> plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:233
@@ -2018,7 +2018,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:412
 #, kde-format
 msgid "Packages to remove"
-msgstr ""
+msgstr "നീക്കം ചെയ്യാനുള്ള പാക്കേജുകൾ"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:413
@@ -2057,7 +2057,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:282
 #, kde-format
 msgid "Accept EULA"
-msgstr ""
+msgstr "EULA അംഗീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:552
@@ -2093,7 +2093,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:191
 #, kde-format
 msgid "Confirm package removal"
-msgstr ""
+msgstr "പാക്കേജ് നീക്കംചെയ്യൽ സ്ഥിരീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PKTransaction.cpp:192
@@ -2111,7 +2111,7 @@ msgstr[1] ""
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:129
 #, kde-format
 msgid "Version: "
-msgstr ""
+msgstr "പതിപ്പ്: "
 
 #. +> trunk5 stable5
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:129
@@ -2129,7 +2129,7 @@ msgstr ""
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:130
 #, kde-format
 msgid "Origin: "
-msgstr ""
+msgstr "ഉത്ഭവം: "
 
 #. +> trunk5 stable5
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:167
@@ -2141,13 +2141,13 @@ msgstr ""
 #: libdiscover/backends/SnapBackend/SnapBackend.cpp:43
 #, kde-format
 msgid "Snap"
-msgstr ""
+msgstr "സ്നാപ്പ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/SnapBackend/SnapResource.cpp:352
 #, kde-format
 msgid "%1 - %2"
-msgstr ""
+msgstr "%1 - %2"
 
 #. +> trunk5 stable5
 #: libdiscover/backends/SnapBackend/SnapTransaction.cpp:49
@@ -2177,149 +2177,149 @@ msgstr ""
 #: libdiscover/resources/AbstractResource.cpp:90
 #, kde-format
 msgid "Available"
-msgstr ""
+msgstr "ലഭ്യമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/resources/AbstractResource.cpp:94
 #, kde-format
 msgid "Upgradeable"
-msgstr ""
+msgstr "അപ്ഗ്രേഡ് ചെയ്യാവുന്നത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/resources/AbstractResource.cpp:242
 #, kde-format
 msgctxt "origin (backend name)"
 msgid "%1 (%2)"
-msgstr ""
+msgstr "%1 (%2)"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/resources/AbstractResource.cpp:247
 #, kde-format
 msgid "Launch"
-msgstr ""
+msgstr "സമാരംഭിക്കുക"
 
 #. +> trunk5 stable5
 #: libdiscover/resources/AbstractResource.cpp:256
 #, kde-format
 msgid "Update to version %1"
-msgstr ""
+msgstr "%1 പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യുക"
 
 #. +> trunk5 stable5
 #: libdiscover/resources/AbstractResource.cpp:266
 #, kde-format
 msgctxt "Do not translate or alter \\u009C"
 msgid "%1 → %2%1 → %2%2"
-msgstr ""
+msgstr "%1 → %2%1 → %2%2"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/resources/ResourcesModel.cpp:99
 #, kde-format
 msgctxt "@action Checks the Internet for updates"
 msgid "Check for Updates"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾക്കായി പരിശോധിക്കുക"
 
 #. +> trunk5 stable5
 #: libdiscover/resources/ResourcesUpdatesModel.cpp:107
 #, kde-format
 msgid "Updates"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ"
 
 #. +> plasma5lts
 #: libdiscover/resources/ResourcesUpdatesModel.cpp:108
 #, kde-format
 msgid "View Updates"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/Transaction.cpp:133
 #, kde-format
 msgctxt "@label Download rate"
 msgid "%1/s"
-msgstr ""
+msgstr "%1/സെ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:74
 #, kde-format
 msgctxt "@info:status"
 msgid "Starting"
-msgstr ""
+msgstr "തുടങ്ങുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:76
 #, kde-format
 msgctxt "@info:status"
 msgid "Waiting"
-msgstr ""
+msgstr "കാത്തിരിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:78
 #, kde-format
 msgctxt "@info:status"
 msgid "Downloading"
-msgstr ""
+msgstr "ഡൗൺലോഡുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:82
 #, kde-format
 msgctxt "@info:status"
 msgid "Installing"
-msgstr ""
+msgstr "ഇൻസ്റ്റാളുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:84
 #, kde-format
 msgctxt "@info:status"
 msgid "Removing"
-msgstr ""
+msgstr "നീക്കം ചെയ്യുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:86
 #, kde-format
 msgctxt "@info:status"
 msgid "Changing Addons"
-msgstr ""
+msgstr "ആഡ്ഓണുകൾ മാറ്റുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:90
 #, kde-format
 msgctxt "@info:status"
 msgid "Done"
-msgstr ""
+msgstr "ചെയ്തു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:92
 #, kde-format
 msgctxt "@info:status"
 msgid "Failed"
-msgstr ""
+msgstr "പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/Transaction/TransactionModel.cpp:94
 #, kde-format
 msgctxt "@info:status"
 msgid "Cancelled"
-msgstr ""
+msgstr "റദ്ദാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/UpdateModel/UpdateModel.cpp:126
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Application Updates"
-msgstr ""
+msgstr "ആപ്ലിക്കേഷൻ അപ്ഡേറ്റുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/UpdateModel/UpdateModel.cpp:127
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "System Updates"
-msgstr ""
+msgstr "സിസ്റ്റം അപ്ഡേറ്റുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/UpdateModel/UpdateModel.cpp:128
 #, kde-format
 msgctxt "@item:inlistbox"
 msgid "Addons"
-msgstr ""
+msgstr "ആഡ്ഓണുകൾ"
 
 #. +> plasma5lts
 #: libdiscover/backends/KNSBackend/KNSResource.cpp:240
