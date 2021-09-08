@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-26 10:54+0200\n"
 "PO-Revision-Date: 2021-09-08 12:51+0000\n"
-"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
+"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/discover/"
 "libdiscover/ml/>\n"
 "Language: ml\n"
@@ -237,7 +237,7 @@ msgstr "ജ്യോതിശാസ്ത്രം"
 #, kde-format
 msgctxt "Category"
 msgid "Biology"
-msgstr ""
+msgstr "ജീവശാസ്ത്രം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:146
@@ -245,7 +245,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Chemistry"
-msgstr ""
+msgstr "രസതന്ത്രം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:155
@@ -261,7 +261,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Electronics"
-msgstr ""
+msgstr "ഇലക്ട്രോണിക്സ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:175
@@ -269,7 +269,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Engineering"
-msgstr ""
+msgstr "എഞ്ചിനിയറിങ്ങ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:184
@@ -277,7 +277,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Geography"
-msgstr ""
+msgstr "ഭൂമിശാസ്ത്രം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:192
@@ -285,7 +285,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Geology"
-msgstr ""
+msgstr "ഭൂഗർഭശാസ്ത്രം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:201
@@ -293,7 +293,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Mathematics"
-msgstr ""
+msgstr "ഗണിതം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:212
@@ -301,7 +301,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Physics"
-msgstr ""
+msgstr "ഭൗതികശാസ്ത്രം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:223
@@ -309,7 +309,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Games"
-msgstr ""
+msgstr "കളികൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:233
@@ -317,7 +317,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Arcade"
-msgstr ""
+msgstr "ആർക്കേഡ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:242
@@ -341,7 +341,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Puzzles"
-msgstr ""
+msgstr "പസിലുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:269
@@ -357,7 +357,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Simulation"
-msgstr ""
+msgstr "സിമുലേഷൻ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:287
@@ -373,7 +373,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Sports"
-msgstr ""
+msgstr "കായിക വിനോദങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:305
@@ -397,7 +397,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Graphics"
-msgstr ""
+msgstr "ഗ്രാഫിക്സ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:336
@@ -405,7 +405,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "3D"
-msgstr ""
+msgstr "3ഡി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:344
@@ -413,7 +413,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Drawing"
-msgstr ""
+msgstr "ചിത്രകല"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:356
@@ -429,7 +429,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Photography"
-msgstr ""
+msgstr "ഫോട്ടോഗ്രാഫി"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:378
@@ -437,7 +437,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Publishing"
-msgstr ""
+msgstr "പ്രസിദ്ധീകരണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:387
@@ -461,7 +461,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Internet"
-msgstr ""
+msgstr "ഇന്റർനെറ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:418
@@ -469,7 +469,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Chat"
-msgstr ""
+msgstr "ചാറ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:428
@@ -485,7 +485,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Mail"
-msgstr ""
+msgstr "മെയിൽ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:446
@@ -501,7 +501,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Multimedia"
-msgstr ""
+msgstr "മൾട്ടിമീഡിയ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:468
@@ -541,7 +541,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Office"
-msgstr ""
+msgstr "ഓഫീസ്"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/flatpak-backend-categories.xml:539
@@ -696,7 +696,7 @@ msgstr ""
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:167
 #, kde-format
 msgid "Applications"
-msgstr ""
+msgstr "ആപ്ലീക്കേഷനുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/KNSBackend/KNSBackend.cpp:212
@@ -793,7 +793,7 @@ msgstr ""
 #, kde-format
 msgctxt "Category"
 msgid "Fonts"
-msgstr ""
+msgstr "അക്ഷരസഞ്ചയങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:209
@@ -1280,13 +1280,13 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:203
 #, kde-format
 msgid "Waiting…"
-msgstr ""
+msgstr "കാത്തിരിക്കുന്നു…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:203
 #, kde-format
 msgid "Waiting..."
-msgstr ""
+msgstr "കാത്തിരിക്കുന്നു..."
 
 #. +> trunk5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:205
@@ -1328,7 +1328,7 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:211
 #, kde-format
 msgid "Remove…"
-msgstr ""
+msgstr "നീക്കം ചെയ്യുക…"
 
 #. +> stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:211
