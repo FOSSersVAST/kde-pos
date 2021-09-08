@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-19 10:15+0200\n"
-"PO-Revision-Date: 2021-08-12 11:59+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"PO-Revision-Date: 2021-09-09 12:59+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -896,7 +896,7 @@ msgstr "സ്വയം തുടങ്ങുന്നവ"
 #: kcms/autostart/package/metadata.desktop:35
 msgctxt "Comment"
 msgid "Automatically Started Applications"
-msgstr "താനേ തുടങ്ങിയ പ്രയോഗങ്ങൾ"
+msgstr "താനേ തുടങ്ങിയ ആപ്പുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/autostart/package/metadata.desktop:77
@@ -1035,13 +1035,13 @@ msgstr "അഭിപ്രായം"
 #: kcms/kfontinst/kio/fonts.desktop:5
 msgctxt "Name"
 msgid "Fonts"
-msgstr "അക്ഷരസഞ്ചയങ്ങൾ"
+msgstr "ഫോണ്ടുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/fonts/kcm_fonts.desktop:52 kcms/fonts/package/metadata.desktop:41
 msgctxt "Comment"
 msgid "Configure user interface fonts"
-msgstr "സമ്പര്‍ക്ക മുഖ അക്ഷരസഞ്ചയങ്ങൾ ക്രമീകരിക്കുക"
+msgstr "സമ്പര്‍ക്ക മുഖ ഫോണ്ടുകൾ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5
 #: kcms/fonts/kcm_fonts.desktop:90
@@ -1051,9 +1051,10 @@ msgid ""
 "FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
 "toolbar fonts,character,general fonts"
 msgstr ""
-"അക്ഷരസഞ്ചയങ്ങൾ,അക്ഷരവലുപ്പം,ശൈലികൾ,പ്രതീകങ്ങൾ,പ്രതീക സെറ്റുകൾ,പാളി,ക്രമീകരണ പാളി,"
-"ഡെസ്ക്ടോപ്പുകൾ,ഫയൽമാനേജർ,ഉപകരണപ്പട്ടകൾ,മെനു,ജാലക തലക്കെട്ട്,തലക്കെട്ട്,ഡിപിഐ,ആന്റി-"
-"അലിയാസിംഗ്,ഡെസ്ക് അക്ഷരസഞ്ചയങ്ങൾ,ഉപകരണപ്പട്ട അക്ഷരസഞ്ചയങ്ങൾ,പ്രതീകം,പൊതു ഫോണ്ടുകൾ"
+"ഫോണ്ടുകൾ,അക്ഷരവലുപ്പം,ശൈലികൾ,പ്രതീകങ്ങൾ,പ്രതീക സെറ്റുകൾ,പാളി,ക്രമീകരണ "
+"പാളി,ഡെസ്ക്ടോപ്പുകൾ,ഫയൽമാനേജർ,ഉപകരണപ്പട്ടകൾ,മെനു,ജാലക "
+"തലക്കെട്ട്,തലക്കെട്ട്,ഡിപിഐ,ആന്റി-അലിയാസിംഗ്,ഡെസ്ക് ഫോണ്ടുകൾ,ഉപകരണപ്പട്ട "
+"ഫോണ്ടുകൾ,പ്രതീകം,പൊതു ഫോണ്ടുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/formats/formats.desktop:13
@@ -1124,7 +1125,7 @@ msgstr "അക്ഷരസഞ്ചയ ഇൻസ്റ്റാളർ"
 #: kcms/kfontinst/dbus/fontinst.actions:41
 msgctxt "Name"
 msgid "Manage system-wide fonts."
-msgstr "സിസ്റ്റം-വൈഡ് അക്ഷരസഞ്ചയങ്ങൾ നിയന്ത്രിക്കുക."
+msgstr "സിസ്റ്റമാകമാനം ഫോണ്ടുകൾ നിയന്ത്രിക്കുക."
 
 #. +> trunk5 stable5
 #: kcms/kfontinst/dbus/fontinst.actions:78
@@ -1142,13 +1143,13 @@ msgstr "അക്ഷരസഞ്ചയ മാനേജ്മെന്റ്"
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:53
 msgctxt "Comment"
 msgid "Install, manage and preview fonts"
-msgstr "അക്ഷരസഞ്ചയങ്ങൾ ഇൻസ്റ്റാൾ ചെയ്യുക, കൈകാര്യംചെയ്യുക, പൂര്‍വ്വദൃശ്യം ചെയ്യുക"
+msgstr "ഫോണ്ടുകൾ ഇൻസ്റ്റാൾ ചെയ്യുക, കൈകാര്യംചെയ്യുക, പൂര്‍വ്വദൃശ്യം ചെയ്യുക"
 
 #. +> trunk5 stable5
 #: kcms/kfontinst/kcmfontinst/fontinst.desktop:91
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
-msgstr "അക്ഷരസഞ്ചയം,അക്ഷരസഞ്ചയങ്ങൾ,ഇൻസ്റ്റാളർ,ട്രൂടൈപ്പ്,ടൈപ്പ്1,ബിറ്റ്മാപ്"
+msgstr "ഫോണ്ട്,ഫോണ്ടുകൾ,ഇൻസ്റ്റാളർ,ട്രൂടൈപ്പ്,ടൈപ്പ്1,ബിറ്റ്മാപ്"
 
 #. +> trunk5 stable5
 #: kcms/kfontinst/thumbnail/fontthumbnail.desktop:3
