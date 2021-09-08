@@ -2,21 +2,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.discover.appdata\n"
 "POT-Creation-Date: 2020-05-14 23:09+0200\n"
-"PO-Revision-Date: 2019-12-23 07:50+0000\n"
+"PO-Revision-Date: 2021-09-09 13:59+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Malayalam <https://kde.smc.org.in/projects/discover/"
+"orgkdediscoverappdata/ml/>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.7.2\n"
 
 #. (itstool) path: component/name
 #. (itstool) path: component/summary
 #. +> trunk5 stable5 plasma5lts
 #: org.kde.discover.appdata.xml:6 org.kde.discover.appdata.xml:7
 msgid "Discover"
-msgstr "ഡിസ്കവർ "
+msgstr "ഡിസ്കവർ"
 
 #. (itstool) path: description/p
 #. +> trunk5 stable5 plasma5lts
