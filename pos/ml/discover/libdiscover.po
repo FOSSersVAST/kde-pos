@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-26 10:54+0200\n"
 "PO-Revision-Date: 2021-09-09 13:59+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/discover/"
 "libdiscover/ml/>\n"
 "Language: ml\n"
@@ -42,7 +42,7 @@ msgstr "കുത്തക"
 #: libdiscover/resources/AbstractResource.cpp:283
 #, kde-format
 msgid "%1, released on %2"
-msgstr ""
+msgstr "%1, %2 ൽ പുറത്തിറങ്ങിയത്"
 
 #. +> trunk5 stable5
 #: libdiscover/appstream/OdrsReviewsBackend.cpp:140
@@ -793,7 +793,7 @@ msgstr "പ്ലാസ്മ വിഡ്ജറ്റുകൾ"
 #, kde-format
 msgctxt "Category"
 msgid "Fonts"
-msgstr "അക്ഷരസഞ്ചയങ്ങൾ"
+msgstr "ഫോണ്ടുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitBackend.cpp:209
