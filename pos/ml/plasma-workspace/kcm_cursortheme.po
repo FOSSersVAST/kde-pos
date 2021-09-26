@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-19 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -175,31 +175,31 @@ msgid "This module lets you choose the mouse cursor theme."
 msgstr "ചൂണ്ടുവിരൽ പ്രമേയം തിരഞ്ഞെടുക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:90
+#: package/contents/ui/main.qml:84
 #, kde-format
 msgid "Size:"
 msgstr "വലുപ്പം:"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:134
 #, kde-format
 msgid "&Install from File…"
 msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക… (&I)"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:146
+#. +> plasma5lts
+#: package/contents/ui/main.qml:143
 #, kde-format
 msgid "&Install from File..."
 msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക... (&I)"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:140
 #, kde-format
 msgid "&Get New Cursors…"
 msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക… (&G)"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:152
+#. +> plasma5lts
+#: package/contents/ui/main.qml:150
 #, kde-format
 msgid "&Get New Cursors..."
 msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക... (&G)"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -25,14 +25,14 @@ msgstr ""
 msgid "Looks for non-installed components according to :q:"
 msgstr ":q: പ്രകാരം ഇൻസ്റ്റാൾ ചെയ്യാത്ത ഘടകങ്ങൾക്കായി തിരയുന്നു"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: appstreamrunner.cpp:126
 #, kde-format
 msgid "Get %1…"
 msgstr "%1 നേടുക…"
 
-#. +> stable5 plasma5lts
-#: appstreamrunner.cpp:140
+#. +> plasma5lts
+#: appstreamrunner.cpp:102
 #, kde-format
 msgid "Get %1..."
 msgstr "%1 നേടുക..."

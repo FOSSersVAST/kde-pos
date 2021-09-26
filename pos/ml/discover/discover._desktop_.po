@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-23 10:49+0200\n"
+"POT-Creation-Date: 2021-09-22 18:30+0200\n"
 "PO-Revision-Date: 2021-09-09 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/discover/"
@@ -23,19 +23,20 @@ msgid "Discover"
 msgstr "കണ്ടെത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/org.kde.discover.desktop.cmake:58
+#: discover/org.kde.discover.desktop.cmake:59
 msgctxt "GenericName"
 msgid "Software Center"
 msgstr "സോഫ്റ്റ്വെയർ സെന്റർ"
 
 #. +> trunk5 stable5 plasma5lts
-#: discover/org.kde.discover.desktop.cmake:108
+#: discover/org.kde.discover.desktop.cmake:110
 msgctxt "Keywords"
-msgid "program;software;repository;package;install;remove;update;apps;applications;"
+msgid ""
+"program;software;repository;package;install;remove;update;apps;applications;"
 msgstr ""
 
 #. +> trunk5 stable5
-#: discover/org.kde.discover.desktop.cmake:157
+#: discover/org.kde.discover.desktop.cmake:160
 msgctxt "Name"
 msgid "See Available Updates"
 msgstr "ലഭ്യമായ അപ്ഡേറ്റുകൾ കാണുക"
@@ -49,14 +50,12 @@ msgstr "അപ്ഡേറ്റുകൾ"
 #. +> trunk5 stable5
 #: kcm/kcm_updates.desktop:11 kcm/package/metadata.desktop:6
 #, fuzzy
-#| msgctxt "GenericName"
-#| msgid "Software Center"
 msgctxt "Name"
 msgid "Software Update"
 msgstr "സോഫ്റ്റ്വെയർ സെന്റർ"
 
 #. +> trunk5 stable5
-#: kcm/kcm_updates.desktop:41
+#: kcm/kcm_updates.desktop:45
 msgctxt "Comment"
 msgid "Configure software update behavior"
 msgstr "സോഫ്റ്റ്‍വെയർ അപ്ഡേറ്റ് സ്വഭാവം ക്രമീകരിക്കുക"
@@ -68,7 +67,7 @@ msgid "Snap login action"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:48
+#: libdiscover/backends/SnapBackend/libsnapclient/org.kde.discover.libsnapclient.actions:49
 msgctxt "Description"
 msgid "Allows snap front-ends to log in"
 msgstr ""
@@ -80,55 +79,55 @@ msgid "Discover"
 msgstr "കണ്ടെത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:54
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:55
 msgctxt "Name"
 msgid "Updates Are Available"
 msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ് "
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:103
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:105
 msgctxt "Comment"
 msgid "Updates Available"
 msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ്"
 
 #. +> trunk5 stable5
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:155
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:158
 msgctxt "Name"
 msgid "Successful Offline Update"
 msgstr "വിജയകരമായ ഓഫ്‌ലൈൻ അപ്‌ഡേറ്റ്"
 
 #. +> trunk5 stable5
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:187
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:192
 msgctxt "Comment"
 msgid "System updated successfully"
 msgstr "സിസ്റ്റം വിജയകരമായി അപ്‌ഡേറ്റുചെയ്‌തു"
 
 #. +> trunk5 stable5
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:223
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:230
 msgctxt "Name"
 msgid "Failed Offline Update"
 msgstr "ഓഫ്‌ലൈൻ അപ്‌ഡേറ്റ് പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:255
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:264
 msgctxt "Comment"
 msgid "System update failed"
 msgstr "സിസ്റ്റം അപ്ഡേറ്റ് പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:291
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:302
 msgctxt "Name"
 msgid "Repair Failed"
 msgstr "അറ്റകുറ്റപ്പണി പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:323
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:336
 msgctxt "Comment"
 msgid "Repair failure after offline update"
 msgstr "ഓഫ്‌ലൈൻ അപ്‌ഡേറ്റിന് ശേഷം അറ്റകുറ്റപ്പണി പരാജയപ്പെട്ടു"
 
-#. +> trunk5
-#: libdiscover/resources/discoverabstractnotifier.notifyrc:359
+#. +> trunk5 stable5
+#: libdiscover/resources/discoverabstractnotifier.notifyrc:374
 msgctxt "Name"
 msgid "Restart is Required"
 msgstr "പുനരാരംഭിക്കേണ്ടത് ആവശ്യമാണ്"

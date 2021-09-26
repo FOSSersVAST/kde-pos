@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-11 13:07+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -34,7 +34,7 @@ msgstr ""
 "govindvshenoy@gmail.com,"
 
 #. +> trunk5 stable5 plasma5lts
-#: currentcontainmentactionsmodel.cpp:212
+#: currentcontainmentactionsmodel.cpp:201
 #, kde-format
 msgid "Configure Mouse Actions Plugin"
 msgstr "മൗസ് പ്രവർത്തന പ്ലഗിൻ ക്രമീകരിക്കുക"
@@ -52,25 +52,25 @@ msgid "Plasma Shell"
 msgstr "പ്ലാസ്മ ഷെൽ"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:111
+#: main.cpp:107
 #, kde-format
 msgid "Enable QML Javascript debugger"
 msgstr "QML ജാവാസ്ക്രിപ്റ്റ് ഡീബഗ്ഗർ പ്രവർത്തനക്ഷമമാകുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:114
+#: main.cpp:110
 #, kde-format
 msgid "Do not restart plasma-shell automatically after a crash"
 msgstr "തകർച്ചക് ശേഷം പ്ലാസ്മ-ഷെൽ വീണ്ടും ആരംഭിക്കാതിരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:117
+#: main.cpp:113
 #, kde-format
 msgid "Force loading the given shell plugin"
 msgstr "നിർബന്ധമായി തന്നിരിക്കുന്ന ഷെൽ പ്ലഗിൻ ലോഡ് ചെയുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:122
+#: main.cpp:118
 #, kde-format
 msgid ""
 "Load plasmashell as a standalone application, needs the shell-plugin option "
@@ -80,13 +80,13 @@ msgstr ""
 "പറഞ്ഞിരിക്കണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:124
+#: main.cpp:120
 #, kde-format
 msgid "Replace an existing instance"
 msgstr "ഇപ്പോൾ ഉള്ളതിൽ നിന്ന് മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:127
+#: main.cpp:123
 #, kde-format
 msgid ""
 "Enables test mode and specifies the layout javascript file to set up the "
@@ -96,25 +96,25 @@ msgstr ""
 "ജാവാസ്ക്രിപ്റ്റ് ഫയൽ വ്യക്തമാക്കുകയും ചെയ്യുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:128
+#: main.cpp:124
 #, kde-format
 msgid "file"
 msgstr "ഫയൽ"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:132
+#: main.cpp:128
 #, kde-format
 msgid "Lists the available options for user feedback"
 msgstr "ഉപയോക്തൃ അഭിപ്രായത്തിനായി ലഭ്യമായ ഓപ്ഷനുകൾ പട്ടികപ്പെടുത്തുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:228
+#: main.cpp:224
 #, kde-format
 msgid "Plasma Failed To Start"
 msgstr "പ്ലാസ്മ തുടങ്ങുവാൻ സാധിച്ചില്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:229
+#: main.cpp:225
 #, kde-format
 msgid ""
 "Plasma is unable to start as it could not correctly use OpenGL 2 or software "
@@ -221,37 +221,37 @@ msgid "On-Screen Keyboard Deactivated"
 msgstr "സ്ക്രീനിലെ കീബോര്ഡ് ഓഫാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:145 shellcorona.cpp:147
+#: shellcorona.cpp:141 shellcorona.cpp:143
 #, kde-format
 msgid "Show Desktop"
 msgstr "പണിയിടം കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:147
+#: shellcorona.cpp:143
 #, kde-format
 msgid "Hide Desktop"
 msgstr "പണിയിടം ഒളിപ്പിക്കുക"
 
 #. +> trunk5 stable5
-#: shellcorona.cpp:163
+#: shellcorona.cpp:159
 #, kde-format
 msgid "Show Activity Switcher"
 msgstr "പ്രവൃത്തി സ്വിച്ചർ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:174
+#: shellcorona.cpp:170
 #, kde-format
 msgid "Stop Current Activity"
 msgstr "ഇപ്പോഴത്തെ പ്രവർത്തനം നിർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:182
+#: shellcorona.cpp:178
 #, kde-format
 msgid "Switch to Previous Activity"
 msgstr "മുമ്പത്തെ പ്രവർത്തനത്തിലേക്ക് മാറുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:190
+#: shellcorona.cpp:186
 #, kde-format
 msgid "Switch to Next Activity"
 msgstr "അടുത്ത പ്രവർത്തനത്തിലേക്ക് മാറുക"
@@ -263,25 +263,25 @@ msgid "Activities..."
 msgstr "പ്രവർത്തനങ്ങൾ..."
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:206
+#: shellcorona.cpp:202
 #, kde-format
 msgid "Activate Task Manager Entry %1"
 msgstr "ടാസ്ക് മാനേജർ ഇനം %1 സജീവമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:1374
+#: shellcorona.cpp:1370
 #, kde-format
 msgid "Unable to load script file: %1"
 msgstr "സ്ക്രിപ്റ്റ് ഫയൽ ലോഡ് ചെയ്യാൻ സാധിച്ചില്ല: %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:1746
+#: shellcorona.cpp:1681
 #, kde-format
 msgid "Add Panel"
 msgstr "പാളി ചേർക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:1783
+#: shellcorona.cpp:1718
 #, kde-format
 msgid "Empty %1"
 msgstr "%1 കാലി"

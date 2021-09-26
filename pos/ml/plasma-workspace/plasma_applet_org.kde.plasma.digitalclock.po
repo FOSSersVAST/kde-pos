@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-21 15:10+0200\n"
 "PO-Revision-Date: 2021-03-05 12:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -44,18 +44,11 @@ msgstr "സമയ മേഖലകൾ"
 msgid "Events"
 msgstr "പരിപാടികൾ"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/CalendarView.qml:92
 #, kde-format
 msgctxt "@action:button Add event"
 msgid "Add…"
-msgstr ""
-
-#. +> stable5
-#: package/contents/ui/CalendarView.qml:103
-#, kde-format
-msgctxt "@action:button Add event"
-msgid "Add..."
 msgstr ""
 
 #. +> trunk5 stable5
@@ -150,16 +143,10 @@ msgstr "ഇന്നത്തേക്ക് പരിപാടികളൊന�
 msgid "No events for this day"
 msgstr "ഈ ദിവസത്തേക്ക് പരിപാടികളൊന്നുമില്ല"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/CalendarView.qml:519
 #, fuzzy, kde-format
 msgid "Switch…"
-msgstr "മാറുക..."
-
-#. +> stable5
-#: package/contents/ui/CalendarView.qml:530
-#, kde-format
-msgid "Switch..."
 msgstr "മാറുക..."
 
 #. +> trunk5 stable5
@@ -290,14 +277,14 @@ msgstr "മേഖല തനത് ഉപയോഗിക്കുക"
 msgid "24-Hour"
 msgstr "24-മണിക്കൂർ"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/configAppearance.qml:149
 #, fuzzy, kde-format
 msgid "Change Regional Settings…"
 msgstr "പ്രാദേശിക ക്രമീകരണങ്ങൾ മാറ്റുക..."
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/configAppearance.qml:163
+#. +> plasma5lts
+#: package/contents/ui/configAppearance.qml:134
 #, kde-format
 msgid "Change Regional Settings..."
 msgstr "പ്രാദേശിക ക്രമീകരണങ്ങൾ മാറ്റുക..."
@@ -391,7 +378,7 @@ msgstr "ലഭ്യമായ സംയോജകങ്ങൾ"
 msgid "Clock is currently using this time zone"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/configTimeZones.qml:99
 #, fuzzy, kde-format
 msgid "Switch Local Time Zone…"
@@ -402,12 +389,6 @@ msgstr "പ്രാദേശിക സമയ മേഖല മാറ്റുക
 #, kde-format
 msgid "Switch time zone with mouse wheel"
 msgstr "മൗസ് വീൽ ഉപയോഗിച്ച് സമയ മേഖല മാറ്റുക"
-
-#. +> stable5
-#: package/contents/ui/configTimeZones.qml:113
-#, kde-format
-msgid "Switch Local Time Zone..."
-msgstr "പ്രാദേശിക സമയ മേഖല മാറ്റുക..."
 
 #. +> trunk5 stable5
 #: package/contents/ui/configTimeZones.qml:108
@@ -437,7 +418,7 @@ msgstr ""
 "എല്ലാ സമയ മേഖലകളും പോപ്പ്അപ്പിൽ പ്രദർശിപ്പിക്കുന്നതിന് കൂടുതൽ സമയ മേഖലകൾ ചേർക്കുക, അല്ലെങ്കിൽ "
 "ക്ലോക്കിനായി അവയിലൊന്ന് ഉപയോഗിക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/configTimeZones.qml:137
 #, fuzzy, kde-format
 msgid "Add Time Zones…"
@@ -448,12 +429,6 @@ msgstr "സമയ മേഖലകൾ കൂട്ടിച്ചേര്‍ക�
 #, kde-format
 msgid "Search Time Zones"
 msgstr "സമയ മേഖലകൾ തിരയുക"
-
-#. +> stable5
-#: package/contents/ui/configTimeZones.qml:151
-#, kde-format
-msgid "Add Time Zones..."
-msgstr "സമയ മേഖലകൾ കൂട്ടിച്ചേര്‍ക്കുക..."
 
 #. +> trunk5 stable5
 #: package/contents/ui/configTimeZones.qml:148
@@ -516,26 +491,26 @@ msgstr "%1, %2"
 msgid "Copy to Clipboard"
 msgstr "ഓര്‍മ്മചെപ്പിലേക്ക് പകര്‍ത്തുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:126
 #, fuzzy, kde-format
 msgid "Adjust Date and Time…"
 msgstr "തീയതിയും സമയവും പൊരുത്തപ്പെടുത്തുക..."
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:137
+#. +> plasma5lts
+#: package/contents/ui/main.qml:108
 #, kde-format
 msgid "Adjust Date and Time..."
 msgstr "തീയതിയും സമയവും പൊരുത്തപ്പെടുത്തുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:129
 #, fuzzy, kde-format
 msgid "Set Time Format…"
 msgstr "സമയ ഘടന സജ്ജമാക്കുക..."
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:140
+#. +> plasma5lts
+#: package/contents/ui/main.qml:111
 #, kde-format
 msgid "Set Time Format..."
 msgstr "സമയ ഘടന സജ്ജമാക്കുക..."
@@ -579,1351 +554,1351 @@ msgstr "സിസ്റ്റത്തിന്റെ പ്രാദേശി�
 msgid "Your system time zone"
 msgstr "നിങ്ങളുടെ സിസ്റ്റം സമയ മേഖല"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:44
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Abidjan"
 msgstr "അബിജാൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:45
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Accra"
 msgstr "അക്ര"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:46
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Adak"
 msgstr "അഡക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:47
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Addis Ababa"
 msgstr "അഡിസ് അബാബ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:48
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Adelaide"
 msgstr "അഡ്‌ലെയ്ഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:49
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Aden"
 msgstr "ഏഡൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:50
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Algiers"
 msgstr "അൽജിയേഴ്സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:51
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Almaty"
 msgstr "അൽമാറ്റി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:52
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Amman"
 msgstr "അമ്മാൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:53
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Amsterdam"
 msgstr "ആംസ്റ്റർഡാം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:54
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Anadyr"
 msgstr "അനാദിർ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:55
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Anchorage"
 msgstr "ആങ്കറേജ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:56
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Andorra"
 msgstr "അൻഡോറ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:57
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Anguilla"
 msgstr "അംഗുയില"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:58
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Antananarivo"
 msgstr "അന്റാനനാരിവോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:59
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Antigua"
 msgstr "ആന്റിഗ്വ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:60
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Apia"
 msgstr "അപിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:61
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Aqtau"
 msgstr "അക്തൗ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:62
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Aqtobe"
 msgstr "അക്തോബ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:63
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Araguaina"
 msgstr "അരഗുയിന"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:64
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Aruba"
 msgstr "അറുബ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:65
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ashgabat"
 msgstr "അഷ്ഗാബത്ത്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:66
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Asmara"
 msgstr "അസ്മാര"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:67
 #, fuzzy, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Astrakhan"
 msgstr "ഓസ്ട്രേലിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:68
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Asuncion"
 msgstr "അസുൻസിയോൺ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:69
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Athens"
 msgstr "ഏഥൻസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:70
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Atikokan"
 msgstr "അതികോകൻ"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:71
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Atyrau"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:72
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Auckland"
 msgstr "ഓക്ക്ലാൻഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:73
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Azores"
 msgstr "അസോറസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:74
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Baghdad"
 msgstr "ബാഗ്ദാദ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:75
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bahia Banderas"
 msgstr "ബഹിയ ബന്ദേരസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:76
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bahia"
 msgstr "ബഹിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:77
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bahrain"
 msgstr "ബഹ്‌റൈൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:78
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Baku"
 msgstr "ബാക്കു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:79
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bamako"
 msgstr "ബമാകോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:80
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bangkok"
 msgstr "ബാങ്കോക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:81
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bangui"
 msgstr "ബാംഗുയി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:82
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Banjul"
 msgstr "ബഞ്ചുൽ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:83
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Barbados"
 msgstr "ബാർബഡോസ്"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:84
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Barnaul"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:85
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Beirut"
 msgstr "ബെയ്റൂട്ട്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:86
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Belem"
 msgstr "ബെലെം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:87
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Belgrade"
 msgstr "ബെൽഗ്രേഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:88
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Belize"
 msgstr "ബെലീസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:89
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Berlin"
 msgstr "ബെർലിൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:90
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bermuda"
 msgstr "ബെർമുഡ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:91
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Beulah"
 msgstr "ബ്യൂല"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:92
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bishkek"
 msgstr "ബിഷ്കെക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:93
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bissau"
 msgstr "ബിസൗ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:94
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Blanc-Sablon"
 msgstr "ബ്ലാന്‍ക്ക് സാബ്ലോണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:95
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Blantyre"
 msgstr "ബ്ലാന്റയർ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:96
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Boa Vista"
 msgstr "ബോവ വിസ്ഥ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:97
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bogota"
 msgstr "ബൊഗോട്ട"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:98
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Boise"
 msgstr "ബോയ്സ്"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:99
 #, fuzzy, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bougainville"
 msgstr "ലൂയിസ്‌വില്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:100
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bratislava"
 msgstr "ബ്രാട്ടിസ്ലാവാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:101
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Brazzaville"
 msgstr "ബ്രാസവില്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:102
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Brisbane"
 msgstr "ബ്രിസ്ബെന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:103
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Broken Hill"
 msgstr "ബ്രോക്കൺ ഹിൽ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:104
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Brunei"
 msgstr "ബ്രൂണയ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:105
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Brussels"
 msgstr "ബ്രസ്സല്‍സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:106
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bucharest"
 msgstr "ബുച്ചാറെസ്റ്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:107
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Budapest"
 msgstr "ബുഡാപെസ്റ്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:108
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Buenos Aires"
 msgstr "ബ്യൂനസ് അയേര്‍സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:109
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Bujumbura"
 msgstr "ബുജുംബുറ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:110
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Busingen"
 msgstr "ബുസിംഗെൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:111
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cairo"
 msgstr "കെയ്റോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:112
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cambridge Bay"
 msgstr "കേബ്രിഡ്ജ് ബേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:113
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Campo Grande"
 msgstr "കാംപോ ഗ്രാന്ഡെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:114
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Canary"
 msgstr "കാനറി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:115
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cancun"
 msgstr "കാൻകുൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:116
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cape Verde"
 msgstr "കേയ്പ്പ് വെര്‍ദെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:117
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Caracas"
 msgstr "കരാകാസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:118
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Casablanca"
 msgstr "കാസബ്ലാങ്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:119
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Casey"
 msgstr "കേസി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:120
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Catamarca"
 msgstr "കാറ്റമാർക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:121
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cayenne"
 msgstr "കയിന്ന്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:122
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cayman"
 msgstr "കേമാൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:123
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Center"
 msgstr "സെന്റർ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:124
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ceuta"
 msgstr "സ്യൂട്ട"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:125
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Chagos"
 msgstr "ചാഗോസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:126
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Chatham"
 msgstr "ചാത്താം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:127
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Chicago"
 msgstr "ഷിക്കാഗോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:128
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Chihuahua"
 msgstr "ചിഹ്വാഹ്വാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:129
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Chisinau"
 msgstr "ചിസിനൗ"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:130
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Chita"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:131
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Choibalsan"
 msgstr "ചോയിബൽസൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:132
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Chongqing"
 msgstr "ചോങ്ക്വിന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:133
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Christmas"
 msgstr "ക്രിസ്മസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:134
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Chuuk"
 msgstr "ചുക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:135
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cocos"
 msgstr "കൊക്കോസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:136
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Colombo"
 msgstr "കൊളംബൊ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:137
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Comoro"
 msgstr "കൊമോറോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:138
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Conakry"
 msgstr "കൊണാക്രി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:139
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Copenhagen"
 msgstr "കോപ്പന്‍ഹാഗന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:140
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cordoba"
 msgstr "കോർഡോബ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:141
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Costa Rica"
 msgstr "കോസ്റ്റ റിക്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:142
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Creston"
 msgstr "ക്രെസ്റ്റണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:143
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Cuiaba"
 msgstr "കുയാബ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:144
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Curacao"
 msgstr "കുറാക്കാവോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:145
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Currie"
 msgstr "ക്യൂറി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:146
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dakar"
 msgstr "ഡാക്കാര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:147
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Damascus"
 msgstr "ഡമാസ്ക്കസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:148
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Danmarkshavn"
 msgstr "ഡാന്‍മാര്‍ക്ക്ഷോന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:149
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dar es Salaam"
 msgstr "ഡാര്‍ എസ് സാലം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:150
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Darwin"
 msgstr "ഡാര്‍വിന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:151
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Davis"
 msgstr "ഡേവിസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:152
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dawson Creek"
 msgstr "ഡോസൺ ക്രീക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:153
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dawson"
 msgstr "ഡൌസണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:154
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Denver"
 msgstr "ഡെന്‍വര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:155
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Detroit"
 msgstr "ഡെട്രോയിറ്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:156
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dhaka"
 msgstr "ഡാക്കാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:157
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dili"
 msgstr "ഡിലി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:158
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Djibouti"
 msgstr "ജിബൌട്ടി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:159
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dominica"
 msgstr "ഡോമിനിക്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:160
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Douala"
 msgstr "ദൗവാല"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:161
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dubai"
 msgstr "ഡുബായ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:162
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dublin"
 msgstr "ഡബ്ലിന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:163
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dumont d’Urville"
 msgstr "ഡുമോണ്ട് ഡി ഉർവില്ലെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:164
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Dushanbe"
 msgstr "ഡുഷാന്‍ബേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:165
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Easter"
 msgstr "ഈസ്റ്റർ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:166
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Edmonton"
 msgstr "എഡ്മണ്‍ട്ടണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:167
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Efate"
 msgstr "എഫേറ്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:168
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Eirunepe"
 msgstr "എരുനെപ്പെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:169
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "El Aaiun"
 msgstr "എൽ അയ്യൂൺ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:170
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "El Salvador"
 msgstr "എല്‍ സാല്‍വഡോര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:171
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Enderbury"
 msgstr "എൻഡർബറി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:172
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Eucla"
 msgstr "യൂക്ല"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:173
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Fakaofo"
 msgstr "ഫകാഫോ"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:174
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Famagusta"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:175
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Faroe"
 msgstr "ഫറോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:176
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Fiji"
 msgstr "ഫിജി"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:177
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Fort Nelson"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:178
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Fortaleza"
 msgstr "ഫോര്‍ട്ടാലീസാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:179
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Freetown"
 msgstr "ഫ്രീടൌണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:180
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Funafuti"
 msgstr "ഫുനാഫുത്തി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:181
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Gaborone"
 msgstr "ഗബോറോണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:182
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Galapagos"
 msgstr "ഗാലപാഗോസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:183
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Gambier"
 msgstr "ഗാംബിയർ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:184
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Gaza"
 msgstr "ഗാസ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:185
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Gibraltar"
 msgstr "ജിബ്രാള്‍ട്ടര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:186
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Glace Bay"
 msgstr "ഗ്ലേസ് ബേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:187
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Godthab"
 msgstr "ഗോഡ്താബ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:188
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Goose Bay"
 msgstr "ഗൂസ് ബേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:189
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Grand Turk"
 msgstr "ഗ്രാൻഡ് ടർക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:190
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Grenada"
 msgstr "ഗ്രനഡ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:191
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Guadalcanal"
 msgstr "ഗ്വാഡാൽക്കനാൽ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:192
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Guadeloupe"
 msgstr "ഗ്വാഡലോപ്പ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:193
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Guam"
 msgstr "ഗുവാം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:194
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Guatemala"
 msgstr "ഗ്വാട്ടിമാല"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:195
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Guayaquil"
 msgstr "ഗ്വായക്വില്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:196
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Guernsey"
 msgstr "ഗേര്‍ണ്സീ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:197
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Guyana"
 msgstr "ഗയാനാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:198
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Halifax"
 msgstr "ഹാലിഫാക്സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:199
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Harare"
 msgstr "ഹരാരെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:200
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Harbin"
 msgstr "ഹാര്‍ബിന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:201
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Havana"
 msgstr "ഹവാന"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:202
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Hebron"
 msgstr "ഹെബ്രോണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:203
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Helsinki"
 msgstr "ഹെല്‍സിങ്കി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:204
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Hermosillo"
 msgstr "ഹെര്‍മോസിലോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:205
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ho Chi Minh"
 msgstr "ഹോ ചി മിൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:206
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Hobart"
 msgstr "ഹോബാര്‍ട്ട്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:207
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Hong Kong"
 msgstr "ഹോങ് കോങ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:208
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Honolulu"
 msgstr "ഹോണോലുലു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:209
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Hovd"
 msgstr "ഹോവ്ഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:210
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Indianapolis"
 msgstr "ഇന്ത്യനാപോളിസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:211
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Inuvik"
 msgstr "ഇനുവിക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:212
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Iqaluit"
 msgstr "ഇക്ക്വലുയിറ്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:213
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Irkutsk"
 msgstr "ഇര്‍ക്കുട്ടസ്ക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:214
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Isle of Man"
 msgstr "ഐല്‍ ഓഫ് മാന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:215
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Istanbul"
 msgstr "ഇസ്ത്താന്‍ബുല്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:216
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Jakarta"
 msgstr "ജകാര്‍ത്ത"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:217
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Jamaica"
 msgstr "ജമൈക്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:218
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Jayapura"
 msgstr "ജയപുര"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:219
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Jersey"
 msgstr "ജേര്‍സി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:220
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Jerusalem"
 msgstr "ജറുസലേം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:221
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Johannesburg"
 msgstr "ജോഹന്നസ്ബര്‍ഗ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:222
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Johnston"
 msgstr "ജോൺസ്റ്റൺ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:223
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Juba"
 msgstr "ജുബ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:224
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Jujuy"
 msgstr "ജുജുയി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:225
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Juneau"
 msgstr "ജുനിയൂ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:226
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kabul"
 msgstr "കാബൂള്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:227
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kaliningrad"
 msgstr "കാലിനിന്‍ഗ്രാഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:228
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kamchatka"
 msgstr "കംചത്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:229
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kampala"
 msgstr "കാമ്പാല"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:230
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Karachi"
 msgstr "കറാച്ചി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:231
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kashgar"
 msgstr "കഷ്ഗർ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:232
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kathmandu"
 msgstr "കാഥ്മാന്‍ഡൂ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:233
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kerguelen"
 msgstr "കെർഗുലൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:234
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Khandyga"
 msgstr "ഖണ്ടിഗ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:235
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Khartoum"
 msgstr "കാര്‍ത്തൌം"
 
-#. +> trunk5 stable5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:236
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
@@ -1937,1757 +1912,1757 @@ msgctxt "This is a city associated with particular time zone"
 msgid "Kiev"
 msgstr "കീവ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:237
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kigali"
 msgstr "കിഗാലി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:238
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kinshasa"
 msgstr "കിന്‍ഷാസ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:239
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kiritimati"
 msgstr "കിരിതിമതി"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:240
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kirov"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:241
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Knox"
 msgstr "നോക്സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:242
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kolkata"
 msgstr "കൊല്‍ക്കത്ത"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:243
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kosrae"
 msgstr "കോസ്രെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:244
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kralendijk"
 msgstr "ക്രാലെൻഡിജ്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:245
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Krasnoyarsk"
 msgstr "ക്രാസ്നോയാര്‍സ്ക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:246
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kuala Lumpur"
 msgstr "ക്വാല ലമ്പൂര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:247
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kuching"
 msgstr "കച്ചിങ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:248
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kuwait"
 msgstr "കുവൈത്ത്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:249
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Kwajalein"
 msgstr "ക്വാജാലിൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:250
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "La Paz"
 msgstr "ലാ പാസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:251
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "La Rioja"
 msgstr "ലാ റിയോജ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:252
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lagos"
 msgstr "ലാഗോസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:253
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Libreville"
 msgstr "ലൈബര്‍വില്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:254
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lima"
 msgstr "ലിമാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:255
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lindeman"
 msgstr "ലിൻഡെമാൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:256
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lisbon"
 msgstr "ലിസ്ബണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:257
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ljubljana"
 msgstr "ജുബ്ജാനാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:258
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lome"
 msgstr "ലോം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:259
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "London"
 msgstr "ലണ്ടന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:260
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Longyearbyen"
 msgstr "ലോങ്യര്‍ബ്യെന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:261
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lord Howe"
 msgstr "ലോർഡ് ഹോവ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:262
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Los Angeles"
 msgstr "ലോസ് ഏഞ്ചലസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:263
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Louisville"
 msgstr "ലൂയിസ്‌വില്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:264
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lower Princes"
 msgstr "ലോവർ പ്രിൻസസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:265
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Luanda"
 msgstr "ലുവാണ്ട"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:266
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lubumbashi"
 msgstr "ലുബുംബാഷി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:267
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Lusaka"
 msgstr "ലുസാക്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:268
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Luxembourg"
 msgstr "ലക്സംബര്‍ഗ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:269
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Macau"
 msgstr "മക്കാവു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:270
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Maceio"
 msgstr "മാസിയോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:271
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Macquarie"
 msgstr "മക്വാരി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:272
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Madeira"
 msgstr "മാഡേരാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:273
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Madrid"
 msgstr "മാഡ്രിഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:274
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Magadan"
 msgstr "മാഗാഡാന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:275
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mahe"
 msgstr "മാഹി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:276
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Majuro"
 msgstr "മജൂറോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:277
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Makassar"
 msgstr "മകാസാര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:278
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Malabo"
 msgstr "മലാബോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:279
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Maldives"
 msgstr "മാല്‍ഡീവ്സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:280
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Malta"
 msgstr "മാള്‍ട്ട"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:281
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Managua"
 msgstr "മനാഗ്വ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:282
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Manaus"
 msgstr "മനൌസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:283
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Manila"
 msgstr "മാനിലാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:284
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Maputo"
 msgstr "മപൂറ്റൊ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:285
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Marengo"
 msgstr "മാരെൻഗോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:286
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mariehamn"
 msgstr "മാരീഹാം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:287
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Marigot"
 msgstr "മാരിഗോട്ട്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:288
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Marquesas"
 msgstr "മാർക്വേസസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:289
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Martinique"
 msgstr "മാര്‍ട്ടീനീ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:290
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Maseru"
 msgstr "മസെരു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:291
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Matamoros"
 msgstr "മാറ്റാമോറോസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:292
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mauritius"
 msgstr "മൌരീഷ്യസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:293
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mawson"
 msgstr "മാവ്സൺ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:294
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mayotte"
 msgstr "മായൊറ്റെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:295
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mazatlan"
 msgstr "മസാത്‍ലാൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:296
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mbabane"
 msgstr "മബാനെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:297
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "McMurdo"
 msgstr "മക്മർഡോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:298
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Melbourne"
 msgstr "മെല്‍ബണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:299
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mendoza"
 msgstr "മേന്‍ഡോസാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:300
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Menominee"
 msgstr "മേനോമിനി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:301
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Merida"
 msgstr "മെറിഡ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:302
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Metlakatla"
 msgstr "മേറ്റ്ളാകട്ട്ള"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:303
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mexico City"
 msgstr "മെക്സിക്കോ സിറ്റി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:304
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Midway"
 msgstr "മിഡ്‍വേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:305
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Minsk"
 msgstr "മിന്‍സ്ക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:306
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Miquelon"
 msgstr "മൈക്വലോൺ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:307
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Mogadishu"
 msgstr "മൊഗാദിഷു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:308
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Monaco"
 msgstr "മൊണാക്കോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:309
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Moncton"
 msgstr "മോണ്‍ക്ക്ട്ടണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:310
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Monrovia"
 msgstr "മൺറോവിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:311
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Monterrey"
 msgstr "മോണ്‍ട്ടേരേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:312
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Montevideo"
 msgstr "മോണ്ടിവീഡീയോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:313
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Monticello"
 msgstr "മോണ്ടിസെല്ലോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:314
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Montserrat"
 msgstr "മോണ്ടിസരേറ്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:315
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Moscow"
 msgstr "മോസ്ക്കോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:316
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Muscat"
 msgstr "മസ്കറ്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:317
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Nairobi"
 msgstr "നയ്റോബീ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:318
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Nassau"
 msgstr "നാസ്സൌ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:319
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Nauru"
 msgstr "നൌറൂ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:320
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ndjamena"
 msgstr "ൻഡ്ജാമെന"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:321
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "New Salem"
 msgstr "ന്യൂ സേലം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:322
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "New York"
 msgstr "ന്യൂ യോര്‍ക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:323
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Niamey"
 msgstr "നിയാമേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:324
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Nicosia"
 msgstr "നിക്കോസിയാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:325
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Nipigon"
 msgstr "നിപിഗോൺ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:326
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Niue"
 msgstr "നിയു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:327
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Nome"
 msgstr "നോം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:328
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Norfolk"
 msgstr "നോര്‍ഫോക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:329
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Noronha"
 msgstr "നൊറോൺഹ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:330
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Nouakchott"
 msgstr "നൌവാക്ക്ച്ചോട്ട്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:331
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Noumea"
 msgstr "നൗമിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:332
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Novokuznetsk"
 msgstr "നോവുക്കുസ്നെറ്റ്സ്ക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:333
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Novosibirsk"
 msgstr "നോവുര്‍സിബിസ്ക്ക്"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:334
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Nuuk"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:335
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ojinaga"
 msgstr "ഒജിനാഗ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:336
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Omsk"
 msgstr "ഓമ്സ്ക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:337
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Oral"
 msgstr "ഓറാല്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:338
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Oslo"
 msgstr "ഓസ്ലോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:339
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ouagadougou"
 msgstr "ഔഗാഡൌഗൌ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:340
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Pago Pago"
 msgstr "പാഗോ പാഗോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:341
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Palau"
 msgstr "പലാവു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:342
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Palmer"
 msgstr "പാമര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:343
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Panama"
 msgstr "പനാമ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:344
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Pangnirtung"
 msgstr "പാങ്ക്നിര്‍ട്ടങ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:345
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Paramaribo"
 msgstr "പരമാരിബോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:346
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Paris"
 msgstr "പാരീസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:347
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Perth"
 msgstr "പേര്‍ത്ത്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:348
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Petersburg"
 msgstr "പീറ്റേര്‍സ്ബര്‍ഗ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:349
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Phnom Penh"
 msgstr "ഫ്നോം-പെന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:350
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Phoenix"
 msgstr "ഫീനിക്സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:351
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Pitcairn"
 msgstr "പിറ്റ്കേര്‍ണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:352
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Podgorica"
 msgstr "പോഡ്ഗോറിക്കോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:353
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Pohnpei"
 msgstr "പോൺപേയ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:354
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Pontianak"
 msgstr "പോണ്ടിയാനക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:355
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Port-au-Prince"
 msgstr "പോര്‍ട്ട്-ഓ-പ്രിന്‍സ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:356
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Port Moresby"
 msgstr "പോര്‍ട്ട് മോര്‍സ്ബി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:357
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Port of Spain"
 msgstr "പോർട്ട് ഓഫ് സ്പെയിൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:358
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Porto-Novo"
 msgstr "പോര്‍ട്ടോ-നോവൊ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:359
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Porto Velho"
 msgstr "പോർട്ടോ വെൽഹോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:360
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Prague"
 msgstr "പ്രേഗ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:361
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Puerto Rico"
 msgstr "പ്യൂര്‍ട്ടോ റിക്കോ"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:362
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Punta Arenas"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:363
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Pyongyang"
 msgstr "പ്യോംഗ്യാംഗ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:364
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Qatar"
 msgstr "ഖത്തര്‍"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:365
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Qostanay"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:366
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Qyzylorda"
 msgstr "ക്സില്‍-ഓര്‍ഡാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:367
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Rainy River"
 msgstr "റെയ്നി റിവർ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:368
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Rangoon"
 msgstr "റംഗൂണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:369
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Rankin Inlet"
 msgstr "റാങ്കിന്‍ ഇന്‍ലറ്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:370
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Rarotonga"
 msgstr "രരോടോംഗ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:371
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Recife"
 msgstr "റേസീഫ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:372
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Regina"
 msgstr "റെജീനാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:373
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Resolute"
 msgstr "റിസോല്യൂട്ട്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:374
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Reunion"
 msgstr "റീയൂണിയൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:375
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Reykjavik"
 msgstr "റെയ്ജാവിക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:376
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Riga"
 msgstr "റിഗ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:377
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Rio Branco"
 msgstr "റിയോ ബ്രാങ്കോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:378
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Rio Gallegos"
 msgstr "റിയോ ഗാലെഗോസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:379
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Riyadh"
 msgstr "റിയാദ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:380
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Rome"
 msgstr "റോം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:381
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Rothera"
 msgstr "റോത്തേര"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:382
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Saipan"
 msgstr "സായിപാൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:383
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Sakhalin"
 msgstr "സഖാലിൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:384
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Salta"
 msgstr "സോള്‍ട്ടാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:385
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Samara"
 msgstr "സാമാറാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:386
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Samarkand"
 msgstr "സമർഖണ്ഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:387
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "San Juan"
 msgstr "സാന്‍ ജുവാന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:388
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "San Luis"
 msgstr "സാൻ ലൂയിസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:389
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "San Marino"
 msgstr "സാന്‍ മരീനൊ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:390
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Santa Isabel"
 msgstr "സാന്താ ഇസബെൽ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:391
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Santarem"
 msgstr "സാന്താരെം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:392
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Santiago"
 msgstr "സാന്റിയാഗോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:393
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Santo Domingo"
 msgstr "സാന്റൊ ഡോമിങ്കോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:394
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Sao Paulo"
 msgstr "സാവോ പോളോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:395
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Sao Tome"
 msgstr "സാവോ ടോം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:396
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Sarajevo"
 msgstr "സാരാജേവോ"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:397
 #, fuzzy, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Saratov"
 msgstr "സാരാജേവോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:398
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Scoresbysund"
 msgstr "സ്കോർസ്ബിസണ്ട്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:399
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Seoul"
 msgstr "സിയോള്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:400
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Shanghai"
 msgstr "ഷാങ്ഹായ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:401
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Simferopol"
 msgstr "സിംഫെറോപോൾ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:402
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Singapore"
 msgstr "സിംഗപ്പൂര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:403
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Sitka"
 msgstr "സിക്റ്റാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:404
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Skopje"
 msgstr "സ്കോപ്ജെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:405
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Sofia"
 msgstr "സോഫീയാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:406
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "South Georgia"
 msgstr "സൗത്ത് ജോർജിയ"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:407
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Srednekolymsk"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:408
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "St Barthelemy"
 msgstr "സെന്റ് ബാർത്തലെമി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:409
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "St Helena"
 msgstr "സെന്റ് ഹെലീന"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:410
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "St Johns"
 msgstr "സെന്റ് ജോൺസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:411
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "St Kitts"
 msgstr "സെന്റ് കിറ്റ്സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:412
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "St Lucia"
 msgstr "സെന്റ് ലൂസിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:413
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "St Thomas"
 msgstr "സെന്റ് തോമാസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:414
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "St Vincent"
 msgstr "സെന്റ് വിൻസെന്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:415
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Stanley"
 msgstr "സ്റ്റാന്‍ലി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:416
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Stockholm"
 msgstr "സ്റ്റോക്കോം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:417
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Swift Current"
 msgstr "സ്വിഫ്റ്റ് കറണ്‍ട്ട്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:418
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Sydney"
 msgstr "സിഡ്നി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:419
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Syowa"
 msgstr "സയോവ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:420
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tahiti"
 msgstr "തഹിതി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:421
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Taipei"
 msgstr "തായ്‌പേയ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:422
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tallinn"
 msgstr "താള്ളിന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:423
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tarawa"
 msgstr "തറാവ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:424
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tashkent"
 msgstr "റ്റാഷ്ക്കെന്റ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:425
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tbilisi"
 msgstr "റ്റ്ബിലിസി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:426
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tegucigalpa"
 msgstr "റ്റെഗുസിഗല്‍പാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:427
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tehran"
 msgstr "ടെഹ്രാന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:428
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tell City"
 msgstr "ടെൽ സിറ്റി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:429
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Thimphu"
 msgstr "തിംഫു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:430
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Thule"
 msgstr "തുലെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:431
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Thunder Bay"
 msgstr "തണ്ടര്‍ ബേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:432
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tijuana"
 msgstr "തിജ്വാനാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:433
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tirane"
 msgstr "ടിറാനെ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:434
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tokyo"
 msgstr "ടോക്യോ"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:435
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tomsk"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:436
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tongatapu"
 msgstr "ടോങ്കാറ്റാപു"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:437
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Toronto"
 msgstr "ടോറോണ്‍ട്ടോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:438
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tortola"
 msgstr "ടോർട്ടോള"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:439
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tripoli"
 msgstr "ട്രീപോളി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:440
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Troll"
 msgstr "ട്രോൾ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:441
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tucuman"
 msgstr "ടുക്കുമാൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:442
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Tunis"
 msgstr "ട്യൂണിസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:443
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ulaanbaatar"
 msgstr "യുലാന്‍ബാത്തോര്‍"
 
-#. +> trunk5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:444
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ulyanovsk"
 msgstr ""
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:445
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Urumqi"
 msgstr "ഉറുംകി"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:446
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ushuaia"
 msgstr "യുഷായിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:447
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Ust-Nera"
 msgstr "ഉസ്ത്-നെറ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:448
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+00:00"
 msgstr "UTC+00:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:449
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+01:00"
 msgstr "UTC+01:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:450
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+02:00"
 msgstr "UTC+02:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:451
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+03:00"
 msgstr "UTC+03:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:452
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+03:30"
 msgstr "UTC+03:30"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:453
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+04:00"
 msgstr "UTC+04:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:454
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+04:30"
 msgstr "UTC+04:30"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:455
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+05:00"
 msgstr "UTC+05:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:456
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+05:30"
 msgstr "UTC+05:30"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:457
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+05:45"
 msgstr "UTC+05:45"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:458
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+06:00"
 msgstr "UTC+06:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:459
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+06:30"
 msgstr "UTC+06:30"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:460
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+07:00"
 msgstr "UTC+07:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:461
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+08:00"
 msgstr "UTC+08:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:462
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+09:00"
 msgstr "UTC+09:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:463
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+09:30"
 msgstr "UTC+09:30"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:464
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+10:00"
 msgstr "UTC+10:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:465
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+11:00"
 msgstr "UTC+11:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:466
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+12:00"
 msgstr "UTC+12:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:467
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+13:00"
 msgstr "UTC+13:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:468
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC+14:00"
 msgstr "UTC+14:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:469
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-00:00"
 msgstr "UTC-00:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:470
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-01:00"
 msgstr "UTC-01:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:471
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-02:00"
 msgstr "UTC-02:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:472
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-03:00"
 msgstr "UTC-03:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:473
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-03:30"
 msgstr "UTC-03:30"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:474
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-04:00"
 msgstr "UTC-04:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:475
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-04:30"
 msgstr "UTC-04:30"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:476
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-05:00"
 msgstr "UTC-05:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:477
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-06:00"
 msgstr "UTC-06:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:478
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-07:00"
 msgstr "UTC-07:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:479
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-08:00"
 msgstr "UTC-08:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:480
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-09:00"
 msgstr "UTC-09:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:481
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-10:00"
 msgstr "UTC-10:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:482
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-11:00"
 msgstr "UTC-11:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:483
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-12:00"
 msgstr "UTC-12:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:484
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-13:00"
 msgstr "UTC-13:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:485
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC-14:00"
 msgstr "UTC-14:00"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:486
 #, kde-format
 msgctxt "This is a generic time zone name, localize as needed"
 msgid "UTC"
 msgstr "UTC"
 
-#. +> trunk5 stable5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:487
 #, fuzzy, kde-format
 msgctxt "This is a city associated with particular time zone"
@@ -3701,182 +3676,182 @@ msgctxt "This is a city associated with particular time zone"
 msgid "Uzhgorod"
 msgstr "ഉസ്ഗൊറോഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:488
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vaduz"
 msgstr "വാഡസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:489
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vancouver"
 msgstr "വാന്‍കൂവര്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:490
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vatican"
 msgstr "വത്തിക്കാൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:491
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vevay"
 msgstr "വേവേ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:492
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vienna"
 msgstr "വിയെന്നാ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:493
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vientiane"
 msgstr "വിയെന്റൈന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:494
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vilnius"
 msgstr "വില്‍ന്യസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:495
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vincennes"
 msgstr "വിൻസെൻസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:496
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vladivostok"
 msgstr "വ്ളാഡിവോസ്റ്റോക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:497
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Volgograd"
 msgstr "വോള്‍ഗോഗ്രാഡ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:498
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Vostok"
 msgstr "വോസ്റ്റോക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:499
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Wake"
 msgstr "വേക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:500
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Wallis"
 msgstr "വാലിസ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:501
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Warsaw"
 msgstr "വാര്‍സോ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:502
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Whitehorse"
 msgstr "വൈറ്റ്ഹോഴ്സ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:503
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Winamac"
 msgstr "വിനാമാക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:504
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Windhoek"
 msgstr "വിന്റ്ഹൊയെക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:505
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Winnipeg"
 msgstr "വിന്നിപെഗ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:506
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Yakutat"
 msgstr "യാക്കുത്താക്ക്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:507
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Yakutsk"
 msgstr "യാക്കുറ്റ്സ്ക്ക്"
 
-#. +> trunk5 stable5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:508
 #, fuzzy, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Yangon"
 msgstr "റംഗൂണ്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:509
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Yekaterinburg"
 msgstr "എക്കാറ്ററീന്‍ ബര്‍ഗ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:510
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Yellowknife"
 msgstr "യെല്ലോ നൈഫ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:511
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Yerevan"
 msgstr "യെരേവാന്‍"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:512
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Zagreb"
 msgstr "സാഗ്രെബ്"
 
-#. +> trunk5 stable5
+#. +> stable5
 #: plugin/timezonesi18n.cpp:513
 #, fuzzy, kde-format
 msgctxt "This is a city associated with particular time zone"
@@ -3890,72 +3865,81 @@ msgctxt "This is a city associated with particular time zone"
 msgid "Zaporozhye"
 msgstr "സപ്പോരിഷിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:514
 #, kde-format
 msgctxt "This is a city associated with particular time zone"
 msgid "Zurich"
 msgstr "സൂറിച്ച്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:775
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "Africa"
 msgstr "ആഫ്രിക്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:776
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "America"
 msgstr "അമേരിക്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:777
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "Antarctica"
 msgstr "അന്റാര്‍ട്ടിക്ക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:778
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "Asia"
 msgstr "ഏഷ്യ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:779
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "Atlantic"
 msgstr "അറ്റ്‌ലാന്റിക്ക് സമുദ്രം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:780
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "Australia"
 msgstr "ഓസ്ട്രേലിയ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:781
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "Europe"
 msgstr "യൂറോപ്പ്"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:782
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "Indian"
 msgstr "ഇന്ത്യൻ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> stable5 plasma5lts
 #: plugin/timezonesi18n.cpp:783
 #, kde-format
 msgctxt "This is a continent/area associated with a particular timezone"
 msgid "Pacific"
 msgstr "പസഫിക്"
+
+#~ msgid "Switch..."
+#~ msgstr "മാറുക..."
+
+#~ msgid "Switch Local Time Zone..."
+#~ msgstr "പ്രാദേശിക സമയ മേഖല മാറ്റുക..."
+
+#~ msgid "Add Time Zones..."
+#~ msgstr "സമയ മേഖലകൾ കൂട്ടിച്ചേര്‍ക്കുക..."

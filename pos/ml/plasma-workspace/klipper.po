@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: KDE Malayalam Translation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-17 12:59+0000\n"
 "Last-Translator: anuraghkp <kpanuragh@gmail.com>\n"
 "Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
@@ -373,14 +373,14 @@ msgstr "ഓര്‍മ്മച്ചെപ്പ് പ്രവൃത്ത�
 msgid "C&lear Clipboard History"
 msgstr "ഓര്‍മ്മച്ചെപ്പ് ചരിത്രം കളയുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: klipper.cpp:147
 #, fuzzy, kde-format
 msgid "&Configure Klipper…"
 msgstr "ക്ലിപ്പര്‍ സജ്ജീകരിക്കുക"
 
-#. +> stable5 plasma5lts
-#: klipper.cpp:160
+#. +> plasma5lts
+#: klipper.cpp:161
 #, kde-format
 msgid "&Configure Klipper..."
 msgstr "ക്ലിപ്പര്‍ സജ്ജീകരിക്കുക"
@@ -398,26 +398,26 @@ msgstr "പുറത്ത് കടക്കുക"
 msgid "Manually Invoke Action on Current Clipboard"
 msgstr "ഇപ്പോഴത്തെ ഓര്‍മ്മച്ചെപ്പില്‍ പ്രവൃത്തി തുടങ്ങുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: klipper.cpp:165
 #, fuzzy, kde-format
 msgid "&Edit Contents…"
 msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്തുക"
 
-#. +> stable5 plasma5lts
-#: klipper.cpp:178
+#. +> plasma5lts
+#: klipper.cpp:177
 #, kde-format
 msgid "&Edit Contents..."
 msgstr "ഉള്ളടക്കം ചിട്ടപ്പെടുത്തുക ..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: klipper.cpp:173
 #, kde-format
 msgid "&Show Barcode…"
 msgstr "ബാർകോഡ് കാണിക്കുക… (&S)"
 
-#. +> stable5 plasma5lts
-#: klipper.cpp:186
+#. +> plasma5lts
+#: klipper.cpp:188
 #, kde-format
 msgid "&Show Barcode..."
 msgstr "ബാർകോഡ് കാണിക്കുക... (&S)"
@@ -730,14 +730,14 @@ msgstr "<ചേര്‍ച്ചയില്ല>"
 msgid "Klipper - Clipboard Tool"
 msgstr "ക്ലിപ്പര്‍ - ക്ലിപ്പ്ബോര്‍ഡ് ഉപാധി"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: klipperpopup.cpp:116
 #, fuzzy, kde-format
 msgid "Search…"
 msgstr "തിരയുക..."
 
-#. +> stable5 plasma5lts
-#: klipperpopup.cpp:129
+#. +> plasma5lts
+#: klipperpopup.cpp:122
 #, kde-format
 msgid "Search..."
 msgstr "തിരയുക..."

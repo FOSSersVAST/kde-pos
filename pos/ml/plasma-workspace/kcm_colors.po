@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmcolors\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-27 10:11+0200\n"
+"POT-Creation-Date: 2021-09-25 14:30+0200\n"
 "PO-Revision-Date: 2021-08-27 12:19+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -40,43 +40,43 @@ msgid "Colors"
 msgstr "നിറങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: colors.cpp:67
+#: colors.cpp:65
 #, kde-format
 msgid "Kai Uwe Broulik"
 msgstr "Kai Uwe Broulik"
 
 #. +> trunk5 stable5 plasma5lts
-#: colors.cpp:202
+#: colors.cpp:190
 #, kde-format
 msgid "Unable to create a temporary file."
 msgstr "ഒരു താൽക്കാലിക ഫയൽ നിർമ്മിക്കാനായില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: colors.cpp:215
+#: colors.cpp:203
 #, kde-format
 msgid "Unable to download the color scheme: %1"
 msgstr "നിറക്കൂട്ടു് ഡൗണ്‍ലോഡാൻ കഴിഞില്ല: %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: colors.cpp:233
+#: colors.cpp:221
 #, kde-format
 msgid "This file is not a color scheme file."
 msgstr "ഈ ഫയൽ ഒരു നിറക്കൂട്ടു് ഫയലല്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: colors.cpp:252
+#: colors.cpp:240
 #, kde-format
 msgid "Failed to create 'color-scheme' data folder."
 msgstr "'color-scheme' ഡാറ്റ അറ സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു."
 
 #. +> trunk5 stable5 plasma5lts
-#: colors.cpp:259
+#: colors.cpp:247
 #, kde-format
 msgid "Failed to copy color scheme into 'color-scheme' data folder."
 msgstr "നിറക്കൂട്ടു് 'color-scheme' ഡാറ്റ ഫോൾഡറിലേക്ക് പകർത്തുന്നതിൽ പരാജയപ്പെട്ടു."
 
 #. +> trunk5 stable5 plasma5lts
-#: colors.cpp:276
+#: colors.cpp:264
 #, kde-format
 msgid "Color scheme installed successfully."
 msgstr "നിറക്കൂട്ടു് വിജയകരമായി ഇൻസ്റ്റാൾ ചെയ്തു."
@@ -89,7 +89,7 @@ msgid "Color scheme name"
 msgstr "നിറക്കൂട്ടിന്റെ പേര്"
 
 #. i18n: ectx: label, entry (accentColor), group (General)
-#. +> trunk5
+#. +> trunk5 stable5
 #: colorssettings.kcfg:13
 #, kde-format
 msgid "Accent color"
@@ -744,43 +744,43 @@ msgid "Disabled"
 msgstr "പ്രവര്‍ത്തനരഹിതം"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:88
+#: editor/scmeditordialog.cpp:89
 #, kde-format
 msgid "This colour scheme was not saved. Continue?"
 msgstr "ഈ നിറക്കൂട്ടു് സംരക്ഷിച്ചിട്ടില്ല. തുടരണോ?"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:88
+#: editor/scmeditordialog.cpp:89
 #, kde-format
 msgid "Do you really want to upload?"
 msgstr "നിങ്ങൾക്ക് ശരിക്കും അപ്‍ലോഡ് ചെയ്യണോ?"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:114
+#: editor/scmeditordialog.cpp:115
 #, kde-format
 msgid "You have unsaved changes. Do you really want to quit?"
 msgstr "നിങ്ങൾക്ക് സംരക്ഷിക്കാത്ത മാറ്റങ്ങളുണ്ട്. നിങ്ങൾക്ക് ശരിക്കും പുറത്തുകടക്കണോ?"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:114
+#: editor/scmeditordialog.cpp:115
 #, kde-format
 msgid "Unsaved changes"
 msgstr "സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:132 editor/scmeditordialog.cpp:157
+#: editor/scmeditordialog.cpp:133 editor/scmeditordialog.cpp:158
 #, kde-format
 msgid "Save Color Scheme"
 msgstr "നിറക്കൂട്ടു് സൂക്ഷിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:132
+#: editor/scmeditordialog.cpp:133
 #, kde-format
 msgid "&Enter a name for the color scheme:"
 msgstr "നിറങ്ങളുടെ കൂട്ടിനു് ഒരു പേരു് നല്‍കുക (&E):"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:156
+#: editor/scmeditordialog.cpp:157
 #, kde-format
 msgid ""
 "A color scheme with that name already exists.\n"
@@ -790,19 +790,19 @@ msgstr ""
 "നിങ്ങള്‍ക്കു് അതു് മാറ്റണമോ?"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:193
+#: editor/scmeditordialog.cpp:194
 #, kde-format
 msgid "You do not have permission to overwrite that scheme"
 msgstr "നിങ്ങള്‍ക്കു് ഈ നിറക്കൂട്ടു് മാറ്റി സൂക്ഷിക്കുന്നതിനുള്ള അനുവാദമില്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:193
+#: editor/scmeditordialog.cpp:194
 #, kde-format
 msgid "Error"
 msgstr "പിശകു്"
 
 #. +> trunk5 stable5 plasma5lts
-#: editor/scmeditordialog.cpp:208
+#: editor/scmeditordialog.cpp:209
 #, kde-format
 msgid "Inactive"
 msgstr "നിര്‍ജ്ജീവം"
@@ -1341,130 +1341,136 @@ msgstr "ലൈറ്റ് സ്കീമുകൾ"
 msgid "Dark Schemes"
 msgstr "ഇരുണ്ട സ്കീമുകൾ"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:143
 #, kde-format
 msgid "Use accent color:"
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:144
 #, fuzzy, kde-format
 msgid "From current color scheme"
 msgstr " * %1 (നിലവിലെ കളർ സ്കീം)"
 
-#. +> trunk5
-#: package/contents/ui/main.qml:158
+#. +> trunk5 stable5
+#: package/contents/ui/main.qml:232
 #, kde-format
 msgid "Custom:"
 msgstr ""
 
+#. +> trunk5
+#: package/contents/ui/main.qml:239
+#, kde-format
+msgid "Choose custom accent color"
+msgstr ""
+
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:272
+#: package/contents/ui/main.qml:324
 #, kde-format
 msgid "Window Title"
 msgstr "വിൻഡോ ശീർഷകം"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:294
+#: package/contents/ui/main.qml:346
 #, kde-format
 msgid "Window text"
 msgstr "ജാലകത്തിനുള്ള പദാവലി"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:301
+#: package/contents/ui/main.qml:353
 #, kde-format
 msgid "Button"
 msgstr "ബട്ടണ്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:335
+#: package/contents/ui/main.qml:387
 #, kde-format
 msgctxt "Hyperlink"
 msgid "link"
 msgstr "കണ്ണി"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:337
+#: package/contents/ui/main.qml:389
 #, kde-format
 msgctxt "Visited hyperlink"
 msgid "visited"
 msgstr "സന്ദര്‍ശിച്ചതു്"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:344
+#: package/contents/ui/main.qml:396
 #, kde-format
 msgid "Normal text"
 msgstr "സാധാരണ പദാവലി"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:352
+#: package/contents/ui/main.qml:404
 #, kde-format
 msgid "Highlighted text"
 msgstr "സന്ദര്‍ശിച്ച പദാവലി"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:359
+#: package/contents/ui/main.qml:411
 #, kde-format
 msgid "Disabled text"
 msgstr "അപ്രാപ്തമാക്കിയ പദാവലി"
 
-#. +> trunk5
-#: package/contents/ui/main.qml:377
+#. +> trunk5 stable5
+#: package/contents/ui/main.qml:429
 #, kde-format
 msgid "Edit Color Scheme…"
 msgstr "നിറക്കൂട്ടു് ചിട്ടപെടുത്തുക…"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:277
+#. +> plasma5lts
+#: package/contents/ui/main.qml:290
 #, kde-format
 msgid "Edit Color Scheme..."
 msgstr "നിറക്കൂട്ടു് എഡിറ്റ് ചെയ്യുക..."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:383
+#: package/contents/ui/main.qml:435
 #, kde-format
 msgid "Remove Color Scheme"
 msgstr "നിറക്കൂട്ടു് നീക്കം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:390
+#: package/contents/ui/main.qml:442
 #, kde-format
 msgid "Restore Color Scheme"
 msgstr "നിറക്കൂട്ടു് പുനഃസ്ഥാപിക്കുക"
 
-#. +> trunk5
-#: package/contents/ui/main.qml:434
+#. +> trunk5 stable5
+#: package/contents/ui/main.qml:486
 #, kde-format
 msgid "Install from File…"
 msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക…"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:334
+#. +> plasma5lts
+#: package/contents/ui/main.qml:346
 #, kde-format
 msgid "Install from File..."
 msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക..."
 
-#. +> trunk5
-#: package/contents/ui/main.qml:439
+#. +> trunk5 stable5
+#: package/contents/ui/main.qml:491
 #, kde-format
 msgid "Get New Color Schemes…"
 msgstr "പുതിയ നിറക്കൂട്ടുകള്‍ ലഭ്യമാക്കുക…"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:339
+#. +> plasma5lts
+#: package/contents/ui/main.qml:353
 #, kde-format
 msgid "Get New Color Schemes..."
 msgstr "പുതിയ നിറക്കൂട്ടുകള്‍ ലഭ്യമാക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:490
+#: package/contents/ui/main.qml:542
 #, kde-format
 msgid "Open Color Scheme"
 msgstr "നിറക്കൂട്ടു് തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:492
+#: package/contents/ui/main.qml:544
 #, kde-format
 msgid "Color Scheme Files (*.colors)"
 msgstr "നിറക്കൂട്ടു് ഫയലുകൾ (*.colors)"

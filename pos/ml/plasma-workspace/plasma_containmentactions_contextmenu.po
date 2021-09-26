@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -33,15 +33,15 @@ msgctxt "plasma_containmentactions_contextmenu"
 msgid "Lock Screen"
 msgstr "സ്ക്രീൻ പൂട്ടുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: menu.cpp:109
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Leave…"
 msgstr "ഉപേക്ഷിക്കുക…"
 
-#. +> stable5 plasma5lts
-#: menu.cpp:107
+#. +> plasma5lts
+#: menu.cpp:106
 #, kde-format
 msgctxt "plasma_containmentactions_contextmenu"
 msgid "Leave..."

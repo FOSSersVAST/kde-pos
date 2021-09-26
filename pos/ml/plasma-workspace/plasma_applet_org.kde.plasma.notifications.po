@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -25,7 +25,7 @@ msgstr ""
 msgid "Open with %1"
 msgstr "%1 ഉപയോഗിച്ച് തുറക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: fileinfo.cpp:173
 #, kde-format
 msgid "Open with…"
@@ -324,12 +324,19 @@ msgctxt "A button tooltip; expands the item to show details"
 msgid "Show Details"
 msgstr "വിശദാംശങ്ങൾ കാണിക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/JobItem.qml:221
 #: package/contents/ui/ThumbnailStrip.qml:146
 #, kde-format
 msgid "More Options…"
 msgstr "കൂടുതൽ സാധ്യതകൾ…"
+
+#. +> plasma5lts
+#: package/contents/ui/JobItem.qml:185
+#: package/contents/ui/ThumbnailStrip.qml:140
+#, kde-format
+msgid "More Options..."
+msgstr "കൂടുതൽ സാധ്യതകൾ..."
 
 #. +> plasma5lts
 #: package/contents/ui/JobItem.qml:222
@@ -338,24 +345,11 @@ msgctxt "Resume paused job"
 msgid "Resume"
 msgstr "പുനരാരംഭിക്കുക"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/JobItem.qml:246
-#: package/contents/ui/ThumbnailStrip.qml:159
-#, kde-format
-msgid "More Options..."
-msgstr "കൂടുതൽ സാധ്യതകൾ..."
-
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/JobItem.qml:249
 #, kde-format
 msgid "Open"
 msgstr "തുറക്കുക"
-
-#. +> stable5
-#: package/contents/ui/JobItem.qml:284
-#, kde-format
-msgid "Open with..."
-msgstr "ഇതിലൂടെ തുറക്കു..."
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:48
@@ -385,14 +379,14 @@ msgstr "%1 വരെ ശല്യപ്പെടുത്തരുത്"
 msgid "Clear All Notifications"
 msgstr "എല്ലാ അറിയിപ്പുകളും മായ്ക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:177
 #, kde-format
 msgid "&Configure Event Notifications and Actions…"
 msgstr "&സംഭവ അറിയിപ്പുകളും നടപടികളും ക്രമീകരിക്കുക…"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:191
+#. +> plasma5lts
+#: package/contents/ui/main.qml:180
 #, kde-format
 msgid "&Configure Event Notifications and Actions..."
 msgstr "സംഭവ അറിയിപ്പുകളും നടപടികളും ക്രമീകരിക്കുക... (&C)"
@@ -498,15 +492,15 @@ msgctxt "Reply to message"
 msgid "Reply"
 msgstr "മറുപടി"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/NotificationReplyField.qml:36
 #, kde-format
 msgctxt "Text field placeholder"
 msgid "Type a reply…"
 msgstr "ഒരു മറുപടി ടൈപ്പുചെയ്യുക…"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/NotificationReplyField.qml:50
+#. +> plasma5lts
+#: package/contents/ui/NotificationReplyField.qml:49
 #, kde-format
 msgctxt "Text field placeholder"
 msgid "Type a reply..."
@@ -518,3 +512,6 @@ msgstr "ഒരു മറുപടി ടൈപ്പുചെയ്യുക..."
 msgctxt "@action:button"
 msgid "Send"
 msgstr "അയയ്ക്കുക"
+
+#~ msgid "Open with..."
+#~ msgstr "ഇതിലൂടെ തുറക്കു..."

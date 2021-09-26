@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmstyle\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-18 09:12+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-19 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -43,14 +43,14 @@ msgstr "%1 സാധുവായ GTK പ്രമേയ ശേഖരമല്ല
 msgid "Application Style"
 msgstr "ആപ്ലിക്കേഷൻ രൂപഭംഗി"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: kcmstyle.cpp:83
 #, fuzzy, kde-format
 msgid "(c) 2002 Karol Szwed, Daniel Molkentin, (c) 2019 Kai Uwe Broulik "
 msgstr "(c) 2002 കാരള്‍ സ്വെഡ്, ഡാനിയല്‍ മോല്‍ക്കെന്‍ടിന്‍, (c) 2019 കൈ ഉവെ ബ്രൗളിക്"
 
-#. +> stable5 plasma5lts
-#: kcmstyle.cpp:96
+#. +> plasma5lts
+#: kcmstyle.cpp:94
 #, kde-format
 msgid "(c) 2002 Karol Szwed, Daniel Molkentin, (c) 2019 Kai Uwe Broulik"
 msgstr "(c) 2002 കാരള്‍ സ്വെഡ്, ഡാനിയല്‍ മോല്‍ക്കെന്‍ടിന്‍, (c) 2019 കൈ ഉവെ ബ്രൗളിക്"
@@ -175,41 +175,36 @@ msgstr "GTK2 പ്രമേയം:"
 msgid "GTK3 theme:"
 msgstr "GTK3 പ്രമേയം:"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/GtkStylePage.qml:76
 #, kde-format
 msgid "Preview…"
 msgstr "കണ്ടുനോക്കുക…"
 
-#. +> stable5 plasma5lts
+#. +> plasma5lts
 #: package/contents/ui/GtkStylePage.qml:90
+#: package/contents/ui/GtkStylePage.qml:130
 #, kde-format
 msgid "Preview..."
 msgstr "കണ്ടുനോക്കുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/GtkStylePage.qml:95
 #, kde-format
 msgid "Install from File…"
 msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക…"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/GtkStylePage.qml:109
+#. +> plasma5lts
+#: package/contents/ui/GtkStylePage.qml:151
 #, kde-format
 msgid "Install from File..."
 msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/GtkStylePage.qml:100
 #, kde-format
 msgid "Get New GNOME/GTK Application Styles…"
 msgstr "പുതിയ ഗ്നോം/GTK അപ്ലിക്കേഷൻ രൂപഭംഗികൾ നേടുക…"
-
-#. +> stable5
-#: package/contents/ui/GtkStylePage.qml:114
-#, kde-format
-msgid "Get New GNOME/GTK Application Styles..."
-msgstr "പുതിയ ഗ്നോം/GTK അപ്ലിക്കേഷൻ രൂപഭംഗികൾ നേടുക..."
 
 #. +> plasma5lts
 #: package/contents/ui/GtkStylePage.qml:157
@@ -251,14 +246,14 @@ msgstr ""
 "അപ്ലിക്കേഷനുകളുടെ ഉപയോക്തൃ വിനിമയതല ഘടകങ്ങളുടെ ദൃശ്യരൂപം പരിഷ്ക്കരിക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ "
 "അനുവദിക്കുന്നു."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:96
 #, kde-format
 msgid "Configure Style…"
 msgstr "രൂപഭംഗി ക്രമീകരിക്കുക…"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:110
+#. +> plasma5lts
+#: package/contents/ui/main.qml:107
 #, kde-format
 msgid "Configure Style..."
 msgstr "രൂപഭംഗി ക്രമീകരിക്കുക..."
@@ -269,14 +264,14 @@ msgstr "രൂപഭംഗി ക്രമീകരിക്കുക..."
 msgid "Configure Icons and Toolbars"
 msgstr "ചിഹ്നങ്ങളും ഉപകരണപ്പട്ടകളും ക്രമീകരിക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: package/contents/ui/main.qml:132
 #, kde-format
 msgid "Configure GNOME/GTK Application Style…"
 msgstr "ഗ്നോം/GTK ആപ്ലിക്കേഷൻ രൂപഭംഗി ക്രമീകരിക്കുക…"
 
-#. +> stable5 plasma5lts
-#: package/contents/ui/main.qml:146
+#. +> plasma5lts
+#: package/contents/ui/main.qml:137
 #, kde-format
 msgid "Configure GNOME/GTK Application Style..."
 msgstr "ഗ്നോം/GTK ആപ്ലിക്കേഷൻ രൂപഭംഗി ക്രമീകരിക്കുക..."
@@ -364,3 +359,6 @@ msgstr "പ്രധാന ഉപകരണപ്പട്ട ലേബൽ"
 #, kde-format
 msgid "Secondary toolbar label"
 msgstr "ദ്വിതീയ ഉപകരണപ്പട്ട ലേബൽ"
+
+#~ msgid "Get New GNOME/GTK Application Styles..."
+#~ msgstr "പുതിയ ഗ്നോം/GTK അപ്ലിക്കേഷൻ രൂപഭംഗികൾ നേടുക..."

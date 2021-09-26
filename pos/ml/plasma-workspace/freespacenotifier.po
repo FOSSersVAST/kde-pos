@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freespacenotifier trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-07 20:47+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -18,11 +18,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.7.2\n"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: freespacenotifier.cpp:91
 #, kde-format
 msgid "Configure Warning…"
 msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക…"
+
+#. +> trunk5 stable5
+#: freespacenotifier.cpp:95
+#, kde-format
+msgid "Open in Filelight"
+msgstr "ഫയൽലൈറ്റില്‍ തുറക്കുക"
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:95 freespacenotifier.cpp:106 freespacenotifier.cpp:127
@@ -36,25 +42,6 @@ msgstr "ഡിസ്കില്‍ സ്ഥലം കുറവാണ്"
 msgid "Remaining space in your Home folder: %1 MiB"
 msgstr "ഹോം അറയില്‍ ബാക്കിയുള്ള സ്ഥലം: %1 MiB"
 
-#. +> stable5
-#: freespacenotifier.cpp:102
-#, kde-format
-msgid "Configure Warning..."
-msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക..."
-
-#. +> plasma5lts
-#: freespacenotifier.cpp:114
-#, kde-format
-msgctxt "Allows the user to configure the warning notification being shown"
-msgid "Configure Warning..."
-msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക..."
-
-#. +> trunk5 stable5
-#: freespacenotifier.cpp:95
-#, kde-format
-msgid "Open in Filelight"
-msgstr "ഫയൽലൈറ്റില്‍ തുറക്കുക"
-
 #. +> trunk5 stable5
 #: freespacenotifier.cpp:98
 #, kde-format
@@ -67,6 +54,13 @@ msgstr "ഫയല്‍ മാനേജറിൽ തുറക്കുക"
 msgctxt "Opens a file manager like dolphin"
 msgid "Open File Manager..."
 msgstr "ഫയല്‍ മാനേജര്‍ തുറക്കുക..."
+
+#. +> plasma5lts
+#: freespacenotifier.cpp:114
+#, kde-format
+msgctxt "Allows the user to configure the warning notification being shown"
+msgid "Configure Warning..."
+msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക..."
 
 #. +> plasma5lts
 #: freespacenotifier.cpp:118
@@ -143,3 +137,6 @@ msgstr "നിങ്ങളുടെ റുട്ട് പാർട്ടീഷ�
 msgctxt "The settings dialog main page name, as in 'general settings'"
 msgid "General"
 msgstr "പൊതു"
+
+#~ msgid "Configure Warning..."
+#~ msgstr "മുന്നറിയിപ്പ് ക്രമീകരിയ്ക്കുക..."

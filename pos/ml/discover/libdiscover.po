@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-26 10:54+0200\n"
+"POT-Creation-Date: 2021-09-24 16:39+0200\n"
 "PO-Revision-Date: 2021-09-09 13:59+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/discover/"
@@ -31,13 +31,13 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "vivekkj2004@gmail.com"
 
-#. +> stable5 plasma5lts
-#: libdiscover/appstream/AppStreamUtils.cpp:82
+#. +> plasma5lts
+#: libdiscover/appstream/AppStreamUtils.cpp:97
 #, kde-format
 msgid "Proprietary"
 msgstr "കുത്തക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/appstream/AppStreamUtils.cpp:101
 #: libdiscover/resources/AbstractResource.cpp:283
 #, kde-format
@@ -615,7 +615,9 @@ msgstr "ഫ്ലാറ്റ്ഹബ് ചേർക്കുക"
 #. +> trunk5 stable5
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:54
 #, kde-format
-msgid "Makes it possible to easily install the applications listed in https://flathub.org"
+msgid ""
+"Makes it possible to easily install the applications listed in https://"
+"flathub.org"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -633,7 +635,9 @@ msgstr "'%1' നീക്കം ചെയ്യുന്നു"
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/FlatpakBackend/FlatpakSourcesBackend.cpp:220
 #, kde-format
-msgid "To remove this repository, the following applications must be uninstalled:<ul><li>%1</li></ul>"
+msgid ""
+"To remove this repository, the following applications must be uninstalled:"
+"<ul><li>%1</li></ul>"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -711,53 +715,57 @@ msgid "Application Addons"
 msgstr "ആപ്ലിക്കേഷൻ ആഡ്ഓണുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:381
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:389
 #, kde-format
 msgid "Network error in backend %1: %2"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:388
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:396
 #, kde-format
-msgid "Too many requests sent to the server for backend %1. Please try again in a few minutes."
+msgid ""
+"Too many requests sent to the server for backend %1. Please try again in a "
+"few minutes."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:391
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:397
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:402
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:399
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:405
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:410
 #, kde-format
 msgid "Invalid %1 backend, contact your distributor."
 msgstr "അസാധുവായ %1 ബാക്കെൻഡ്, നിങ്ങളുടെ വിതരണക്കാരനെ ബന്ധപ്പെടുക."
 
 #. +> trunk5 stable5
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:421
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:429
 #, kde-format
 msgid ""
-"Unable to complete the update of %1. You can try and perform this action through the Get Hot New Stuff dialog, which grants tighter control. The reported error was:\n"
+"Unable to complete the update of %1. You can try and perform this action "
+"through the Get Hot New Stuff dialog, which grants tighter control. The "
+"reported error was:\n"
 "%2"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:431
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:439
 #, kde-format
 msgid "Could not fetch screenshot for the entry %1 in backend %2"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:435
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:443
 #, kde-format
 msgid "Unhandled error in %1 backend. Contact your distributor."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:445
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:453
 #, kde-format
 msgid "%1: %2"
 msgstr "%1: %2"
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/backends/KNSBackend/KNSBackend.cpp:654
+#: libdiscover/backends/KNSBackend/KNSBackend.cpp:662
 #, kde-format
 msgid "Wrong KNewStuff URI: %1"
 msgstr ""
@@ -1188,7 +1196,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:144
 #, kde-format
-msgctxt "Failed to sync your Linux distro repositories or other sources of packages"
+msgctxt ""
+"Failed to sync your Linux distro repositories or other sources of packages"
 msgid "Cannot fetch sources"
 msgstr ""
 
@@ -1231,13 +1240,17 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:168
 #, kde-format
-msgid "'%1' was updated for security reasons, a restart of the session is recommended."
+msgid ""
+"'%1' was updated for security reasons, a restart of the session is "
+"recommended."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:170
 #, kde-format
-msgid "'%1' was updated for security reasons, a restart of the system is recommended."
+msgid ""
+"'%1' was updated for security reasons, a restart of the system is "
+"recommended."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -1276,140 +1289,140 @@ msgstr ""
 msgid "For security, the system will have to be restarted."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:203
 #, kde-format
 msgid "Waiting…"
 msgstr "കാത്തിരിക്കുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:203
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:219
 #, kde-format
 msgid "Waiting..."
 msgstr "കാത്തിരിക്കുന്നു..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:205
 #, kde-format
 msgid "Refreshing Cache…"
 msgstr "കാഷെ പുതുക്കുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:205
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:221
 #, kde-format
 msgid "Refreshing Cache..."
 msgstr "കാഷെ പുതുക്കുന്നു..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:207
 #, kde-format
 msgid "Setup…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:207
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:223
 #, kde-format
 msgid "Setup..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:209
 #, kde-format
 msgid "Processing…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:209
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:225
 #, kde-format
 msgid "Processing..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:211
 #, kde-format
 msgid "Remove…"
 msgstr "നീക്കം ചെയ്യുക…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:211
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:227
 #, kde-format
 msgid "Remove..."
 msgstr "നീക്കം ചെയ്യുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:213
 #, kde-format
 msgid "Downloading…"
 msgstr "ഡൗൺലോഡുന്നു…"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:215
 #, kde-format
 msgid "Installing…"
 msgstr "ഇൻസ്റ്റാൾ ചെയ്യുന്നു…"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:217
 #, kde-format
 msgid "Updating…"
 msgstr "അപ്ഡേറ്റ് ചെയ്യുന്നു…"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:219
 #, kde-format
 msgid "Cleaning up…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:219
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:235
 #, kde-format
 msgid "Cleaning up..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:222
 #, kde-format
 msgid "Resolving dependencies…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:222
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:238
 #, kde-format
 msgid "Resolving dependencies..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:224
 #, kde-format
 msgid "Checking signatures…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:224
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:240
 #, kde-format
 msgid "Checking signatures..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:226
 #, kde-format
 msgid "Test committing…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:226
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
 #, kde-format
 msgid "Test committing..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:228
 #, kde-format
 msgid "Committing…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:228
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:244
 #, kde-format
 msgid "Committing..."
 msgstr ""
@@ -1427,38 +1440,38 @@ msgstr "പൂർത്തിയായി"
 msgid "Canceled"
 msgstr "റദ്ദാക്കി"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:235
 #, kde-format
 msgid "Waiting for lock…"
 msgstr "ലോക്കിനായി കാത്തിരിക്കുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:235
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:251
 #, kde-format
 msgid "Waiting for lock..."
 msgstr "ലോക്കിനായി കാത്തിരിക്കുന്നു..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:237
 #, kde-format
 msgid "Waiting for authorization…"
 msgstr "അംഗീകാരത്തിനായി കാത്തിരിക്കുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:237
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:253
 #, kde-format
 msgid "Waiting for authorization..."
 msgstr "അംഗീകാരത്തിനായി കാത്തിരിക്കുന്നു..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
 #, kde-format
 msgid "Copying files…"
 msgstr "ഫയലുകൾ പകർത്തുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:242
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:258
 #, kde-format
 msgid "Copying files..."
 msgstr "ഫയലുകൾ പകർത്തുന്നു..."
@@ -1475,134 +1488,140 @@ msgstr "അജ്ഞാത നില"
 msgid "We are waiting for something."
 msgstr "ഞങ്ങൾ എന്തെങ്കിലും കാത്തിരിക്കുന്നു."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:255
 #, kde-format
 msgid "Setting up transaction…"
 msgstr "ഇടപാട് സജ്ജീകരിക്കുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:255
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:271
 #, kde-format
 msgid "Setting up transaction..."
 msgstr "ഇടപാട് സജ്ജീകരിക്കുന്നു..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:257
 #, kde-format
 msgid "The transaction is currently working…"
 msgstr "ഇടപാട് നിലവിൽ പ്രവർത്തിക്കുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:257
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:273
 #, kde-format
 msgid "The transaction is currently working..."
 msgstr "ഇടപാട് നിലവിൽ പ്രവർത്തിക്കുന്നു..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:259
 #, kde-format
 msgid "The transaction is currently removing packages…"
 msgstr "ഇടപാട് നിലവിൽ പാക്കേജുകൾ നീക്കംചെയ്യുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:259
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:275
 #, kde-format
 msgid "The transaction is currently removing packages..."
 msgstr "ഇടപാട് നിലവിൽ പാക്കേജുകൾ നീക്കംചെയ്യുന്നു..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:261
 #, kde-format
 msgid "The transaction is currently downloading packages…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:261
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:277
 #, kde-format
 msgid "The transaction is currently downloading packages..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:263
 #, kde-format
 msgid "The transactions is currently installing packages…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:263
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:279
 #, kde-format
 msgid "The transactions is currently installing packages..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:265
 #, kde-format
 msgid "The transaction is currently updating packages…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:265
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:281
 #, kde-format
 msgid "The transaction is currently updating packages..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:267
 #, kde-format
 msgid "The transaction is currently cleaning up…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:267
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:283
 #, kde-format
 msgid "The transaction is currently cleaning up..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:270
 #, kde-format
-msgid "The transaction is currently resolving the dependencies of the packages it will install…"
+msgid ""
+"The transaction is currently resolving the dependencies of the packages it "
+"will install…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:270
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:286
 #, kde-format
-msgid "The transaction is currently resolving the dependencies of the packages it will install..."
+msgid ""
+"The transaction is currently resolving the dependencies of the packages it "
+"will install..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:272
 #, kde-format
 msgid "The transaction is currently checking the signatures of the packages…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:272
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:288
 #, kde-format
 msgid "The transaction is currently checking the signatures of the packages..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:274
 #, kde-format
-msgid "The transaction is currently testing the commit of this set of packages…"
+msgid ""
+"The transaction is currently testing the commit of this set of packages…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:274
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:290
 #, kde-format
-msgid "The transaction is currently testing the commit of this set of packages..."
+msgid ""
+"The transaction is currently testing the commit of this set of packages..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:276
 #, kde-format
 msgid "The transaction is currently committing its set of packages…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:276
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
 #, kde-format
 msgid "The transaction is currently committing its set of packages..."
 msgstr ""
@@ -1619,50 +1638,50 @@ msgstr "ഇടപാട് പൂർത്തിയായി!"
 msgid "The transaction was canceled"
 msgstr "ഇടപാട് റദ്ദാക്കി"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:283
 #, kde-format
 msgid "The transaction is currently waiting for the lock…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:283
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:299
 #, kde-format
 msgid "The transaction is currently waiting for the lock..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:285
 #, kde-format
 msgid "Waiting for the user to authorize the transaction…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:285
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:301
 #, kde-format
 msgid "Waiting for the user to authorize the transaction..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:290
 #, kde-format
 msgid "The transaction is currently copying files…"
 msgstr ""
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:290
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:306
 #, kde-format
 msgid "The transaction is currently copying files..."
 msgstr ""
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
 #, kde-format
 msgid "Currently refreshing the repository cache…"
 msgstr "നിലവിൽ റിപ്പോസിറ്ററി കാഷെ പുതുക്കുന്നു…"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:292
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:308
 #, kde-format
 msgid "Currently refreshing the repository cache..."
 msgstr "നിലവിൽ റിപ്പോസിറ്ററി കാഷെ പുതുക്കുന്നു..."
@@ -1755,8 +1774,8 @@ msgstr "തടഞ്ഞു"
 msgid "Downloading"
 msgstr "ഡൗൺലോഡുന്നു"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:213
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:229
 #, kde-format
 msgid "Downloading..."
 msgstr "ഡൗൺലോഡുന്നു..."
@@ -1767,8 +1786,8 @@ msgstr "ഡൗൺലോഡുന്നു..."
 msgid "Updating"
 msgstr "അപ്ഡേറ്റുന്നു"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:217
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:233
 #, kde-format
 msgid "Updating..."
 msgstr "അപ്ഡേറ്റുന്നു..."
@@ -1779,8 +1798,8 @@ msgstr "അപ്ഡേറ്റുന്നു..."
 msgid "Installing"
 msgstr "ഇൻസ്റ്റാളുന്നു"
 
-#. +> stable5 plasma5lts
-#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:215
+#. +> plasma5lts
+#: libdiscover/backends/PackageKitBackend/PackageKitMessages.cpp:231
 #, kde-format
 msgid "Installing..."
 msgstr "ഇൻസ്റ്റാളുന്നു..."
@@ -2023,7 +2042,9 @@ msgstr "നീക്കം ചെയ്യാനുള്ള പാക്കേ�
 #. +> trunk5 stable5
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:413
 #, kde-format
-msgid "The following packages will be removed by the update:<ul><li>%1</li></ul><br/>in order to install:<ul><li>%2</li></ul>"
+msgid ""
+"The following packages will be removed by the update:<ul><li>%1</li></ul><br/"
+">in order to install:<ul><li>%2</li></ul>"
 msgstr ""
 
 #. +> plasma5lts
@@ -2040,7 +2061,9 @@ msgstr ""
 #: libdiscover/backends/PackageKitBackend/PackageKitUpdater.cpp:508
 #, kde-kuit-format
 msgctxt "@info"
-msgid "%1:<nl/><nl/>%2<nl/><nl/>Please report this issue to the packagers of your distribution."
+msgid ""
+"%1:<nl/><nl/>%2<nl/><nl/>Please report this issue to the packagers of your "
+"distribution."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2107,34 +2130,77 @@ msgid_plural ""
 msgstr[0] ""
 msgstr[1] ""
 
-#. +> trunk5 stable5
+#. +> trunk5
+#: libdiscover/backends/RpmOstreeBackend/rpm-ostree-backend-categories.xml:4
+#, fuzzy, kde-format
+msgctxt "Category"
+msgid "Operating System"
+msgstr "പ്രവർത്തനം പിന്തുണയ്ക്കുന്നില്ല"
+
+#. +> stable5
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:129
 #, kde-format
 msgid "Version: "
 msgstr "പതിപ്പ്: "
 
-#. +> trunk5 stable5
+#. +> stable5
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:129
 #, kde-format
 msgid "BaseCommit: "
 msgstr ""
 
-#. +> trunk5 stable5
+#. +> stable5
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:130
 #, kde-format
 msgid "GPGSignature: Valid signature by "
 msgstr ""
 
-#. +> trunk5 stable5
+#. +> stable5
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:130
 #, kde-format
 msgid "Origin: "
 msgstr "ഉത്ഭവം: "
 
-#. +> trunk5 stable5
+#. +> trunk5
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:245
+#, kde-format
+msgid "GPL and other licenses"
+msgstr ""
+
+#. +> trunk5
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:251
+#, kde-format
+msgid "Remote: "
+msgstr ""
+
+#. +> trunk5
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:296
+#, kde-format
+msgid "The currently running version of %1."
+msgstr ""
+
+#. +> stable5
 #: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:167
 #, kde-format
 msgid "The currently active deployment."
+msgstr ""
+
+#. +> trunk5
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeResource.cpp:298
+#, kde-format
+msgid "Installed but not currently running version of %1."
+msgstr ""
+
+#. +> trunk5
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeSourcesBackend.cpp:73
+#, kde-format
+msgid "ostree remotes"
+msgstr ""
+
+#. +> trunk5
+#: libdiscover/backends/RpmOstreeBackend/RpmOstreeTransaction.cpp:119
+#, kde-format
+msgid "Current rpm-ostree transaction in progress:"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2152,7 +2218,9 @@ msgstr "%1 - %2"
 #. +> trunk5 stable5
 #: libdiscover/backends/SnapBackend/SnapTransaction.cpp:49
 #, kde-format
-msgid "This Snap application is not compatible with security sandboxing and will have full access to this computer. Install it anyway?"
+msgid ""
+"This Snap application is not compatible with security sandboxing and will "
+"have full access to this computer. Install it anyway?"
 msgstr ""
 
 #. +> plasma5lts
@@ -2164,7 +2232,8 @@ msgstr ""
 #. +> trunk5 stable5 plasma5lts
 #: libdiscover/DiscoverBackendsFactory.cpp:111
 #, kde-format
-msgid "List all the backends we'll want to have loaded, separated by comma ','."
+msgid ""
+"List all the backends we'll want to have loaded, separated by comma ','."
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
@@ -2212,14 +2281,14 @@ msgid "%1 → %2%1 → %2%2"
 msgstr "%1 → %2%1 → %2%2"
 
 #. +> trunk5 stable5 plasma5lts
-#: libdiscover/resources/ResourcesModel.cpp:99
+#: libdiscover/resources/ResourcesModel.cpp:100
 #, kde-format
 msgctxt "@action Checks the Internet for updates"
 msgid "Check for Updates"
 msgstr "അപ്ഡേറ്റുകൾക്കായി പരിശോധിക്കുക"
 
 #. +> trunk5 stable5
-#: libdiscover/resources/ResourcesUpdatesModel.cpp:107
+#: libdiscover/resources/ResourcesUpdatesModel.cpp:108
 #, kde-format
 msgid "Updates"
 msgstr "അപ്ഡേറ്റുകൾ"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-21 15:10+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -62,19 +62,37 @@ msgstr "കോ‍ഡ് 93"
 msgid "Code 128"
 msgstr "കോ‍ഡ് 128"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5
+#: contents/ui/BarcodePage.qml:77
+#, fuzzy, kde-format
+msgid "Change the QR code type"
+msgstr "ബാർകോഡ് തരം മാറ്റുക"
+
+#. +> stable5 plasma5lts
 #: contents/ui/BarcodePage.qml:77
 #, kde-format
 msgid "Change the barcode type"
 msgstr "ബാർകോഡ് തരം മാറ്റുക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5
+#: contents/ui/BarcodePage.qml:101
+#, fuzzy, kde-format
+msgid "Creating QR code failed"
+msgstr "ബാർകോഡ് സൃഷ്ടിക്കുന്നത് പരാജയപ്പെട്ടു"
+
+#. +> stable5 plasma5lts
 #: contents/ui/BarcodePage.qml:101
 #, kde-format
 msgid "Creating barcode failed"
 msgstr "ബാർകോഡ് സൃഷ്ടിക്കുന്നത് പരാജയപ്പെട്ടു"
 
-#. +> trunk5 stable5
+#. +> trunk5
+#: contents/ui/BarcodePage.qml:110
+#, fuzzy, kde-format
+msgid "The QR code is too large to be displayed"
+msgstr "ബാർകോഡ് പ്രദർശിപ്പിക്കാൻ കഴിയാത്തത്ര വലുതാണ്"
+
+#. +> stable5
 #: contents/ui/BarcodePage.qml:110
 #, kde-format
 msgid "The barcode is too large to be displayed"
@@ -92,14 +110,14 @@ msgstr "ഓർമ്മച്ചെപ്പ് ഉള്ളടക്കങ്�
 msgid "Clipboard is empty"
 msgstr "ഓർമ്മച്ചെപ്പ് ശൂന്യമാണ്"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/clipboard.qml:55
 #, kde-format
 msgid "Configure Clipboard…"
 msgstr "ഓർമ്മച്ചെപ്പ് ക്രമീകരിക്കുക…"
 
-#. +> stable5 plasma5lts
-#: contents/ui/clipboard.qml:67
+#. +> plasma5lts
+#: contents/ui/clipboard.qml:44
 #, kde-format
 msgid "Configure Clipboard..."
 msgstr "ഓർമ്മച്ചെപ്പ് ക്രമീകരിക്കുക..."
@@ -110,14 +128,14 @@ msgstr "ഓർമ്മച്ചെപ്പ് ക്രമീകരിക്�
 msgid "Clear History"
 msgstr "ചരിത്രം മായ്ക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/ClipboardPage.qml:77
 #, kde-format
 msgid "Search…"
 msgstr "തിരയുക…"
 
-#. +> stable5 plasma5lts
-#: contents/ui/ClipboardPage.qml:89
+#. +> plasma5lts
+#: contents/ui/ClipboardPage.qml:94
 #, kde-format
 msgid "Search..."
 msgstr "തിരയുക..."
@@ -134,7 +152,13 @@ msgstr "ചരിത്രം മായ്ക്കുക"
 msgid "Invoke action"
 msgstr "നടപടി അഭ്യർത്ഥിക്കുക"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5
+#: contents/ui/DelegateToolButtons.qml:33
+#, fuzzy, kde-format
+msgid "Show QR code"
+msgstr "ബാർകോഡ് കാണിക്കുക"
+
+#. +> stable5 plasma5lts
 #: contents/ui/DelegateToolButtons.qml:33
 #, kde-format
 msgid "Show barcode"
@@ -152,7 +176,7 @@ msgstr "ഉള്ളടക്കങ്ങൾ എഡിറ്റുചെയ്�
 msgid "Remove from history"
 msgstr "ചരിത്രത്തിൽ നിന്ന് നീക്കംചെയ്യുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/ui/Menu.qml:58
 #, kde-format
 msgid "No matches"

@@ -5,11 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-31 16:59+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം "
-"Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
+"discuss@googlegroups.com>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -137,7 +137,7 @@ msgstr "പരിഷ്ക്കരിച്ച തീയതി (പുതിയ
 msgid "Date modified (oldest first)"
 msgstr "പരിഷ്ക്കരിച്ച തീയതി (പഴയത് ആദ്യം)"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: imagepackage/contents/ui/config.qml:237
 #, kde-format
 msgid "Group by folders"
@@ -197,46 +197,46 @@ msgstr "അറ തുറക്കുക"
 msgid "There are no wallpaper locations configured"
 msgstr "പശ്ചാത്തലചിത്ര സ്ഥാനങ്ങളൊന്നും സജ്ജമാക്കിയിട്ടില്ല"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: imagepackage/contents/ui/config.qml:386
 #, kde-format
 msgid "Add Folder…"
 msgstr "അറ ചേര്‍ക്കുക…"
 
-#. +> stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:375
+#. +> plasma5lts
+#: imagepackage/contents/ui/config.qml:344
 #, kde-format
 msgid "Add Folder..."
 msgstr "അറ ചേര്‍ക്കുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: imagepackage/contents/ui/config.qml:392
-#: imagepackage/contents/ui/config.qml:488
+#: imagepackage/contents/ui/config.qml:486
 #, kde-format
 msgid "Get New Wallpapers…"
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക…"
 
-#. +> stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:381
-#: imagepackage/contents/ui/config.qml:473
+#. +> plasma5lts
+#: imagepackage/contents/ui/config.qml:350
+#: imagepackage/contents/ui/config.qml:449
 #, kde-format
 msgid "Get New Wallpapers..."
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:436
+#: imagepackage/contents/ui/config.qml:435
 #, kde-format
 msgid "There are no wallpapers in this slideshow"
 msgstr "ഈ സ്ലൈഡ്ഷോയിൽ പശ്ചാത്തലചിത്രങ്ങൾ ഇല്ല"
 
-#. +> trunk5
-#: imagepackage/contents/ui/config.qml:482
+#. +> trunk5 stable5
+#: imagepackage/contents/ui/config.qml:480
 #, kde-format
 msgid "Add Image…"
 msgstr "ചിത്രം ചേർക്കുക…"
 
-#. +> stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:467
+#. +> plasma5lts
+#: imagepackage/contents/ui/config.qml:443
 #, kde-format
 msgid "Add Image..."
 msgstr "ചിത്രം ചേർക്കുക..."

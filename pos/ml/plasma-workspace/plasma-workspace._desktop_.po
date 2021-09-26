@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-19 10:15+0200\n"
+"POT-Creation-Date: 2021-09-25 14:30+0200\n"
 "PO-Revision-Date: 2021-09-09 12:59+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -53,7 +53,7 @@ msgid "Global Menu"
 msgstr "പൊതു മെനു"
 
 #. +> trunk5 stable5
-#: applets/appmenu/package/metadata.desktop:51
+#: applets/appmenu/package/metadata.desktop:52
 msgctxt "Comment"
 msgid "Global menubar in your Plasma Desktop"
 msgstr "നിങ്ങളുടെ പ്ലാസ്മ ഡെസ്ക്ടോപ്പിലെ പൊതു മെനു"
@@ -114,7 +114,7 @@ msgid "Disks & Devices"
 msgstr "ഡിസ്കുകളും ഉപകരണങ്ങളും"
 
 #. +> trunk5 stable5
-#: applets/devicenotifier/package/metadata.desktop:41
+#: applets/devicenotifier/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Notifications and access for devices"
 msgstr "ഉപകരണങ്ങളുടെ അറിയിപ്പുകളും അനുമതികളും"
@@ -173,14 +173,14 @@ msgctxt "Keywords"
 msgid "Lock;Logout;Sleep;Hibernate;Switch User;"
 msgstr "പൂട്ടുക;പുറത്തിറങ്ങുക;ഉറങ്ങുക;നിഷ്ക്രിയമാക്കുക;ഉപയോക്താവിനെ മാറ്റുക;"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: applets/manage-inputmethod/metadata.desktop:2
 msgctxt "Name"
 msgid "Input Method"
 msgstr "നിവേശന രീതി"
 
-#. +> trunk5
-#: applets/manage-inputmethod/metadata.desktop:29
+#. +> trunk5 stable5
+#: applets/manage-inputmethod/metadata.desktop:33
 msgctxt "Comment"
 msgid "Manage your Input Methods"
 msgstr "നിങ്ങളുടെ നിവേശന രീതികൾ കൈകാര്യം ചെയ്യുക"
@@ -230,7 +230,7 @@ msgid "Individual Core Usage"
 msgstr "വ്യക്തിഗത കോർ ഉപയോഗം"
 
 #. +> trunk5 stable5
-#: applets/systemmonitor/coreusage/metadata.desktop:39
+#: applets/systemmonitor/coreusage/metadata.desktop:40
 msgctxt "Comment"
 msgid "System monitor Widget that shows usage of individual CPU cores"
 msgstr "വ്യക്തിഗത സിപിയു കോറുകളുടെ ഉപയോഗം കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
@@ -248,7 +248,7 @@ msgid "CPU Load Monitor"
 msgstr "സിപിയു ഉപയോഗ നിരീക്ഷകന്‍"
 
 #. +> trunk5 stable5
-#: applets/systemmonitor/cpu/metadata.desktop:39
+#: applets/systemmonitor/cpu/metadata.desktop:40
 msgctxt "Comment"
 msgid "System monitor Widget that shows the total CPU usage"
 msgstr "ആകെ സിപിയു കോറുകളുടെ ഉപയോഗം കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
@@ -272,7 +272,7 @@ msgid "Hard Disk I/O Monitor"
 msgstr "ഹാര്‍ഡ് ഡിസ്ക് I/O നിരീക്ഷകൻ"
 
 #. +> trunk5 stable5 plasma5lts
-#: applets/systemmonitor/diskactivity/metadata.desktop:41
+#: applets/systemmonitor/diskactivity/metadata.desktop:42
 msgctxt "Comment"
 msgid "An applet that monitors hard disk throughput and input/output"
 msgstr "ഹാര്‍ഡ് ഡിസ്ക് പ്രവര്‍ത്തനം നിരീക്ഷിക്കാനുള്ള അപ്‌ലെറ്റ്"
@@ -290,7 +290,7 @@ msgid "Hard Disk Space Usage"
 msgstr "ഹാർഡ് ഡിസ്ക് ഇടം ഉപയോഗം"
 
 #. +> trunk5 stable5
-#: applets/systemmonitor/diskusage/metadata.desktop:41
+#: applets/systemmonitor/diskusage/metadata.desktop:42
 msgctxt "Comment"
 msgid "System monitor Widget that shows the usage of the root partition"
 msgstr "റൂട്ട് പാർട്ടിഷന്റെ ഉപയോഗം കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
@@ -314,7 +314,7 @@ msgid "Memory Status"
 msgstr "മെമ്മറി സ്ഥിതിവിവരം"
 
 #. +> trunk5 stable5
-#: applets/systemmonitor/memory/metadata.desktop:42
+#: applets/systemmonitor/memory/metadata.desktop:43
 msgctxt "Comment"
 msgid "System monitor Widget that shows physical memory usage"
 msgstr "ഭൗതിക മെമ്മറി ഉപയോഗം കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
@@ -338,7 +338,7 @@ msgid "Network Monitor"
 msgstr "നെറ്റ്‍വര്‍ക്ക് നിരീക്ഷകൻ"
 
 #. +> trunk5 stable5
-#: applets/systemmonitor/net/metadata.desktop:41
+#: applets/systemmonitor/net/metadata.desktop:42
 msgctxt "Comment"
 msgid "System monitor Widget that shows the download and upload data rate"
 msgstr "ഡൗൺലോഡ്, അപ്‍ലോഡ് ഡാറ്റാ നിരക്ക് കാണിക്കുന്ന സിസ്റ്റം മോണിറ്റർ വി‍‍ഡ്ജറ്റ്"
@@ -356,7 +356,7 @@ msgid "System monitor Sensor"
 msgstr "സിസ്റ്റം നിരീക്ഷക സെൻസർ"
 
 #. +> trunk5 stable5
-#: applets/systemmonitor/systemmonitor/package/metadata.desktop:41
+#: applets/systemmonitor/systemmonitor/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Displays a configurable chart of a system monitor sensor"
 msgstr "സിസ്റ്റം നിരീക്ഷക സെൻസറിന്റെ ക്രമീകരിക്കാവുന്ന ചാർട്ട് പ്രദർശിപ്പിക്കുന്നു"
@@ -381,7 +381,7 @@ msgid "Application menus daemon"
 msgstr "ആപ്ലിക്കേഷൻ മെനു ഡീമൺ"
 
 #. +> trunk5 stable5 plasma5lts
-#: appmenu/appmenu.desktop:57
+#: appmenu/appmenu.desktop:58
 msgctxt "Comment"
 msgid "Transfers application's menu to the desktop"
 msgstr "അപ്ലിക്കേഷന്റെ മെനു ഡെസ്ക്ടോപ്പിലേക്ക് മാറ്റുന്നു"
@@ -665,7 +665,7 @@ msgid "MPRIS2"
 msgstr "MPRIS2"
 
 #. +> trunk5 stable5 plasma5lts
-#: dataengines/mpris2/plasma-dataengine-mpris2.desktop:58
+#: dataengines/mpris2/plasma-dataengine-mpris2.desktop:59
 msgctxt "Comment"
 msgid "Provides information from and control over media players via MPRIS2"
 msgstr "MPRIS2 വഴി മീഡിയ പ്ലെയറുകളിൽ നിന്നുള്ള വിവരങ്ങളും നിയന്ത്രണവും നൽകുന്നു"
@@ -689,7 +689,7 @@ msgid "PackageKit"
 msgstr "പാക്കേജ്കിറ്റ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: dataengines/packagekit/plasma-dataengine-packagekit.desktop:55
+#: dataengines/packagekit/plasma-dataengine-packagekit.desktop:56
 msgctxt "Comment"
 msgid "PackageKit Data Engine"
 msgstr "പാക്കേജ്കിറ്റ് ഡാറ്റാ എഞ്ചിന്‍"
@@ -738,7 +738,7 @@ msgid "Status Notifier Information"
 msgstr "സ്ഥിതിവിവര അറിയിപ്പിന്റെ വിവരങ്ങള്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:64
+#: dataengines/statusnotifieritem/plasma-dataengine-statusnotifieritem.desktop:65
 msgctxt "Comment"
 msgid ""
 "Engine for applications' status information, based on the Status Notifier "
@@ -779,7 +779,7 @@ msgid "BBC Weather"
 msgstr "ബിബിസി കാലാവസ്ഥ"
 
 #. +> trunk5 stable5 plasma5lts
-#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:44
+#: dataengines/weather/ions/bbcukmet/ion-bbcukmet.desktop:45
 msgctxt "Comment"
 msgid "XML Data from the British Broadcasting Corporation"
 msgstr "ബ്രിട്ടീഷ് ബ്രോഡ്കാസ്റ്റിംഗ് കോർപ്പറേഷനിൽ നിന്നുള്ള XML ഡാറ്റ"
@@ -875,7 +875,7 @@ msgid "Running low on disk space"
 msgstr "ഡിസ്ക് കുറഞ്ഞ ഇടത്തിൽ പ്രവർത്തിക്കുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: freespacenotifier/freespacenotifier.notifyrc:362
+#: freespacenotifier/freespacenotifier.notifyrc:363
 msgctxt "Comment"
 msgid "You are running low on disk space"
 msgstr "നിങ്ങൾ ഡിസ്ക് ഇടം കുറഞ്ഞ സ്ഥലത്താണ് പ്രവർത്തിക്കുന്നത്"
@@ -893,15 +893,17 @@ msgid "Autostart"
 msgstr "സ്വയം തുടങ്ങുന്നവ"
 
 #. +> trunk5 stable5
-#: kcms/autostart/package/metadata.desktop:35
+#: kcms/autostart/package/metadata.desktop:37
 msgctxt "Comment"
 msgid "Automatically Started Applications"
 msgstr "താനേ തുടങ്ങിയ ആപ്പുകൾ"
 
 #. +> trunk5 stable5
-#: kcms/autostart/package/metadata.desktop:77
+#: kcms/autostart/package/metadata.desktop:81
 msgctxt "X-KDE-Keywords"
-msgid "Autostart Manager,autostart,startup,system startup,plasma start,cron"
+msgid ""
+"Autostart Manager,system startup,plasma start,cron,auto,start,start up,boot,"
+"load,session"
 msgstr ""
 
 #. +> trunk5 stable5
@@ -917,13 +919,13 @@ msgid "Color scheme editor"
 msgstr "നിറക്കൂട്ട് എഡിറ്റർ"
 
 #. +> trunk5 stable5
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:39
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:40
 msgctxt "Name"
 msgid "KColorSchemeEditor"
 msgstr "കെകളർസ്‌കീംഎഡിറ്റർ"
 
 #. +> trunk5 stable5
-#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:77
+#: kcms/colors/editor/org.kde.kcolorschemeeditor.desktop:79
 msgctxt "Comment"
 msgid "Plasma color scheme editor"
 msgstr "പ്ലാസ്മ നിറക്കൂട്ടു് എഡിറ്റർ"
@@ -935,17 +937,19 @@ msgid "Colors"
 msgstr "നിറങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: kcms/colors/kcm_colors.desktop:53 kcms/colors/package/metadata.desktop:41
+#: kcms/colors/kcm_colors.desktop:54 kcms/colors/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Choose color scheme"
 msgstr "നിറക്കൂട്ടു് തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
-#: kcms/colors/kcm_colors.desktop:92
+#: kcms/colors/kcm_colors.desktop:95
+#, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid ""
-"colors,colours,scheme,contrast,Widget colors,Color Scheme,color style,color "
-"theme"
+"color,colour,scheme,contrast,Widget colors,Color Scheme,color style,color "
+"theme,tint,accent color,color scheme,dark mode,light mode,accent colour,"
+"accent,highlight,colour"
 msgstr ""
 "നിറങ്ങൾ, വർണ്ണങ്ങൾ, സ്കീം, ദൃശ്യതീവ്രത, വിഡ്ജറ്റ് നിറങ്ങൾ, നിറക്കൂട്ടു്, വർണ്ണ ശൈലി, വർണ്ണ തീം"
 
@@ -958,18 +962,20 @@ msgid "Cursors"
 msgstr "ചൂണ്ടുവിരലുകൾ"
 
 #. +> trunk5 stable5
-#: kcms/cursortheme/kcm_cursortheme.desktop:52
-#: kcms/cursortheme/package/metadata.desktop:41
+#: kcms/cursortheme/kcm_cursortheme.desktop:53
+#: kcms/cursortheme/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Choose mouse cursor theme"
 msgstr "മൗസ് ചൂണ്ടുവിരൽ തീം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
-#: kcms/cursortheme/kcm_cursortheme.desktop:91
+#: kcms/cursortheme/kcm_cursortheme.desktop:93
+#, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Mouse,Cursor,Theme,Cursor Appearance,Cursor Color,Cursor Theme,Mouse Theme,"
-"Mouse Appearance,Mouse Skins,Pointer Colors,Pointer Appearance"
+"Mouse Appearance,Mouse Skin,Pointer Colors,Pointer Appearance,cursor skin,"
+"cursor style,mouse style,pointer"
 msgstr ""
 "മൗസ്,ചൂണ്ടുവിരല്‍,തീം, ചൂണ്ടുവിരല്‍ ബാഹ്യരൂപം,ചൂണ്ടുവിരല്‍ നിറം, ചൂണ്ടുവിരല്‍ തീം, മൗസ് തീം, മൗസ് "
 "ബാഹ്യരൂപം മൗസ് തൊലികൾ, പോയിന്റർ നിറങ്ങൾ, പോയിന്റർ രൂപം"
@@ -982,34 +988,30 @@ msgid "Plasma Style"
 msgstr "പ്ലാസ്മ ശൈലി"
 
 #. +> trunk5 stable5
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:51
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:52
 msgctxt "Comment"
 msgid "Choose Plasma style"
 msgstr "പ്ലാസ്മ ശൈലി തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
-#: kcms/desktoptheme/kcm_desktoptheme.desktop:88
+#: kcms/desktoptheme/kcm_desktoptheme.desktop:91
 msgctxt "X-KDE-Keywords"
-msgid "Desktop Theme,Plasma Theme"
-msgstr "ഡെസ്ക്ടോപ്പ് തീം,പ്ലാസ്മ തീം"
+msgid ""
+"Desktop Theme,Plasma Theme,plasma style,desktop style,plasma skin,desktop "
+"skin,theme"
+msgstr ""
 
 #. +> trunk5 stable5
-#: kcms/desktoptheme/package/metadata.desktop:41
+#: kcms/desktoptheme/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Choose Plasma theme"
 msgstr "പ്ലാസ്മ തീം തിരഞ്ഞെടുക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: kcms/desktoptheme/plasma-themes.knsrc:2
 msgctxt "Name"
 msgid "Plasma Styles"
 msgstr "പ്ലാസ്മ ശൈലികൾ"
-
-#. +> stable5
-#: kcms/desktoptheme/plasma-themes.knsrc:2
-msgctxt "Name"
-msgid "Plasma Themes"
-msgstr "പ്ലാസ്മ തീമുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/feedback/kcm_feedback.desktop:12
@@ -1018,10 +1020,18 @@ msgid "User Feedback"
 msgstr "ഉപയോക്തൃ അഭിപ്രായം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/feedback/kcm_feedback.desktop:54
+#: kcms/feedback/kcm_feedback.desktop:55
 msgctxt "Comment"
 msgid "Configure user feedback settings"
 msgstr "ഉപയോക്തൃ അഭിപ്രായ സജ്ജീകരണങ്ങൾ ക്രമീകരിക്കുക"
+
+#. +> trunk5 stable5
+#: kcms/feedback/kcm_feedback.desktop:96
+msgctxt "X-KDE-Keywords"
+msgid ""
+"feedback,report,contact,data collection,statistics,usage,log,logging,"
+"telemetry"
+msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: kcms/feedback/package/metadata.desktop:2
@@ -1038,23 +1048,24 @@ msgid "Fonts"
 msgstr "ഫോണ്ടുകൾ"
 
 #. +> trunk5 stable5
-#: kcms/fonts/kcm_fonts.desktop:52 kcms/fonts/package/metadata.desktop:41
+#: kcms/fonts/kcm_fonts.desktop:53 kcms/fonts/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Configure user interface fonts"
 msgstr "സമ്പര്‍ക്ക മുഖ ഫോണ്ടുകൾ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5
-#: kcms/fonts/kcm_fonts.desktop:90
+#: kcms/fonts/kcm_fonts.desktop:92
+#, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid ""
 "fonts,font size,styles,charsets,character sets,panel,control panel,desktops,"
 "FileManager,Toolbars,Menu,Window Title,Title,DPI,anti-aliasing,desktop fonts,"
-"toolbar fonts,character,general fonts"
+"toolbar fonts,character,general fonts,typography,type,letters,character,"
+"hinting,sub-pixel,text,big text,change font,size"
 msgstr ""
-"ഫോണ്ടുകൾ,അക്ഷരവലുപ്പം,ശൈലികൾ,പ്രതീകങ്ങൾ,പ്രതീക സെറ്റുകൾ,പാളി,ക്രമീകരണ "
-"പാളി,ഡെസ്ക്ടോപ്പുകൾ,ഫയൽമാനേജർ,ഉപകരണപ്പട്ടകൾ,മെനു,ജാലക "
-"തലക്കെട്ട്,തലക്കെട്ട്,ഡിപിഐ,ആന്റി-അലിയാസിംഗ്,ഡെസ്ക് ഫോണ്ടുകൾ,ഉപകരണപ്പട്ട "
-"ഫോണ്ടുകൾ,പ്രതീകം,പൊതു ഫോണ്ടുകൾ"
+"ഫോണ്ടുകൾ,അക്ഷരവലുപ്പം,ശൈലികൾ,പ്രതീകങ്ങൾ,പ്രതീക സെറ്റുകൾ,പാളി,ക്രമീകരണ പാളി,ഡെസ്ക്ടോപ്പുകൾ,"
+"ഫയൽമാനേജർ,ഉപകരണപ്പട്ടകൾ,മെനു,ജാലക തലക്കെട്ട്,തലക്കെട്ട്,ഡിപിഐ,ആന്റി-അലിയാസിംഗ്,ഡെസ്ക് "
+"ഫോണ്ടുകൾ,ഉപകരണപ്പട്ട ഫോണ്ടുകൾ,പ്രതീകം,പൊതു ഫോണ്ടുകൾ"
 
 #. +> trunk5 stable5
 #: kcms/formats/formats.desktop:13
@@ -1063,19 +1074,20 @@ msgid "Formats"
 msgstr "ഫോർമാറ്റുകൾ"
 
 #. +> trunk5 stable5
-#: kcms/formats/formats.desktop:45
+#: kcms/formats/formats.desktop:47
 msgctxt "Comment"
 msgid "Numeric, Currency and Time Formats"
 msgstr "സംഖ്യ, കറൻസി, സമയ ഫോർമാറ്റുകൾ"
 
 #. +> trunk5 stable5
-#: kcms/formats/formats.desktop:78
+#: kcms/formats/formats.desktop:83
 msgctxt "X-KDE-Keywords"
 msgid ""
 "language,translation,number format,locale,Country,charsets,character sets,"
 "Decimal symbol,Thousands separator,symbol,separator,sign,positive,negative,"
 "currency,money,fractional digits,calendar,time,date,formats,week,week start,"
-"first,paper,size,letter,A4,measure,metric,English,Imperial"
+"first,paper,size,letter,A4,measure,metric,English,Imperial,region,"
+"measurement units,collation,sorting,date format"
 msgstr ""
 
 #. +> trunk5 stable5
@@ -1086,16 +1098,18 @@ msgid "Icons"
 msgstr "ചിഹ്നങ്ങൾ"
 
 #. +> trunk5 stable5
-#: kcms/icons/kcm_icons.desktop:53 kcms/icons/package/metadata.desktop:41
+#: kcms/icons/kcm_icons.desktop:54 kcms/icons/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Choose icon theme"
 msgstr "ചിഹന തീം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
-#: kcms/icons/kcm_icons.desktop:91
+#: kcms/icons/kcm_icons.desktop:94
 msgctxt "X-KDE-Keywords"
-msgid "icons,effects,size,hicolor,locolor"
-msgstr "ചിഹ്നങ്ങൾ,പ്രതീതികൾ,വലുപ്പം,ഉയർന്ന നിറം,കുറഞ്ഞ നിറം"
+msgid ""
+"icons,effects,size,hicolor,locolor,change icons,buttons,button theme,icon "
+"theme,theme,iconography"
+msgstr ""
 
 #. +> trunk5 stable5
 #: kcms/kfontinst/apps/installfont.desktop:7
@@ -1110,7 +1124,7 @@ msgid "KFontView"
 msgstr "കെഫോണ്ട്‍വ്യൂ"
 
 #. +> trunk5 stable5
-#: kcms/kfontinst/apps/org.kde.kfontview.desktop:44
+#: kcms/kfontinst/apps/org.kde.kfontview.desktop:45
 msgctxt "GenericName"
 msgid "Font Viewer"
 msgstr "അക്ഷരസഞ്ചയ ദർശിനി"
@@ -1122,13 +1136,13 @@ msgid "Font Installer"
 msgstr "അക്ഷരസഞ്ചയ ഇൻസ്റ്റാളർ"
 
 #. +> trunk5 stable5
-#: kcms/kfontinst/dbus/fontinst.actions:41
+#: kcms/kfontinst/dbus/fontinst.actions:42
 msgctxt "Name"
 msgid "Manage system-wide fonts."
 msgstr "സിസ്റ്റമാകമാനം ഫോണ്ടുകൾ നിയന്ത്രിക്കുക."
 
 #. +> trunk5 stable5
-#: kcms/kfontinst/dbus/fontinst.actions:78
+#: kcms/kfontinst/dbus/fontinst.actions:80
 msgctxt "Description"
 msgid "Modifying the system-wide font configuration requires privileges."
 msgstr "സിസ്റ്റം-വൈഡ് അക്ഷരസഞ്ചയ ക്രമീകരണം പരിഷ്ക്കരിക്കുന്നതിന് പ്രത്യേകാവകാശങ്ങൾ ആവശ്യമാണ്."
@@ -1140,13 +1154,13 @@ msgid "Font Management"
 msgstr "അക്ഷരസഞ്ചയ മാനേജ്മെന്റ്"
 
 #. +> trunk5 stable5
-#: kcms/kfontinst/kcmfontinst/fontinst.desktop:53
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:54
 msgctxt "Comment"
 msgid "Install, manage and preview fonts"
 msgstr "ഫോണ്ടുകൾ ഇൻസ്റ്റാൾ ചെയ്യുക, കൈകാര്യംചെയ്യുക, പൂര്‍വ്വദൃശ്യം ചെയ്യുക"
 
 #. +> trunk5 stable5
-#: kcms/kfontinst/kcmfontinst/fontinst.desktop:91
+#: kcms/kfontinst/kcmfontinst/fontinst.desktop:93
 msgctxt "X-KDE-Keywords"
 msgid "font,fonts,installer,truetype,type1,bitmap"
 msgstr "ഫോണ്ട്,ഫോണ്ടുകൾ,ഇൻസ്റ്റാളർ,ട്രൂടൈപ്പ്,ടൈപ്പ്1,ബിറ്റ്മാപ്"
@@ -1171,17 +1185,19 @@ msgid "Global Theme"
 msgstr "ആഗോള തീം"
 
 #. +> trunk5 stable5
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:53
-#: kcms/lookandfeel/package/metadata.desktop:41
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:54
+#: kcms/lookandfeel/package/metadata.desktop:42
 msgctxt "Comment"
 msgid "Choose global look and feel"
 msgstr "ആഗോള രൂപവും ഭാവവും തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5
-#: kcms/lookandfeel/kcm_lookandfeel.desktop:90
+#: kcms/lookandfeel/kcm_lookandfeel.desktop:93
 msgctxt "X-KDE-Keywords"
-msgid "theme, look, feel"
-msgstr "തീം, രൂപം, ഭാവം"
+msgid ""
+"theme,look,feel,global theme,desktop,appearance,skin, global,presentation,"
+"themes,design,UI"
+msgstr ""
 
 #. +> trunk5 stable5
 #: kcms/lookandfeel/lookandfeel.knsrc:2
@@ -1197,16 +1213,19 @@ msgid "Night Color"
 msgstr "രാത്രി നിറം"
 
 #. +> trunk5 stable5
-#: kcms/nightcolor/kcm_nightcolor.desktop:47
-#: kcms/nightcolor/package/metadata.desktop:34
+#: kcms/nightcolor/kcm_nightcolor.desktop:50
+#: kcms/nightcolor/package/metadata.desktop:37
 msgctxt "Comment"
 msgid "Adjust color temperature at night to reduce eye strain"
 msgstr "കണ്ണിന്റെ ബുദ്ധിമുട്ട് കുറയ്ക്കുന്നതിന് രാത്രിയിൽ വർണ്ണ താപനില ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5
-#: kcms/nightcolor/kcm_nightcolor.desktop:80
+#: kcms/nightcolor/kcm_nightcolor.desktop:86
 msgctxt "X-KDE-Keywords"
-msgid "kwin,window,manager,night,colors,redshift,eyes"
+msgid ""
+"kwin,window,manager,night,colors,redshift,eyes,night mode,colour,dark mode,"
+"dark,dim,sleep,eye strain,red,shift,orange,yellow,warm,screen tint,"
+"temperature"
 msgstr ""
 
 #. +> trunk5 stable5
@@ -1229,17 +1248,19 @@ msgid "Application Style"
 msgstr "ആപ്ലിക്കേഷൻ ശൈലികൾ"
 
 #. +> trunk5 stable5
-#: kcms/style/kcm_style.desktop:53 kcms/style/package/metadata.desktop:40
+#: kcms/style/kcm_style.desktop:54 kcms/style/package/metadata.desktop:41
 msgctxt "Comment"
 msgid "Configure application style and behavior"
 msgstr "അപ്ലിക്കേഷൻ ശൈലിയും പെരുമാറ്റവും ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5
-#: kcms/style/kcm_style.desktop:91
+#: kcms/style/kcm_style.desktop:93
+#, fuzzy
 msgctxt "X-KDE-Keywords"
 msgid ""
 "style,styles,look,widget,icons,toolbars,text,highlight,apps,KDE applications,"
-"theme,plasma,menu,global menu,GTK,GNOME"
+"theme,plasma,menu,global menu,GTK,GNOME,application style,app,programs,"
+"appearance,skin,themes,light mode,dark mode"
 msgstr ""
 "ശൈലി,ശൈലികൾ,രൂപം,വിഡ്ജറ്റ്,ചിഹനങ്ങൾ.ഉപകരണപ്പട്ടകൾ,പദാവലി,ഹൈലൈറ്റ്,ആപ്പുകൾ,കെഡിഇ "
 "ആപ്ലിക്കേഷനുകൾ,തീം,പ്ലാസ്മ മെനു,പൊതു മെനു,GTK,ഗ്നോം"
@@ -1252,11 +1273,19 @@ msgid "Language"
 msgstr "ഭാഷ"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcms/translations/kcm_translations.desktop:57
-#: kcms/translations/package/metadata.desktop:45
+#: kcms/translations/kcm_translations.desktop:58
+#: kcms/translations/package/metadata.desktop:46
 msgctxt "Comment"
 msgid "Change workspace and application languages"
 msgstr "വർക്ക്സ്പെയ്സിന്റെയും അപ്ലിക്കേഷന്റെയും ഭാഷകൾ മാറ്റുക"
+
+#. +> trunk5 stable5
+#: kcms/translations/kcm_translations.desktop:100
+msgctxt "X-KDE-Keywords"
+msgid ""
+"language,writing,text,idioms,dialect,words,region,regional,country,"
+"internationalization,locale"
+msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
 #: kioslave/desktop/desktopnotifier.desktop:3
@@ -1265,7 +1294,7 @@ msgid "Directory Watcher"
 msgstr "ഡയറക്ടറി നിരീക്ഷകൻ"
 
 #. +> trunk5 stable5 plasma5lts
-#: kioslave/desktop/desktopnotifier.desktop:59
+#: kioslave/desktop/desktopnotifier.desktop:60
 msgctxt "Comment"
 msgid "Monitors directories for changes"
 msgstr "മാറ്റങ്ങൾക്കായി ഡയറക്ടറികൾ നിരീക്ഷിക്കുന്നു"
@@ -1277,7 +1306,7 @@ msgid "Trash"
 msgstr "ചവറ്റുകുട്ട"
 
 #. +> trunk5 stable5 plasma5lts
-#: kioslave/desktop/directory.trash:53
+#: kioslave/desktop/directory.trash:54
 msgctxt "Comment"
 msgid "Contains removed files"
 msgstr "നീക്കംചെയ്ത ഫയലുകൾ അടങ്ങിയിരിക്കുന്നു"
@@ -1319,26 +1348,26 @@ msgid "Web-URL"
 msgstr "വെബ്-യുആര്‍എല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:286 klipper/klipperrc.desktop:1960
+#: klipper/klipperrc.desktop:286 klipper/klipperrc.desktop:1962
 msgctxt "Description"
 msgid "Open with &default Browser"
 msgstr "&സഹജമായ ബ്രൌസറില്‍ തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:369 klipper/klipperrc.desktop:2043
+#: klipper/klipperrc.desktop:369 klipper/klipperrc.desktop:2045
 msgctxt "Description"
 msgid "Open with &Konqueror"
 msgstr "&കോണ്‍ക്വററില്‍ തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:463 klipper/klipperrc.desktop:2136
+#: klipper/klipperrc.desktop:463 klipper/klipperrc.desktop:2138
 msgctxt "Description"
 msgid "Open with &Mozilla"
 msgstr "&മോസില്ലാ ഉപയോഗിച്ചു് തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:556 klipper/klipperrc.desktop:1396
-#: klipper/klipperrc.desktop:1678 klipper/klipperrc.desktop:2229
+#: klipper/klipperrc.desktop:556 klipper/klipperrc.desktop:1398
+#: klipper/klipperrc.desktop:1680 klipper/klipperrc.desktop:2231
 msgctxt "Description"
 msgid "Send &URL"
 msgstr "&യുആര്‍എല്‍ അയയ്ക്കുക"
@@ -1350,62 +1379,62 @@ msgid "Open with &Firefox"
 msgstr "&ഫയര്‍ഫോക്സില്‍ തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:741
+#: klipper/klipperrc.desktop:742
 msgctxt "Description"
 msgid "Send &Page"
 msgstr "&താള്‍ അയയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:835
+#: klipper/klipperrc.desktop:836
 msgctxt "Description"
 msgid "Mail-URL"
 msgstr "മെയില്‍-യുആര്‍എല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:929
+#: klipper/klipperrc.desktop:930
 msgctxt "Description"
 msgid "Launch &Kmail"
 msgstr "&കെമെയില്‍ ലഭ്യമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:1021
+#: klipper/klipperrc.desktop:1023
 msgctxt "Description"
 msgid "Launch &mutt"
 msgstr "&മട്ട് ലഭ്യമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:1113
+#: klipper/klipperrc.desktop:1115
 msgctxt "Description"
 msgid "Text File"
 msgstr "പദാവലി ഫയല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:1210
+#: klipper/klipperrc.desktop:1212
 msgctxt "Description"
 msgid "Launch K&Write"
 msgstr "കെ&റൈറ്റ് ലഭ്യമാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:1302
+#: klipper/klipperrc.desktop:1304
 msgctxt "Description"
 msgid "Local file URL"
 msgstr "ലോക്കല്‍ ഫയലിനുള്ള യുആര്‍എല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:1490 klipper/klipperrc.desktop:1772
-#: klipper/klipperrc.desktop:2323
+#: klipper/klipperrc.desktop:1492 klipper/klipperrc.desktop:1774
+#: klipper/klipperrc.desktop:2325
 msgctxt "Description"
 msgid "Send &File"
 msgstr "&ഫയല്‍ അയയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:1584
+#: klipper/klipperrc.desktop:1586
 msgctxt "Description"
 msgid "Gopher URL"
 msgstr "ഗോഫെര്‍ യുആര്‍എല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: klipper/klipperrc.desktop:1866
+#: klipper/klipperrc.desktop:1868
 msgctxt "Description"
 msgid "ftp URL"
 msgstr "എഫ്‌ടിപി യുആര്‍എല്‍"
@@ -1423,7 +1452,7 @@ msgid "KRunner"
 msgstr "കെറെണ്ണർ"
 
 #. +> trunk5 stable5 plasma5lts
-#: krunner/org.kde.krunner.desktop.cmake:67
+#: krunner/org.kde.krunner.desktop.cmake:68
 msgctxt "Name"
 msgid "Run command on clipboard contents"
 msgstr "ഓര്‍മ്മചെപ്പ് ഉള്ളടക്കങ്ങളിൽ ആജ്ഞ പ്രവർത്തിപ്പിക്കുക"
@@ -1447,7 +1476,7 @@ msgid "ColorCorrect Geolocation Updater"
 msgstr "കളർകറക്റ്റ് ജിയോലൊക്കേഷൻ അപ്ഡേറ്റർ"
 
 #. +> trunk5 stable5 plasma5lts
-#: libcolorcorrect/kded/colorcorrectlocationupdater.desktop:50
+#: libcolorcorrect/kded/colorcorrectlocationupdater.desktop:51
 msgctxt "Comment"
 msgid "Sends updated location data to the compositor"
 msgstr "അപ്ഡേറ്റുചെയ്ത ലൊക്കേഷൻ ഡാറ്റ അച്ചുനിരത്തുകാരനിലേക്ക് അയയ്ക്കുന്നു"
@@ -1459,10 +1488,10 @@ msgid "Plasma (Development, Wayland ${CMAKE_INSTALL_FULL_BINDIR})"
 msgstr "പ്ലാസ്മ (വികസനം, വേലാൻഡ് ${CMAKE_INSTALL_FULL_BINDIR})"
 
 #. +> trunk5 stable5 plasma5lts
-#: login-sessions/plasmawayland-dev.desktop.cmake:42
-#: login-sessions/plasmawayland.desktop.cmake:46
-#: login-sessions/plasmax11-dev.desktop.cmake:43
-#: login-sessions/plasmax11.desktop.cmake:41
+#: login-sessions/plasmawayland-dev.desktop.cmake:43
+#: login-sessions/plasmawayland.desktop.cmake:48
+#: login-sessions/plasmax11-dev.desktop.cmake:44
+#: login-sessions/plasmax11.desktop.cmake:44
 msgctxt "Comment"
 msgid "Plasma by KDE"
 msgstr "കെഡിഇയുടെ പ്ലാസ്മ"
@@ -1485,6 +1514,33 @@ msgctxt "Name"
 msgid "Plasma (X11)"
 msgstr "പ്ലാസ്മ (X11)"
 
+#. +> trunk5 stable5
+#: lookandfeel.dark/metadata.desktop:2
+#, fuzzy
+msgctxt "Comment"
+msgid "Breeze Dark by the KDE VDG"
+msgstr "കെഡിഇ വിഡിജിയുടെ ബ്രീസ്"
+
+#. +> trunk5 stable5
+#: lookandfeel.dark/metadata.desktop:25
+#, fuzzy
+msgctxt "Name"
+msgid "Breeze Dark"
+msgstr "ബ്രീസ്"
+
+#. +> trunk5 stable5
+#: lookandfeel.twilight/metadata.desktop:2
+#, fuzzy
+msgctxt "Comment"
+msgid "Breeze Twilight by the KDE VDG"
+msgstr "കെഡിഇ വിഡിജിയുടെ ബ്രീസ്"
+
+#. +> trunk5 stable5
+#: lookandfeel.twilight/metadata.desktop:26
+msgctxt "Name"
+msgid "Breeze Twilight"
+msgstr ""
+
 #. +> trunk5 stable5 plasma5lts
 #: lookandfeel/metadata.desktop:2
 msgctxt "Comment"
@@ -1492,7 +1548,7 @@ msgid "Breeze by the KDE VDG"
 msgstr "കെഡിഇ വിഡിജിയുടെ ബ്രീസ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: lookandfeel/metadata.desktop:41
+#: lookandfeel/metadata.desktop:43
 msgctxt "Keywords"
 msgid ""
 "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;"
@@ -1501,7 +1557,7 @@ msgstr ""
 "ഡെസ്ക്ടോപ്പ്;വർക്ക്സ്പേസ്;ബാഹ്യരൂപം;രൂപവും ഭാവവും;പുറത്തിറങ്ങുക;മയങ്ങുക;;നിഷ്ക്രിയമാക്കുക;അടയ്ക്കുക;"
 
 #. +> trunk5 stable5 plasma5lts
-#: lookandfeel/metadata.desktop:87 sddm-theme/metadata.desktop:2
+#: lookandfeel/metadata.desktop:91 sddm-theme/metadata.desktop:2
 msgctxt "Name"
 msgid "Breeze"
 msgstr "ബ്രീസ്"
@@ -1718,7 +1774,7 @@ msgid "Desktop"
 msgstr "ഡെസ്ക്ടോപ്പ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: menu/desktop/kf5-utilities-desktop.directory:60
+#: menu/desktop/kf5-utilities-desktop.directory:61
 msgctxt "Comment"
 msgid "Desktop"
 msgstr "ഡെസ്ക്ടോപ്പ്"
@@ -1730,7 +1786,7 @@ msgid "File"
 msgstr "ഫയല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: menu/desktop/kf5-utilities-file.directory:62
+#: menu/desktop/kf5-utilities-file.directory:63
 msgctxt "Comment"
 msgid "File"
 msgstr "ഫയല്‍"
@@ -1766,7 +1822,7 @@ msgid "X-Utilities"
 msgstr "എക്സ്-ഉപകരണങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: menu/desktop/kf5-utilities-xutils.directory:57
+#: menu/desktop/kf5-utilities-xutils.directory:58
 msgctxt "Comment"
 msgid "X Window Utilities"
 msgstr "എക്സ്-ജാലക ഉപകരണങ്ങള്‍"
@@ -1778,7 +1834,7 @@ msgid "Utilities"
 msgstr "ഉപകരണങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: menu/desktop/kf5-utilities.directory:61
+#: menu/desktop/kf5-utilities.directory:62
 msgctxt "Comment"
 msgid "Utilities"
 msgstr "ഉപകരണങ്ങൾ"
@@ -1796,13 +1852,13 @@ msgid "Application"
 msgstr "ആപ്ലിക്കേഷൻ"
 
 #. +> trunk5 stable5 plasma5lts
-#: phonon/platform_kde/phonon.notifyrc:134
+#: phonon/platform_kde/phonon.notifyrc:135
 msgctxt "Name"
 msgid "Audio Output Device Changed"
 msgstr "ശബ്ദ ഔട്ട്പുട്ട് ഉപകരണം മാറ്റി"
 
 #. +> trunk5 stable5 plasma5lts
-#: phonon/platform_kde/phonon.notifyrc:199
+#: phonon/platform_kde/phonon.notifyrc:201
 msgctxt "Comment"
 msgid "Notification when audio output device has automatically changed"
 msgstr "ശബ്ദ ഔട്ട്പുട്ട് ഉപകരണം യാന്ത്രികമായി മാറുമ്പോൾ അറിയിപ്പ്"
@@ -1820,7 +1876,7 @@ msgid "Plasma Windowed"
 msgstr "പ്ലാസ്മ ജാലകീകരിച്ചത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: plasma-windowed/plasma-windowed.desktop:51
+#: plasma-windowed/plasma-windowed.desktop:53
 msgctxt "Comment"
 msgid "Run Plasmoids as simple applications"
 msgstr "ലളിതമായ ആപ്ലിക്കേഷനുകളായി പ്ലാസ്മോയിഡുകൾ പ്രവർത്തിപ്പിക്കുക"
@@ -1832,7 +1888,7 @@ msgid "Software Center"
 msgstr "സോഫ്റ്റ്‍വെയർ സെന്റർ"
 
 #. +> trunk5 stable5 plasma5lts
-#: runners/appstream/plasma-runner-appstream.desktop:50
+#: runners/appstream/plasma-runner-appstream.desktop:51
 msgctxt "Comment"
 msgid "Lets you find software"
 msgstr "സോഫ്റ്റ്‍വെയൽ കണ്ടെത്താൻ നിങ്ങളെ അനുവദിക്കുന്നു"
@@ -1844,7 +1900,7 @@ msgid "Desktop Search"
 msgstr "ഡെസ്ക്ടോപ്പ് തിരയൽ"
 
 #. +> trunk5 stable5 plasma5lts
-#: runners/baloo/plasma-runner-baloosearch.desktop:55
+#: runners/baloo/plasma-runner-baloosearch.desktop:56
 msgctxt "Comment"
 msgid "Searches through files, emails and contacts"
 msgstr "ഫയലുകൾ, ഇമെയിലുകൾ, കോൺടാക്റ്റുകൾ എന്നിവയിലൂടെ തിരയുന്നു"
@@ -1982,7 +2038,7 @@ msgid "Web Shortcuts"
 msgstr "വെബിലെ കുറക്കുവഴികള്‍"
 
 #. +> trunk5 stable5
-#: runners/webshortcuts/plasma-runner-webshortcuts.desktop:39
+#: runners/webshortcuts/plasma-runner-webshortcuts.desktop:40
 msgctxt "Comment"
 msgid "Search the web using keywords"
 msgstr "കീവേഡുകൾ ഉപയോഗിച്ച് വെബിൽ തിരയുക"
@@ -2000,13 +2056,13 @@ msgid "Windowed widgets"
 msgstr "ജാലകീയ വിഡ്ജറ്റുകൾ"
 
 #. +> trunk5 stable5 plasma5lts
-#: runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:68
+#: runners/windowedwidgets/plasma-runner-windowedwidgets.desktop:69
 msgctxt "Comment"
 msgid "Find Plasma widgets that can be run as standalone windows"
 msgstr "ഒറ്റയ്ക്ക് ജാലകങ്ങളായി പ്രവർത്തിപ്പിക്കാൻ കഴിയുന്ന പ്ലാസ്മ വിഡ്ജറ്റുകൾ കണ്ടെത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: sddm-theme/metadata.desktop:53
+#: sddm-theme/metadata.desktop:54
 msgctxt "Description"
 msgid "Breeze"
 msgstr "ബ്രീസ്"
@@ -2054,7 +2110,7 @@ msgid "Drive Ejector"
 msgstr "ഡ്രൈവ് പുറത്തെടുക്കുവാന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: solidautoeject/solidautoeject.desktop:71
+#: solidautoeject/solidautoeject.desktop:72
 msgctxt "Comment"
 msgid "Automatically releases drives when their eject button is pushed"
 msgstr "പുറത്തെടുക്കുവാനുള്ള ബട്ടണ്‍ അമര്‍ത്തുബോള്‍ ഡ്രൈവുകള്‍ സ്വയം പുറത്തെടുക്കുന്നു"
@@ -2066,7 +2122,7 @@ msgid "Hardware Detection"
 msgstr "ഹാർഡ്‍വെയർ കണ്ടെത്തല്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: soliduiserver/soliduiserver.desktop:59
+#: soliduiserver/soliduiserver.desktop:60
 msgctxt "Comment"
 msgid "Provides a user interface for hardware events"
 msgstr "ഹാർഡ്‍വെയർ സംഭവങ്ങൾക്കായി ഒരു സമ്പര്‍ക്ക മുഖം നൽകുന്നു"
@@ -2078,7 +2134,7 @@ msgid "Status Notifier Manager"
 msgstr "അവസ്ഥ അറിയിപ്പു കാര്യസ്ഥന്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: statusnotifierwatcher/statusnotifierwatcher.desktop:66
+#: statusnotifierwatcher/statusnotifierwatcher.desktop:67
 msgctxt "Comment"
 msgid "Manages services that provide status notifier user interfaces"
 msgstr "അവസ്ഥാ അറിയിപ്പ് സമ്പര്‍ക്ക മുഖങ്ങൾ നൽകുന്ന സേവനങ്ങൾ നിയന്ത്രിക്കുന്നു"
@@ -2090,7 +2146,7 @@ msgid "KSysguard"
 msgstr "കെസിസ്ഗാർഡ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: systemmonitor/ksysguard.desktop:61
+#: systemmonitor/ksysguard.desktop:62
 msgctxt "Comment"
 msgid "Launches KSysguard on Ctrl + Escape"
 msgstr "Ctrl + എസ്കേപ്പ് അമർത്തുമ്പോൾ കെസിസ്ഗാർഡ് തുറക്കുന്നു"
@@ -2210,7 +2266,7 @@ msgid "Plain Color"
 msgstr "പ്ലെയിൻ നിറം"
 
 #. +> trunk5 stable5 plasma5lts
-#: wallpapers/color/metadata.desktop:58
+#: wallpapers/color/metadata.desktop:59
 msgctxt "Comment"
 msgid "Plain color wallpaper"
 msgstr "പ്ലെയിൻ നിറ പശ്ചാത്തലചിത്രം"
@@ -2222,7 +2278,7 @@ msgid "Color"
 msgstr "നിറം"
 
 #. +> trunk5 stable5 plasma5lts
-#: wallpapers/color/plasma-wallpaper-color.desktop:58
+#: wallpapers/color/plasma-wallpaper-color.desktop:59
 msgctxt "Comment"
 msgid "A plain color or gradient"
 msgstr "ഒരു പ്ലെയിൻ നിറം അല്ലെങ്കിൽ ഗ്രേഡിയന്റ്"
@@ -2263,22 +2319,6 @@ msgctxt "Name"
 msgid "XembedSniProxy"
 msgstr "എക്സ്എമ്പെഡ്സ്നിപ്രോക്സി"
 
-#. +> stable5 plasma5lts
-#: templates/ion-dataengine/ion-dataengine.kdevtemplate:3
-msgctxt "Name"
-msgid "Plasma Weather Ion Dataengine"
-msgstr "പ്ലാസ്മ കാലാവസ്ഥ അയോൺ ഡാറ്റായന്ത്രം"
-
-#. +> stable5 plasma5lts
-#: templates/ion-dataengine/ion-dataengine.kdevtemplate:46
-msgctxt "Comment"
-msgid ""
-"A special Plasma sub-dataengine for the Plasma Weather dataengine, providing "
-"access to one weather data service provider"
-msgstr ""
-"ഒരു കാലാവസ്ഥാ ഡാറ്റാ സേവനദാതാവിന് സമീപനം നൽകുന്ന പ്ലാസ്മ കാലാവസ്ഥാ ഡാറ്റാ യന്ത്രത്തിനായി "
-"ഒരു പ്രത്യേക പ്ലാസ്മ ഉപഡാറ്റാ യന്ത്രം"
-
 #. +> plasma5lts
 #: login-sessions/plasma.desktop.cmake:6
 msgctxt "Name"
@@ -2308,6 +2348,38 @@ msgstr "ജാലകങ്ങള്‍"
 msgctxt "Comment"
 msgid "List windows and desktops and switch them"
 msgstr "ജാലകങ്ങളും പണിയിടങ്ങളും പട്ടികയായി കണ്ടു് പരസ്പരം മാറുക"
+
+#. +> plasma5lts
+#: templates/ion-dataengine/ion-dataengine.kdevtemplate:3
+msgctxt "Name"
+msgid "Plasma Weather Ion Dataengine"
+msgstr "പ്ലാസ്മ കാലാവസ്ഥ അയോൺ ഡാറ്റായന്ത്രം"
+
+#. +> plasma5lts
+#: templates/ion-dataengine/ion-dataengine.kdevtemplate:42
+msgctxt "Comment"
+msgid ""
+"A special Plasma sub-dataengine for the Plasma Weather dataengine, providing "
+"access to one weather data service provider"
+msgstr ""
+"ഒരു കാലാവസ്ഥാ ഡാറ്റാ സേവനദാതാവിന് സമീപനം നൽകുന്ന പ്ലാസ്മ കാലാവസ്ഥാ ഡാറ്റാ യന്ത്രത്തിനായി "
+"ഒരു പ്രത്യേക പ്ലാസ്മ ഉപഡാറ്റാ യന്ത്രം"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "Desktop Theme,Plasma Theme"
+#~ msgstr "ഡെസ്ക്ടോപ്പ് തീം,പ്ലാസ്മ തീം"
+
+#~ msgctxt "Name"
+#~ msgid "Plasma Themes"
+#~ msgstr "പ്ലാസ്മ തീമുകൾ"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "icons,effects,size,hicolor,locolor"
+#~ msgstr "ചിഹ്നങ്ങൾ,പ്രതീതികൾ,വലുപ്പം,ഉയർന്ന നിറം,കുറഞ്ഞ നിറം"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "theme, look, feel"
+#~ msgstr "തീം, രൂപം, ഭാവം"
 
 #~ msgctxt "X-KDE-Keywords"
 #~ msgid ""

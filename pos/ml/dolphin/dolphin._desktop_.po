@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-10 09:40+0200\n"
+"POT-Creation-Date: 2021-09-21 15:08+0200\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc.org.in>\n"
+"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
+"org.in>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,19 +20,19 @@ msgid "Dolphin View"
 msgstr "ഡോള്‍ഫിന്‍ അവതരണരീതി"
 
 #. +> trunk5 stable5
-#: src/dolphinpart.desktop.in:73
+#: src/dolphinpart.desktop.in:74
 msgctxt "Name"
 msgid "Icons"
 msgstr "സൂചനാചിത്രങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: src/dolphinpart.desktop.in:130
+#: src/dolphinpart.desktop.in:132
 msgctxt "Name"
 msgid "Compact"
 msgstr "തിങ്ങിയത്"
 
 #. +> trunk5 stable5
-#: src/dolphinpart.desktop.in:186
+#: src/dolphinpart.desktop.in:189
 msgctxt "Name"
 msgid "Details"
 msgstr "വിശദമായി"
@@ -43,7 +44,7 @@ msgid "Dolphin"
 msgstr "ഡോള്‍ഫിന്‍"
 
 #. +> trunk5 stable5
-#: src/org.kde.dolphin.desktop:59
+#: src/org.kde.dolphin.desktop:60
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "ഫയല്‍ മാനേജര്‍"
@@ -55,27 +56,27 @@ msgid "Dolphin General"
 msgstr "ഡോൾഫിൻ ജനറൽ"
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:53
+#: src/settings/kcm/kcmdolphingeneral.desktop:54
 msgctxt "Comment"
 msgid "This service allows configuration of general Dolphin settings."
 msgstr "പൊതുവായ ഡോള്‍ഫിന്‍ സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിക്കുന്നു."
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:113
+#: src/settings/kcm/kcmdolphingeneral.desktop:115
 msgctxt "Name|Random file browsing settings."
 msgid "General"
 msgstr "പൊതുവായതു്"
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:164
+#: src/settings/kcm/kcmdolphingeneral.desktop:167
 msgctxt "Comment"
 msgid "Configure general file manager settings"
 msgstr "ഫയൽ മാനേജറിന്റെ പൊതുവായ സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:215
-#: src/settings/kcm/kcmdolphinnavigation.desktop:216
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:212
+#: src/settings/kcm/kcmdolphingeneral.desktop:219
+#: src/settings/kcm/kcmdolphinnavigation.desktop:220
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:216
 msgctxt "X-KDE-Keywords"
 msgid "file manager"
 msgstr "ഫയൽ മാനേജർ"
@@ -87,19 +88,19 @@ msgid "Dolphin Navigation"
 msgstr "ഡോള്‍ഫിന്‍ നാവിഗേഷന്‍"
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinnavigation.desktop:53
+#: src/settings/kcm/kcmdolphinnavigation.desktop:54
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin navigation."
 msgstr "ഡോള്‍ഫിന്‍ നാവിഗേഷൻ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിയ്ക്കുന്നു."
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinnavigation.desktop:112
+#: src/settings/kcm/kcmdolphinnavigation.desktop:114
 msgctxt "Name"
 msgid "Navigation"
 msgstr "നാവിഗേഷന്‍"
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinnavigation.desktop:164
+#: src/settings/kcm/kcmdolphinnavigation.desktop:167
 msgctxt "Comment"
 msgid "Configure file manager navigation"
 msgstr "ഫയല്‍ മാനേജർ നാവിഗേഷൻ ക്രമീകരിയ്ക്കുക"
@@ -111,19 +112,19 @@ msgid "Dolphin View Modes"
 msgstr "ഡോള്‍ഫിന്‍ അവതരണദശകള്‍"
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:52
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:53
 msgctxt "Comment"
 msgid "This service allows configuration of the Dolphin view modes."
 msgstr "ഡോള്‍ഫിന്‍ അവതരണദശകള്‍ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിയ്ക്കുന്നു."
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:110
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:112
 msgctxt "Name"
 msgid "View Modes"
 msgstr "അവതരണ രീതികള്‍"
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:161
+#: src/settings/kcm/kcmdolphinviewmodes.desktop:164
 msgctxt "Comment"
 msgid "Configure file manager view modes"
 msgstr "ഫയല്‍ മാനേജറിന്റെ അവതരണ രീതികള്‍ ക്രമീകരിയ്ക്കുക"

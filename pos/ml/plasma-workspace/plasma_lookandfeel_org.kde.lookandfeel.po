@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_lookandfeel_org.kde.lookandfeel\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2021-09-17 09:27+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -38,13 +38,13 @@ msgid "Log In"
 msgstr "അകത്ത് കടക്കുക "
 
 #. +> trunk5 stable5 plasma5lts
-#: ../sddm-theme/Main.qml:190 contents/lockscreen/LockScreenUi.qml:243
+#: ../sddm-theme/Main.qml:191 contents/lockscreen/LockScreenUi.qml:243
 #, kde-format
 msgid "Caps Lock is on"
 msgstr "ക്യാപ്‌സ് ലോക്ക് ഓണാണ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ../sddm-theme/Main.qml:202 ../sddm-theme/Main.qml:391
+#: ../sddm-theme/Main.qml:203 ../sddm-theme/Main.qml:455
 #: contents/logout/Logout.qml:163
 #, kde-format
 msgctxt "Suspend to RAM"
@@ -52,54 +52,53 @@ msgid "Sleep"
 msgstr "സ്ലീപ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ../sddm-theme/Main.qml:210 ../sddm-theme/Main.qml:399
+#: ../sddm-theme/Main.qml:211 ../sddm-theme/Main.qml:463
 #: contents/logout/Logout.qml:181
 #, kde-format
 msgid "Restart"
 msgstr "പുനരാരംഭിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: ../sddm-theme/Main.qml:218 ../sddm-theme/Main.qml:407
+#: ../sddm-theme/Main.qml:219 ../sddm-theme/Main.qml:471
 #: contents/logout/Logout.qml:191
 #, kde-format
 msgid "Shut Down"
 msgstr "ഷട്ട് ഡൌൺ"
 
-#. +> trunk5
-#: ../sddm-theme/Main.qml:226
+#. +> trunk5 stable5
+#: ../sddm-theme/Main.qml:227
 #, kde-format
 msgctxt "For switching to a username and password prompt"
 msgid "Other…"
 msgstr "മറ്റുള്ളവ…"
 
-#. +> stable5 plasma5lts
-#: ../sddm-theme/Main.qml:239
-#, kde-format
+#. +> plasma5lts
+#: ../sddm-theme/Main.qml:226
 msgctxt "For switching to a username and password prompt"
 msgid "Other..."
 msgstr "മറ്റുള്ളവ..."
 
 #. +> trunk5 stable5 plasma5lts
-#: ../sddm-theme/Main.qml:379
+#: ../sddm-theme/Main.qml:443
 #, kde-format
 msgid "Type in Username and Password"
 msgstr "ഉപയോക്തൃനാമവും രഹസ്യവാക്കും ടൈപ്പുചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: ../sddm-theme/Main.qml:415
+#: ../sddm-theme/Main.qml:479
 #, kde-format
 msgid "List Users"
 msgstr "ഉപയോക്താക്കളെ പട്ടികപ്പെടുത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: ../sddm-theme/Main.qml:488 contents/lockscreen/LockScreenUi.qml:505
+#: ../sddm-theme/Main.qml:552 contents/lockscreen/LockScreenUi.qml:506
 #, kde-format
 msgctxt "Button to show/hide virtual keyboard"
 msgid "Virtual Keyboard"
 msgstr "വെർച്വൽ കീബോർഡ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: ../sddm-theme/Main.qml:517
+#: ../sddm-theme/Main.qml:581
 #, kde-format
 msgid "Login Failed"
 msgstr "അകത്ത്കടക്കുന്നത് പരാജയപ്പെട്ടു"
@@ -204,25 +203,25 @@ msgid "Switch User"
 msgstr "ഉപയോക്താവിനെ മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/lockscreen/LockScreenUi.qml:452
+#: contents/lockscreen/LockScreenUi.qml:453
 #, kde-format
 msgid "Switch to This Session"
 msgstr "ഈ സെഷനിലേക്ക് സ്വിച്ചുചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/lockscreen/LockScreenUi.qml:460
+#: contents/lockscreen/LockScreenUi.qml:461
 #, kde-format
 msgid "Start New Session"
 msgstr "പുതിയ സെഷൻ ആരംഭിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/lockscreen/LockScreenUi.qml:473
+#: contents/lockscreen/LockScreenUi.qml:474
 #, kde-format
 msgid "Back"
 msgstr "തിരികെ"
 
 #. +> trunk5 stable5 plasma5lts
-#: contents/lockscreen/LockScreenUi.qml:519
+#: contents/lockscreen/LockScreenUi.qml:520
 #, kde-format
 msgctxt "Button to change keyboard layout"
 msgid "Switch layout"
@@ -353,42 +352,39 @@ msgstr "ക്രമീകരിക്കുക"
 msgid "Configure Search Plugins"
 msgstr "തിരയൽ പ്ലഗിനുകൾ ക്രമീകരിക്കുക"
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/runcommand/RunCommand.qml:78
 #, kde-format
 msgid "Configure KRunner…"
 msgstr "KRunner ക്രമീകരിക്കുക…"
 
-#. +> stable5 plasma5lts
-#: contents/runcommand/RunCommand.qml:89
-#, kde-format
+#. +> plasma5lts
+#: contents/runcommand/RunCommand.qml:64
 msgid "Configure KRunner..."
 msgstr "KRunner ക്രമീകരിക്കുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/runcommand/RunCommand.qml:92
 #, kde-format
 msgctxt "Textfield placeholder text, query specific KRunner"
 msgid "Search '%1'…"
 msgstr "'%1' തിരയുക…"
 
-#. +> stable5 plasma5lts
-#: contents/runcommand/RunCommand.qml:103
-#, kde-format
+#. +> plasma5lts
+#: contents/runcommand/RunCommand.qml:76
 msgctxt "Textfield placeholder text, query specific KRunner"
 msgid "Search '%1'..."
 msgstr "'%1' തിരയുക..."
 
-#. +> trunk5
+#. +> trunk5 stable5
 #: contents/runcommand/RunCommand.qml:94
 #, kde-format
 msgctxt "Textfield placeholder text"
 msgid "Search…"
 msgstr "തിരയുക…"
 
-#. +> stable5 plasma5lts
-#: contents/runcommand/RunCommand.qml:105
-#, kde-format
+#. +> plasma5lts
+#: contents/runcommand/RunCommand.qml:78
 msgctxt "Textfield placeholder text"
 msgid "Search..."
 msgstr "തിരയുക..."
@@ -440,9 +436,18 @@ msgstr "നീക്കംചെയ്യുക"
 msgid "in category recent queries"
 msgstr "സമീപകാല അന്വേഷണ വിഭാഗത്തിനുള്ളിൽ"
 
-#. +> trunk5 stable5 plasma5lts
-#: contents/splash/Splash.qml:88
+#. +> trunk5 stable5
+#: contents/splash/Splash.qml:80
 #, kde-format
+msgctxt ""
+"This is the first text the user sees while starting in the splash screen, "
+"should be translated as something short, is a form that can be seen on a "
+"product. Plasma is the project name so shouldn't be translated."
+msgid "Plasma 25th Anniversary Edition by KDE"
+msgstr ""
+
+#. +> plasma5lts
+#: contents/splash/Splash.qml:94
 msgctxt ""
 "This is the first text the user sees while starting in the splash screen, "
 "should be translated as something short, is a form that can be seen on a "
