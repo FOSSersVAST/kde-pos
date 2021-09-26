@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: kfontinst\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-18 09:12+0200\n"
-"PO-Revision-Date: 2021-09-09 12:59+0000\n"
+"PO-Revision-Date: 2021-09-26 16:00+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
 "Language: ml\n"
@@ -22,13 +22,13 @@ msgstr ""
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "അനി പീറ്റര്‍"
+msgstr "അനി പീറ്റര്‍,സുബിൻ സിബി"
 
 #. +> trunk5 stable5 plasma5lts
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "peter.ani@gmail.com"
+msgstr "peter.ani@gmail.com,mail@subinsb.com"
 
 #. +> trunk5 stable5 plasma5lts
 #: apps/Installer.cpp:35 kcmfontinst/KCmFontInst.cpp:955
