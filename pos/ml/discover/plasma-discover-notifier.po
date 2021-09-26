@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-24 12:12+0200\n"
-"PO-Revision-Date: 2021-09-09 13:59+0000\n"
-"Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
+"PO-Revision-Date: 2021-09-26 16:02+0000\n"
+"Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/discover/"
 "plasma-discover-notifier/ml/>\n"
 "Language: ml\n"
@@ -147,7 +147,7 @@ msgstr "നിസരി കെ കെ"
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
+msgstr "nisarikoolath@gmail.com"
 
 #. +> trunk5 stable5 plasma5lts
 #: notifier/main.cpp:51
