@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-07-12 09:45+0200\n"
-"PO-Revision-Date: 2021-09-09 12:59+0000\n"
+"PO-Revision-Date: 2021-09-26 16:01+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/systemsettings/"
 "systemsettings_desktop/ml/>\n"
@@ -30,7 +30,7 @@ msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 #: app/kdesystemsettings.desktop:132 app/systemsettings.desktop:183
 msgctxt "Comment"
 msgid "Configuration tools for your computer"
-msgstr ""
+msgstr "നിങ്ങളുടെ കമ്പ്യൂട്ടറിനുള്ള ക്രമീകരണങ്ങൾ"
 
 #. +> trunk5 stable5 plasma5lts
 #: app/systemsettings.desktop:11
@@ -48,34 +48,31 @@ msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങള്‍"
 #: app/systemsettings.desktop:236
 msgctxt "Name"
 msgid "Global Theme"
-msgstr ""
+msgstr "ആഗോള പ്രമേയം"
 
 #. +> trunk5 stable5
 #: app/systemsettings.desktop:278
 msgctxt "Name"
 msgid "Users"
-msgstr ""
+msgstr "ഉപയോക്താക്കൾ"
 
 #. +> trunk5 stable5
 #: app/systemsettings.desktop:320
 msgctxt "Name"
 msgid "Screen Locking"
-msgstr ""
+msgstr "സ്ക്രീന്‍ പൂട്ടൽ"
 
 #. +> trunk5 stable5
 #: app/systemsettings.desktop:361
 msgctxt "Name"
 msgid "Energy Saving"
-msgstr ""
+msgstr "ഊർജ്ജ സംരക്ഷണം"
 
 #. +> trunk5 stable5
 #: app/systemsettings.desktop:403
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Display and Monitor"
 msgctxt "Name"
 msgid "Display Configuration"
-msgstr "മോണിറ്ററും ഡിസ്‌പ്ലേയും"
+msgstr "പ്രദര്‍ശന ക്രമീകരണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: categories/hidden.desktop:7
@@ -219,7 +216,7 @@ msgstr "വ്യക്തിഗതമാക്കൽ"
 #: categories/settings-root-category.desktop:9
 msgctxt "Name"
 msgid "Root"
-msgstr ""
+msgstr "റൂട്ട്"
 
 #. +> trunk5 stable5 plasma5lts
 #: categories/settings-system-administration.desktop:9
