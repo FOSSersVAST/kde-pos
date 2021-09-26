@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: systemsettings\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-09-25 14:30+0200\n"
-"PO-Revision-Date: 2021-09-26 16:01+0000\n"
+"PO-Revision-Date: 2021-09-27 16:59+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/systemsettings/"
 "systemsettings/ml/>\n"
@@ -145,15 +145,15 @@ msgstr "ക്രമീകരിക്കുക..."
 
 #. +> trunk5
 #: app/SettingsBase.cpp:168
-#, fuzzy, kde-format
+#, kde-format
 msgid "Switch to Icon View"
-msgstr "ചിഹ്നങ്ങളായി കാണുക"
+msgstr "ചിഹ്ന കാഴ്ചയിലേക്ക് മാറ്റുക"
 
 #. +> trunk5
 #: app/SettingsBase.cpp:175
-#, fuzzy, kde-format
+#, kde-format
 msgid "Switch to Sidebar View"
-msgstr "സൈഡ്‌ബാർ കാഴ്ച"
+msgstr "സൈഡ്‌ബാർ കാഴ്ചയിലേക്ക് മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: app/SettingsBase.cpp:203
