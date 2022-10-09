@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2022-05-20 15:50+0200\n"
 "PO-Revision-Date: 2021-03-08 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -19,8 +19,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.4\n"
 
-#. +> trunk5 stable5
-#: calculatorrunner.cpp:40
+#. +> trunk5 stable5 plasma5lts
+#: calculatorrunner.cpp:33
 #, kde-format
 msgid ""
 "Calculates the value of :q: when :q: is made up of numbers and mathematical "
@@ -29,33 +29,30 @@ msgstr ""
 ":q: സംഖ്യകളുടെയും +, -, /, *, !, ^ പോലെയുള്ള ഗണിതചിഹ്നങ്ങളുടെയും ഒപ്പം ചേർത്ത് എഴുതുമ്പോൾ :"
 "q: വിന്റെ മൂല്യം കണക്കാക്കുന്നു."
 
-#. +> plasma5lts
-#: calculatorrunner.cpp:57
-#, kde-format
-msgid ""
-"Calculates the value of :q: when :q: is made up of numbers and mathematical "
-"symbols such as +, -, /, * and ^."
-msgstr ""
-":q: സംഖ്യകളുടെയും +, -, /, *, ^ പോലെയുള്ള ഗണിതചിഹ്നങ്ങളുടെയും ഒപ്പം ചേർത്ത് എഴുതുമ്പോൾ :q: "
-"വിന്റെ മൂല്യം കണക്കാക്കുന്നു."
-
 #. +> trunk5 stable5 plasma5lts
-#: calculatorrunner.cpp:46
+#: calculatorrunner.cpp:39
 #, kde-format
 msgid "Copy to Clipboard"
 msgstr "ഓർമ്മച്ചെപ്പിലേക്ക് പകർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: calculatorrunner.cpp:273
+#: calculatorrunner.cpp:129
 #, kde-format
 msgctxt "The result of the calculation is only an approximation"
 msgid "Approximation"
 msgstr "ഏകദേശീകരണം"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> plasma5lts
 #: qalculate_engine.cpp:61
 #, kde-format
 msgid ""
 "The exchange rates could not be updated. The following error has been "
 "reported: %1"
 msgstr "വിനിമയ നിരക്കുകൾ പുതുക്കാൻ കഴിഞ്ഞില്ല. ഇനിപ്പറയുന്ന പിശക് റിപ്പോർട്ടുചെയ്തു: %1"
+
+#~ msgid ""
+#~ "Calculates the value of :q: when :q: is made up of numbers and "
+#~ "mathematical symbols such as +, -, /, * and ^."
+#~ msgstr ""
+#~ ":q: സംഖ്യകളുടെയും +, -, /, *, ^ പോലെയുള്ള ഗണിതചിഹ്നങ്ങളുടെയും ഒപ്പം ചേർത്ത് എഴുതുമ്പോൾ :"
+#~ "q: വിന്റെ മൂല്യം കണക്കാക്കുന്നു."

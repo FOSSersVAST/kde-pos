@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xml_mimetypes\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-07-14 09:58+0200\n"
+"POT-Creation-Date: 2022-07-06 06:29+0200\n"
 "PO-Revision-Date: 2021-08-27 13:50+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathantra Malayalam Computing |  സ്വതന്ത്ര മലയാള കമ്പ്യൂട്ടിങ് "
@@ -337,37 +337,35 @@ msgid "Softimage PIC image"
 msgstr "സോഫ്റ്റ്‌ഇമേജ് പിക്ക് ചിത്രം"
 
 #. +> trunk5
-#: kde5.xml.podir/kde5.xml.in.h:63
-msgctxt "comment"
-msgid "Qt Markup Language file"
-msgstr "ക്യുടി മാർക്ക്അപ്പ് ഭാഷാ ഫയൽ"
-
-#. +> trunk5
-#: kde5.xml.podir/kde5.xml.in.h:64
+#: kde5.xml.podir/kde5.xml.in.h:62
 msgctxt "comment"
 msgid "KConfigXT Configuration Options"
 msgstr "KConfigXT ക്രമീകരണ ഓപ്ഷനുകൾ"
 
 #. +> trunk5
-#: kde5.xml.podir/kde5.xml.in.h:65
+#: kde5.xml.podir/kde5.xml.in.h:63
 msgctxt "comment"
 msgid "KConfigXT Code Generation Options"
 msgstr "KConfigXT കോഡ് ജനറേഷൻ ഓപ്ഷനുകൾ"
 
 #. +> trunk5
-#: kde5.xml.podir/kde5.xml.in.h:66
+#: kde5.xml.podir/kde5.xml.in.h:64
 msgctxt "comment"
 msgid "KXMLGUI UI Declaration"
 msgstr "KXMLGUI UI പ്രഖ്യാപനം"
 
 #. +> trunk5
-#: kde5.xml.podir/kde5.xml.in.h:67
+#: kde5.xml.podir/kde5.xml.in.h:65
 msgctxt "comment"
 msgid "KNotification Declaration"
 msgstr "KNotification പ്രഖ്യാപനം"
 
 #. +> trunk5
-#: kde5.xml.podir/kde5.xml.in.h:68
+#: kde5.xml.podir/kde5.xml.in.h:66
 msgctxt "comment"
 msgid "KCrash Report"
 msgstr "കെക്രാഷ് റിപ്പോർട്ട്"
+
+#~ msgctxt "comment"
+#~ msgid "Qt Markup Language file"
+#~ msgstr "ക്യുടി മാർക്ക്അപ്പ് ഭാഷാ ഫയൽ"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: krunner_sessions\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2022-05-20 15:50+0200\n"
 "PO-Revision-Date: 2021-03-08 13:23+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -120,6 +120,12 @@ msgstr "മറ്റൊരു ഉപയോക്താവായി ഒരു പ
 msgid "new session"
 msgstr "പുതിയ പ്രവര്‍ത്തനവേള"
 
+#. +> plasma5lts
+#: sessionrunner.cpp:136
+#, kde-format
+msgid "New Session"
+msgstr "പുതിയ പ്രവര്‍ത്തനവേള"
+
 #. +> trunk5 stable5 plasma5lts
 #: sessionrunner.cpp:50
 #, kde-format
@@ -171,11 +177,11 @@ msgctxt "User sessions"
 msgid "sessions"
 msgstr "സെഷനുകൾ"
 
-#. +> trunk5 stable5 plasma5lts
+#. +> trunk5 stable5
 #: sessionrunner.cpp:136
-#, kde-format
-msgid "New Session"
-msgstr "പുതിയ പ്രവര്‍ത്തനവേള"
+#, fuzzy, kde-format
+msgid "Switch User"
+msgstr "ഉപയോക്താവിനെ മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
 #: sessionrunner.cpp:211
@@ -183,7 +189,7 @@ msgstr "പുതിയ പ്രവര്‍ത്തനവേള"
 msgid "Warning - New Session"
 msgstr "മുന്നറിയിപ്പു് - പുതിയ സെഷൻ"
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: sessionrunner.cpp:212
 #, kde-format
 msgid ""
@@ -202,20 +208,19 @@ msgstr ""
 "എന്നിവ ഒരേ സമയം അമര്‍ത്താം. ഇതു് കൂടാതെ, കെഡിഇയിലെ പ്ലാസ്മ പാളിയിലും പണിയിടത്തിലെ "
 "വിഭവസൂചിയിലും സെഷനുകൾ തമ്മില്‍ മാറുവാനുള്ള നടപടികളുണ്ടു്.</p>"
 
-#. +> plasma5lts
-#: sessionrunner.cpp:250
-#, kde-format
-msgid ""
-"<p>You have chosen to open another desktop session.<br />The current session "
-"will be hidden and a new login screen will be displayed.<br />An F-key is "
-"assigned to each session; F%1 is usually assigned to the first session, F%2 "
-"to the second session and so on. You can switch between sessions by pressing "
-"Ctrl, Alt and the appropriate F-key at the same time. Additionally, the KDE "
-"Panel and Desktop menus have actions for switching between sessions.</p>"
-msgstr ""
-"<p>മറ്റൊരു സെഷൻ തുടങ്ങാന്‍ നിങ്ങള്‍ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു.<br />ഇപ്പോഴുള്ള സെഷൻ ഒളിപ്പിയ്ക്കുകയും "
-"പുതിയ അകത്തുകയറുന്നതിനുള്ള തിരശ്ശീല കാണിയ്ക്കുന്നതുമായിരിയ്ക്കും..<br />ഒരു F-കീ ഓരോ പ്രവര്‍"
-"ത്തനവേളയ്ക്കും നല്‍കിയിട്ടുണ്ടു്; F%1 സാധാരണയായി ആദ്യത്തെ സെഷനാണ് നല്‍കാറുള്ളതു്, F%2 "
-"രണ്ടാമത്തേതിനും എന്ന ക്രമത്തില്‍. ഈ പ്രവര്‍ത്തനവേളകള്‍ക്കിടയില്‍ പരസ്പരം മാറുന്നതിനു് കണ്ട്രോള്‍, ആള്‍ട്ട് "
-"പിന്നെ യോജിച്ച F-കീ എന്നിവ ഒരേ സമയം അമര്‍ത്താം. ഇതു് കൂടാതെ, കെഡിഇയിലെ പാളിയിലും "
-"പണിയിടത്തിലെ വിഭവസൂചിയിലും സെഷനുകൾ തമ്മില്‍ മാറുവാനുള്ള നടപടികളുണ്ടു്.</p>"
+#~ msgid ""
+#~ "<p>You have chosen to open another desktop session.<br />The current "
+#~ "session will be hidden and a new login screen will be displayed.<br />An "
+#~ "F-key is assigned to each session; F%1 is usually assigned to the first "
+#~ "session, F%2 to the second session and so on. You can switch between "
+#~ "sessions by pressing Ctrl, Alt and the appropriate F-key at the same "
+#~ "time. Additionally, the KDE Panel and Desktop menus have actions for "
+#~ "switching between sessions.</p>"
+#~ msgstr ""
+#~ "<p>മറ്റൊരു സെഷൻ തുടങ്ങാന്‍ നിങ്ങള്‍ തെരഞ്ഞെടുത്തിരിയ്ക്കുന്നു.<br />ഇപ്പോഴുള്ള സെഷൻ "
+#~ "ഒളിപ്പിയ്ക്കുകയും പുതിയ അകത്തുകയറുന്നതിനുള്ള തിരശ്ശീല കാണിയ്ക്കുന്നതുമായിരിയ്ക്കും..<br />ഒരു F-"
+#~ "കീ ഓരോ പ്രവര്‍ത്തനവേളയ്ക്കും നല്‍കിയിട്ടുണ്ടു്; F%1 സാധാരണയായി ആദ്യത്തെ സെഷനാണ് നല്‍കാറുള്ളതു്, F"
+#~ "%2 രണ്ടാമത്തേതിനും എന്ന ക്രമത്തില്‍. ഈ പ്രവര്‍ത്തനവേളകള്‍ക്കിടയില്‍ പരസ്പരം മാറുന്നതിനു് "
+#~ "കണ്ട്രോള്‍, ആള്‍ട്ട് പിന്നെ യോജിച്ച F-കീ എന്നിവ ഒരേ സമയം അമര്‍ത്താം. ഇതു് കൂടാതെ, "
+#~ "കെഡിഇയിലെ പാളിയിലും പണിയിടത്തിലെ വിഭവസൂചിയിലും സെഷനുകൾ തമ്മില്‍ മാറുവാനുള്ള "
+#~ "നടപടികളുണ്ടു്.</p>"

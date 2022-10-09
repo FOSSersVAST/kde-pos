@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: org.kde.systemsettings.metainfo\n"
-"POT-Creation-Date: 2020-05-14 23:09+0200\n"
+"POT-Creation-Date: 2022-06-17 07:39+0200\n"
 "PO-Revision-Date: 2021-09-26 16:01+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/systemsettings/"
@@ -15,19 +15,19 @@ msgstr ""
 
 #. (itstool) path: component/name
 #. +> trunk5 stable5 plasma5lts
-#: org.kde.systemsettings.metainfo.xml:3
+#: org.kde.systemsettings.metainfo.xml:19
 msgid "System Settings"
 msgstr "സിസ്റ്റം സജ്ജീകരണങ്ങൾ"
 
 #. (itstool) path: component/summary
 #. +> trunk5 stable5 plasma5lts
-#: org.kde.systemsettings.metainfo.xml:4
+#: org.kde.systemsettings.metainfo.xml:20
 msgid "Configuration tools for your computer"
 msgstr "നിങ്ങളുടെ കമ്പ്യൂട്ടറിനുള്ള ക്രമീകരണങ്ങൾ"
 
 #. (itstool) path: description/p
 #. +> trunk5 stable5 plasma5lts
-#: org.kde.systemsettings.metainfo.xml:17
+#: org.kde.systemsettings.metainfo.xml:23
 msgid ""
 "System Settings allows you to configure and tweak your KDE Plasma desktop to "
 "make it better meet your needs."

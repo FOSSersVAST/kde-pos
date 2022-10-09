@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-11 13:07+0200\n"
+"POT-Creation-Date: 2022-10-06 08:42+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -40,37 +40,37 @@ msgid "Configure Mouse Actions Plugin"
 msgstr "മൗസ് പ്രവർത്തന പ്ലഗിൻ ക്രമീകരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:95
+#: main.cpp:88
 #, kde-format
 msgid "Plasma"
 msgstr "പ്ലാസ്മ"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:95
+#: main.cpp:88
 #, kde-format
 msgid "Plasma Shell"
 msgstr "പ്ലാസ്മ ഷെൽ"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:107
+#: main.cpp:100
 #, kde-format
 msgid "Enable QML Javascript debugger"
 msgstr "QML ജാവാസ്ക്രിപ്റ്റ് ഡീബഗ്ഗർ പ്രവർത്തനക്ഷമമാകുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:110
+#: main.cpp:103
 #, kde-format
 msgid "Do not restart plasma-shell automatically after a crash"
 msgstr "തകർച്ചക് ശേഷം പ്ലാസ്മ-ഷെൽ വീണ്ടും ആരംഭിക്കാതിരിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:113
+#: main.cpp:106
 #, kde-format
 msgid "Force loading the given shell plugin"
 msgstr "നിർബന്ധമായി തന്നിരിക്കുന്ന ഷെൽ പ്ലഗിൻ ലോഡ് ചെയുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:118
+#: main.cpp:111
 #, kde-format
 msgid ""
 "Load plasmashell as a standalone application, needs the shell-plugin option "
@@ -80,13 +80,13 @@ msgstr ""
 "പറഞ്ഞിരിക്കണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:120
+#: main.cpp:113
 #, kde-format
 msgid "Replace an existing instance"
 msgstr "ഇപ്പോൾ ഉള്ളതിൽ നിന്ന് മാറ്റുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:123
+#: main.cpp:116
 #, kde-format
 msgid ""
 "Enables test mode and specifies the layout javascript file to set up the "
@@ -96,25 +96,25 @@ msgstr ""
 "ജാവാസ്ക്രിപ്റ്റ് ഫയൽ വ്യക്തമാക്കുകയും ചെയ്യുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:124
+#: main.cpp:117
 #, kde-format
 msgid "file"
 msgstr "ഫയൽ"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:128
+#: main.cpp:121
 #, kde-format
 msgid "Lists the available options for user feedback"
 msgstr "ഉപയോക്തൃ അഭിപ്രായത്തിനായി ലഭ്യമായ ഓപ്ഷനുകൾ പട്ടികപ്പെടുത്തുന്നു"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:224
+#: main.cpp:221
 #, kde-format
 msgid "Plasma Failed To Start"
 msgstr "പ്ലാസ്മ തുടങ്ങുവാൻ സാധിച്ചില്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: main.cpp:225
+#: main.cpp:222
 #, kde-format
 msgid ""
 "Plasma is unable to start as it could not correctly use OpenGL 2 or software "
@@ -126,84 +126,84 @@ msgstr ""
 "ദയവായി ഗ്രാഫിക്സ് ഡ്രൈവർ പരിശോധിക്കുക."
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:53
+#: osd.cpp:54
 #, kde-format
 msgctxt "OSD informing that the system is muted, keep short"
 msgid "Audio Muted"
 msgstr "ഒച്ചയില്ലാതാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:71
+#: osd.cpp:72
 #, kde-format
 msgctxt "OSD informing that the microphone is muted, keep short"
 msgid "Microphone Muted"
 msgstr "ഉച്ചഭാഷിണി നിശബ്ദമാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:87
+#: osd.cpp:88
 #, kde-format
 msgctxt "OSD informing that some media app is muted, eg. Amarok Muted"
 msgid "%1 Muted"
 msgstr "%1 നിശബ്ദമാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:109
+#: osd.cpp:110
 #, kde-format
 msgctxt "touchpad was enabled, keep short"
 msgid "Touchpad On"
 msgstr "ടച്ച്പാഡ് ഓണാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:111
+#: osd.cpp:112
 #, kde-format
 msgctxt "touchpad was disabled, keep short"
 msgid "Touchpad Off"
 msgstr "ടച്ച്പാഡ് ഓഫാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:118
+#: osd.cpp:119
 #, kde-format
 msgctxt "wireless lan was enabled, keep short"
 msgid "Wifi On"
 msgstr "വൈഫൈ ഓണാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:120
+#: osd.cpp:121
 #, kde-format
 msgctxt "wireless lan was disabled, keep short"
 msgid "Wifi Off"
 msgstr "വൈഫൈ ഓഫാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:127
+#: osd.cpp:128
 #, kde-format
 msgctxt "Bluetooth was enabled, keep short"
 msgid "Bluetooth On"
 msgstr "ബ്ലൂടൂത്ത് ഓണാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:129
+#: osd.cpp:130
 #, kde-format
 msgctxt "Bluetooth was disabled, keep short"
 msgid "Bluetooth Off"
 msgstr "ബ്ലൂടൂത്ത് ഓഫാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:136
+#: osd.cpp:137
 #, kde-format
 msgctxt "mobile internet was enabled, keep short"
 msgid "Mobile Internet On"
 msgstr "മൊബൈൽ ഇന്റർനെറ്റ് ഓണാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:138
+#: osd.cpp:139
 #, kde-format
 msgctxt "mobile internet was disabled, keep short"
 msgid "Mobile Internet Off"
 msgstr "മൊബൈൽ ഇന്റർനെറ്റ് ഓഫാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:146
+#: osd.cpp:147
 #, kde-format
 msgctxt ""
 "on screen keyboard was enabled because physical keyboard got unplugged, keep "
@@ -212,7 +212,7 @@ msgid "On-Screen Keyboard Activated"
 msgstr "സ്ക്രീനിലെ കീബോര്ഡ് ഓണാക്കി"
 
 #. +> trunk5 stable5 plasma5lts
-#: osd.cpp:149
+#: osd.cpp:150
 #, kde-format
 msgctxt ""
 "on screen keyboard was disabled because physical keyboard was plugged in, "
@@ -220,68 +220,87 @@ msgctxt ""
 msgid "On-Screen Keyboard Deactivated"
 msgstr "സ്ക്രീനിലെ കീബോര്ഡ് ഓഫാക്കി"
 
+#. +> trunk5 stable5
+#: shellcontainmentconfig.cpp:129
+#, kde-format
+msgid "Unknown %1"
+msgstr ""
+
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:141 shellcorona.cpp:143
+#: shellcorona.cpp:170 shellcorona.cpp:172
 #, kde-format
 msgid "Show Desktop"
 msgstr "പണിയിടം കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:143
+#: shellcorona.cpp:172
 #, kde-format
 msgid "Hide Desktop"
 msgstr "പണിയിടം ഒളിപ്പിക്കുക"
 
-#. +> trunk5 stable5
-#: shellcorona.cpp:159
+#. +> trunk5 stable5 plasma5lts
+#: shellcorona.cpp:188
 #, kde-format
 msgid "Show Activity Switcher"
 msgstr "പ്രവൃത്തി സ്വിച്ചർ കാണിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:170
+#: shellcorona.cpp:199
 #, kde-format
 msgid "Stop Current Activity"
 msgstr "ഇപ്പോഴത്തെ പ്രവർത്തനം നിർത്തുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:178
+#: shellcorona.cpp:207
 #, kde-format
 msgid "Switch to Previous Activity"
 msgstr "മുമ്പത്തെ പ്രവർത്തനത്തിലേക്ക് മാറുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:186
+#: shellcorona.cpp:215
 #, kde-format
 msgid "Switch to Next Activity"
 msgstr "അടുത്ത പ്രവർത്തനത്തിലേക്ക് മാറുക"
 
-#. +> plasma5lts
-#: shellcorona.cpp:193
-#, kde-format
-msgid "Activities..."
-msgstr "പ്രവർത്തനങ്ങൾ..."
-
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:202
+#: shellcorona.cpp:231
 #, kde-format
 msgid "Activate Task Manager Entry %1"
 msgstr "ടാസ്ക് മാനേജർ ഇനം %1 സജീവമാക്കുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:1370
+#. +> trunk5 stable5
+#: shellcorona.cpp:257
+#, kde-format
+msgid "Manage Desktops And Panels..."
+msgstr ""
+
+#. +> trunk5 stable5
+#: shellcorona.cpp:278
+#, kde-format
+msgid "Move keyboard focus between panels"
+msgstr ""
+
+#. +> plasma5lts
+#: shellcorona.cpp:1301
 #, kde-format
 msgid "Unable to load script file: %1"
 msgstr "സ്ക്രിപ്റ്റ് ഫയൽ ലോഡ് ചെയ്യാൻ സാധിച്ചില്ല: %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:1681
+#: shellcorona.cpp:1800
 #, kde-format
 msgid "Add Panel"
 msgstr "പാളി ചേർക്കുക"
 
-#. +> trunk5 stable5 plasma5lts
-#: shellcorona.cpp:1718
+#. +> trunk5 stable5
+#: shellcorona.cpp:1837
+#, fuzzy, kde-format
+msgctxt "Creates an empty containment (%1 is the containment name)"
+msgid "Empty %1"
+msgstr "%1 കാലി"
+
+#. +> plasma5lts
+#: shellcorona.cpp:1649
 #, kde-format
 msgid "Empty %1"
 msgstr "%1 കാലി"
@@ -323,3 +342,6 @@ msgstr "പാളി എണ്ണം"
 #, kde-format
 msgid "Counts the panels"
 msgstr "പാളികൾ എണ്ണുന്നു"
+
+#~ msgid "Activities..."
+#~ msgstr "പ്രവർത്തനങ്ങൾ..."

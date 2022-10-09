@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmfonts\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-17 09:27+0200\n"
+"POT-Creation-Date: 2022-05-20 15:50+0200\n"
 "PO-Revision-Date: 2021-09-09 12:59+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -20,154 +20,130 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.7.2\n"
 
-#. +> trunk5 stable5 plasma5lts
-#, kde-format
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "ഷിജു അലക്സ്, ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ ജെ"
-
-#. +> trunk5 stable5 plasma5lts
-#, kde-format
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
-
-#. +> trunk5 stable5 plasma5lts
-#: fonts.cpp:56
-#, kde-format
-msgid "Fonts"
-msgstr "ഫോണ്ടുകൾ"
-
-#. +> trunk5 stable5 plasma5lts
-#: fonts.cpp:57
-#, kde-format
-msgid "Antonis Tsiapaliokas"
-msgstr "ആന്റോണിസ് സിയപലിയോകാസ്"
-
 #. i18n: ectx: label, entry (forceFontDPIWayland), group (General)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: fontsaasettingsbase.kcfg:9
 #, kde-format
 msgid "Force font DPI Wayland"
 msgstr "വേലൻഡിൽ ഫോണ്ട് ഡിപിഐ നിർബന്ധിക്കുക"
 
 #. i18n: ectx: label, entry (forceFontDPI), group (General)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: fontsaasettingsbase.kcfg:13
 #, kde-format
 msgid "Force font DPI on X11"
 msgstr "X11ൽ ഫോണ്ട് ഡിപിഐ നിർബന്ധിക്കുക"
 
 #. i18n: ectx: label, entry (font), group (General)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: fontssettings.kcfg:9
 #, kde-format
 msgid "General font"
 msgstr "സാധാരണ ഫോണ്ട്"
 
 #. i18n: ectx: label, entry (fixed), group (General)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: fontssettings.kcfg:21
 #, kde-format
 msgid "Fixed width font"
 msgstr "തുല്യ വീതിയുള്ള ഫോണ്ട്"
 
 #. i18n: ectx: label, entry (smallestReadableFont), group (General)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: fontssettings.kcfg:33
 #, kde-format
 msgid "Small font"
 msgstr "ചെറിയ ഫോണ്ട്"
 
 #. i18n: ectx: label, entry (toolBarFont), group (General)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: fontssettings.kcfg:45
 #, kde-format
 msgid "Tool bar font"
 msgstr "ഉപകരണപ്പട്ടയുടെ ഫോണ്ട്"
 
 #. i18n: ectx: label, entry (menuFont), group (General)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: fontssettings.kcfg:57
 #, kde-format
 msgid "Menu font"
 msgstr "മെനു അക്ഷരസഞ്ചയം"
 
 #. i18n: ectx: label, entry (activeFont), group (WM)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: fontssettings.kcfg:71
 #, kde-format
 msgid "Window title font"
 msgstr "ജാലകത്തിന്റെ തലക്കെട്ടിനുള്ള ഫോണ്ട്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:454
+#: kxftconfig.cpp:458
 #, kde-format
 msgctxt "use system subpixel setting"
 msgid "Vendor default"
 msgstr "സിസ്റ്റം തനത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:456
+#: kxftconfig.cpp:460
 #, kde-format
 msgctxt "no subpixel rendering"
 msgid "None"
 msgstr "ഒന്നുമല്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:458
+#: kxftconfig.cpp:462
 #, kde-format
 msgid "RGB"
 msgstr "ആര്‍ജിബി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:460
+#: kxftconfig.cpp:464
 #, kde-format
 msgid "BGR"
 msgstr "ബിജിആര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:462
+#: kxftconfig.cpp:466
 #, kde-format
 msgid "Vertical RGB"
 msgstr "വെര്‍ട്ടിക്കല്‍ ആര്‍ജിബി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:464
+#: kxftconfig.cpp:468
 #, kde-format
 msgid "Vertical BGR"
 msgstr "വെര്‍ട്ടിക്കല്‍ ബിജിആര്‍"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:492
+#: kxftconfig.cpp:496
 #, kde-format
 msgctxt "use system hinting settings"
 msgid "Vendor default"
 msgstr "സിസ്റ്റം തനത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:494
+#: kxftconfig.cpp:498
 #, kde-format
 msgctxt "medium hinting"
 msgid "Medium"
 msgstr "മദ്ധ്യം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:496
+#: kxftconfig.cpp:500
 #, kde-format
 msgctxt "no hinting"
 msgid "None"
 msgstr "ഒന്നുമില്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:498
+#: kxftconfig.cpp:502
 #, kde-format
 msgctxt "slight hinting"
 msgid "Slight"
 msgstr "ചെറുതായി"
 
 #. +> trunk5 stable5 plasma5lts
-#: kxftconfig.cpp:500
+#: kxftconfig.cpp:504
 #, kde-format
 msgctxt "full hinting"
 msgid "Full"
@@ -179,7 +155,7 @@ msgstr "പൂർണ്ണമായി"
 msgid "This module lets you configure the system fonts."
 msgstr "സിസ്റ്റം ഫോണ്ടുകൾ ക്രമീകരിക്കാൻ ഈ മൊഡ്യൂൾ നിങ്ങളെ അനുവദിക്കുന്നു."
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:26
 #, kde-format
 msgid "Change Display Scaling…"
@@ -194,7 +170,7 @@ msgid ""
 msgstr ""
 "ആന്റി-അലിയാസിങ് പോലുള്ള മാറ്റങ്ങള്‍ പുതുതായി ആരംഭിക്കുന്ന പ്രയോഗങ്ങളില്‍ മാത്രമേ ലഭ്യമാകുള്ളൂ."
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:51
 #, kde-format
 msgid ""
@@ -205,7 +181,15 @@ msgstr ""
 "വലുപ്പം കൂട്ടാൻ നോക്കുക."
 
 #. +> trunk5 stable5
-#: package/contents/ui/main.qml:71
+#: package/contents/ui/main.qml:72
+#, kde-format
+msgid ""
+"Decimal font sizes can cause text layout problems in some applications. "
+"Consider using only integer font sizes."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:94
 #, kde-format
 msgid ""
 "The recommended way to scale the user interface is using the global screen "
@@ -214,104 +198,98 @@ msgstr ""
 "ഉപയോക്തൃ ഇന്റർഫേസ് വലുതാക്കാനുള്ള നല്ല മാർഗം ആഗോള സ്ക്രീൻ വലുപ്പ മാറ്റൽ പ്രക്രിയ "
 "ഉപയോഗിക്കുന്നതാണ്."
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:83
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:106
 #, kde-format
 msgid "&Adjust All Fonts…"
 msgstr "എല്ലാ അക്ഷരസഞ്ചയങ്ങളും ക്രമീകരിക്കുക… (&A)"
 
-#. +> plasma5lts
-#: package/contents/ui/main.qml:55
-#, kde-format
-msgid "&Adjust All Fonts..."
-msgstr "എല്ലാ ഫോണ്ടുകളും ക്രമീകരിക്കുക... (&A)"
-
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:96
+#: package/contents/ui/main.qml:119
 #, kde-format
 msgid "General:"
 msgstr "പൊതുവായ:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:97
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:120
 #, kde-format
 msgid "Select general font"
 msgstr "പൊതുവായ അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:108
+#: package/contents/ui/main.qml:131
 #, kde-format
 msgid "Fixed width:"
 msgstr "തുല്ല്യ വീതി:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:109
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:132
 #, kde-format
 msgid "Select fixed width font"
 msgstr "തുല്ല്യ വീതിയുള്ള അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:120
+#: package/contents/ui/main.qml:143
 #, kde-format
 msgid "Small:"
 msgstr "ചെറുത്:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:121
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:144
 #, kde-format
 msgid "Select small font"
 msgstr "ചെറിയ അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:132
+#: package/contents/ui/main.qml:155
 #, kde-format
 msgid "Toolbar:"
 msgstr "ഉപകരണപട്ട:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:133
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:156
 #, kde-format
 msgid "Select toolbar font"
 msgstr "ഉപകരണപട്ടയ്ക്കായിള്ള അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:144
+#: package/contents/ui/main.qml:167
 #, kde-format
 msgid "Menu:"
 msgstr "മെനു:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:145
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:168
 #, kde-format
 msgid "Select menu font"
 msgstr "മെനു അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:155
+#: package/contents/ui/main.qml:178
 #, kde-format
 msgid "Window title:"
 msgstr "ജാലക തലക്കെട്ട്:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:156
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:179
 #, kde-format
 msgid "Select window title font"
 msgstr "ജാലക തലക്കെട്ടിനായുള്ള അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:171
+#: package/contents/ui/main.qml:194
 #, kde-format
 msgid "Anti-Aliasing:"
 msgstr "ആന്റി-ഏലിയാസിങ്:"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:176
+#: package/contents/ui/main.qml:199
 #, kde-format
 msgid "Enable"
 msgstr "പ്രവർത്തനക്ഷമമാക്കുക"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:180
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:203
 #, kde-kuit-format
 msgctxt "@info:tooltip Anti-Aliasing"
 msgid ""
@@ -328,32 +306,32 @@ msgstr ""
 "നിലനിർത്തുന്നതാണ് നല്ലത്."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:194
+#: package/contents/ui/main.qml:217
 #, kde-format
 msgid "Exclude range from anti-aliasing"
 msgstr "ആന്റി-ഏലിയാസിംഗിൽ നിന്നുള്ള ശ്രേണി ഒഴിവാക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:213 package/contents/ui/main.qml:236
+#: package/contents/ui/main.qml:236 package/contents/ui/main.qml:259
 #, kde-format
 msgid "%1 pt"
 msgstr "%1 pt"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:228
+#: package/contents/ui/main.qml:251
 #, kde-format
 msgid "to"
 msgstr "മുതൽ"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:259
+#: package/contents/ui/main.qml:282
 #, kde-format
 msgctxt "Used as a noun, and precedes a combobox full of options"
 msgid "Sub-pixel rendering:"
 msgstr "ഉപ പിക്സൽ റെൻഡറിംഗ്:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:301
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:324
 #, kde-kuit-format
 msgctxt "@info:tooltip Sub-pixel rendering"
 msgid ""
@@ -376,14 +354,14 @@ msgstr ""
 "പിന്തുണയ്ക്കുന്നില്ല.</para>ഇത് സിആർടി മോണിറ്ററുകളിൽ പ്രവർത്തിക്കുന്നതല്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:306
+#: package/contents/ui/main.qml:329
 #, kde-format
 msgctxt "Used as a noun, and precedes a combobox full of options"
 msgid "Hinting:"
 msgstr "ഹിന്റിങ് രീതി:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:347
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:370
 #, kde-kuit-format
 msgctxt "@info:tooltip Hinting"
 msgid ""
@@ -398,48 +376,74 @@ msgstr ""
 "സാമ്യം കുറവായിരിക്കും."
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:357
+#: package/contents/ui/main.qml:380
 #, kde-format
 msgid "Force font DPI:"
 msgstr "അക്ഷരസഞ്ചയങ്ങളുടെ ഡിപിഐ നിര്‍ബന്ധമായാക്കേണ്ടതു്:"
 
-#. +> trunk5 stable5
-#: package/contents/ui/main.qml:399
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:422
 #, kde-kuit-format
 msgctxt "@info:tooltip Force fonts DPI"
 msgid ""
-"<para>This option forces a specific DPI value for fonts. It may be useful "
-"when the real DPI of the hardware is not detected properly and it is also "
-"often misused when poor quality fonts are used that do not look well with "
-"DPI values other than 96 or 120 DPI.</para><para>The use of this option is "
-"generally discouraged.</para><para>If you are using the <emphasis>X Window "
-"System</emphasis>, for selecting the proper DPI value a better option is "
-"explicitly configuring it for the whole X server if possible (e.g. "
-"DisplaySize in xorg.conf). When fonts do not render properly with the real "
-"DPI value better fonts should be used or configuration of font hinting "
-"should be checked.</para>"
+"<para>Enter your screen's DPI here to make on-screen fonts match their "
+"physical sizes when printed. Changing this option from its default value "
+"will conflict with many apps; some icons and images may not scale as "
+"expected.</para><para>To increase text size, change the size of the fonts "
+"above. To scale everything, use the scaling slider on the <interface>Display "
+"& Monitor</interface> page.</para>"
 msgstr ""
-"<para>ഈ ഓപ്ഷൻ ഫോണ്ടുകൾക്കായി ഒരു നിർദ്ദിഷ്ട ഡിപിഐ മൂല്യത്തെ നിർബന്ധിക്കുന്നു. ശരിയായിട്ടുള്ള "
-"ഡിപിഐ ഹാര്‍ഡ്‍വെയര്‍ കണ്ടെത്താനാകാത്ത സമയത്ത് ഇതു ഉപകാരപ്രദമാകും, നിലവാരം കുറഞ്ഞ ഫോണ്ടുകൾ അതു "
-"96 അല്ലേങ്കില്‍ 120 ഡിപിഐയിലും കാണുവാന്‍ സുഖപ്രദമല്ലാത്തതു ഉപയോഗിക്കുമ്പോൾ ഇത് ദുരുപയോഗപെടുന്നു.</"
-"para><para>ഈ വഴി തിരഞ്ഞെടുക്കാന്‍ സാധാരണഗതിയിൽ പ്രേരിപ്പിക്കുന്നില്ല.</para><para>നിങ്ങൾ "
-"<emphasis>എക്സ് വിൻഡോ സിസ്റ്റം</emphasis> ഉപയോഗിക്കുകയാണെങ്കിൽ, ശരിയായ ഡിപിഐ മൂല്യം "
-"തിരഞ്ഞെടുക്കുന്നതിന് ഒരു മികച്ച ഓപ്ഷൻ ഉണ്ട്. അതുവഴി മുഴുവൻ എക്സ് സെർവറിനും വ്യക്തമായി "
-"ക്രമീകരിക്കുന്നു സാധ്യമാണ് (ഉദാ. xorg.conf- ൽ DisplaySize). യഥാർത്ഥ ഡിപിഐ മൂല്യം "
-"ഉപയോഗിച്ച് ഫോണ്ടുകൾ ശരിയായി റെൻഡർ ചെയ്യാത്തപ്പോൾ മികച്ച ഫോണ്ടുകൾ ഉപയോഗിക്കണം അല്ലെങ്കിൽ "
-"ഫോണ്ടുകളുടെ ഹിന്റിംഗ് ക്രമീകരണം പരിശോധിക്കണം.</para>"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:405
+#: package/contents/ui/main.qml:428
 #, kde-format
 msgid "Select Font"
 msgstr "അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക"
 
-#. +> plasma5lts
-#: package/contents/ui/FontWidget.qml:65
-#, kde-format
-msgid "Select %1 Font..."
-msgstr "%1 അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക..."
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "ഷിജു അലക്സ്, ശങ്കരനാരായണന്‍ എന്‍ എം, വിവേക് കെ ജെ"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr ""
+#~ "shijualexonline@gmail.com,snalledam@dataone.in,vivekkj2004@gmail.com"
+
+#~ msgid "Fonts"
+#~ msgstr "ഫോണ്ടുകൾ"
+
+#~ msgid "Antonis Tsiapaliokas"
+#~ msgstr "ആന്റോണിസ് സിയപലിയോകാസ്"
+
+#~ msgid "&Adjust All Fonts..."
+#~ msgstr "എല്ലാ ഫോണ്ടുകളും ക്രമീകരിക്കുക... (&A)"
+
+#~ msgctxt "@info:tooltip Force fonts DPI"
+#~ msgid ""
+#~ "<para>This option forces a specific DPI value for fonts. It may be useful "
+#~ "when the real DPI of the hardware is not detected properly and it is also "
+#~ "often misused when poor quality fonts are used that do not look well with "
+#~ "DPI values other than 96 or 120 DPI.</para><para>The use of this option "
+#~ "is generally discouraged.</para><para>If you are using the <emphasis>X "
+#~ "Window System</emphasis>, for selecting the proper DPI value a better "
+#~ "option is explicitly configuring it for the whole X server if possible (e."
+#~ "g. DisplaySize in xorg.conf). When fonts do not render properly with the "
+#~ "real DPI value better fonts should be used or configuration of font "
+#~ "hinting should be checked.</para>"
+#~ msgstr ""
+#~ "<para>ഈ ഓപ്ഷൻ ഫോണ്ടുകൾക്കായി ഒരു നിർദ്ദിഷ്ട ഡിപിഐ മൂല്യത്തെ നിർബന്ധിക്കുന്നു. "
+#~ "ശരിയായിട്ടുള്ള ഡിപിഐ ഹാര്‍ഡ്‍വെയര്‍ കണ്ടെത്താനാകാത്ത സമയത്ത് ഇതു ഉപകാരപ്രദമാകും, നിലവാരം "
+#~ "കുറഞ്ഞ ഫോണ്ടുകൾ അതു 96 അല്ലേങ്കില്‍ 120 ഡിപിഐയിലും കാണുവാന്‍ സുഖപ്രദമല്ലാത്തതു ഉപയോഗിക്കുമ്പോൾ "
+#~ "ഇത് ദുരുപയോഗപെടുന്നു.</para><para>ഈ വഴി തിരഞ്ഞെടുക്കാന്‍ സാധാരണഗതിയിൽ "
+#~ "പ്രേരിപ്പിക്കുന്നില്ല.</para><para>നിങ്ങൾ <emphasis>എക്സ് വിൻഡോ സിസ്റ്റം</emphasis> "
+#~ "ഉപയോഗിക്കുകയാണെങ്കിൽ, ശരിയായ ഡിപിഐ മൂല്യം തിരഞ്ഞെടുക്കുന്നതിന് ഒരു മികച്ച ഓപ്ഷൻ ഉണ്ട്. "
+#~ "അതുവഴി മുഴുവൻ എക്സ് സെർവറിനും വ്യക്തമായി ക്രമീകരിക്കുന്നു സാധ്യമാണ് (ഉദാ. xorg.conf- ൽ "
+#~ "DisplaySize). യഥാർത്ഥ ഡിപിഐ മൂല്യം ഉപയോഗിച്ച് ഫോണ്ടുകൾ ശരിയായി റെൻഡർ ചെയ്യാത്തപ്പോൾ "
+#~ "മികച്ച ഫോണ്ടുകൾ ഉപയോഗിക്കണം അല്ലെങ്കിൽ ഫോണ്ടുകളുടെ ഹിന്റിംഗ് ക്രമീകരണം പരിശോധിക്കണം.</"
+#~ "para>"
+
+#~ msgid "Select %1 Font..."
+#~ msgstr "%1 അക്ഷരസഞ്ചയം തിരഞ്ഞെടുക്കുക..."
 
 #~ msgid "Change Display Scaling..."
 #~ msgstr "ഡിസ്പ്ലേ സ്കെയിലിംഗ് മാറ്റുക..."

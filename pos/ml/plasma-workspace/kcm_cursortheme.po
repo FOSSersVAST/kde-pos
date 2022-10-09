@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcminput\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-17 09:27+0200\n"
+"POT-Creation-Date: 2022-10-01 08:24+0200\n"
 "PO-Revision-Date: 2021-08-19 13:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -20,96 +20,53 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.7.2\n"
 
-#. +> trunk5 stable5 plasma5lts
-#, kde-format
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "Shiju Alex,Subin Siby, Vivek K J"
-
-#. +> trunk5 stable5 plasma5lts
-#, kde-format
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "shijualexonline@gmail.com,mail@subinsb.com,vivekkj2004@gmail.com"
-
 #. i18n: ectx: label, entry (cursorTheme), group (Mouse)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: cursorthemesettings.kcfg:9
 #, kde-format
 msgid "Name of the current cursor theme"
 msgstr "ഇപ്പോഴത്തെ ചൂണ്ടുവിരലിന്റെ പ്രമേയനാമം"
 
 #. i18n: ectx: label, entry (cursorSize), group (Mouse)
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: cursorthemesettings.kcfg:13
 #, kde-format
 msgid "Current cursor size"
 msgstr "ഇപ്പോഴത്തെ ചൂണ്ടുവിരൽ വലിപ്പം"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:62
-#, kde-format
-msgid "Cursors"
-msgstr "ചൂണ്ടുവിരലുകൾ"
-
-#. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:66
-#, kde-format
-msgid "(c) 2003-2007 Fredrik Höglund"
-msgstr "(c) 2003-2007 ഫ്രെഡ്രിക് ഹഗ്ലണ്ട്"
-
-#. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:67
-#, kde-format
-msgid "Fredrik Höglund"
-msgstr "ഫ്രെഡ്രിക് ഹഗ്ലണ്ട്"
-
-#. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:68
-#, kde-format
-msgid "Marco Martin"
-msgstr "മാർക്കോ മാർട്ടിൻ"
-
-#. +> plasma5lts
-#: kcmcursortheme.cpp:220
-#, kde-format
-msgctxt "@item:inlistbox size"
-msgid "Resolution dependent"
-msgstr "മിഴിവ് ആശ്രയിച്ചിരിക്കുന്നു"
-
-#. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:311
+#: kcmcursortheme.cpp:302
 #, kde-format
 msgid ""
 "You have to restart the Plasma session for these changes to take effect."
 msgstr "ഈ മാറ്റങ്ങള്‍ പ്രയോഗത്തില്‍ വരുവാന്‍ പ്ലാസ്മ പുനരാരംഭിക്കണം."
 
 #. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:389
+#: kcmcursortheme.cpp:376
 #, kde-format
 msgid "Unable to create a temporary file."
 msgstr "താത്കാലിക ഫയൽ നിർമ്മിക്കാൻ കഴിഞ്ഞില്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:400
+#: kcmcursortheme.cpp:387
 #, kde-format
 msgid "Unable to download the icon theme archive: %1"
 msgstr "%1 എന്ന ചിഹനപ്രമേയശേഖരം ഡൗൺലോഡാൻ കഴിഞ്ഞില്ല"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:431
+#: kcmcursortheme.cpp:418
 #, kde-format
 msgid "The file is not a valid icon theme archive."
 msgstr "ഫയല്‍ ശരിയായ ഒരു ചിഹ്ന പ്രമേയ ശേഖരം അല്ല."
 
 #. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:438
+#: kcmcursortheme.cpp:425
 #, kde-format
 msgid "Failed to create 'icons' folder."
 msgstr "'icons' അറ നിർമ്മിക്കുന്നത് പരാജയപ്പെട്ടു."
 
 #. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:447
+#: kcmcursortheme.cpp:434
 #, kde-format
 msgid ""
 "A theme named %1 already exists in your icon theme folder. Do you want "
@@ -119,42 +76,16 @@ msgstr ""
 "ഇത് മാറ്റിസ്ഥാപിക്കണോ?"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:451
+#: kcmcursortheme.cpp:438
 #, kde-format
 msgid "Overwrite Theme?"
 msgstr "പ്രമേയം മാറ്റിയെഴുതട്ടെ?"
 
 #. +> trunk5 stable5 plasma5lts
-#: kcmcursortheme.cpp:475
+#: kcmcursortheme.cpp:462
 #, kde-format
 msgid "Theme installed successfully."
 msgstr "പ്രമേയം വിജയകരമായി ഇൻസ്റ്റാൾ ചെയ്തു."
-
-#. +> plasma5lts
-#: kcmcursortheme.cpp:564
-#, kde-format
-msgid ""
-"<qt>You cannot delete the theme you are currently using.<br />You have to "
-"switch to another theme first.</qt>"
-msgstr ""
-"<qt>നിലവില്‍ ഉപയോഗിച്ചു കൊണ്ടിരിക്കുന്ന പ്രമേയം കളയാൻ താങ്കള്‍ക്കു സാധിക്കില്ല.<br />ആദ്യം "
-"മറ്റൊരു പ്രമേയത്തിലേക്ക് മാറേണ്ടതാണു.</qt>"
-
-#. +> plasma5lts
-#: kcmcursortheme.cpp:570
-#, kde-format
-msgid ""
-"<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
-"will delete all the files installed by this theme.</qt>"
-msgstr ""
-"<qt><i>%1</i> എന്ന ചൂണ്ടുവിരൽ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />ഈ പ്രവര്‍"
-"ത്തനം %1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
-
-#. +> plasma5lts
-#: kcmcursortheme.cpp:576
-#, kde-format
-msgid "Confirmation"
-msgstr "സ്ഥിരീകരണം"
 
 #. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/Delegate.qml:54
@@ -162,7 +93,7 @@ msgstr "സ്ഥിരീകരണം"
 msgid "Remove Theme"
 msgstr "പ്രമേയം കളയുക"
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/Delegate.qml:61
 #, kde-format
 msgid "Restore Cursor Theme"
@@ -180,44 +111,38 @@ msgstr "ചൂണ്ടുവിരൽ പ്രമേയം തിരഞ്ഞ�
 msgid "Size:"
 msgstr "വലുപ്പം:"
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:134
 #, kde-format
 msgid "&Install from File…"
 msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക… (&I)"
 
-#. +> plasma5lts
-#: package/contents/ui/main.qml:143
-#, kde-format
-msgid "&Install from File..."
-msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക... (&I)"
-
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: package/contents/ui/main.qml:140
 #, kde-format
 msgid "&Get New Cursors…"
 msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക… (&G)"
 
-#. +> plasma5lts
-#: package/contents/ui/main.qml:150
-#, kde-format
-msgid "&Get New Cursors..."
-msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക... (&G)"
-
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:190
+#: package/contents/ui/main.qml:157
 #, kde-format
 msgid "Open Theme"
 msgstr "പ്രമേയം തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/main.qml:192
+#: package/contents/ui/main.qml:159
 #, kde-format
 msgid "Cursor Theme Files (*.tar.gz *.tar.bz2)"
 msgstr "ചൂണ്ടുവിരൽ പ്രമേയ ഫയലുകൾ (*.tar.gz *.tar.bz2)"
 
 #. +> trunk5 stable5
-#: plasma-apply-cursortheme.cpp:36
+#: plasma-apply-cursortheme.cpp:41
+#, kde-format
+msgid "The requested size '%1' is not available, using %2 instead."
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-cursortheme.cpp:62
 #, kde-format
 msgid ""
 "This tool allows you to set the mouse cursor theme for the current Plasma "
@@ -228,8 +153,8 @@ msgstr ""
 "ക്രമീകരിക്കാതെ, നിലവിലെ പ്ലാസ്മ സെഷനായി ചൂണ്ടുവിരല്‍ പ്രമേയം സജ്ജീകരിക്കാൻ ഈ ഉപകരണം "
 "നിങ്ങളെ അനുവദിക്കുന്നു."
 
-#. +> trunk5 stable5
-#: plasma-apply-cursortheme.cpp:40
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-cursortheme.cpp:66
 #, kde-format
 msgid ""
 "The name of the cursor theme you wish to set for your current Plasma session "
@@ -238,15 +163,21 @@ msgstr ""
 "നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനായി നിങ്ങൾ സജ്ജമാക്കാൻ ആഗ്രഹിക്കുന്ന ചൂണ്ടുവിരല്‍ തീമിന്റെ പേര് "
 "(ഒരു പൂർണ്ണ പാത നൽകിയാലും അതിന്റെ അവസാന ഭാഗം മാത്രമേ ഉപയോഗിക്കൂ)"
 
-#. +> trunk5 stable5
-#: plasma-apply-cursortheme.cpp:41
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-cursortheme.cpp:67
 #, kde-format
 msgid ""
 "Show all the themes available on the system (and which is the current theme)"
 msgstr "സിസ്റ്റത്തിൽ ലഭ്യമായ എല്ലാ പ്രമേയങ്ങളും കാണിക്കുക (കൂടാതെ നിലവിലെ തീമും)"
 
 #. +> trunk5 stable5
-#: plasma-apply-cursortheme.cpp:62
+#: plasma-apply-cursortheme.cpp:68
+#, kde-format
+msgid "Use a specific size, rather than the theme default size"
+msgstr ""
+
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-cursortheme.cpp:89
 #, kde-format
 msgid ""
 "The requested theme \"%1\" is already set as the theme for the current "
@@ -255,15 +186,15 @@ msgstr ""
 "അഭ്യർത്ഥിച്ച പ്രമേയം \"%1\" നിലവിലെ പ്ലാസ്മ സെഷന്റെ പ്രമേയം ആയി ഇതിനകം "
 "സജ്ജീകരിച്ചിരിക്കുന്നു."
 
-#. +> trunk5 stable5
-#: plasma-apply-cursortheme.cpp:73
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-cursortheme.cpp:100
 #, kde-format
 msgid ""
 "Successfully applied the mouse cursor theme %1 to your current Plasma session"
 msgstr "നിങ്ങളുടെ നിലവിലെ പ്ലാസ്മ സെഷനിൽ ചൂണ്ടുവിരല്‍ പ്രമേയം %1 വിജയകരമായി പ്രയോഗിച്ചു"
 
-#. +> trunk5 stable5
-#: plasma-apply-cursortheme.cpp:75
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-cursortheme.cpp:102
 #, kde-format
 msgid ""
 "You have to restart the Plasma session for your newly applied mouse cursor "
@@ -272,8 +203,8 @@ msgstr ""
 "നിങ്ങളുടെ പുതുതായി പ്രയോഗിച്ച ചൂണ്ടുവിരല്‍ പ്രമേയം ശരിയായി പ്രദർശിപ്പിക്കുന്നതിന് നിങ്ങൾ പ്ലാസ്മ "
 "സെഷൻ പുനരാരംഭിക്കേണ്ടതുണ്ട്."
 
-#. +> trunk5 stable5
-#: plasma-apply-cursortheme.cpp:85
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-cursortheme.cpp:112
 #, kde-format
 msgid ""
 "Could not find theme \"%1\". The theme should be one of the following "
@@ -281,29 +212,82 @@ msgid ""
 msgstr ""
 "\"%1\" പ്രമേയം കണ്ടെത്താനായില്ല. പ്രമേയം ഇനിപ്പറയുന്ന ഓപ്ഷനുകളിൽ ഒന്നായിരിക്കണം: %2"
 
-#. +> trunk5 stable5
-#: plasma-apply-cursortheme.cpp:93
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-cursortheme.cpp:120
 #, kde-format
 msgid "You have the following mouse cursor themes on your system:"
 msgstr "നിങ്ങളുടെ സിസ്റ്റത്തിൽ ഇനിപ്പറയുന്ന ചൂണ്ടുവിരല്‍ പ്രമേയങ്ങൾ ഉണ്ട്:"
 
-#. +> trunk5 stable5 plasma5lts
-#: xcursor/thememodel.cpp:67
+#. +> trunk5 stable5
+#: plasma-apply-cursortheme.cpp:125
 #, kde-format
-msgid "Name"
-msgstr "പേര്"
+msgid "(Current theme for this Plasma session)"
+msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: xcursor/thememodel.cpp:70
-#, kde-format
-msgid "Description"
-msgstr "വിവരണം"
-
-#. +> trunk5 stable5 plasma5lts
-#: xcursor/xcursortheme.cpp:56
+#: xcursor/xcursortheme.cpp:60
 #, kde-format
 msgctxt ""
 "@info The argument is the list of available sizes (in pixel). Example: "
 "'Available sizes: 24' or 'Available sizes: 24, 36, 48'"
 msgid "(Available sizes: %1)"
 msgstr "(ലഭ്യമായ വലുപ്പങ്ങൾ: %1)"
+
+#. +> plasma5lts
+#: xcursor/thememodel.cpp:67
+#, kde-format
+msgid "Name"
+msgstr "പേര്"
+
+#. +> plasma5lts
+#: xcursor/thememodel.cpp:70
+#, kde-format
+msgid "Description"
+msgstr "വിവരണം"
+
+#~ msgctxt "NAME OF TRANSLATORS"
+#~ msgid "Your names"
+#~ msgstr "Shiju Alex,Subin Siby, Vivek K J"
+
+#~ msgctxt "EMAIL OF TRANSLATORS"
+#~ msgid "Your emails"
+#~ msgstr "shijualexonline@gmail.com,mail@subinsb.com,vivekkj2004@gmail.com"
+
+#~ msgid "Cursors"
+#~ msgstr "ചൂണ്ടുവിരലുകൾ"
+
+#~ msgid "(c) 2003-2007 Fredrik Höglund"
+#~ msgstr "(c) 2003-2007 ഫ്രെഡ്രിക് ഹഗ്ലണ്ട്"
+
+#~ msgid "Fredrik Höglund"
+#~ msgstr "ഫ്രെഡ്രിക് ഹഗ്ലണ്ട്"
+
+#~ msgid "Marco Martin"
+#~ msgstr "മാർക്കോ മാർട്ടിൻ"
+
+#~ msgctxt "@item:inlistbox size"
+#~ msgid "Resolution dependent"
+#~ msgstr "മിഴിവ് ആശ്രയിച്ചിരിക്കുന്നു"
+
+#~ msgid ""
+#~ "<qt>You cannot delete the theme you are currently using.<br />You have to "
+#~ "switch to another theme first.</qt>"
+#~ msgstr ""
+#~ "<qt>നിലവില്‍ ഉപയോഗിച്ചു കൊണ്ടിരിക്കുന്ന പ്രമേയം കളയാൻ താങ്കള്‍ക്കു സാധിക്കില്ല.<br />ആദ്യം "
+#~ "മറ്റൊരു പ്രമേയത്തിലേക്ക് മാറേണ്ടതാണു.</qt>"
+
+#~ msgid ""
+#~ "<qt>Are you sure you want to remove the <i>%1</i> cursor theme?<br />This "
+#~ "will delete all the files installed by this theme.</qt>"
+#~ msgstr ""
+#~ "<qt><i>%1</i> എന്ന ചൂണ്ടുവിരൽ പ്രമേയം ഒഴിവാക്കണം എന്നു താങ്കള്‍ക്കു ഉറപ്പാണോ?<br />ഈ "
+#~ "പ്രവര്‍ത്തനം %1 എന്ന പ്രമേയം ഇന്‍സ്റ്റാള്‍ ചെയ്ത ഫയലുകള്‍ എല്ലാം മായ്ക്കും.</qt>"
+
+#~ msgid "Confirmation"
+#~ msgstr "സ്ഥിരീകരണം"
+
+#~ msgid "&Install from File..."
+#~ msgstr "ഫയലിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുക... (&I)"
+
+#~ msgid "&Get New Cursors..."
+#~ msgstr "പുതിയ ചൂണ്ടുവിരലുകൾ നേടുക... (&G)"

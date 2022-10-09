@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma_applet_devicenotifier trunk\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-17 09:27+0200\n"
+"POT-Creation-Date: 2022-08-21 11:41+0200\n"
 "PO-Revision-Date: 2021-08-12 11:59+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: SMC <smc.org.in>\n"
@@ -19,22 +19,15 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.7.2\n"
 
-#. +> trunk5 stable5
-#: package/contents/ui/DeviceItem.qml:169
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/DeviceItem.qml:180
 #, kde-format
 msgctxt "@info:status Free disk space"
 msgid "%1 free of %2"
 msgstr "%2 ൽ %1 ലഭ്യമാണ്"
 
-#. +> plasma5lts
-#: package/contents/ui/DeviceItem.qml:245
-#, kde-format
-msgctxt "@info:status Free disk space"
-msgid "%1 free"
-msgstr "%1 ലഭ്യമാണ്"
-
-#. +> trunk5 stable5
-#: package/contents/ui/DeviceItem.qml:173
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/DeviceItem.qml:184
 #, kde-format
 msgctxt ""
 "Accessing is a less technical word for Mounting; translation should be short "
@@ -42,17 +35,8 @@ msgctxt ""
 msgid "Accessing…"
 msgstr "സമീപിക്കുന്നു…"
 
-#. +> plasma5lts
-#: package/contents/ui/DeviceItem.qml:276
-#, kde-format
-msgctxt ""
-"Accessing is a less technical word for Mounting; translation should be short "
-"and mean 'Currently mounting this device'"
-msgid "Accessing..."
-msgstr "സമീപിക്കുന്നു..."
-
-#. +> trunk5 stable5
-#: package/contents/ui/DeviceItem.qml:175
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/DeviceItem.qml:187
 #, kde-format
 msgctxt ""
 "Removing is a less technical word for Unmounting; translation should be "
@@ -60,227 +44,190 @@ msgctxt ""
 msgid "Removing…"
 msgstr "ഒഴിവാക്കുന്നു…"
 
-#. +> plasma5lts
+#. +> trunk5 stable5
 #: package/contents/ui/DeviceItem.qml:190
 #, kde-format
-msgid ""
-"It is currently <b>not safe</b> to remove this device: applications may be "
-"accessing it. Click the eject button to safely remove this device."
+msgid "Don't unplug yet! Files are still being transferred..."
 msgstr ""
-"ഈ ഉപകരണം നീക്കം ചെയ്യുന്നത് നിലവിൽ <b>സുരക്ഷിതമല്ല</b>: അപ്ലിക്കേഷനുകൾ ഇതിനെ "
-"സമീപിക്കുന്നുണ്ടാവാം. ഈ ഉപകരണം സുരക്ഷിതമായി നീക്കംചെയ്യുന്നതിന് ഒഴിവാക്കുക ബട്ടൺ ക്ലിക്കുചെയ്യുക."
 
-#. +> plasma5lts
-#: package/contents/ui/DeviceItem.qml:192
-#, kde-format
-msgid "This device is currently accessible."
-msgstr "ഈ ഉപകരണവുമായി നിലവിൽ സമീപിക്കാം."
-
-#. +> plasma5lts
-#: package/contents/ui/DeviceItem.qml:197
-#, kde-format
-msgid ""
-"It is currently <b>not safe</b> to remove this device: applications may be "
-"accessing other volumes on this device. Click the eject button on these "
-"other volumes to safely remove this device."
-msgstr ""
-"ഈ ഉപകരണം നീക്കംചെയ്യുന്നത് നിലവിൽ <b>സുരക്ഷിതമല്ല</b>: അപ്ലിക്കേഷനുകൾ ഈ ഉപകരണത്തിലെ മറ്റ് "
-"വോള്യങ്ങളളുമായി സമീപിക്കുന്നുണ്ടാവാം. ഈ ഉപകരണം സുരക്ഷിതമായി നീക്കംചെയ്യുന്നതിന് ഈ മറ്റ് "
-"വോള്യങ്ങളിലെ ഒഴിവാക്കുക ബട്ടൺ ക്ലിക്കുചെയ്യുക."
-
-#. +> plasma5lts
-#: package/contents/ui/DeviceItem.qml:199
-#, kde-format
-msgid "It is currently safe to remove this device."
-msgstr "ഈ ഉപകരണം നീക്കംചെയ്യുന്നത് നിലവിൽ സുരക്ഷിതമാണ്."
-
-#. +> plasma5lts
-#: package/contents/ui/DeviceItem.qml:278
-#, kde-format
-msgctxt ""
-"Removing is a less technical word for Unmounting; translation should be "
-"short and mean 'Currently unmounting this device'"
-msgid "Removing..."
-msgstr "ഒഴിവാക്കുന്നു..."
-
-#. +> trunk5 stable5
-#: package/contents/ui/DeviceItem.qml:202
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/DeviceItem.qml:221
 #, kde-format
 msgid "Open in File Manager"
 msgstr "ഫയല്‍ മാനേജറിൽ തുറക്കുക"
 
-#. +> plasma5lts
-#: package/contents/ui/DeviceItem.qml:202
-#, kde-format
-msgid "This device is not currently accessible."
-msgstr "ഈ ഉപകരണം നിലവിൽ സമീപിക്കാവുന്നതല്ല."
-
-#. +> trunk5 stable5
-#: package/contents/ui/DeviceItem.qml:206
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/DeviceItem.qml:224
 #, kde-format
 msgid "Mount and Open"
 msgstr "ഘടിപ്പിച്ച് തുറക്കുക"
 
-#. +> trunk5 stable5
-#: package/contents/ui/DeviceItem.qml:208
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/DeviceItem.qml:226
 #, kde-format
 msgid "Eject"
 msgstr "നീക്കം ചെയ്യുക"
 
-#. +> trunk5 stable5
-#: package/contents/ui/DeviceItem.qml:210
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/DeviceItem.qml:228
 #, kde-format
 msgid "Safely remove"
 msgstr "സുരക്ഷിതമായി നീക്കംചെയ്യുക"
 
-#. +> trunk5 stable5
-#: package/contents/ui/DeviceItem.qml:250
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/DeviceItem.qml:270
 #, kde-format
 msgid "Mount"
 msgstr "ഘടിപ്പിയ്ക്കുക"
 
-#. +> plasma5lts
-#: package/contents/ui/DeviceItem.qml:271
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/FullRepresentation.qml:41
+#: package/contents/ui/main.qml:238
 #, kde-format
-msgid "1 action for this device"
-msgid_plural "%1 actions for this device"
-msgstr[0] "ഈ ഉപകരണത്തിനായി 1 പ്രവർത്തനം"
-msgstr[1] "ഈ ഉപകരണത്തിനായി %1 പ്രവർത്തനങ്ങൾ"
+msgid "Remove All"
+msgstr "എല്ലാം നീക്കം ചെയ്യുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/devicenotifier.qml:47
+#: package/contents/ui/FullRepresentation.qml:42
+#, kde-format
+msgid "Click to safely remove all devices"
+msgstr "എല്ലാ ഉപകരണങ്ങളും സുരക്ഷിതമായി നീക്കംചെയ്യാൻ ക്ലിക്കുചെയ്യുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/FullRepresentation.qml:186
+#, kde-format
+msgid "No removable devices attached"
+msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങളൊന്നും ബന്ധിപ്പിച്ചിട്ടില്ല"
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/FullRepresentation.qml:186
+#, kde-format
+msgid "No disks available"
+msgstr "ഡിസ്കുകളൊന്നും ലഭ്യമല്ല"
+
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:47
 #, kde-format
 msgid "Most Recent Device"
 msgstr "ഏറ്റവും പുതിയ ഉപകരണം"
 
 #. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/devicenotifier.qml:47
+#: package/contents/ui/main.qml:47
 #, kde-format
 msgid "No Devices Available"
 msgstr "ഉപകരണങ്ങളൊന്നും ലഭ്യമല്ല"
 
-#. +> trunk5 stable5
-#: package/contents/ui/devicenotifier.qml:225
-#: package/contents/ui/FullRepresentation.qml:35
-#, kde-format
-msgid "Remove All"
-msgstr "എല്ലാം നീക്കം ചെയ്യുക"
-
-#. +> trunk5 stable5
-#: package/contents/ui/devicenotifier.qml:232
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:245
 #, kde-format
 msgid "Removable Devices"
 msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങൾ"
 
-#. +> trunk5 stable5
-#: package/contents/ui/devicenotifier.qml:238
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:251
 #, kde-format
 msgid "Non Removable Devices"
 msgstr "നീക്കംചെയ്യാനാകാത്ത ഉപകരണങ്ങൾ"
 
-#. +> trunk5 stable5
-#: package/contents/ui/devicenotifier.qml:244
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:257
 #, kde-format
 msgid "All Devices"
 msgstr "എല്ലാ ഉപകരണങ്ങളും"
 
-#. +> trunk5 stable5
-#: package/contents/ui/devicenotifier.qml:252
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:265
 #, kde-format
 msgid "Show popup when new device is plugged in"
 msgstr "പുതിയ ഉപകരണം ബന്ധിപ്പിക്കുമ്പോൾ പോപ്പ്അപ്പ് കാണിക്കുക"
 
-#. +> trunk5 stable5
-#: package/contents/ui/devicenotifier.qml:261
+#. +> trunk5 stable5 plasma5lts
+#: package/contents/ui/main.qml:274
 #, kde-format
 msgctxt "Open auto mounter kcm"
 msgid "Configure Removable Devices…"
 msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങൾ ക്രമീകരിക്കുക…"
 
-#. +> plasma5lts
-#: package/contents/ui/devicenotifier.qml:239
-#, kde-format
-msgctxt "Open auto mounter kcm"
-msgid "Configure Removable Devices"
-msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങൾ കോൺഫിഗർ ചെയ്യുക"
+#~ msgctxt "@info:status Free disk space"
+#~ msgid "%1 free"
+#~ msgstr "%1 ലഭ്യമാണ്"
 
-#. +> trunk5 stable5 plasma5lts
-#: package/contents/ui/FullRepresentation.qml:38
-#, kde-format
-msgid "Click to safely remove all devices"
-msgstr "എല്ലാ ഉപകരണങ്ങളും സുരക്ഷിതമായി നീക്കംചെയ്യാൻ ക്ലിക്കുചെയ്യുക"
+#~ msgctxt ""
+#~ "Accessing is a less technical word for Mounting; translation should be "
+#~ "short and mean 'Currently mounting this device'"
+#~ msgid "Accessing..."
+#~ msgstr "സമീപിക്കുന്നു..."
 
-#. +> plasma5lts
-#: package/contents/ui/FullRepresentation.qml:125
-#, kde-format
-msgid "Remove all"
-msgstr "എല്ലാം നീക്കം ചെയ്യുക"
+#~ msgid ""
+#~ "It is currently <b>not safe</b> to remove this device: applications may "
+#~ "be accessing it. Click the eject button to safely remove this device."
+#~ msgstr ""
+#~ "ഈ ഉപകരണം നീക്കം ചെയ്യുന്നത് നിലവിൽ <b>സുരക്ഷിതമല്ല</b>: അപ്ലിക്കേഷനുകൾ ഇതിനെ "
+#~ "സമീപിക്കുന്നുണ്ടാവാം. ഈ ഉപകരണം സുരക്ഷിതമായി നീക്കംചെയ്യുന്നതിന് ഒഴിവാക്കുക ബട്ടൺ "
+#~ "ക്ലിക്കുചെയ്യുക."
 
-#. +> plasma5lts
-#: package/contents/ui/FullRepresentation.qml:206
-#, kde-format
-msgid "Click to safely remove this device."
-msgstr "ഈ ഉപകരണം സുരക്ഷിതമായി നീക്കംചെയ്യാൻ ക്ലിക്കുചെയ്യുക."
+#~ msgid "This device is currently accessible."
+#~ msgstr "ഈ ഉപകരണവുമായി നിലവിൽ സമീപിക്കാം."
 
-#. +> trunk5 stable5
-#: package/contents/ui/FullRepresentation.qml:151
-#, kde-format
-msgid "No removable devices attached"
-msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങളൊന്നും ബന്ധിപ്പിച്ചിട്ടില്ല"
+#~ msgid ""
+#~ "It is currently <b>not safe</b> to remove this device: applications may "
+#~ "be accessing other volumes on this device. Click the eject button on "
+#~ "these other volumes to safely remove this device."
+#~ msgstr ""
+#~ "ഈ ഉപകരണം നീക്കംചെയ്യുന്നത് നിലവിൽ <b>സുരക്ഷിതമല്ല</b>: അപ്ലിക്കേഷനുകൾ ഈ ഉപകരണത്തിലെ "
+#~ "മറ്റ് വോള്യങ്ങളളുമായി സമീപിക്കുന്നുണ്ടാവാം. ഈ ഉപകരണം സുരക്ഷിതമായി നീക്കംചെയ്യുന്നതിന് ഈ "
+#~ "മറ്റ് വോള്യങ്ങളിലെ ഒഴിവാക്കുക ബട്ടൺ ക്ലിക്കുചെയ്യുക."
 
-#. +> trunk5 stable5
-#: package/contents/ui/FullRepresentation.qml:151
-#, kde-format
-msgid "No disks available"
-msgstr "ഡിസ്കുകളൊന്നും ലഭ്യമല്ല"
+#~ msgid "It is currently safe to remove this device."
+#~ msgstr "ഈ ഉപകരണം നീക്കംചെയ്യുന്നത് നിലവിൽ സുരക്ഷിതമാണ്."
 
-#. +> plasma5lts
-#: package/contents/ui/FullRepresentation.qml:202
-#, kde-format
-msgid "Click to access this device from other applications."
-msgstr "മറ്റ് അപ്ലിക്കേഷനുകളിൽ നിന്ന് ഈ ഉപകരണം സമീപിക്കാൻ ക്ലിക്കുചെയ്യുക."
+#~ msgctxt ""
+#~ "Removing is a less technical word for Unmounting; translation should be "
+#~ "short and mean 'Currently unmounting this device'"
+#~ msgid "Removing..."
+#~ msgstr "ഒഴിവാക്കുന്നു..."
 
-#. +> plasma5lts
-#: package/contents/ui/FullRepresentation.qml:204
-#, kde-format
-msgid "Click to eject this disc."
-msgstr "ഈ ഡിസ്ക് പുറന്തള്ളാൻ ക്ലിക്കുചെയ്യുക."
+#~ msgid "This device is not currently accessible."
+#~ msgstr "ഈ ഉപകരണം നിലവിൽ സമീപിക്കാവുന്നതല്ല."
 
-#. +> plasma5lts
-#: package/contents/config/config.qml:25
-#, kde-format
-msgid "General"
-msgstr "പൊതുവായത്"
+#~ msgid "1 action for this device"
+#~ msgid_plural "%1 actions for this device"
+#~ msgstr[0] "ഈ ഉപകരണത്തിനായി 1 പ്രവർത്തനം"
+#~ msgstr[1] "ഈ ഉപകരണത്തിനായി %1 പ്രവർത്തനങ്ങൾ"
 
-#. +> plasma5lts
-#: package/contents/ui/configGeneral.qml:38
-#, kde-format
-msgid "Show:"
-msgstr "പ്രദർശിപ്പിക്കുക:"
+#~ msgctxt "Open auto mounter kcm"
+#~ msgid "Configure Removable Devices"
+#~ msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങൾ കോൺഫിഗർ ചെയ്യുക"
 
-#. +> plasma5lts
-#: package/contents/ui/configGeneral.qml:39
-#, kde-format
-msgid "Removable devices only"
-msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങൾ മാത്രം"
+#~ msgid "Remove all"
+#~ msgstr "എല്ലാം നീക്കം ചെയ്യുക"
 
-#. +> plasma5lts
-#: package/contents/ui/configGeneral.qml:44
-#, kde-format
-msgid "Non-removable devices only"
-msgstr "നീക്കംചെയ്യാനാകാത്ത ഉപകരണങ്ങൾ മാത്രം"
+#~ msgid "Click to safely remove this device."
+#~ msgstr "ഈ ഉപകരണം സുരക്ഷിതമായി നീക്കംചെയ്യാൻ ക്ലിക്കുചെയ്യുക."
 
-#. +> plasma5lts
-#: package/contents/ui/configGeneral.qml:49
-#, kde-format
-msgid "All devices"
-msgstr "എല്ലാ ഉപകരണങ്ങളും"
+#~ msgid "Click to access this device from other applications."
+#~ msgstr "മറ്റ് അപ്ലിക്കേഷനുകളിൽ നിന്ന് ഈ ഉപകരണം സമീപിക്കാൻ ക്ലിക്കുചെയ്യുക."
 
-#. +> plasma5lts
-#: package/contents/ui/configGeneral.qml:54
-#, kde-format
-msgid "Open popup when new device is plugged in"
-msgstr "പുതിയ ഉപകരണം ബന്ധിപ്പിക്കുമ്പോൾ പോപ്പ്അപ്പ് തുറക്കുക"
+#~ msgid "Click to eject this disc."
+#~ msgstr "ഈ ഡിസ്ക് പുറന്തള്ളാൻ ക്ലിക്കുചെയ്യുക."
+
+#~ msgid "General"
+#~ msgstr "പൊതുവായത്"
+
+#~ msgid "Show:"
+#~ msgstr "പ്രദർശിപ്പിക്കുക:"
+
+#~ msgid "Removable devices only"
+#~ msgstr "നീക്കംചെയ്യാവുന്ന ഉപകരണങ്ങൾ മാത്രം"
+
+#~ msgid "Non-removable devices only"
+#~ msgstr "നീക്കംചെയ്യാനാകാത്ത ഉപകരണങ്ങൾ മാത്രം"
+
+#~ msgid "All devices"
+#~ msgstr "എല്ലാ ഉപകരണങ്ങളും"
+
+#~ msgid "Open popup when new device is plugged in"
+#~ msgstr "പുതിയ ഉപകരണം ബന്ധിപ്പിക്കുമ്പോൾ പോപ്പ്അപ്പ് തുറക്കുക"
 
 #~ msgctxt "Open auto mounter kcm"
 #~ msgid "Configure Removable Devices..."

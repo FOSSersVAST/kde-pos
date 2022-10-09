@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-17 09:27+0200\n"
+"POT-Creation-Date: 2022-10-09 16:10+0200\n"
 "PO-Revision-Date: 2021-08-31 16:59+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -17,62 +17,50 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Weblate 4.7.2\n"
 
-#. +> trunk5 stable5 plasma5lts
-#: image.cpp:253
+#. +> trunk5 stable5
 #, kde-format
-msgid "Recommended wallpaper file"
-msgstr "ശുപാർശ ചെയ്യുന്ന പശ്ചാത്തലചിത്ര ഫയൽ"
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#. +> trunk5 stable5
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: image.cpp:414
-#, kde-format
-msgid "Directory with the wallpaper to show slides from"
-msgstr "സ്ലൈഡുകൾ കാണിക്കുന്നതിന് പശ്ചാത്തലചിത്രമുള്ള കൂട"
-
-#. +> trunk5 stable5 plasma5lts
-#: image.cpp:716
-#, kde-format
-msgid "Open Image"
-msgstr "ചിത്രം തുറക്കുക"
-
-#. +> trunk5 stable5 plasma5lts
-#: image.cpp:716
-#, kde-format
-msgid "Image Files"
-msgstr "ചിത്ര ഫയലുകൾ"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:98
+#: imagepackage/contents/ui/config.qml:99
 #, kde-format
 msgid "Positioning:"
 msgstr "സ്ഥാനം:"
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:101
+#: imagepackage/contents/ui/config.qml:102
 #, kde-format
 msgid "Scaled and Cropped"
 msgstr "വലിപ്പം മാറ്റിയതും അറ്റം വെട്ടിചുരുക്കിയതും"
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:105
+#: imagepackage/contents/ui/config.qml:106
 #, kde-format
 msgid "Scaled"
 msgstr "വലിപ്പം മാറ്റിയത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:109
+#: imagepackage/contents/ui/config.qml:110
 #, kde-format
 msgid "Scaled, Keep Proportions"
 msgstr "ചിത്രത്തിന്റെ അനുപാതം മാറ്റാതെ വലിപ്പം മാറ്റിയത്"
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:113
+#: imagepackage/contents/ui/config.qml:114
 #, kde-format
 msgid "Centered"
 msgstr "നടുവിലായിട്ട്"
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:117
+#: imagepackage/contents/ui/config.qml:118
 #, kde-format
 msgid "Tiled"
 msgstr "അടുത്തടുത്തു് വച്ചു്"
@@ -102,153 +90,32 @@ msgid "Select Background Color"
 msgstr "പശ്ചാത്തല നിറം തെരഞ്ഞെടുക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:190
+#: imagepackage/contents/ui/config.qml:212
 #, kde-format
-msgid "Order:"
-msgstr "ക്രമം:"
+msgid "Add Image…"
+msgstr "ചിത്രം ചേർക്കുക…"
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:197
-#, kde-format
-msgid "Random"
-msgstr "ക്രമരഹിതം"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:201
-#, kde-format
-msgid "A to Z"
-msgstr "ആരോഹണക്രമം"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:205
-#, kde-format
-msgid "Z to A"
-msgstr "അവരോഹണക്രമം"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:209
-#, kde-format
-msgid "Date modified (newest first)"
-msgstr "പരിഷ്ക്കരിച്ച തീയതി (പുതിയത് ആദ്യം)"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:213
-#, kde-format
-msgid "Date modified (oldest first)"
-msgstr "പരിഷ്ക്കരിച്ച തീയതി (പഴയത് ആദ്യം)"
-
-#. +> trunk5 stable5
-#: imagepackage/contents/ui/config.qml:237
-#, kde-format
-msgid "Group by folders"
-msgstr "അറകള്‍ പ്രകാരം ഗ്രൂപ്പ് ചെയ്യുക"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:249
-#, kde-format
-msgid "Change every:"
-msgstr "ചിത്രങ്ങൾ ഓരോന്നും മാറ്റേണ്ട സമയം:"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:259
-#, kde-format
-msgid "%1 hour"
-msgid_plural "%1 hours"
-msgstr[0] "%1 മണിക്കൂർ"
-msgstr[1] "%1 മണിക്കൂറുകൾ"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:278
-#, kde-format
-msgid "%1 minute"
-msgid_plural "%1 minutes"
-msgstr[0] "%1 മിനുട്ട്"
-msgstr[1] "%1 മിനുട്ടുകൾ"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:297
-#, kde-format
-msgid "%1 second"
-msgid_plural "%1 seconds"
-msgstr[0] "%1 സെക്കൻ്റ്"
-msgstr[1] "%1 സെക്കൻ്റുകൾ"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:310
-#, kde-format
-msgid "Folders"
-msgstr "അറകള്‍"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:358
-#, kde-format
-msgid "Remove Folder"
-msgstr "അറ നീക്കം ചെയ്യുക"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:363
-#, kde-format
-msgid "Open Folder"
-msgstr "അറ തുറക്കുക"
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:373
-#, kde-format
-msgid "There are no wallpaper locations configured"
-msgstr "പശ്ചാത്തലചിത്ര സ്ഥാനങ്ങളൊന്നും സജ്ജമാക്കിയിട്ടില്ല"
-
-#. +> trunk5 stable5
-#: imagepackage/contents/ui/config.qml:386
-#, kde-format
-msgid "Add Folder…"
-msgstr "അറ ചേര്‍ക്കുക…"
-
-#. +> plasma5lts
-#: imagepackage/contents/ui/config.qml:344
-#, kde-format
-msgid "Add Folder..."
-msgstr "അറ ചേര്‍ക്കുക..."
-
-#. +> trunk5 stable5
-#: imagepackage/contents/ui/config.qml:392
-#: imagepackage/contents/ui/config.qml:486
+#: imagepackage/contents/ui/config.qml:218
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:257
 #, kde-format
 msgid "Get New Wallpapers…"
 msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക…"
 
 #. +> plasma5lts
-#: imagepackage/contents/ui/config.qml:350
-#: imagepackage/contents/ui/config.qml:449
-#, kde-format
-msgid "Get New Wallpapers..."
-msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
-
-#. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/config.qml:435
+#: imagepackage/contents/ui/config.qml:463
 #, kde-format
 msgid "There are no wallpapers in this slideshow"
 msgstr "ഈ സ്ലൈഡ്ഷോയിൽ പശ്ചാത്തലചിത്രങ്ങൾ ഇല്ല"
 
-#. +> trunk5 stable5
-#: imagepackage/contents/ui/config.qml:480
-#, kde-format
-msgid "Add Image…"
-msgstr "ചിത്രം ചേർക്കുക…"
-
-#. +> plasma5lts
-#: imagepackage/contents/ui/config.qml:443
-#, kde-format
-msgid "Add Image..."
-msgstr "ചിത്രം ചേർക്കുക..."
-
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/main.qml:55
+#: imagepackage/contents/ui/main.qml:69
 #, kde-format
 msgid "Open Wallpaper Image"
 msgstr "പശ്ചാത്തലചിത്രം തുറക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: imagepackage/contents/ui/main.qml:56
+#: imagepackage/contents/ui/main.qml:70
 #, kde-format
 msgid "Next Wallpaper Image"
 msgstr "അടുത്ത പശ്ചാത്തലചിത്രം"
@@ -258,13 +125,6 @@ msgstr "അടുത്ത പശ്ചാത്തലചിത്രം"
 #, kde-format
 msgid "Open Containing Folder"
 msgstr "അടങ്ങിയിരിക്കുന്ന അറ തുറക്കുക"
-
-#. +> plasma5lts
-#: imagepackage/contents/ui/WallpaperDelegate.qml:38
-#, kde-format
-msgctxt "<image> by <author>"
-msgid "By %1"
-msgstr "%1 യുടേത്"
 
 #. +> trunk5 stable5 plasma5lts
 #: imagepackage/contents/ui/WallpaperDelegate.qml:40
@@ -278,7 +138,7 @@ msgstr "പശ്ചാത്തലചിത്രം പുനഃസ്ഥാ�
 msgid "Remove Wallpaper"
 msgstr "പശ്ചാത്തലചിത്രം കളയുക"
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: plasma-apply-wallpaperimage.cpp:29
 #, kde-format
 msgid ""
@@ -286,7 +146,7 @@ msgid ""
 msgstr ""
 "പ്ലാസ്മ സെഷനുള്ള പശ്ചാത്തലചിത്രമായി ഒരു ചിത്രം സജ്ജമാക്കാൻ ഈ ഉപകരണം നിങ്ങളെ അനുവദിക്കുന്നു."
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: plasma-apply-wallpaperimage.cpp:31
 #, kde-format
 msgid ""
@@ -296,7 +156,7 @@ msgstr ""
 "നിങ്ങളുടെ പ്ലാസ്മ സെഷനുള്ള പശ്ചാത്തലചിത്രമായി സജ്ജീകരിക്കാൻ ആഗ്രഹിക്കുന്ന ഒരു ചിത്ര ഫയൽ "
 "അല്ലെങ്കിൽ ഇൻസ്റ്റാൾ ചെയ്ത വാൾപേപ്പർ kpackage"
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: plasma-apply-wallpaperimage.cpp:45
 #, kde-format
 msgid ""
@@ -307,14 +167,14 @@ msgstr ""
 "ഈ പശ്ചാത്തലചിത്രത്തിന്റെ ഫയൽ നാമത്തിൽ ഒരു ഒറ്റപ്പെട്ട ഉദ്ധരണി ഉണ്ട് (') - ഇത് പരിഹരിക്കാൻ "
 "പശ്ചാത്തലചിത്രത്തിന്റെ രചയിതാവിനെ ബന്ധപ്പെടുക, അല്ലെങ്കിൽ ഫയലിന്റെ പേര് സ്വയം മാറ്റുക: %1"
 
-#. +> trunk5 stable5
-#: plasma-apply-wallpaperimage.cpp:82
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-wallpaperimage.cpp:85
 #, kde-format
 msgid "An error occurred while attempting to set the Plasma wallpaper:\n"
 msgstr "പ്ലാസ്മ പശ്ചാത്തലചിത്രം സജ്ജീകരിക്കാൻ ശ്രമിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു:\n"
 
-#. +> trunk5 stable5
-#: plasma-apply-wallpaperimage.cpp:86
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-wallpaperimage.cpp:89
 #, kde-format
 msgid ""
 "Successfully set the wallpaper for all desktops to the KPackage based %1"
@@ -322,15 +182,15 @@ msgstr ""
 "എല്ലാ ഡെസ്ക്ടോപ്പുകളുടെയും പശ്ചാത്തലചിത്രം KPackage അടിസ്ഥാനമാക്കിയുള്ള %1 ലേക്ക് വിജയകരമായി "
 "സജ്ജമാക്കി"
 
-#. +> trunk5 stable5
-#: plasma-apply-wallpaperimage.cpp:88
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-wallpaperimage.cpp:91
 #, kde-format
 msgid "Successfully set the wallpaper for all desktops to the image %1"
 msgstr ""
 "%1 എന്ന ചിത്രത്തിലേക്ക് എല്ലാ ഡെസ്ക്ടോപ്പുകളുടെയും പശ്ചാത്തലചിത്രം വിജയകരമായി സജ്ജമാക്കി"
 
-#. +> trunk5 stable5
-#: plasma-apply-wallpaperimage.cpp:94
+#. +> trunk5 stable5 plasma5lts
+#: plasma-apply-wallpaperimage.cpp:97
 #, kde-format
 msgid ""
 "The file passed to be set as wallpaper does not exist, or we cannot identify "
@@ -339,20 +199,150 @@ msgstr ""
 "പശ്ചാത്തലചിത്രമായി സജ്ജീകരിക്കാൻ നൽകിയ ഫയൽ നിലവിലില്ല, അല്ലെങ്കിൽ ഞങ്ങൾക്ക് ഇത് ഒരു "
 "പശ്ചാത്തലചിത്രമായി തിരിച്ചറിയാൻ കഴിഞ്ഞില്ല: %1"
 
-#. +> plasma5lts
-#: imagepackage/platformcontents/phone/ui/config.qml:80
+#. +> trunk5 stable5 plasma5lts
+#: plugin/finder/packagefinder.cpp:152
 #, kde-format
-msgid "Add Custom Wallpaper"
-msgstr "ഇച്ഛാനുസൃത പശ്ചാത്തലചിത്രം ചേർക്കുക"
+msgid "Recommended wallpaper file"
+msgstr "ശുപാർശ ചെയ്യുന്ന പശ്ചാത്തലചിത്ര ഫയൽ"
 
-#. +> plasma5lts
-#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:89
+#. +> trunk5 stable5 plasma5lts
+#: plugin/imagebackend.cpp:234
 #, kde-format
-msgid "Remove wallpaper"
-msgstr "പശ്ചാത്തലചിത്രം കളയുക"
+msgid "Directory with the wallpaper to show slides from"
+msgstr "സ്ലൈഡുകൾ കാണിക്കുന്നതിന് പശ്ചാത്തലചിത്രമുള്ള കൂട"
 
-#. +> plasma5lts
-#: imagepackage/platformcontents/phone/ui/WallpaperDelegate.qml:119
+#. +> trunk5 stable5 plasma5lts
+#: plugin/imagebackend.cpp:345
 #, kde-format
-msgid "%1 by %2"
-msgstr "%1 %2 വക"
+msgid "Open Image"
+msgstr "ചിത്രം തുറക്കുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: plugin/imagebackend.cpp:345
+#, kde-format
+msgid "Image Files"
+msgstr "ചിത്ര ഫയലുകൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:38
+#, kde-format
+msgid "Order:"
+msgstr "ക്രമം:"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:45
+#, kde-format
+msgid "Random"
+msgstr "ക്രമരഹിതം"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:49
+#, kde-format
+msgid "A to Z"
+msgstr "ആരോഹണക്രമം"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:53
+#, kde-format
+msgid "Z to A"
+msgstr "അവരോഹണക്രമം"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:57
+#, kde-format
+msgid "Date modified (newest first)"
+msgstr "പരിഷ്ക്കരിച്ച തീയതി (പുതിയത് ആദ്യം)"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:61
+#, kde-format
+msgid "Date modified (oldest first)"
+msgstr "പരിഷ്ക്കരിച്ച തീയതി (പഴയത് ആദ്യം)"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:86
+#, kde-format
+msgid "Group by folders"
+msgstr "അറകള്‍ പ്രകാരം ഗ്രൂപ്പ് ചെയ്യുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:98
+#, kde-format
+msgid "Change every:"
+msgstr "ചിത്രങ്ങൾ ഓരോന്നും മാറ്റേണ്ട സമയം:"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:108
+#, kde-format
+msgid "%1 hour"
+msgid_plural "%1 hours"
+msgstr[0] "%1 മണിക്കൂർ"
+msgstr[1] "%1 മണിക്കൂറുകൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:128
+#, kde-format
+msgid "%1 minute"
+msgid_plural "%1 minutes"
+msgstr[0] "%1 മിനുട്ട്"
+msgstr[1] "%1 മിനുട്ടുകൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:148
+#, kde-format
+msgid "%1 second"
+msgid_plural "%1 seconds"
+msgstr[0] "%1 സെക്കൻ്റ്"
+msgstr[1] "%1 സെക്കൻ്റുകൾ"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:162
+#, kde-format
+msgid "Folders"
+msgstr "അറകള്‍"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:220
+#, kde-format
+msgid "Remove Folder"
+msgstr "അറ നീക്കം ചെയ്യുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:225
+#, kde-format
+msgid "Open Folder"
+msgstr "അറ തുറക്കുക"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:235
+#, kde-format
+msgid "There are no wallpaper locations configured"
+msgstr "പശ്ചാത്തലചിത്ര സ്ഥാനങ്ങളൊന്നും സജ്ജമാക്കിയിട്ടില്ല"
+
+#. +> trunk5 stable5 plasma5lts
+#: slideshowpackage/contents/ui/SlideshowComponent.qml:250
+#, kde-format
+msgid "Add Folder…"
+msgstr "അറ ചേര്‍ക്കുക…"
+
+#~ msgid "Add Folder..."
+#~ msgstr "അറ ചേര്‍ക്കുക..."
+
+#~ msgid "Get New Wallpapers..."
+#~ msgstr "പുതിയ പശ്ചാത്തലചിത്രങ്ങള്‍ ലഭിക്കുക..."
+
+#~ msgid "Add Image..."
+#~ msgstr "ചിത്രം ചേർക്കുക..."
+
+#~ msgctxt "<image> by <author>"
+#~ msgid "By %1"
+#~ msgstr "%1 യുടേത്"
+
+#~ msgid "Add Custom Wallpaper"
+#~ msgstr "ഇച്ഛാനുസൃത പശ്ചാത്തലചിത്രം ചേർക്കുക"
+
+#~ msgid "Remove wallpaper"
+#~ msgstr "പശ്ചാത്തലചിത്രം കളയുക"
+
+#~ msgid "%1 by %2"
+#~ msgstr "%1 %2 വക"

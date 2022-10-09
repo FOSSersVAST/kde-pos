@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: discover\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-17 09:24+0200\n"
+"POT-Creation-Date: 2022-08-25 09:07+0200\n"
 "PO-Revision-Date: 2021-09-26 16:02+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Malayalam <https://kde.smc.org.in/projects/discover/plasma-"
@@ -20,137 +20,131 @@ msgstr ""
 "X-Generator: Weblate 4.7.2\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:104
+#: notifier/DiscoverNotifier.cpp:144
 #, kde-format
 msgid "View Updates"
 msgstr "അപ്ഡേറ്റുകൾ കാണുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:194
+#: notifier/DiscoverNotifier.cpp:256
 #, kde-format
 msgid "Security updates available"
 msgstr "സുരക്ഷാ അപ്ഡേറ്റുകൾ ലഭ്യമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:196
+#: notifier/DiscoverNotifier.cpp:258
 #, kde-format
 msgid "Updates available"
 msgstr "അപ്ഡേറ്റുകൾ ലഭ്യമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:198
+#: notifier/DiscoverNotifier.cpp:260
 #, kde-format
 msgid "System up to date"
 msgstr "സിസ്റ്റം കാലികമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:200
+#: notifier/DiscoverNotifier.cpp:262
 #, kde-format
 msgid "Computer needs to restart"
 msgstr "കമ്പ്യൂട്ടർ പുനരാരംഭിക്കേണ്ടതുണ്ട്"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:202
+#: notifier/DiscoverNotifier.cpp:264
 #, kde-format
 msgid "Offline"
 msgstr "ഓഫ്‌ലൈൻ"
 
-#. +> trunk5 stable5
-#: notifier/DiscoverNotifier.cpp:204
+#. +> trunk5 stable5 plasma5lts
+#: notifier/DiscoverNotifier.cpp:266
 #, kde-format
 msgid "Applying unattended updates…"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:236
+#: notifier/DiscoverNotifier.cpp:300
 #, kde-format
 msgid "Restart is required"
 msgstr "പുനരാരംഭിക്കേണ്ടത് ആവശ്യമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:237
+#: notifier/DiscoverNotifier.cpp:301
 #, kde-format
 msgid "The system needs to be restarted for the updates to take effect."
 msgstr "അപ്ഡേറ്റുകൾ പ്രാബല്യത്തിൽ വരുന്നതിന് സിസ്റ്റം പുനരാരംഭിക്കേണ്ടതുണ്ട്."
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:243
+#: notifier/DiscoverNotifier.cpp:307
 #, kde-format
 msgctxt "@action:button"
 msgid "Restart"
 msgstr "പുനരാരംഭിക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:263
+#: notifier/DiscoverNotifier.cpp:327
 #, kde-format
 msgctxt "@action:button"
 msgid "Upgrade"
 msgstr "അപ്ഗ്രേഡ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:264
+#: notifier/DiscoverNotifier.cpp:328
 #, kde-format
 msgid "Upgrade available"
 msgstr "അപ്ഗ്രേഡ് ലഭ്യമാണ്"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/DiscoverNotifier.cpp:265
+#: notifier/DiscoverNotifier.cpp:329
 #, kde-format
 msgid "New version: %1"
 msgstr "പുതിയ പതിപ്പ്: %1"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/main.cpp:38
+#: notifier/main.cpp:39
 #, kde-format
 msgid "Discover Notifier"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/main.cpp:40
+#: notifier/main.cpp:41
 #, kde-format
 msgid "System update status notifier"
 msgstr ""
 
-#. +> trunk5 stable5
-#: notifier/main.cpp:42
-#, kde-format
-msgid "© 2010-2021 Plasma Development Team"
+#. +> trunk5 stable5 plasma5lts
+#: notifier/main.cpp:43
+#, fuzzy, kde-format
+msgid "© 2010-2022 Plasma Development Team"
 msgstr "© 2010-2021 പ്ലാസ്മ വികസന ടീം"
 
-#. +> plasma5lts
-#: notifier/main.cpp:52
-#, kde-format
-msgid "© 2010-2019 Plasma Development Team"
-msgstr "© 2010-2019 പ്ലാസ്മ വികസന ടീം"
-
 #. +> trunk5 stable5 plasma5lts
-#: notifier/main.cpp:46
+#: notifier/main.cpp:47
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "നിസരി കെ കെ"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/main.cpp:46
+#: notifier/main.cpp:47
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "nisarikoolath@gmail.com"
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/main.cpp:51
+#: notifier/main.cpp:52
 #, kde-format
 msgid "Replace an existing instance"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/main.cpp:53
+#: notifier/main.cpp:54
 #, kde-format
 msgid "Do not show the notifier"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: notifier/main.cpp:53
+#: notifier/main.cpp:54
 #, kde-format
 msgid "hidden"
 msgstr "മറച്ചിരിക്കുന്നു"
@@ -161,59 +155,50 @@ msgstr "മറച്ചിരിക്കുന്നു"
 msgid "Updates"
 msgstr "അപ്ഡേറ്റുകൾ"
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: notifier/NotifierItem.cpp:50
 #, kde-format
 msgid "Open Discover…"
 msgstr "ഡിസ്കവർ തുറക്കുക…"
 
-#. +> plasma5lts
-#: notifier/NotifierItem.cpp:61
-#, kde-format
-msgid "Open Discover..."
-msgstr "ഡിസ്കവർ തുറക്കുക..."
-
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: notifier/NotifierItem.cpp:55
 #, kde-format
 msgid "See Updates…"
 msgstr "അപ്ഡേറ്റുകൾ കാണുക…"
 
-#. +> plasma5lts
-#: notifier/NotifierItem.cpp:64
-#, kde-format
-msgid "See Updates..."
-msgstr "അപ്ഡേറ്റുകൾ കാണുക..."
-
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: notifier/NotifierItem.cpp:60
 #, kde-format
 msgid "Refresh…"
 msgstr "പുതുക്കുക…"
 
-#. +> plasma5lts
-#: notifier/NotifierItem.cpp:67
-#, kde-format
-msgid "Refresh..."
-msgstr "പുതുക്കുക..."
-
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: notifier/NotifierItem.cpp:64
 #, kde-format
 msgid "Restart to apply installed updates"
 msgstr "ഇൻസ്റ്റാൾ ചെയ്ത അപ്ഡേറ്റുകൾ പ്രയോഗിക്കാൻ പുനരാരംഭിക്കുക"
 
-#. +> trunk5 stable5
+#. +> trunk5 stable5 plasma5lts
 #: notifier/NotifierItem.cpp:65
 #, kde-format
 msgid "Click to restart the device"
 msgstr "ഉപകരണം പുനരാരംഭിക്കാൻ ക്ലിക്കുചെയ്യുക"
 
-#. +> plasma5lts
-#: notifier/NotifierItem.cpp:71
-#, kde-format
-msgid "Restart..."
-msgstr "പുനരാരംഭിക്കുക..."
+#~ msgid "© 2010-2019 Plasma Development Team"
+#~ msgstr "© 2010-2019 പ്ലാസ്മ വികസന ടീം"
+
+#~ msgid "Open Discover..."
+#~ msgstr "ഡിസ്കവർ തുറക്കുക..."
+
+#~ msgid "See Updates..."
+#~ msgstr "അപ്ഡേറ്റുകൾ കാണുക..."
+
+#~ msgid "Refresh..."
+#~ msgstr "പുതുക്കുക..."
+
+#~ msgid "Restart..."
+#~ msgstr "പുനരാരംഭിക്കുക..."
 
 #~ msgid "© 2010-2020 Plasma Development Team"
 #~ msgstr "© 2010-2010 പ്ലാസ്മ വികസന ടീം"

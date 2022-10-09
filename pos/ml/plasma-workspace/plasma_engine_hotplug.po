@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: plasma-workspace\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2022-05-24 10:44+0200\n"
 "PO-Revision-Date: 2020-11-25 19:53+0000\n"
 "Last-Translator: Vivek K J <vivekkj2004@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -27,7 +27,7 @@ msgid "Unknown"
 msgstr "അപരിചിതം"
 
 #. +> trunk5 stable5 plasma5lts
-#: hotplugjob.cpp:27
+#: hotplugjob.cpp:28
 #, kde-format
 msgctxt "error; %1 is the desktop file name of the service"
 msgid "Failed to resolve service action for %1."

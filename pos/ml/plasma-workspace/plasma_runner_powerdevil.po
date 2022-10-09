@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdebase\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-15 12:13+0200\n"
+"POT-Creation-Date: 2022-05-20 15:50+0200\n"
 "PO-Revision-Date: 2008-11-16 03:04+0730\n"
 "Last-Translator: Hari Vishnu <harivishnu@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -17,52 +17,45 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:33
+#: PowerDevilRunner.cpp:32
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "suspend"
 msgstr "മയങ്ങുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:35
+#: PowerDevilRunner.cpp:34
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "to ram"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:37
+#: PowerDevilRunner.cpp:36
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "sleep"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:39
+#: PowerDevilRunner.cpp:38
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "hibernate"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:41
+#: PowerDevilRunner.cpp:40
 #, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "to disk"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:43 PowerDevilRunner.cpp:45 PowerDevilRunner.cpp:68
+#: PowerDevilRunner.cpp:42 PowerDevilRunner.cpp:44 PowerDevilRunner.cpp:69
 #, fuzzy, kde-format
 msgctxt "Note this is a KRunner keyword"
 msgid "dim screen"
-msgstr "തിരശ്ശീലയുടെ വെളിച്ചം മുഴുവനും കുറയ്ക്കുക"
-
-#. +> plasma5lts
-#: PowerDevilRunner.cpp:150
-#, fuzzy, kde-format
-msgctxt "Note this is a KRunner keyword; %1 is a parameter"
-msgid "dim screen %1"
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം മുഴുവനും കുറയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
@@ -86,87 +79,93 @@ msgid "Suspends the system to disk"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:64
-#, kde-format
-msgctxt "Note this is a KRunner keyword"
-msgid "screen brightness"
-msgstr "തിരശ്ശീല വെളിച്ചം"
-
-#. +> plasma5lts
-#: PowerDevilRunner.cpp:148
+#: PowerDevilRunner.cpp:65
 #, fuzzy, kde-format
-msgctxt "Note this is a KRunner keyword; %1 is a parameter"
-msgid "screen brightness %1"
+msgctxt ""
+"Note this is a KRunner keyword, <> is a placeholder and should be at the end"
+msgid "screen brightness <percent value>"
 msgstr "തിരശ്ശീല വെളിച്ചം"
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:66
+#: PowerDevilRunner.cpp:67
 #, no-c-format, kde-format
 msgid ""
-"Lists screen brightness options or sets it to the brightness defined by :q:; "
-"e.g. screen brightness 50 would dim the screen to 50% maximum brightness"
+"Lists screen brightness options or sets it to the brightness defined by the "
+"search term; e.g. screen brightness 50 would dim the screen to 50% maximum "
+"brightness"
 msgstr ""
 
-#. +> trunk5 stable5
-#: PowerDevilRunner.cpp:94
+#. +> trunk5 stable5 plasma5lts
+#: PowerDevilRunner.cpp:95
 #, fuzzy, kde-format
 msgid "Set Brightness to %1%"
 msgstr "വെളിച്ചം '%1' ആക്കുക"
 
-#. +> plasma5lts
-#: PowerDevilRunner.cpp:161
-#, kde-format
-msgid "Set Brightness to %1"
-msgstr "വെളിച്ചം '%1' ആക്കുക"
-
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:103
+#: PowerDevilRunner.cpp:104
 #, kde-format
 msgid "Dim screen totally"
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം മുഴുവനും കുറയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:111
+#: PowerDevilRunner.cpp:112
 #, kde-format
 msgid "Dim screen by half"
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം പകുതി കുറയ്ക്കുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:141
+#: PowerDevilRunner.cpp:142
 #, kde-format
 msgctxt "Suspend to RAM"
 msgid "Sleep"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:142
+#: PowerDevilRunner.cpp:143
 #, fuzzy, kde-format
 msgid "Suspend to RAM"
 msgstr "മയങ്ങുക"
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:147
+#: PowerDevilRunner.cpp:148
 #, kde-format
 msgctxt "Suspend to disk"
 msgid "Hibernate"
 msgstr ""
 
 #. +> trunk5 stable5 plasma5lts
-#: PowerDevilRunner.cpp:148
+#: PowerDevilRunner.cpp:149
 #, fuzzy, kde-format
 msgid "Suspend to disk"
 msgstr "മയങ്ങുക"
 
-#. +> trunk5 stable5
-#: PowerDevilRunner.cpp:217
+#. +> trunk5 stable5 plasma5lts
+#: PowerDevilRunner.cpp:218
 #, fuzzy, kde-format
 msgctxt "Note this is a KRunner keyword, it should end with a space"
 msgid "screen brightness "
 msgstr "തിരശ്ശീല വെളിച്ചം"
 
-#. +> trunk5 stable5
-#: PowerDevilRunner.cpp:219
+#. +> trunk5 stable5 plasma5lts
+#: PowerDevilRunner.cpp:220
 #, fuzzy, kde-format
 msgctxt "Note this is a KRunner keyword, it should end with a space"
 msgid "dim screen "
 msgstr "തിരശ്ശീലയുടെ വെളിച്ചം മുഴുവനും കുറയ്ക്കുക"
+
+#, fuzzy
+#~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+#~ msgid "dim screen %1"
+#~ msgstr "തിരശ്ശീലയുടെ വെളിച്ചം മുഴുവനും കുറയ്ക്കുക"
+
+#~ msgctxt "Note this is a KRunner keyword"
+#~ msgid "screen brightness"
+#~ msgstr "തിരശ്ശീല വെളിച്ചം"
+
+#, fuzzy
+#~ msgctxt "Note this is a KRunner keyword; %1 is a parameter"
+#~ msgid "screen brightness %1"
+#~ msgstr "തിരശ്ശീല വെളിച്ചം"
+
+#~ msgid "Set Brightness to %1"
+#~ msgstr "വെളിച്ചം '%1' ആക്കുക"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop files\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-21 15:08+0200\n"
+"POT-Creation-Date: 2022-09-22 07:38+0200\n"
 "PO-Revision-Date: 2020-02-29 09:49+0000\n"
 "Last-Translator: Ranjith S <ranjith.sajeev@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -14,28 +14,28 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. +> trunk5 stable5
-#: src/dolphinpart.desktop.in:3
-msgctxt "Name"
-msgid "Dolphin View"
-msgstr "ഡോള്‍ഫിന്‍ അവതരണരീതി"
-
-#. +> trunk5 stable5
-#: src/dolphinpart.desktop.in:74
+#: src/dolphinpartactions.desktop:9
 msgctxt "Name"
 msgid "Icons"
 msgstr "സൂചനാചിത്രങ്ങള്‍"
 
 #. +> trunk5 stable5
-#: src/dolphinpart.desktop.in:132
+#: src/dolphinpartactions.desktop:70
 msgctxt "Name"
 msgid "Compact"
 msgstr "തിങ്ങിയത്"
 
 #. +> trunk5 stable5
-#: src/dolphinpart.desktop.in:189
+#: src/dolphinpartactions.desktop:130
 msgctxt "Name"
 msgid "Details"
 msgstr "വിശദമായി"
+
+#. +> stable5
+#: src/dolphinpart.desktop.in:3
+msgctxt "Name"
+msgid "Dolphin View"
+msgstr "ഡോള്‍ഫിന്‍ അവതരണരീതി"
 
 #. +> trunk5 stable5
 #: src/org.kde.dolphin.desktop:2
@@ -44,96 +44,75 @@ msgid "Dolphin"
 msgstr "ഡോള്‍ഫിന്‍"
 
 #. +> trunk5 stable5
-#: src/org.kde.dolphin.desktop:60
+#: src/org.kde.dolphin.desktop:63
 msgctxt "GenericName"
 msgid "File Manager"
 msgstr "ഫയല്‍ മാനേജര്‍"
 
 #. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:1
-msgctxt "Name"
-msgid "Dolphin General"
-msgstr "ഡോൾഫിൻ ജനറൽ"
+#: src/org.kde.dolphin.desktop:121
+msgctxt "Keywords"
+msgid ""
+"files;file management;file browsing;samba;network shares;Explorer;Finder;"
+msgstr ""
 
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:54
-msgctxt "Comment"
-msgid "This service allows configuration of general Dolphin settings."
-msgstr "പൊതുവായ ഡോള്‍ഫിന്‍ സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിക്കുന്നു."
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:115
-msgctxt "Name|Random file browsing settings."
-msgid "General"
-msgstr "പൊതുവായതു്"
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:167
-msgctxt "Comment"
-msgid "Configure general file manager settings"
-msgstr "ഫയൽ മാനേജറിന്റെ പൊതുവായ സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphingeneral.desktop:219
-#: src/settings/kcm/kcmdolphinnavigation.desktop:220
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:216
-msgctxt "X-KDE-Keywords"
-msgid "file manager"
-msgstr "ഫയൽ മാനേജർ"
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinnavigation.desktop:1
-msgctxt "Name"
-msgid "Dolphin Navigation"
-msgstr "ഡോള്‍ഫിന്‍ നാവിഗേഷന്‍"
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinnavigation.desktop:54
-msgctxt "Comment"
-msgid "This service allows configuration of the Dolphin navigation."
-msgstr "ഡോള്‍ഫിന്‍ നാവിഗേഷൻ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിയ്ക്കുന്നു."
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinnavigation.desktop:114
-msgctxt "Name"
-msgid "Navigation"
-msgstr "നാവിഗേഷന്‍"
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinnavigation.desktop:167
-msgctxt "Comment"
-msgid "Configure file manager navigation"
-msgstr "ഫയല്‍ മാനേജർ നാവിഗേഷൻ ക്രമീകരിയ്ക്കുക"
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:1
-msgctxt "Name"
-msgid "Dolphin View Modes"
-msgstr "ഡോള്‍ഫിന്‍ അവതരണദശകള്‍"
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:53
-msgctxt "Comment"
-msgid "This service allows configuration of the Dolphin view modes."
-msgstr "ഡോള്‍ഫിന്‍ അവതരണദശകള്‍ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിയ്ക്കുന്നു."
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:112
-msgctxt "Name"
-msgid "View Modes"
-msgstr "അവതരണ രീതികള്‍"
-
-#. +> trunk5 stable5
-#: src/settings/kcm/kcmdolphinviewmodes.desktop:164
-msgctxt "Comment"
-msgid "Configure file manager view modes"
-msgstr "ഫയല്‍ മാനേജറിന്റെ അവതരണ രീതികള്‍ ക്രമീകരിയ്ക്കുക"
-
-#. +> trunk5 stable5
+#. +> stable5
 #: src/views/versioncontrol/fileviewversioncontrolplugin.desktop:4
 msgctxt "Comment"
 msgid "Version Control Plugin for File Views"
 msgstr "ഫയൽ കാഴ്‌ചകൾക്കായുള്ള പതിപ്പ് നിയന്ത്രണ പ്ലഗിൻ"
+
+#~ msgctxt "Name"
+#~ msgid "Dolphin General"
+#~ msgstr "ഡോൾഫിൻ ജനറൽ"
+
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of general Dolphin settings."
+#~ msgstr "പൊതുവായ ഡോള്‍ഫിന്‍ സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിക്കുന്നു."
+
+#~ msgctxt "Name|Random file browsing settings."
+#~ msgid "General"
+#~ msgstr "പൊതുവായതു്"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure general file manager settings"
+#~ msgstr "ഫയൽ മാനേജറിന്റെ പൊതുവായ സജ്ജീകരണങ്ങള്‍ ക്രമീകരിയ്ക്കുക"
+
+#~ msgctxt "X-KDE-Keywords"
+#~ msgid "file manager"
+#~ msgstr "ഫയൽ മാനേജർ"
+
+#~ msgctxt "Name"
+#~ msgid "Dolphin Navigation"
+#~ msgstr "ഡോള്‍ഫിന്‍ നാവിഗേഷന്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of the Dolphin navigation."
+#~ msgstr "ഡോള്‍ഫിന്‍ നാവിഗേഷൻ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിയ്ക്കുന്നു."
+
+#~ msgctxt "Name"
+#~ msgid "Navigation"
+#~ msgstr "നാവിഗേഷന്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure file manager navigation"
+#~ msgstr "ഫയല്‍ മാനേജർ നാവിഗേഷൻ ക്രമീകരിയ്ക്കുക"
+
+#~ msgctxt "Name"
+#~ msgid "Dolphin View Modes"
+#~ msgstr "ഡോള്‍ഫിന്‍ അവതരണദശകള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "This service allows configuration of the Dolphin view modes."
+#~ msgstr "ഡോള്‍ഫിന്‍ അവതരണദശകള്‍ ക്രമീകരിയ്ക്കാന്‍ ഈ സേവനം അനുവദിയ്ക്കുന്നു."
+
+#~ msgctxt "Name"
+#~ msgid "View Modes"
+#~ msgstr "അവതരണ രീതികള്‍"
+
+#~ msgctxt "Comment"
+#~ msgid "Configure file manager view modes"
+#~ msgstr "ഫയല്‍ മാനേജറിന്റെ അവതരണ രീതികള്‍ ക്രമീകരിയ്ക്കുക"
 
 #~ msgctxt "Name"
 #~ msgid "Dolphin Services"

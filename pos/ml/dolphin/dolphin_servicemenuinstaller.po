@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dolphin\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-12-16 08:45+0100\n"
+"POT-Creation-Date: 2022-04-02 11:16+0200\n"
 "PO-Revision-Date: 2020-02-02 13:49+0000\n"
 "Last-Translator: Subin Siby <subins2000@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc."
@@ -111,63 +111,63 @@ msgid "Failed to copy .desktop file %1 to %2: %3"
 msgstr ".desktop ഫയൽ %1 ല്‍ നിന്നും %2 വരെ പകർത്തുന്നതിൽ പരാജയപ്പെട്ടു: %3"
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:310 servicemenuinstaller.cpp:420
+#: servicemenuinstaller.cpp:312 servicemenuinstaller.cpp:422
 #, kde-format
 msgid "Failed to remove directory %1"
 msgstr "%1 അറ നീക്കംചെയ്യുന്നത് പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:316
+#: servicemenuinstaller.cpp:318
 #, kde-format
 msgid "Failed to create directory %1"
 msgstr "%1 അറ സൃഷ്ടിക്കുന്നത് പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:355
+#: servicemenuinstaller.cpp:357
 #, kde-format
 msgid "Failed to find an installation script in %1"
 msgstr "%1 ൽ ഒരു ഇൻസ്റ്റാളേഷൻ സ്ക്രിപ്റ്റ് കണ്ടെത്തുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:369
+#: servicemenuinstaller.cpp:371
 #, kde-format
 msgid "Failed to remove .desktop file %1: %2"
 msgstr "%1 .desktop ഫയൽ നീക്കംചെയ്യുന്നത് പരാജയപ്പെട്ടു : %2"
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:414
+#: servicemenuinstaller.cpp:416
 #, kde-format
 msgid "Failed to find an uninstallation script in %1"
 msgstr "%1 ൽ അൺ‌ഇൻ‌സ്റ്റാളേഷൻ‌ സ്ക്രിപ്റ്റ് കണ്ടെത്തുന്നതിൽ പരാജയപ്പെട്ടു"
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:433
+#: servicemenuinstaller.cpp:435
 #, kde-format
 msgctxt "@info:shell"
 msgid "Command to execute: install or uninstall."
 msgstr "എക്സിക്യൂട്ട് ചെയ്യാനുള്ള കമാൻഡ്: ഇൻസ്റ്റാൾ ചെയ്യുക അല്ലെങ്കിൽ അൺഇൻസ്റ്റാൾ ചെയ്യുക."
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:434
+#: servicemenuinstaller.cpp:436
 #, kde-format
 msgctxt "@info:shell"
 msgid "Path to archive."
 msgstr "ആർക്കൈവിലേക്കുള്ള പാത."
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:439
+#: servicemenuinstaller.cpp:441
 #, kde-format
 msgid "Command is required."
 msgstr "കമാൻഡ് ആവശ്യമാണ്."
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:442
+#: servicemenuinstaller.cpp:444
 #, kde-format
 msgid "Path to archive is required."
 msgstr "ആര്‍ക്കൈവിലേക്കുള്ള പാത ആവശ്യമാണ്."
 
 #. +> trunk5 stable5
-#: servicemenuinstaller.cpp:458
+#: servicemenuinstaller.cpp:460
 #, kde-format
 msgid "Unsupported command %1"
 msgstr "പിന്തുണയ്‌ക്കാത്ത കമാൻഡ് %1"
